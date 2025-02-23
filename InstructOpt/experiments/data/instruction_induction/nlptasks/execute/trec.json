@@ -1,0 +1,807 @@
+{
+    "metadata": {
+        "num_examples": 200
+    },
+    "examples": {
+        "1": {
+            "input": "The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?",
+            "output": "Entity"
+        },
+        "2": {
+            "input": "What is pilates ?",
+            "output": "Abbreviation"
+        },
+        "3": {
+            "input": "What is the chunnel ?",
+            "output": "Abbreviation"
+        },
+        "4": {
+            "input": "What breed of hunting dog did the Beverly Hillbillies own ?",
+            "output": "Entity"
+        },
+        "5": {
+            "input": "What is New York 's state bird ?",
+            "output": "Entity"
+        },
+        "6": {
+            "input": "What is the life expectancy for crickets ?",
+            "output": "Location"
+        },
+        "7": {
+            "input": "Who was the first U.S. president to appear on TV ?",
+            "output": "Human being"
+        },
+        "8": {
+            "input": "In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?",
+            "output": "Entity"
+        },
+        "9": {
+            "input": "What state is the geographic center of the lower 48 states ?",
+            "output": "Numeric value"
+        },
+        "10": {
+            "input": "When was Algeria colonized ?",
+            "output": "Location"
+        },
+        "11": {
+            "input": "What is Valentine 's Day ?",
+            "output": "Abbreviation"
+        },
+        "12": {
+            "input": "Who is the tallest man in the world ?",
+            "output": "Human being"
+        },
+        "13": {
+            "input": "Who invented the instant Polaroid camera ?",
+            "output": "Human being"
+        },
+        "14": {
+            "input": "What is strep throat ?",
+            "output": "Abbreviation"
+        },
+        "15": {
+            "input": "How fast is alcohol absorbed ?",
+            "output": "Location"
+        },
+        "16": {
+            "input": "What is the Milky Way ?",
+            "output": "Abbreviation"
+        },
+        "17": {
+            "input": "What are solar cells ?",
+            "output": "Abbreviation"
+        },
+        "18": {
+            "input": "Who wrote `` The Divine Comedy '' ?",
+            "output": "Human being"
+        },
+        "19": {
+            "input": "What baseball team was the first to make numbers part of their uniform ?",
+            "output": "Human being"
+        },
+        "20": {
+            "input": "How far is the service line from the net in tennis ?",
+            "output": "Location"
+        },
+        "21": {
+            "input": "Where is the volcano Olympus Mons located ?",
+            "output": "Numeric value"
+        },
+        "22": {
+            "input": "What color does litmus paper turn when it comes into contact with a strong acid ?",
+            "output": "Entity"
+        },
+        "23": {
+            "input": "What French province is cognac produced in ?",
+            "output": "Numeric value"
+        },
+        "24": {
+            "input": "When were William Shakespeare 's twins born ?",
+            "output": "Location"
+        },
+        "25": {
+            "input": "What is a group of turkeys called ?",
+            "output": "Entity"
+        },
+        "26": {
+            "input": "What does the abbreviation SOS mean ?",
+            "output": "Description and abstract concept"
+        },
+        "27": {
+            "input": "What is a biosphere ?",
+            "output": "Abbreviation"
+        },
+        "28": {
+            "input": "What are the colors of the German flag ?",
+            "output": "Entity"
+        },
+        "29": {
+            "input": "Mercury , what year was it discovered ?",
+            "output": "Location"
+        },
+        "30": {
+            "input": "How many gallons of water are there in a cubic foot ?",
+            "output": "Location"
+        },
+        "31": {
+            "input": "What are enzymes ?",
+            "output": "Abbreviation"
+        },
+        "32": {
+            "input": "What was the last year that the Chicago Cubs won the World Series ?",
+            "output": "Location"
+        },
+        "33": {
+            "input": "What is the earth 's diameter ?",
+            "output": "Location"
+        },
+        "34": {
+            "input": "What is the distance in miles from the earth to the sun ?",
+            "output": "Location"
+        },
+        "35": {
+            "input": "Name a food high in zinc .",
+            "output": "Entity"
+        },
+        "36": {
+            "input": "What 's the easiest way to remove wallpaper ?",
+            "output": "Entity"
+        },
+        "37": {
+            "input": "Where is the Eiffel Tower ?",
+            "output": "Numeric value"
+        },
+        "38": {
+            "input": "What is the most popular sport in Japan ?",
+            "output": "Entity"
+        },
+        "39": {
+            "input": "What is Maryland 's state bird ?",
+            "output": "Entity"
+        },
+        "40": {
+            "input": "What is the location of the Sea of Tranquility ?",
+            "output": "Numeric value"
+        },
+        "41": {
+            "input": "What is TMJ ?",
+            "output": "Description and abstract concept"
+        },
+        "42": {
+            "input": "How long did Rip Van Winkle sleep ?",
+            "output": "Location"
+        },
+        "43": {
+            "input": "What does the acronym NASA stand for ?",
+            "output": "Description and abstract concept"
+        },
+        "44": {
+            "input": "What year was the Mona Lisa painted ?",
+            "output": "Location"
+        },
+        "45": {
+            "input": "What type of currency is used in Australia ?",
+            "output": "Entity"
+        },
+        "46": {
+            "input": "What county is Modesto , California in ?",
+            "output": "Numeric value"
+        },
+        "47": {
+            "input": "What New York City structure is also known as the Twin Towers ?",
+            "output": "Numeric value"
+        },
+        "48": {
+            "input": "What does the technical term ISDN mean ?",
+            "output": "Description and abstract concept"
+        },
+        "49": {
+            "input": "Who is the congressman from state of Texas on the armed forces committee ?",
+            "output": "Human being"
+        },
+        "50": {
+            "input": "How do you measure earthquakes ?",
+            "output": "Abbreviation"
+        },
+        "51": {
+            "input": "How often does Old Faithful erupt at Yellowstone National Park ?",
+            "output": "Location"
+        },
+        "52": {
+            "input": "What year did the Milwaukee Braves become the Atlanta Braves ?",
+            "output": "Location"
+        },
+        "53": {
+            "input": "Who is the only president to serve 2 non-consecutive terms ?",
+            "output": "Human being"
+        },
+        "54": {
+            "input": "What is poliomyelitis ?",
+            "output": "Abbreviation"
+        },
+        "55": {
+            "input": "What does target heart rate mean ?",
+            "output": "Abbreviation"
+        },
+        "56": {
+            "input": "What is the average weight of a Yellow Labrador ?",
+            "output": "Location"
+        },
+        "57": {
+            "input": "What is the conversion rate between dollars and pounds ?",
+            "output": "Location"
+        },
+        "58": {
+            "input": "What is supernova ?",
+            "output": "Abbreviation"
+        },
+        "59": {
+            "input": "Which mountain range in North America stretches from Maine to Georgia ?",
+            "output": "Numeric value"
+        },
+        "60": {
+            "input": "What is the murder rate in Windsor , Ontario ?",
+            "output": "Location"
+        },
+        "61": {
+            "input": "How much does the human adult female brain weigh ?",
+            "output": "Location"
+        },
+        "62": {
+            "input": "What is viscosity ?",
+            "output": "Abbreviation"
+        },
+        "63": {
+            "input": "Who lived in the Neuschwanstein castle ?",
+            "output": "Human being"
+        },
+        "64": {
+            "input": "What monastery was raided by Vikings in the late eighth century ?",
+            "output": "Entity"
+        },
+        "65": {
+            "input": "What year did the NFL go on strike ?",
+            "output": "Location"
+        },
+        "66": {
+            "input": "What currency is used in Algeria ?",
+            "output": "Entity"
+        },
+        "67": {
+            "input": "What city had a world fair in 1900 ?",
+            "output": "Numeric value"
+        },
+        "68": {
+            "input": "What is compounded interest ?",
+            "output": "Abbreviation"
+        },
+        "69": {
+            "input": "What is the difference between AM radio stations and FM radio stations ?",
+            "output": "Abbreviation"
+        },
+        "70": {
+            "input": "What is the pH scale ?",
+            "output": "Abbreviation"
+        },
+        "71": {
+            "input": "Where are the National Archives ?",
+            "output": "Numeric value"
+        },
+        "72": {
+            "input": "Who was Abraham Lincoln ?",
+            "output": "Human being"
+        },
+        "73": {
+            "input": "How much does water weigh ?",
+            "output": "Location"
+        },
+        "74": {
+            "input": "What river runs through Rowe , Italy ?",
+            "output": "Numeric value"
+        },
+        "75": {
+            "input": "What U.S. state 's motto is `` Live free or Die '' ?",
+            "output": "Numeric value"
+        },
+        "76": {
+            "input": "What is the only artery that carries blue blood from the heart to the lungs ?",
+            "output": "Entity"
+        },
+        "77": {
+            "input": "How old was Joan of Arc when she died ?",
+            "output": "Location"
+        },
+        "78": {
+            "input": "What is neurology ?",
+            "output": "Abbreviation"
+        },
+        "79": {
+            "input": "What is bio-diversity ?",
+            "output": "Abbreviation"
+        },
+        "80": {
+            "input": "What is hybridization ?",
+            "output": "Abbreviation"
+        },
+        "81": {
+            "input": "What does USPS stand for ?",
+            "output": "Description and abstract concept"
+        },
+        "82": {
+            "input": "What is sonar ?",
+            "output": "Abbreviation"
+        },
+        "83": {
+            "input": "What currency does Argentina use ?",
+            "output": "Entity"
+        },
+        "84": {
+            "input": "What is influenza ?",
+            "output": "Abbreviation"
+        },
+        "85": {
+            "input": "What is mold ?",
+            "output": "Abbreviation"
+        },
+        "86": {
+            "input": "Why is the sun yellow ?",
+            "output": "Abbreviation"
+        },
+        "87": {
+            "input": "What are Canada 's two territories ?",
+            "output": "Numeric value"
+        },
+        "88": {
+            "input": "What is nanotechnology ?",
+            "output": "Abbreviation"
+        },
+        "89": {
+            "input": "What year did the Andy Griffith show begin ?",
+            "output": "Location"
+        },
+        "90": {
+            "input": "What is done with worn or outdated flags ?",
+            "output": "Abbreviation"
+        },
+        "91": {
+            "input": "What is ozone depletion ?",
+            "output": "Abbreviation"
+        },
+        "92": {
+            "input": "When is Father 's Day ?",
+            "output": "Location"
+        },
+        "93": {
+            "input": "What is an annuity ?",
+            "output": "Abbreviation"
+        },
+        "94": {
+            "input": "What is the name of the satellite that the Soviet Union sent into space in 1957 ?",
+            "output": "Entity"
+        },
+        "95": {
+            "input": "How far is Pluto from the sun ?",
+            "output": "Location"
+        },
+        "96": {
+            "input": "What are pathogens ?",
+            "output": "Abbreviation"
+        },
+        "97": {
+            "input": "When did Elvis Presley die ?",
+            "output": "Location"
+        },
+        "98": {
+            "input": "Who invented Trivial Pursuit ?",
+            "output": "Human being"
+        },
+        "99": {
+            "input": "What is the oldest city in the United States ?",
+            "output": "Numeric value"
+        },
+        "100": {
+            "input": "What does a defibrillator do ?",
+            "output": "Abbreviation"
+        },
+        "101": {
+            "input": "What is the Ohio state bird ?",
+            "output": "Entity"
+        },
+        "102": {
+            "input": "What is semolina ?",
+            "output": "Abbreviation"
+        },
+        "103": {
+            "input": "How much was a ticket for the Titanic ?",
+            "output": "Location"
+        },
+        "104": {
+            "input": "What type of polymer is used for bulletproof vests ?",
+            "output": "Entity"
+        },
+        "105": {
+            "input": "George Bush purchased a small interest in which baseball team ?",
+            "output": "Human being"
+        },
+        "106": {
+            "input": "What is the capital of Zimbabwe ?",
+            "output": "Numeric value"
+        },
+        "107": {
+            "input": "What is the name of Neil Armstrong 's wife ?",
+            "output": "Human being"
+        },
+        "108": {
+            "input": "In Poland , where do most people live ?",
+            "output": "Numeric value"
+        },
+        "109": {
+            "input": "What color is a giraffe 's tongue ?",
+            "output": "Entity"
+        },
+        "110": {
+            "input": "What continent is Egypt on ?",
+            "output": "Numeric value"
+        },
+        "111": {
+            "input": "What is osteoporosis ?",
+            "output": "Abbreviation"
+        },
+        "112": {
+            "input": "What is Australia 's national flower ?",
+            "output": "Entity"
+        },
+        "113": {
+            "input": "Who wrote the hymn `` Amazing Grace '' ?",
+            "output": "Human being"
+        },
+        "114": {
+            "input": "Why does the moon turn orange ?",
+            "output": "Abbreviation"
+        },
+        "115": {
+            "input": "What is Susan B. Anthony 's birthday ?",
+            "output": "Location"
+        },
+        "116": {
+            "input": "Where are the British crown jewels kept ?",
+            "output": "Numeric value"
+        },
+        "117": {
+            "input": "When did North Carolina enter the union ?",
+            "output": "Location"
+        },
+        "118": {
+            "input": "Where is Hitler buried ?",
+            "output": "Numeric value"
+        },
+        "119": {
+            "input": "What year did the United States abolish the draft ?",
+            "output": "Location"
+        },
+        "120": {
+            "input": "Where did Howard Hughes die ?",
+            "output": "Numeric value"
+        },
+        "121": {
+            "input": "What is bangers and mash ?",
+            "output": "Abbreviation"
+        },
+        "122": {
+            "input": "What is the name of the chocolate company in San Francisco ?",
+            "output": "Human being"
+        },
+        "123": {
+            "input": "What is foreclosure ?",
+            "output": "Abbreviation"
+        },
+        "124": {
+            "input": "What is the elevation of St. Louis , MO ?",
+            "output": "Location"
+        },
+        "125": {
+            "input": "What does NASA stand for ?",
+            "output": "Description and abstract concept"
+        },
+        "126": {
+            "input": "How fast is sound ?",
+            "output": "Location"
+        },
+        "127": {
+            "input": "What is the speed hummingbirds fly ?",
+            "output": "Location"
+        },
+        "128": {
+            "input": "What is carbon dioxide ?",
+            "output": "Abbreviation"
+        },
+        "129": {
+            "input": "What is a carcinogen ?",
+            "output": "Abbreviation"
+        },
+        "130": {
+            "input": "What are cigarettes made of ?",
+            "output": "Entity"
+        },
+        "131": {
+            "input": "What is cerebral palsy ?",
+            "output": "Abbreviation"
+        },
+        "132": {
+            "input": "Who invented the telephone ?",
+            "output": "Human being"
+        },
+        "133": {
+            "input": "How old do you have to be in order to rent a car in Italy ?",
+            "output": "Location"
+        },
+        "134": {
+            "input": "What does cc in engines mean ?",
+            "output": "Abbreviation"
+        },
+        "135": {
+            "input": "What do you call a professional map drawer ?",
+            "output": "Entity"
+        },
+        "136": {
+            "input": "What is pectin ?",
+            "output": "Abbreviation"
+        },
+        "137": {
+            "input": "What is schizophrenia ?",
+            "output": "Abbreviation"
+        },
+        "138": {
+            "input": "Where was the first golf course in the United States ?",
+            "output": "Numeric value"
+        },
+        "139": {
+            "input": "When was Thomas Jefferson born ?",
+            "output": "Location"
+        },
+        "140": {
+            "input": "What French ruler was defeated at the battle of Waterloo ?",
+            "output": "Human being"
+        },
+        "141": {
+            "input": "What is relative humidity ?",
+            "output": "Abbreviation"
+        },
+        "142": {
+            "input": "Which comedian 's signature line is `` Can we talk '' ?",
+            "output": "Human being"
+        },
+        "143": {
+            "input": "Where is the Mall of the America ?",
+            "output": "Numeric value"
+        },
+        "144": {
+            "input": "What is caffeine ?",
+            "output": "Abbreviation"
+        },
+        "145": {
+            "input": "What is the source of natural gas ?",
+            "output": "Entity"
+        },
+        "146": {
+            "input": "When did Hawaii become a state ?",
+            "output": "Location"
+        },
+        "147": {
+            "input": "What are the two types of twins ?",
+            "output": "Entity"
+        },
+        "148": {
+            "input": "What year was Mozart born ?",
+            "output": "Location"
+        },
+        "149": {
+            "input": "What is the longest suspension bridge in the U.S. ?",
+            "output": "Numeric value"
+        },
+        "150": {
+            "input": "How tall is the Sears Building ?",
+            "output": "Location"
+        },
+        "151": {
+            "input": "What is the name of Roy Roger 's dog ?",
+            "output": "Entity"
+        },
+        "152": {
+            "input": "Who was the first US President to ride in an automobile to his inauguration ?",
+            "output": "Human being"
+        },
+        "153": {
+            "input": "What is the major fault line near Kentucky ?",
+            "output": "Entity"
+        },
+        "154": {
+            "input": "What year did the Titanic start on its journey ?",
+            "output": "Location"
+        },
+        "155": {
+            "input": "What is an eclipse ?",
+            "output": "Abbreviation"
+        },
+        "156": {
+            "input": "What river in the US is known as the Big Muddy ?",
+            "output": "Numeric value"
+        },
+        "157": {
+            "input": "What day and month did John Lennon die ?",
+            "output": "Location"
+        },
+        "158": {
+            "input": "Who was the first American to walk in space ?",
+            "output": "Human being"
+        },
+        "159": {
+            "input": "What birthstone is turquoise ?",
+            "output": "Entity"
+        },
+        "160": {
+            "input": "When did Idaho become a state ?",
+            "output": "Location"
+        },
+        "161": {
+            "input": "What is the abbreviation for Texas ?",
+            "output": "Description and abstract concept"
+        },
+        "162": {
+            "input": "What is plastic made of ?",
+            "output": "Entity"
+        },
+        "163": {
+            "input": "What state did the Battle of Bighorn take place in ?",
+            "output": "Numeric value"
+        },
+        "164": {
+            "input": "Who was the first vice president of the U.S. ?",
+            "output": "Human being"
+        },
+        "165": {
+            "input": "What is the name of the leader of Ireland ?",
+            "output": "Human being"
+        },
+        "166": {
+            "input": "When was the first liver transplant ?",
+            "output": "Location"
+        },
+        "167": {
+            "input": "What is the heaviest naturally occurring element ?",
+            "output": "Entity"
+        },
+        "168": {
+            "input": "What is solar wind ?",
+            "output": "Abbreviation"
+        },
+        "169": {
+            "input": "What is e-coli ?",
+            "output": "Abbreviation"
+        },
+        "170": {
+            "input": "What is an antigen ?",
+            "output": "Abbreviation"
+        },
+        "171": {
+            "input": "When was the telephone invented ?",
+            "output": "Location"
+        },
+        "172": {
+            "input": "What is an obtuse angle ?",
+            "output": "Abbreviation"
+        },
+        "173": {
+            "input": "What color are crickets ?",
+            "output": "Entity"
+        },
+        "174": {
+            "input": "What is acetic acid ?",
+            "output": "Abbreviation"
+        },
+        "175": {
+            "input": "What is the money they use in Zambia ?",
+            "output": "Entity"
+        },
+        "176": {
+            "input": "Who was the 23rd president of the United States ?",
+            "output": "Human being"
+        },
+        "177": {
+            "input": "What is the brightest star ?",
+            "output": "Numeric value"
+        },
+        "178": {
+            "input": "Who discovered x-rays ?",
+            "output": "Human being"
+        },
+        "179": {
+            "input": "Who was the first woman killed in the Vietnam War ?",
+            "output": "Human being"
+        },
+        "180": {
+            "input": "What is the active ingredient in baking soda ?",
+            "output": "Entity"
+        },
+        "181": {
+            "input": "What is a group of frogs called ?",
+            "output": "Entity"
+        },
+        "182": {
+            "input": "What is another astronomic term for the Northern Lights ?",
+            "output": "Entity"
+        },
+        "183": {
+            "input": "The sun 's core , what is the temperature ?",
+            "output": "Location"
+        },
+        "184": {
+            "input": "What precious stone is a form of pure carbon ?",
+            "output": "Entity"
+        },
+        "185": {
+            "input": "What do bats eat ?",
+            "output": "Entity"
+        },
+        "186": {
+            "input": "What is the population of Australia ?",
+            "output": "Location"
+        },
+        "187": {
+            "input": "Where is the tallest roller coaster located ?",
+            "output": "Numeric value"
+        },
+        "188": {
+            "input": "What is the smallest bird in Britain ?",
+            "output": "Entity"
+        },
+        "189": {
+            "input": "What is diabetes ?",
+            "output": "Abbreviation"
+        },
+        "190": {
+            "input": "What country did Ponce de Leon come from ?",
+            "output": "Numeric value"
+        },
+        "191": {
+            "input": "How many hearts does an octopus have ?",
+            "output": "Location"
+        },
+        "192": {
+            "input": "What colors need to be mixed to get the color pink ?",
+            "output": "Entity"
+        },
+        "193": {
+            "input": "What year did Canada join the United Nations ?",
+            "output": "Location"
+        },
+        "194": {
+            "input": "What does a barometer measure ?",
+            "output": "Entity"
+        },
+        "195": {
+            "input": "What is angiotensin ?",
+            "output": "Abbreviation"
+        },
+        "196": {
+            "input": "Who is the governor of Alaska ?",
+            "output": "Human being"
+        },
+        "197": {
+            "input": "What is die-casting ?",
+            "output": "Abbreviation"
+        },
+        "198": {
+            "input": "What is the temperature of the sun 's surface ?",
+            "output": "Location"
+        },
+        "199": {
+            "input": "What is epilepsy ?",
+            "output": "Abbreviation"
+        },
+        "200": {
+            "input": "What was the most popular toy in 1957 ?",
+            "output": "Entity"
+        }
+    }
+}

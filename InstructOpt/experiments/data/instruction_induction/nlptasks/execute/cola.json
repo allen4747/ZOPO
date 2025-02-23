@@ -1,0 +1,807 @@
+{
+    "metadata": {
+        "num_examples": 200
+    },
+    "examples": {
+        "1": {
+            "input": "Which boy's, mother, did you meet?",
+            "output": "acceptable"
+        },
+        "2": {
+            "input": "They realised that never had Sir Thomas been so offended.",
+            "output": "acceptable"
+        },
+        "3": {
+            "input": "They were going to meet sometime on Sunday, but the faculty didn't know when.",
+            "output": "acceptable"
+        },
+        "4": {
+            "input": "If the ants were called elephants and elephants ants, I'd be able to squash an elephant.",
+            "output": "acceptable"
+        },
+        "5": {
+            "input": "Our friends like us.",
+            "output": "acceptable"
+        },
+        "6": {
+            "input": "John tried to please Stephen.",
+            "output": "acceptable"
+        },
+        "7": {
+            "input": "Harriet admired Mr Knightley.",
+            "output": "acceptable"
+        },
+        "8": {
+            "input": "John and someone were dancing together, but I don't know who.",
+            "output": "unacceptable"
+        },
+        "9": {
+            "input": "Simon quickly dropped the gold, and Jack the diamonds.",
+            "output": "acceptable"
+        },
+        "10": {
+            "input": "I'll work on it if Sam will be working on it.",
+            "output": "acceptable"
+        },
+        "11": {
+            "input": "Bill wondered how many papers Sandy had read, but he didn't care which ones.",
+            "output": "acceptable"
+        },
+        "12": {
+            "input": "Which experts testified against defendants who exposed them?",
+            "output": "acceptable"
+        },
+        "13": {
+            "input": "Some people yell at dogs.",
+            "output": "acceptable"
+        },
+        "14": {
+            "input": "She knew French for Tom.",
+            "output": "unacceptable"
+        },
+        "15": {
+            "input": "Bill's wine from France and Ted's from California cannot be compared.",
+            "output": "acceptable"
+        },
+        "16": {
+            "input": "A letter was received Jones would be upset by.",
+            "output": "unacceptable"
+        },
+        "17": {
+            "input": "That dogs bark annoys people.",
+            "output": "acceptable"
+        },
+        "18": {
+            "input": "Fanny regretted having to talk to Aunt Norris.",
+            "output": "acceptable"
+        },
+        "19": {
+            "input": "This dye will run.",
+            "output": "acceptable"
+        },
+        "20": {
+            "input": "The committee knows whose efforts to achieve peace the world should honor.",
+            "output": "acceptable"
+        },
+        "21": {
+            "input": "Give me the phone number of the person whose mother's dog died.",
+            "output": "acceptable"
+        },
+        "22": {
+            "input": "John ate dinner but I don't know who.",
+            "output": "unacceptable"
+        },
+        "23": {
+            "input": "Medea denied poisoning the phoenix.",
+            "output": "acceptable"
+        },
+        "24": {
+            "input": "We put the pigs in a pen.",
+            "output": "acceptable"
+        },
+        "25": {
+            "input": "Bill's story about Sue and Max's about Kathy both amazed me.",
+            "output": "acceptable"
+        },
+        "26": {
+            "input": "The weights made the rope stretch over the pulley.",
+            "output": "acceptable"
+        },
+        "27": {
+            "input": "Bob tried to wash himself, and Mary to read the funnies.",
+            "output": "acceptable"
+        },
+        "28": {
+            "input": "We want John to win.",
+            "output": "acceptable"
+        },
+        "29": {
+            "input": "The only person whose kids Dana is willing to put up with was written by John.",
+            "output": "unacceptable"
+        },
+        "30": {
+            "input": "The tub leaked water.",
+            "output": "acceptable"
+        },
+        "31": {
+            "input": "Kim put in the box.",
+            "output": "unacceptable"
+        },
+        "32": {
+            "input": "You wanted to meet the man I saw.",
+            "output": "acceptable"
+        },
+        "33": {
+            "input": "My heart is pounding me.",
+            "output": "unacceptable"
+        },
+        "34": {
+            "input": "A large dog chased a small cat.",
+            "output": "acceptable"
+        },
+        "35": {
+            "input": "The police sprayed water on the protesters.",
+            "output": "acceptable"
+        },
+        "36": {
+            "input": "John believes it sincerely that Bill is here.",
+            "output": "unacceptable"
+        },
+        "37": {
+            "input": "I wonder in whom to place my trust.",
+            "output": "acceptable"
+        },
+        "38": {
+            "input": "He could not] have been working.",
+            "output": "acceptable"
+        },
+        "39": {
+            "input": "Tom will smoke the grass, and Reuben has the hash.",
+            "output": "unacceptable"
+        },
+        "40": {
+            "input": "John became deadly afraid of flying.",
+            "output": "acceptable"
+        },
+        "41": {
+            "input": "Gould's performance of Bach on the piano doesn't please me anywhere as much as Ross's on the harpsichord.",
+            "output": "unacceptable"
+        },
+        "42": {
+            "input": "The teacher became angry with the students.",
+            "output": "acceptable"
+        },
+        "43": {
+            "input": "In which car was the man seen?",
+            "output": "acceptable"
+        },
+        "44": {
+            "input": "Kim is eager to please Tom.",
+            "output": "acceptable"
+        },
+        "45": {
+            "input": "Ellen said about the present conditions.",
+            "output": "unacceptable"
+        },
+        "46": {
+            "input": "Where did you go and who ate what?",
+            "output": "acceptable"
+        },
+        "47": {
+            "input": "Which king did you ask which city invaded?",
+            "output": "unacceptable"
+        },
+        "48": {
+            "input": "John is easy to please Kim.",
+            "output": "unacceptable"
+        },
+        "49": {
+            "input": "Chris was handed a note.",
+            "output": "acceptable"
+        },
+        "50": {
+            "input": "Jason persuaded the doctor to treat Medea",
+            "output": "acceptable"
+        },
+        "51": {
+            "input": "The mayor regarded as being absurd the proposal to build a sidewalk from Dartmouth to Smith.",
+            "output": "unacceptable"
+        },
+        "52": {
+            "input": "It was the peasant girl who got it.",
+            "output": "acceptable"
+        },
+        "53": {
+            "input": "Paul laughed at Mary.",
+            "output": "acceptable"
+        },
+        "54": {
+            "input": "The more pictures of him that appear in the news, the more embarrassed John becomes.",
+            "output": "acceptable"
+        },
+        "55": {
+            "input": "Every senator seems to become more corrupt, as he talks to more lobbyists.",
+            "output": "acceptable"
+        },
+        "56": {
+            "input": "That banana is eating the monkey.",
+            "output": "acceptable"
+        },
+        "57": {
+            "input": "The correspondence school sent Bill a good typist.",
+            "output": "acceptable"
+        },
+        "58": {
+            "input": "to die is no fun.",
+            "output": "acceptable"
+        },
+        "59": {
+            "input": "John's drum will always bother me.",
+            "output": "acceptable"
+        },
+        "60": {
+            "input": "So fast did he run that nobody could catch him.",
+            "output": "acceptable"
+        },
+        "61": {
+            "input": "John regretted it that Bill had a good time.",
+            "output": "acceptable"
+        },
+        "62": {
+            "input": "John made Bill master of himself.",
+            "output": "acceptable"
+        },
+        "63": {
+            "input": "The children amused.",
+            "output": "unacceptable"
+        },
+        "64": {
+            "input": "John was believed to be telling the truth by Mary.",
+            "output": "acceptable"
+        },
+        "65": {
+            "input": "The visitor rang the bell.",
+            "output": "acceptable"
+        },
+        "66": {
+            "input": "John regards Bill as a good friend.",
+            "output": "acceptable"
+        },
+        "67": {
+            "input": "The monkey is ate the banana",
+            "output": "unacceptable"
+        },
+        "68": {
+            "input": "Mary revealed himself to John.",
+            "output": "unacceptable"
+        },
+        "69": {
+            "input": "Sylvia was slapping Jeff upside the head in martial arts class.",
+            "output": "acceptable"
+        },
+        "70": {
+            "input": "Us love they.",
+            "output": "unacceptable"
+        },
+        "71": {
+            "input": "Few dog barked.",
+            "output": "unacceptable"
+        },
+        "72": {
+            "input": "Susan frightens her.",
+            "output": "acceptable"
+        },
+        "73": {
+            "input": "We found your letter to ourselves in the trash.",
+            "output": "unacceptable"
+        },
+        "74": {
+            "input": "the putter of books left.",
+            "output": "unacceptable"
+        },
+        "75": {
+            "input": "John grudgingly accepted judgments of his incompetence as an auto mechanic.",
+            "output": "acceptable"
+        },
+        "76": {
+            "input": "If I can, I will work on it.",
+            "output": "acceptable"
+        },
+        "77": {
+            "input": "a tall building.",
+            "output": "acceptable"
+        },
+        "78": {
+            "input": "John is near Larry.",
+            "output": "acceptable"
+        },
+        "79": {
+            "input": "That's a new car dealership.",
+            "output": "acceptable"
+        },
+        "80": {
+            "input": "Who has Peter talked with?",
+            "output": "acceptable"
+        },
+        "81": {
+            "input": "That Fred was unpopular nominated Bill.",
+            "output": "unacceptable"
+        },
+        "82": {
+            "input": "Jerry attempted to blow up the Pentagon.",
+            "output": "acceptable"
+        },
+        "83": {
+            "input": "The children are happy of ice cream.",
+            "output": "unacceptable"
+        },
+        "84": {
+            "input": "I can't remember the name of somebody who had misgivings.",
+            "output": "unacceptable"
+        },
+        "85": {
+            "input": "A seat available was in the last row.",
+            "output": "unacceptable"
+        },
+        "86": {
+            "input": "That is the reason why he resigned.",
+            "output": "acceptable"
+        },
+        "87": {
+            "input": "The book what inspired them was very long.",
+            "output": "unacceptable"
+        },
+        "88": {
+            "input": "I know a man who Tom drives as drives.",
+            "output": "unacceptable"
+        },
+        "89": {
+            "input": "What John promised is to be gentle.",
+            "output": "acceptable"
+        },
+        "90": {
+            "input": "John sounded very.",
+            "output": "unacceptable"
+        },
+        "91": {
+            "input": "Mary was given by John the book.",
+            "output": "unacceptable"
+        },
+        "92": {
+            "input": "It has been determined that somebody will be appointed; it's just not clear yet who.",
+            "output": "unacceptable"
+        },
+        "93": {
+            "input": "I won't have some money.",
+            "output": "unacceptable"
+        },
+        "94": {
+            "input": "John left us orders to follow Pete.",
+            "output": "acceptable"
+        },
+        "95": {
+            "input": "They're going to serve the guests something, but it's unclear what.",
+            "output": "acceptable"
+        },
+        "96": {
+            "input": "Out of the box jumped a little white rabbit.",
+            "output": "acceptable"
+        },
+        "97": {
+            "input": "Chris dreads the bucket.",
+            "output": "acceptable"
+        },
+        "98": {
+            "input": "Tabs were kept on each agent by the other.",
+            "output": "acceptable"
+        },
+        "99": {
+            "input": "The car won't run.",
+            "output": "acceptable"
+        },
+        "100": {
+            "input": "They kicked them",
+            "output": "acceptable"
+        },
+        "101": {
+            "input": "Jason happens to appear to seem to be sick.",
+            "output": "acceptable"
+        },
+        "102": {
+            "input": "I would like to could swim",
+            "output": "acceptable"
+        },
+        "103": {
+            "input": "Janet broke the cup.",
+            "output": "acceptable"
+        },
+        "104": {
+            "input": "A chair was broken.",
+            "output": "acceptable"
+        },
+        "105": {
+            "input": "Somebody apparently struck the unidentified victim during the early morning hours.",
+            "output": "acceptable"
+        },
+        "106": {
+            "input": "Did the child be in the school?",
+            "output": "unacceptable"
+        },
+        "107": {
+            "input": "Neither of students failed.",
+            "output": "unacceptable"
+        },
+        "108": {
+            "input": "The younger woman might have been tall and, and the older one definitely was, blond.",
+            "output": "unacceptable"
+        },
+        "109": {
+            "input": "I know that Meg's attracted to Harry, but they don't know who.",
+            "output": "unacceptable"
+        },
+        "110": {
+            "input": "The guard marched the prisoners round the yard.",
+            "output": "acceptable"
+        },
+        "111": {
+            "input": "The argument was summed by the coach up.",
+            "output": "unacceptable"
+        },
+        "112": {
+            "input": "We gave presents to ourselves.",
+            "output": "acceptable"
+        },
+        "113": {
+            "input": "The mechanical doll wriggled itself loose.",
+            "output": "acceptable"
+        },
+        "114": {
+            "input": "Chris was handed Sandy a note.",
+            "output": "unacceptable"
+        },
+        "115": {
+            "input": "This girl in the red coat will put a picture of Bill in the mailbox and on your desk before tomorrow.",
+            "output": "acceptable"
+        },
+        "116": {
+            "input": "I bought Bill a book to read.",
+            "output": "acceptable"
+        },
+        "117": {
+            "input": "That Chris knew the answer occurred to Pat.",
+            "output": "acceptable"
+        },
+        "118": {
+            "input": "Because she's so pleasant, as for Mary I really like her.",
+            "output": "unacceptable"
+        },
+        "119": {
+            "input": "I hope to would study in France.",
+            "output": "unacceptable"
+        },
+        "120": {
+            "input": "He was arrested by the police.",
+            "output": "acceptable"
+        },
+        "121": {
+            "input": "That we invaded Iraq really bites.",
+            "output": "acceptable"
+        },
+        "122": {
+            "input": "Chocolate eggs were hidden from every child by his mother.",
+            "output": "acceptable"
+        },
+        "123": {
+            "input": "She said she talked to those students but I don't know how many.",
+            "output": "unacceptable"
+        },
+        "124": {
+            "input": "She goes and buying some whiskey.",
+            "output": "unacceptable"
+        },
+        "125": {
+            "input": "Max is on the phone now.",
+            "output": "acceptable"
+        },
+        "126": {
+            "input": "That the Cardinal won the game gave Sandy a thrill.",
+            "output": "acceptable"
+        },
+        "127": {
+            "input": "Jean wants Bill to do the Macarena.",
+            "output": "acceptable"
+        },
+        "128": {
+            "input": "The soup cooks, thickens.",
+            "output": "acceptable"
+        },
+        "129": {
+            "input": "You may pick every flower, but leave a few for Mary.",
+            "output": "unacceptable"
+        },
+        "130": {
+            "input": "Agnes wondered how John could eat but it's not clear what.",
+            "output": "unacceptable"
+        },
+        "131": {
+            "input": "Heidi thinks that Andy to eat salmon flavored candy bars.",
+            "output": "unacceptable"
+        },
+        "132": {
+            "input": "Bother you that Kim left!",
+            "output": "unacceptable"
+        },
+        "133": {
+            "input": "I dislike the person with whom we were talking.",
+            "output": "acceptable"
+        },
+        "134": {
+            "input": "A job offered.",
+            "output": "unacceptable"
+        },
+        "135": {
+            "input": "I was already aware of fact.",
+            "output": "unacceptable"
+        },
+        "136": {
+            "input": "Which topic did you choose without getting his approval?",
+            "output": "acceptable"
+        },
+        "137": {
+            "input": "I wonder whose mother's dog died.",
+            "output": "acceptable"
+        },
+        "138": {
+            "input": "Each student wrote a paper on a Mayan language, but I don't remember which one.",
+            "output": "acceptable"
+        },
+        "139": {
+            "input": "The cat got bitten.",
+            "output": "acceptable"
+        },
+        "140": {
+            "input": "John whispered Mary left.",
+            "output": "unacceptable"
+        },
+        "141": {
+            "input": "The bucket was kicked by Pat.",
+            "output": "acceptable"
+        },
+        "142": {
+            "input": "Who do you think Tom saw?",
+            "output": "acceptable"
+        },
+        "143": {
+            "input": "The dog stole the turkey.",
+            "output": "acceptable"
+        },
+        "144": {
+            "input": "The problem perceives easily.",
+            "output": "unacceptable"
+        },
+        "145": {
+            "input": "They like us.",
+            "output": "acceptable"
+        },
+        "146": {
+            "input": "Mary asked me if, in St. Louis, John could rent a house cheap.",
+            "output": "acceptable"
+        },
+        "147": {
+            "input": "Who did they see someone?",
+            "output": "unacceptable"
+        },
+        "148": {
+            "input": "Bill ate the peaches and Harry did the grapes.",
+            "output": "unacceptable"
+        },
+        "149": {
+            "input": "Some people consider the noisy dogs dangerous.",
+            "output": "acceptable"
+        },
+        "150": {
+            "input": "We gave ourselves presents.",
+            "output": "acceptable"
+        },
+        "151": {
+            "input": "Leslie told us about us.",
+            "output": "unacceptable"
+        },
+        "152": {
+            "input": "If I am a rich man, I'd buy a diamond ring.",
+            "output": "unacceptable"
+        },
+        "153": {
+            "input": "The only person that I like whose kids Dana is willing to put up with is Pat.",
+            "output": "acceptable"
+        },
+        "154": {
+            "input": "I know which book Mag read, and which book Bob read my report that you hadn't.",
+            "output": "unacceptable"
+        },
+        "155": {
+            "input": "It annoys me that Fido barks.",
+            "output": "acceptable"
+        },
+        "156": {
+            "input": "Will he can do it?",
+            "output": "acceptable"
+        },
+        "157": {
+            "input": "Vera sent a baby alligator to Max and a leather dinosaur to Phyllis.",
+            "output": "acceptable"
+        },
+        "158": {
+            "input": "What Mary did Bill was give a book.",
+            "output": "unacceptable"
+        },
+        "159": {
+            "input": "John was believed by Mary to be telling the truth.",
+            "output": "acceptable"
+        },
+        "160": {
+            "input": "It was to to amuse us that Kim was singing that they wanted.",
+            "output": "unacceptable"
+        },
+        "161": {
+            "input": "John loaded the wagon with hay green.",
+            "output": "unacceptable"
+        },
+        "162": {
+            "input": "Who for Sandy to talk to is still enrolled in the class?",
+            "output": "unacceptable"
+        },
+        "163": {
+            "input": "Sandy removed her ballet shoes.",
+            "output": "acceptable"
+        },
+        "164": {
+            "input": "Us like them.",
+            "output": "unacceptable"
+        },
+        "165": {
+            "input": "We think that Leslie likes ourselves.",
+            "output": "unacceptable"
+        },
+        "166": {
+            "input": "Dana walking and Leslie ran.",
+            "output": "unacceptable"
+        },
+        "167": {
+            "input": "That he is here is clear.",
+            "output": "acceptable"
+        },
+        "168": {
+            "input": "The chickens seem fond of the farmer.",
+            "output": "acceptable"
+        },
+        "169": {
+            "input": "The angrier Mary got, the more she looked at pictures.",
+            "output": "acceptable"
+        },
+        "170": {
+            "input": "Everybody gets on well with a certain relative, but often only his therapist knows which one.",
+            "output": "acceptable"
+        },
+        "171": {
+            "input": "I walk and Dana runs.",
+            "output": "acceptable"
+        },
+        "172": {
+            "input": "I talked to Winston about himself.",
+            "output": "acceptable"
+        },
+        "173": {
+            "input": "Kim likes dogs.",
+            "output": "acceptable"
+        },
+        "174": {
+            "input": "Anson demonized David every day",
+            "output": "acceptable"
+        },
+        "175": {
+            "input": "The problem we are discussing is George.",
+            "output": "acceptable"
+        },
+        "176": {
+            "input": "The bird sings.",
+            "output": "acceptable"
+        },
+        "177": {
+            "input": "Max seemed to be trying to begin to love Harriet, and Fred to be trying to begin to love Sue.",
+            "output": "acceptable"
+        },
+        "178": {
+            "input": "An evil thought struck Dave.",
+            "output": "acceptable"
+        },
+        "179": {
+            "input": "The window was broken with a hammer.",
+            "output": "acceptable"
+        },
+        "180": {
+            "input": "Sam doesn't play bassoon, nor Medusa oboe.",
+            "output": "acceptable"
+        },
+        "181": {
+            "input": "We celebrated in the streets.",
+            "output": "acceptable"
+        },
+        "182": {
+            "input": "Mary came to be introduced by the bartender and I also came to be.",
+            "output": "unacceptable"
+        },
+        "183": {
+            "input": "The tank leaked the fluid free.",
+            "output": "acceptable"
+        },
+        "184": {
+            "input": "John tried to leave.",
+            "output": "acceptable"
+        },
+        "185": {
+            "input": "Water bubbled up out of the kettle.",
+            "output": "acceptable"
+        },
+        "186": {
+            "input": "Some sentences go on and on and on.",
+            "output": "acceptable"
+        },
+        "187": {
+            "input": "John is aware of it that Bill is here.",
+            "output": "unacceptable"
+        },
+        "188": {
+            "input": "What did you ask who Medea gave?",
+            "output": "unacceptable"
+        },
+        "189": {
+            "input": "The bills passed by the House yesterday that we objected to were vetoed.",
+            "output": "acceptable"
+        },
+        "190": {
+            "input": "Some people consider dogs in my neighborhood dangerous.",
+            "output": "acceptable"
+        },
+        "191": {
+            "input": "Meg is attracted to Harry, but they don't know who she is attracted to.",
+            "output": "acceptable"
+        },
+        "192": {
+            "input": "It was believed by everybody that Mary was a thief.",
+            "output": "acceptable"
+        },
+        "193": {
+            "input": "Lou put the umbrella was broken.",
+            "output": "unacceptable"
+        },
+        "194": {
+            "input": "The bookcase ran",
+            "output": "unacceptable"
+        },
+        "195": {
+            "input": "The book was by John written.",
+            "output": "unacceptable"
+        },
+        "196": {
+            "input": "Who did you think kissed the gorilla?",
+            "output": "acceptable"
+        },
+        "197": {
+            "input": "People with children who use drugs should be locked up.",
+            "output": "acceptable"
+        },
+        "198": {
+            "input": "The cat was bitten the mouse.",
+            "output": "unacceptable"
+        },
+        "199": {
+            "input": "Which topic did you get bored because Mary talked about?",
+            "output": "unacceptable"
+        },
+        "200": {
+            "input": "The man I saw get into the cab robbed the bank.",
+            "output": "acceptable"
+        }
+    }
+}

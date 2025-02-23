@@ -1,0 +1,807 @@
+{
+    "metadata": {
+        "num_examples": 200
+    },
+    "examples": {
+        "1": {
+            "input": "Premise: At 9:00, American Airlines Executive Vice President Gerard Arpey learned that communications had been lost with American 77.. Hypothesis: It wasn't until 10:00 that Gerard Arpey leaned that communication had been lost with American 77.",
+            "output": "contradiction"
+        },
+        "2": {
+            "input": "Premise: Not really, that's all.. Hypothesis: We do not have anything else.",
+            "output": "entailment"
+        },
+        "3": {
+            "input": "Premise: So, I'm kind of like the hope, I guess.. Hypothesis: I suppose I'm the hope, or something.",
+            "output": "entailment"
+        },
+        "4": {
+            "input": "Premise: Duende [XV, 1] may be absent in Italian and French, as Mr. Bria assures us, but it is alive and prospering in Portuguese.. Hypothesis: Mr. Bria assures use that Duende might not be in Italian and French.",
+            "output": "entailment"
+        },
+        "5": {
+            "input": "Premise: Simply increasing inventory for all SKUs would be a poor allocation of investment, further increasing the order-fill rate for those SKUs for which service levels are already high.. Hypothesis: The one and only way to solve the problem is to increase inventory for all SKUs.",
+            "output": "contradiction"
+        },
+        "6": {
+            "input": "Premise: The guidance for Wherley was to send up the aircraft, with orders to protect the White House and take out any aircraft that threatened the Capitol.. Hypothesis: WHerley thought that this was too late to actually matter.",
+            "output": "neutral"
+        },
+        "7": {
+            "input": "Premise: But like, so I was always raised like a tomboy and everything like that and my dad treated me like a guy all the time.. Hypothesis: My father treated me like a guy since I was such a tomboy.",
+            "output": "entailment"
+        },
+        "8": {
+            "input": "Premise: ...Einstein's Special Theory of Relativity does not say that E = MC2 and in leap year MC2.. Hypothesis: Einstein's Special Theory of Relativity doesn't encompass the speed of light.",
+            "output": "entailment"
+        },
+        "9": {
+            "input": "Premise: Please send your most generous gift today.. Hypothesis: PLease don't send a gift.",
+            "output": "contradiction"
+        },
+        "10": {
+            "input": "Premise: The Science Department is in the process of renovating the labs and other facilities in order to provide our students with science instruction that is second to none.. Hypothesis: The Science Department is updating our labs to provide first-rate science instruction.",
+            "output": "entailment"
+        },
+        "11": {
+            "input": "Premise: Logs indicate that it began at 9:25 and included the CIA; the FBI; the departments of State, Justice, and Defense; the FAA; and the White House shelter.. Hypothesis: Logs show the meeting included the CIA, FBI, State departments, Justice, Defence, FAA, and the White House.",
+            "output": "entailment"
+        },
+        "12": {
+            "input": "Premise: But, then like me and my mom will talk all the time and she'll come over here and she'll like have a beer and a cigarette with me and it doesn't matter anymore!. Hypothesis: My mom and I hang out all the time and chat, we even share a drink.",
+            "output": "entailment"
+        },
+        "13": {
+            "input": "Premise: No normal speaker of English encountering Man wants but little here below wonders'except facetiously'why women have been ignored.. Hypothesis: Women have never been ignored.",
+            "output": "contradiction"
+        },
+        "14": {
+            "input": "Premise: The top thread is then pulled up by the take-up arm.. Hypothesis: The top thread is pulled by the arm that has thread around it.",
+            "output": "neutral"
+        },
+        "15": {
+            "input": "Premise: Excitement abounds as some 300 students and proud parents and grandparents fill the IUPUI Conference Center for the event.. Hypothesis: More than half of the students that fill the IUPUI Conference Center are women.",
+            "output": "neutral"
+        },
+        "16": {
+            "input": "Premise: On that occasion, Lisa had seen a ferocious dog barking behind the chain-linked fence.. Hypothesis: Lisa had seen a large black dog with pointy ears barking behind the chain-linked fence. ",
+            "output": "neutral"
+        },
+        "17": {
+            "input": "Premise: Um, but he'd bend down and stay down to help that dog.. Hypothesis: Bending down, he realized the dog was fine.",
+            "output": "neutral"
+        },
+        "18": {
+            "input": "Premise: I said, If you, if you would lend me your boys tomorrow.. Hypothesis: If you would let your boys help out tomorrow, that'd be great. ",
+            "output": "entailment"
+        },
+        "19": {
+            "input": "Premise: Oh yes, yes they did.. Hypothesis: No, no they didn't.",
+            "output": "contradiction"
+        },
+        "20": {
+            "input": "Premise: She further indicated that the hijackers were not aware of her phone call, and that they had put all the passengers in the back of the plane.. Hypothesis: She made a phone call that the hijackers might not have been aware of.",
+            "output": "entailment"
+        },
+        "21": {
+            "input": "Premise: In the past eight years SEND has renovated over 70 homes for affordable resale to families, created more than 100 high quality apartments, assisted 20 businesses to expand or improve their facilities, created three new parks, and taught more than 200 youth work ethics and skills.. Hypothesis: SEND has renovated dozens of homes to sell at affordable prices.",
+            "output": "entailment"
+        },
+        "22": {
+            "input": "Premise: This fall alumni and students at the Indiana University School of Law Indianapolis will initiate several programs to encourage alumni support for the school.. Hypothesis: No programs centered on alumni support are available. ",
+            "output": "contradiction"
+        },
+        "23": {
+            "input": "Premise: Um, not too many stories about my dad's childhood.. Hypothesis: My dad doesn't remember much of his childhood.",
+            "output": "neutral"
+        },
+        "24": {
+            "input": "Premise: And it, it kind of makes me feel bad.. Hypothesis: It kind of makes me feel like a badass.",
+            "output": "contradiction"
+        },
+        "25": {
+            "input": "Premise: When bar codes and EDI are combined with advanced shipping practices, the benefit of each practice is enhanced; order processing occurs more rapidly, accurately, and with less paper.. Hypothesis: Order processing occurs more rapidly, accurately, and with less paper, and customers leave better reviews. ",
+            "output": "neutral"
+        },
+        "26": {
+            "input": "Premise: The optimal policy is one for which marginal increases or decreases in chosen inventory levels will not confer additional profits.. Hypothesis: The best policy should be sensitive to changes in select inventory levels.",
+            "output": "neutral"
+        },
+        "27": {
+            "input": "Premise: It had at most one or two minutes to react to the unidentified plane approaching Washington, and the fighters were in the wrong place to be able to help.. Hypothesis: The fighters had half an hour to respond to it.",
+            "output": "contradiction"
+        },
+        "28": {
+            "input": "Premise: Letters in support or condemnation of the QES program (though one may assume they will insist on programme ) should be addressed to Mrs Anne Shelley, Secretary, Queen's English Society, 3 Manor Crescent, Guildford GU2 6NF, England.. Hypothesis: The letters about the QES program should be sent to Bob in the United States.",
+            "output": "contradiction"
+        },
+        "29": {
+            "input": "Premise: Do you think that's what it was?. Hypothesis: Is that what it was, you think?",
+            "output": "entailment"
+        },
+        "30": {
+            "input": "Premise: As the Soviets began their withdrawal, the jihad's leaders debated what to do next.. Hypothesis: The jihads actions were dependant on to Soviets. ",
+            "output": "neutral"
+        },
+        "31": {
+            "input": "Premise: Both individuals agreed that the teleconference played no role in coordinating a response to the attacks of 9/11.. Hypothesis: Neither party claimed that the phone meeting of the prior morning had been responsible for the actions taken in relation to the attacks on 9/11.",
+            "output": "entailment"
+        },
+        "32": {
+            "input": "Premise: Your contribution is more than a simple tax-deductible donation.. Hypothesis: Neither your contribution nor tax-deductible donations are welcome.",
+            "output": "contradiction"
+        },
+        "33": {
+            "input": "Premise: And, as a Palestinian, he saw Israel as the top priority for the next stage.. Hypothesis: He saw Israel as the priority for the next stage because he was a Palestinian.",
+            "output": "entailment"
+        },
+        "34": {
+            "input": "Premise: That's a good attitude!. Hypothesis: That is a negative and unwanted perspective. ",
+            "output": "contradiction"
+        },
+        "35": {
+            "input": "Premise: How do they feel about your being a Theater major?. Hypothesis: What are their feelings toward your major?",
+            "output": "entailment"
+        },
+        "36": {
+            "input": "Premise: These changes are related to new technology and foreign competition.. Hypothesis: Foreign competition and newer technology are the root of these changes.",
+            "output": "neutral"
+        },
+        "37": {
+            "input": "Premise: Fortunately, not all reports are as disturbing as Hochschild's.. Hypothesis: All of Hochschild's studies were very disturbing.",
+            "output": "neutral"
+        },
+        "38": {
+            "input": "Premise: The syllabication of headwords is not an important feature in British  the Collins English Dictionary , which offered an elaborate system in its first edition (1979), set the words solid in its second edition (1986), but I am informed that the major portion of the correspondence received at Collins Publishing concerning the dictionary concerns this change and is critical of it.. Hypothesis:  The syllabication of headwords is the most important feature of the British the Collins Dictionary.",
+            "output": "contradiction"
+        },
+        "39": {
+            "input": "Premise: But what about a reference by MacNeil's partner, Jim Lehrer, to  some ten thousand black gold and diamond miners [on strike in South Africa]. . Hypothesis: MacNeil worked alone.",
+            "output": "contradiction"
+        },
+        "40": {
+            "input": "Premise: The Vice Chairman joined the conference shortly before 10:00; the Secretary, shortly before 10:30.. Hypothesis: The NSA did not join until around 11 am.",
+            "output": "neutral"
+        },
+        "41": {
+            "input": "Premise: The last two items merit comment.. Hypothesis: The bottom two items deserve to be commented on negatively.",
+            "output": "neutral"
+        },
+        "42": {
+            "input": "Premise: Over the years, a number of well-respected individuals have spoken out on behalf of our mission ...our service ...and our stewardship.. Hypothesis: We had trouble in finding people to support our mission.",
+            "output": "contradiction"
+        },
+        "43": {
+            "input": "Premise: The Herron School of Art and Gallery of Indiana University is contemporary art!. Hypothesis: Only contemporary art is housed in Herron's gallery.",
+            "output": "neutral"
+        },
+        "44": {
+            "input": "Premise: My friend, a punster, spotted the fact that the plate nicely violated the no  offensive  plates rule.. Hypothesis: My friend noticed that the cup was full of piping hot coffee.",
+            "output": "contradiction"
+        },
+        "45": {
+            "input": "Premise: The call lasted about two minutes, after which Policastro and a colleague tried unsuccessfully to contact the flight.. Hypothesis: The call only lasted 5 seconds before it was dropped.",
+            "output": "contradiction"
+        },
+        "46": {
+            "input": "Premise: We lived between, between the border of Honduras and El Salvador.. Hypothesis: We lived thousands of miles from Honduras and El salvador.",
+            "output": "contradiction"
+        },
+        "47": {
+            "input": "Premise: (Origin unknown; not from Gaelic)  I think it hardly fanciful to discern a note of Calvinist disapproval in this curt disclaimer.. Hypothesis: A note of Calvinist disapproval is rather fanciful to discern here.",
+            "output": "contradiction"
+        },
+        "48": {
+            "input": "Premise: Do you have a playtime at school?. Hypothesis: Do you have time to play at school?",
+            "output": "entailment"
+        },
+        "49": {
+            "input": "Premise: Last year a small number of alumni each contributed between $2,500 and $4,999 to the school.. Hypothesis: A number of alumni contributed over $5000.  ",
+            "output": "neutral"
+        },
+        "50": {
+            "input": "Premise:  Yes, I understand.. Hypothesis: I don't understand at all.",
+            "output": "contradiction"
+        },
+        "51": {
+            "input": "Premise: Specifically, our manufacturer checked inventory of every item each week.. Hypothesis: The inventory check for our manufacturer happens every Tuesday.",
+            "output": "neutral"
+        },
+        "52": {
+            "input": "Premise: Thank you for your past help and your continued support.. Hypothesis: They did not thank them for their help or support.",
+            "output": "contradiction"
+        },
+        "53": {
+            "input": "Premise: These experiments in political Islam faltered during the 1990 the Iranian revolution lost momentum, prestige, and public support, and Pakistan's rulers found that most of its population had little enthusiasm for fundamentalist Islam.. Hypothesis: The revolution in Iran only gained support over time.",
+            "output": "contradiction"
+        },
+        "54": {
+            "input": "Premise: We have already seen how academically related tasks, family celebrations, family outings, and adult-child storybook reading are excellent focal points for adult-child engagement.. Hypothesis: We have already seen how family outings are not good for parent-child engagement.",
+            "output": "contradiction"
+        },
+        "55": {
+            "input": "Premise: Although research is beginning to provide answers regarding factors that may increase the risk for SIDS and suggest actions parents can take to reduce the risks, these measures will not save all babies.. Hypothesis: Research is starting to give us answers about what causes SIDS.",
+            "output": "entailment"
+        },
+        "56": {
+            "input": "Premise: I would like to look for a job in education, possibly teaching elementary school, um, hopefully up north I would rather do that up north, so--. Hypothesis: I am not looking for a job.",
+            "output": "contradiction"
+        },
+        "57": {
+            "input": "Premise: Finding the correct parts for a shirt can often involve a hunt through the plant.. Hypothesis: Without the correct parts the shirt can't be completed.",
+            "output": "neutral"
+        },
+        "58": {
+            "input": "Premise: The Operations Center located at FAA headquarters receives notifications of incidents, including accidents and hijackings.. Hypothesis: The Operations Center will receive notifications of hijackings.",
+            "output": "entailment"
+        },
+        "59": {
+            "input": "Premise: I said, Well we got some // gasoline.. Hypothesis: The gasoline was in a container, not a vehicle.",
+            "output": "neutral"
+        },
+        "60": {
+            "input": "Premise: It is the term applied to a one-year-old sheep.. Hypothesis: A sheep of one years of age has this term.",
+            "output": "entailment"
+        },
+        "61": {
+            "input": "Premise: It is specifically a dictionary of Scots, or Lallans, which some scholars consider merely a dialect of English and others a distinct language rooted in Old English.. Hypothesis: Scots is its own language, it is not an English dialect. ",
+            "output": "contradiction"
+        },
+        "62": {
+            "input": "Premise: 9 About two-thirds of the production volume of our surveyed business units did their marker-making, spreading, and cutting in a single location.. Hypothesis: The surveyed businesses worked in the timber industry.",
+            "output": "neutral"
+        },
+        "63": {
+            "input": "Premise: And that's like I can totally see my dad in my personality.. Hypothesis: I can absolutely see my dad with my personality.",
+            "output": "entailment"
+        },
+        "64": {
+            "input": "Premise: Al Qaeda also used the Afghan state-owned Ariana Airlines to courier money into the country.. Hypothesis: Ariana Airlines was privately owned.",
+            "output": "contradiction"
+        },
+        "65": {
+            "input": "Premise: It is difficult to place all the blame on Renfrew, for his editor should have noticed the lack of coherence.. Hypothesis: Renfrew's editor is an idiot. ",
+            "output": "neutral"
+        },
+        "66": {
+            "input": "Premise: Just like the respect we've earned from U.S.News  and World Report.. Hypothesis: It is very different from the respect we earned from U.S.News and World Report.",
+            "output": "contradiction"
+        },
+        "67": {
+            "input": "Premise: Many controllers work at the FAA's 22 Air Route Traffic Control Centers.. Hypothesis: Many controllers work in the control centers and they all had to hear the events that day.",
+            "output": "neutral"
+        },
+        "68": {
+            "input": "Premise: As I recall, I've never asked you for a contribution...until now.. Hypothesis: The need is greater than ever for your support.",
+            "output": "neutral"
+        },
+        "69": {
+            "input": "Premise: These processes are often reinforced with such comments from parents and teachers as,  You'll never get anywhere nowadays without a college education. . Hypothesis: Over the years the number of people who are college educated has risen.",
+            "output": "neutral"
+        },
+        "70": {
+            "input": "Premise: Girl Scouts experience a wide range of real life skills--first aid, resume writing, and managing money.. Hypothesis: Indiana's Girl Scouts learn many new skills to use for life.",
+            "output": "entailment"
+        },
+        "71": {
+            "input": "Premise: So she said, Ines went out, and opened the door and said, Bastards!. Hypothesis: She said it in a very upset tone of voice.",
+            "output": "neutral"
+        },
+        "72": {
+            "input": "Premise: Analysand , like several - nd words in English, is derived from the gerundive, and so means `(a person) to be analyzed.. Hypothesis: Analysand does not come from gerundive and is not English",
+            "output": "contradiction"
+        },
+        "73": {
+            "input": "Premise: In the Roman Catholic Church, for example, women can function as acolytes (one of the minor orders of the diaconate) but may not be officially installed as acolytes.. Hypothesis: Roman Catholic Church was praised for their sexism. ",
+            "output": "neutral"
+        },
+        "74": {
+            "input": "Premise: He appointed a new financial manager, whom his followers saw as miserly.. Hypothesis: He fired his financial manager, who his followers believed to be too eager to part with money.",
+            "output": "contradiction"
+        },
+        "75": {
+            "input": "Premise: When I investigated all the different ways I could get involved to help local families, I discovered the answer that made the most sense was United Way of Central Indiana.. Hypothesis: I saw the United Way helped a lot of people.",
+            "output": "neutral"
+        },
+        "76": {
+            "input": "Premise: As you begin that process this year, I would like to ask you to consider helping young people in Marion County toward more positive youth development by becoming a supporter of the Marion County Commission on Youth, Inc.. Hypothesis: The Commission on Young Scam Artists needs your help now more than ever.",
+            "output": "contradiction"
+        },
+        "77": {
+            "input": "Premise: So, fill out the enclosed form and we'll be delighted to hear from you.. Hypothesis: Fill out the form and we will reply soon.",
+            "output": "neutral"
+        },
+        "78": {
+            "input": "Premise: I do, but it gets to a point where like I feel like if I fail, it's just going to be like way too much for everybody.. Hypothesis: I feel like when I succeed, nobody cheers loud enough for me.",
+            "output": "contradiction"
+        },
+        "79": {
+            "input": "Premise: Payment of $1,000 (or more) may be made now or at anytime before December 31, 1993.. Hypothesis: The payment should be made as a personal check.",
+            "output": "neutral"
+        },
+        "80": {
+            "input": "Premise: Once demand variation for each SKU was determined for our men's coat manufacturer, its managers faced the question of how to manage the inventory of the items in its rapid replenishment collection while maintaining a smooth flow of products through the sewing room.. Hypothesis: The managers were asked to determine demand variation.",
+            "output": "contradiction"
+        },
+        "81": {
+            "input": "Premise: Bolten watched the exchanges and, after what he called a quiet moment,suggested that the Vice President get in touch with the President and confirm the engage order.. Hypothesis: After they got in contact, the engage order was confirmed.",
+            "output": "neutral"
+        },
+        "82": {
+            "input": "Premise: It's a story from The Bible.. Hypothesis: It's a page from the dictionary.",
+            "output": "contradiction"
+        },
+        "83": {
+            "input": "Premise: All the ingredients may be present'the music, the singers, the dancers, the setting, and costumes'but, alas, duende itself fails to show up and the production fizzles.. Hypothesis: Duende itself fails to show up and the production fizzles.",
+            "output": "entailment"
+        },
+        "84": {
+            "input": "Premise: He views either of them as the instrument, the bond, of his not being able to pass on the crown to a successor of his choosing (or of his subsequent begetting).. Hypothesis: He really doesn't want to be king.",
+            "output": "neutral"
+        },
+        "85": {
+            "input": "Premise: And I said to some of my cousins that I had only the last I had seen was at Grandpop's funeral.. Hypothesis: The last time I saw them was at grandfather's funeral.",
+            "output": "entailment"
+        },
+        "86": {
+            "input": "Premise: If you're not from Charlotte, you're not going to know where that's at, but, um, it was really far away from everybody and behind the airport and stuff like that.. Hypothesis: You are certainly from the area known as Charlotte.",
+            "output": "contradiction"
+        },
+        "87": {
+            "input": "Premise: Wells's The Time Machine (1895), considered by some the first work of true SF.. Hypothesis: Wells' spent nearly a decade writing The Time Machine.",
+            "output": "neutral"
+        },
+        "88": {
+            "input": "Premise: What, ah, story in your childhood had the most impact on you?. Hypothesis: Is there a particular fairy tale that shaped your outlook on life?",
+            "output": "neutral"
+        },
+        "89": {
+            "input": "Premise: The Campaign is directed at law firms and businesses having 10 or more alumni.. Hypothesis: The campaign is directed to businesses with at least 10 alumni. ",
+            "output": "entailment"
+        },
+        "90": {
+            "input": "Premise: The thin plastic sheet effectively cuts off the flow of room air through the fabric.. Hypothesis: To cut off air in the room from the cloth, a thin sheet of plastic is used.",
+            "output": "entailment"
+        },
+        "91": {
+            "input": "Premise: Yet these nagging problems do not negate the need for a new approach to inventory management; they merely indicate how complicated supplier relationships have become.. Hypothesis: These problems just show how complicated supplier relationships are.",
+            "output": "entailment"
+        },
+        "92": {
+            "input": "Premise:  You can't do it with your hands; you need a peeler.. Hypothesis: It is technically possible, but not permitted for one to use their hands.",
+            "output": "neutral"
+        },
+        "93": {
+            "input": "Premise: The would-be killers, who came from the Egyptian Islamic Group, had been sheltered in Sudan and helped by Bin Ladin.. Hypothesis: Bin Ladin helped the people that were planning to kill.",
+            "output": "entailment"
+        },
+        "94": {
+            "input": "Premise: It was, the Sphinx explains, his answer to the   Man. . Hypothesis: Man wanted to know how the Universe works and why he exists.",
+            "output": "neutral"
+        },
+        "95": {
+            "input": "Premise: At the dawn of a new millennium, a fresh set of theories of child development has blossomed.. Hypothesis: New theories of child development blossomed because children had more input.",
+            "output": "neutral"
+        },
+        "96": {
+            "input": "Premise: So anyway, so we, uh, got some response and, and kind of adjusted things, but after, uh, after a while we kind of went our separate ways.. Hypothesis: We stayed together until the present day.",
+            "output": "contradiction"
+        },
+        "97": {
+            "input": "Premise: Between 8:25 and 8:32, in accordance with the FAA protocol, Boston Center managers started notifying their chain of command that American 11 had been hijacked.. Hypothesis: it was not until 9:00 that Boston Center messengers realized that American 11 had been hijacked.",
+            "output": "contradiction"
+        },
+        "98": {
+            "input": "Premise: The message, again, that I get from the story, for me personally, was that there would always be a special connection between me and God, and actually was just another of the ways my grandmother put for me to learn, or believe, that I could do anything, I could be anything, because I had a special connection and special protection, um, from not only her, which was more important for me at the time.. Hypothesis: The message that I got from my Grandmother's story was that I would always have a special connection with God and that I could do anything, I just needed to believe.",
+            "output": "entailment"
+        },
+        "99": {
+            "input": "Premise: And in enabling children to practice and perfect narrative skills, adult-child conversation provides crucial preparation for literacy.. Hypothesis: Adult-child conversation provides preparation for literacy.",
+            "output": "entailment"
+        },
+        "100": {
+            "input": "Premise: Not long afterward, senior al Qaeda operatives and trainers traveled to Iran to receive training in explosives.. Hypothesis: Senior al Qaeda operatives and trainers went to Iran to learn how to make bombs.",
+            "output": "entailment"
+        },
+        "101": {
+            "input": "Premise: He inveighed against the presence of U.S. troops in Saudi Arabia, the home of Islam's holiest sites.. Hypothesis: He wanted the American troops to get out of Arabia.",
+            "output": "neutral"
+        },
+        "102": {
+            "input": "Premise: I can remember Mom and Dad saying Grandmom in the kitchen hollering, Daddy, Daddy, Daddy I wish you wouldn't talk like that in front of the girls.. Hypothesis: I would prefer if you did not speak in such away in front of the children.",
+            "output": "entailment"
+        },
+        "103": {
+            "input": "Premise: The definition in the Third Unabridged was a model of clarity compared with that.. Hypothesis: The new definition is very hard to understand.",
+            "output": "contradiction"
+        },
+        "104": {
+            "input": "Premise: Earth to Marvin.. Hypothesis: Marvin, what's going on?",
+            "output": "entailment"
+        },
+        "105": {
+            "input": "Premise: You were there, the upchuck wagon.. Hypothesis: You weren't there.",
+            "output": "contradiction"
+        },
+        "106": {
+            "input": "Premise: After it has been installed, the DOS, as it is called (once identified, nothing in computerese is ever called by its full name  a Personal Computer becomes a PC; a Disk Operating System becomes a DOS; if it is made by a company called MicroSoft, it is called MS/DOS), performs certain functions, though rarely any that anyone but a computer specialist would want to perform.. Hypothesis: Nothing in computer sense is called by its full name.",
+            "output": "entailment"
+        },
+        "107": {
+            "input": "Premise: Nothing at all!. Hypothesis: Not even a hint.",
+            "output": "neutral"
+        },
+        "108": {
+            "input": "Premise: By 1993, Penney was using EDI for processing 97 percent of purchase orders and 85 percent of invoices with 3,400 of its 4,000 suppliers.. Hypothesis: Penney was using EDI in 1993 for processing much of its supply information.",
+            "output": "entailment"
+        },
+        "109": {
+            "input": "Premise: Feminists ponder causes, implications.. Hypothesis: No one ever thinks of the implications of ideas.",
+            "output": "contradiction"
+        },
+        "110": {
+            "input": "Premise: I am inclined to prefer perjink and its derivatives.. Hypothesis: Perjink has four derivatives. ",
+            "output": "neutral"
+        },
+        "111": {
+            "input": "Premise: [From a review of Handel's Tamerlano in the  issue of Stereo Review.. Hypothesis: Handel's Tamerlano is very popular amongst inner city youth.",
+            "output": "neutral"
+        },
+        "112": {
+            "input": "Premise: // The fine county of Gaston.. Hypothesis: The great Gaston county. ",
+            "output": "entailment"
+        },
+        "113": {
+            "input": "Premise: So it's, it's written, as opposed to oral?. Hypothesis: It was written in 1692.",
+            "output": "neutral"
+        },
+        "114": {
+            "input": "Premise: Out of this interconnection springs mastery, proficiency, and self-confidence.. Hypothesis: This interconnection creates competence, expertise and self-assurance.",
+            "output": "entailment"
+        },
+        "115": {
+            "input": "Premise: However, what emerged were almost invariably autocratic regimes that were usually unwilling to tolerate any opposition-even in countries, such as Egypt, that had a parliamentary tradition.. Hypothesis: Te regimes were unwilling to tolerate any opposition.",
+            "output": "entailment"
+        },
+        "116": {
+            "input": "Premise: Knitting mills now account for almost 30 percent of production employees engaged in textile manufacturing.. Hypothesis: 30 percent of production employees in textile manufacturing work in knitting mills.",
+            "output": "entailment"
+        },
+        "117": {
+            "input": "Premise: That's why it's such like a big thing, because my uncle, he went, he went into the military and then came out.. Hypothesis: None of my family members have ever served in the military.",
+            "output": "contradiction"
+        },
+        "118": {
+            "input": "Premise: Oh yeah, superheroes like Captain Marvel, Superman, Batman and all of them.. Hypothesis: I really enjoy reading comics about superheroes.",
+            "output": "neutral"
+        },
+        "119": {
+            "input": "Premise: The account description written in 1971 for the Ralph E. McDonald/Pedodontic Fund states Expenditures of the fund shall be approved by the fund committee of six.. Hypothesis: Six members of the committee have to have old boots on their head when they approve expenditures.",
+            "output": "neutral"
+        },
+        "120": {
+            "input": "Premise: Vygotsky's theory has been the wellspring of our recent appreciation of the profoundly social nature of even very young children's imaginative play'and its wide-ranging infiuence on cognitive and social development.. Hypothesis: Our recognition of the social aspects of make-believe in young children is actually recent.",
+            "output": "entailment"
+        },
+        "121": {
+            "input": "Premise: The surge in apparel imports in the 1980s came from low-wage countries, primarily the Asian  Big Four 'the People's Republic of China, Hong Kong, Taiwan, and Korea.. Hypothesis: The surge in apparel imports came from highly developed countries like the United States.",
+            "output": "contradiction"
+        },
+        "122": {
+            "input": "Premise: The enterprises that compose the apparel and textile industries manufacture a wide variety of products, and the mix has also changed since the postwar era.. Hypothesis: Apparel and textile industry enterprises manufacture many different products, which have changed since the postwar era.",
+            "output": "entailment"
+        },
+        "123": {
+            "input": "Premise: A roughly approximate atonal pronunciation is thus moo-gwoo .  A family resemblance, to be sure, but far from  me gook. . Hypothesis: Moo-gwoo is an approximate atonal pronunciation.",
+            "output": "entailment"
+        },
+        "124": {
+            "input": "Premise: Because a reduction in the I/S ratio means that changes in sales will be matched by a smaller change in inventories, a lower ratio also implies lower inventory volatility.. Hypothesis: Retailers can benefit from a lower I/S ratio and its impacts.",
+            "output": "neutral"
+        },
+        "125": {
+            "input": "Premise: YOU CAN HELP SUPPORT THESE AND OTHER NEEDED SERVICES HERE IN CENTRAL INDIANA.. Hypothesis: You can help support these needed services in Colorado.",
+            "output": "contradiction"
+        },
+        "126": {
+            "input": "Premise: He worked, he's a teacher, and at that time he worked as the principal of that school, of that school, because it was a, like a high school, there was, from first (grade) to high school.. Hypothesis: The man is a legend. He is love, he is life.",
+            "output": "neutral"
+        },
+        "127": {
+            "input": "Premise: The most important lesson we can take from Miller's provocative findings is that when parents and teachers take time to construct narratives with and about the young child, they create a  zone  that spurs children to weave moral and social rules into their self-definitions and to behave accordingly.. Hypothesis: Constructing narratives with and about a child will spur the child to change behavior.",
+            "output": "entailment"
+        },
+        "128": {
+            "input": "Premise: Ever since the Islamist regime came to power in Khartoum, the United States and other Western governments had pressed it to stop providing a haven for terrorist organizations.. Hypothesis: The Christians were now in control in Khartoum.",
+            "output": "contradiction"
+        },
+        "129": {
+            "input": "Premise: Gradually, the child takes increasing responsibility for attaining intersubjectivity, until both parties make similar contributions to the shared mental state that fuels children's learning in the  zone. . Hypothesis: Attaining intersubjectivity is what all children strive for.",
+            "output": "neutral"
+        },
+        "130": {
+            "input": "Premise: A successful U.S. apparel-maker, for instance, may assemble basic men's khaki pants in average sizes in Mexico, taking advantage of low labor costs as well as Mexico's proximity to the maker's Texas distribution centers; at the same time, this company can choose to manufacture products with more variable demand, like khaki pants with narrow waists and long inseams, in the United States, providing fast turnaround for retailers and lower exposure to inventory risk.. Hypothesis: Outsourcing work to Mexico would benefit apparel-makers due to low labor costs. ",
+            "output": "entailment"
+        },
+        "131": {
+            "input": "Premise: To recognize donors who have achieved this level, Dean Lefstein has now established the Black Cane Society.. Hypothesis: Donors have a need to be recognized thoroughly.  ",
+            "output": "neutral"
+        },
+        "132": {
+            "input": "Premise: I hope that you agree that these activities are essential to being a part of a world community.. Hypothesis: These activities are only for fun and don't serve a purpose beyond that.",
+            "output": "contradiction"
+        },
+        "133": {
+            "input": "Premise: At 7:18, Mihdhar and Moqed entered the security checkpoint.. Hypothesis: More than two people entered the checkpoint at 7:18.",
+            "output": "neutral"
+        },
+        "134": {
+            "input": "Premise: Well that window happened to be through her room, so I just kind of walked on through the room and she looked up at me and I said, Good morning, and she just screamed.. Hypothesis: She screamed when I walked through the room and said good morning. ",
+            "output": "entailment"
+        },
+        "135": {
+            "input": "Premise: What kind of stories does she tell you?. Hypothesis: Do the narratives she give you make you happy?",
+            "output": "neutral"
+        },
+        "136": {
+            "input": "Premise: Perhaps you'll even save a life.. Hypothesis: Perhaps you will even prevent someone from dying.",
+            "output": "entailment"
+        },
+        "137": {
+            "input": "Premise: Uh, let's see.. Hypothesis: I can't remember.",
+            "output": "neutral"
+        },
+        "138": {
+            "input": "Premise: Well, my brother had a, cow, tied out, and a goat, the cow's offspring.. Hypothesis: My brother owned a few animals.",
+            "output": "entailment"
+        },
+        "139": {
+            "input": "Premise: The Hadith, which recount Mohammed's sayings and deeds as recorded by his contemporaries, are another fundamental source.. Hypothesis: The Hadith has a lot of Jesus's sayings.",
+            "output": "contradiction"
+        },
+        "140": {
+            "input": "Premise: I still read history.. Hypothesis: I currently read history.",
+            "output": "entailment"
+        },
+        "141": {
+            "input": "Premise: In their description of isoglosses , they . Hypothesis: Isoglosses are difficult to understand.",
+            "output": "neutral"
+        },
+        "142": {
+            "input": "Premise: When tired, Sophie's teddy bear and leprechaun don't stay up late doing just as they please.. Hypothesis: Sophie does not have a teddy bear.",
+            "output": "contradiction"
+        },
+        "143": {
+            "input": "Premise: Maggy, frightened by the booming sounds, whimpers to Deb,  Scary, Mommy.. Hypothesis: Maggy's mom comforted Maggy during the storm.",
+            "output": "neutral"
+        },
+        "144": {
+            "input": "Premise: Once demand variation for each SKU was determined for our men's coat manufacturer, its managers faced the question of how to manage the inventory of the items in its rapid replenishment collection while maintaining a smooth flow of products through the sewing room.. Hypothesis: The smooth flow of products is more important than rapid replenishment.",
+            "output": "neutral"
+        },
+        "145": {
+            "input": "Premise: Computer-assisted marker-making can offer large savings with basic garments, like men's pants or women's intimate apparel, which may be manufactured repeatedly over several years.. Hypothesis: Marker-making with computers introduce extra unnecessary costs to garment manufacturing.",
+            "output": "contradiction"
+        },
+        "146": {
+            "input": "Premise: So, we stayed there.. Hypothesis: We were there.",
+            "output": "entailment"
+        },
+        "147": {
+            "input": "Premise: And that keeps me, as an adult, one, remembering to pray like a child, and to maintain some of the innocence, which is difficult, of a child.. Hypothesis: As an adult I know I can never have the innocence of a child.",
+            "output": "neutral"
+        },
+        "148": {
+            "input": "Premise: America is under attack.. Hypothesis: Terrorists have attacked America.",
+            "output": "neutral"
+        },
+        "149": {
+            "input": "Premise: I don't know about Canada, Australia, etc., but in the U.S. this kind of referent usage is considered a heinous illiteracy (by those who consider such matters), and those who wish to appear educated would be wise to avoid it.. Hypothesis: This kind of referent usage is celebrated in the U.S. as a sign of education.",
+            "output": "contradiction"
+        },
+        "150": {
+            "input": "Premise: When two peoples speaking different languages share a common border, there is an infiltration of words from one language to the other.. Hypothesis: The languages they are speaking about are English and Spanish.",
+            "output": "neutral"
+        },
+        "151": {
+            "input": "Premise: And like my family's a big part of it.. Hypothesis: I am not close to my family.",
+            "output": "contradiction"
+        },
+        "152": {
+            "input": "Premise: You didn't like them?. Hypothesis: Did you like their music?",
+            "output": "neutral"
+        },
+        "153": {
+            "input": "Premise: Projects which enliven and enrich the student experience and draw some of our finest scholars and teachers to our campus--and to our city.. Hypothesis: These projects are largely ignored and don't impact anyone. ",
+            "output": "contradiction"
+        },
+        "154": {
+            "input": "Premise: Callers reported that a passenger had been stabbed and that two people were lying on the floor of the cabin, injured or dead-possibly the captain and first officer.. Hypothesis: No one called from the airplane at all.  ",
+            "output": "contradiction"
+        },
+        "155": {
+            "input": "Premise: Simply increasing inventory for all SKUs would be a poor allocation of investment, further increasing the order-fill rate for those SKUs for which service levels are already high.. Hypothesis: Upping the inventory for SKUs might be a solution, but isn't the best way of tackling the job.",
+            "output": "entailment"
+        },
+        "156": {
+            "input": "Premise: These are particularly tricky when short words, like articles or pronouns, are . Hypothesis: Articles should be considered when doing these.  ",
+            "output": "neutral"
+        },
+        "157": {
+            "input": "Premise: Everybody's family is different.. Hypothesis: However, everybody's family is good in their own way. ",
+            "output": "neutral"
+        },
+        "158": {
+            "input": "Premise: But you held it didn't you?. Hypothesis: Did you hold it?",
+            "output": "entailment"
+        },
+        "159": {
+            "input": "Premise: After it has been installed, the DOS, as it is called (once identified, nothing in computerese is ever called by its full name  a Personal Computer becomes a PC; a Disk Operating System becomes a DOS; if it is made by a company called MicroSoft, it is called MS/DOS), performs certain functions, though rarely any that anyone but a computer specialist would want to perform.. Hypothesis: The shortened term of PC actually means Personal Carrot",
+            "output": "contradiction"
+        },
+        "160": {
+            "input": "Premise: However, we recognize that contributions at the Maennerchor Society level are not possible for all.. Hypothesis: Everyone is capable of contributing at the level of the Maennerchor Society.",
+            "output": "contradiction"
+        },
+        "161": {
+            "input": "Premise: And, where the reference is made in the first paragraph to  the twanging release of Ulysses' silver bow,  that the bowman is not Ulysses but Apollo, shooting into the Greek camp.. Hypothesis: Socrates wrote extensively about the god Apollo.",
+            "output": "neutral"
+        },
+        "162": {
+            "input": "Premise: So, what I am going to ask you is what was your philosophy behind that?. Hypothesis: I do not want to discuss that with you, ever. ",
+            "output": "contradiction"
+        },
+        "163": {
+            "input": "Premise: Nobody who knew him would have expected him to do anything else, whether he had been sent away in disgrace or not'but, as it was thought he had left the country, his return did have a dramatic quality.. Hypothesis: Nobody he knew expected him to do anything else by he surprised them.",
+            "output": "entailment"
+        },
+        "164": {
+            "input": "Premise: W has illustrations (better than those in the Third Unabridged ); L has none, but it must be noted that other British dictionaries lack them also, so L need not have included them purely for competitive reasons in the main market it is intended to serve.. Hypothesis: The illustrations in W are very artistic and beautiful",
+            "output": "neutral"
+        },
+        "165": {
+            "input": "Premise: In the most extreme case, a stock-out might cause a customer to switch retailers, costing the lifetime value of that customer and others who might defect due to negative word-of-mouth.. Hypothesis: A customer must stick with the same retailer once they choose one.",
+            "output": "contradiction"
+        },
+        "166": {
+            "input": "Premise: They were armed and under NORAD's control.. Hypothesis: They were eager to find and engage with their target.",
+            "output": "neutral"
+        },
+        "167": {
+            "input": "Premise: So you couldn't tell what kind, at night, what kind of people were going by, but you could hear clatter, because even beasts full of weapons, with, everything, you know?. Hypothesis: We were the safest at night when no one was allowed to walk by with a weapon.",
+            "output": "contradiction"
+        },
+        "168": {
+            "input": "Premise: When you give to Big Sisters, you can get 50 percent back!. Hypothesis: Big Sisters does not offer any tax incentives.",
+            "output": "contradiction"
+        },
+        "169": {
+            "input": "Premise: In all the ways just mentioned, parents and other adults are vital conveyers of culture, through direct teaching of attitudes and values and through the pervasive imprint of culture on the settings and activities they provide for children.. Hypothesis: Parents convey the culture to the children using all their small behaviors.",
+            "output": "neutral"
+        },
+        "170": {
+            "input": "Premise: The baby has learned that only when he is distraught will the parent reliably come to his aid.. Hypothesis: The baby has learned that the AR-15 is only a semi automatic rifle.",
+            "output": "neutral"
+        },
+        "171": {
+            "input": "Premise: I will call you in a few weeks to discuss your level of interest.. Hypothesis: I don't have time to call you to talk about your level of interest in a few weeks.",
+            "output": "contradiction"
+        },
+        "172": {
+            "input": "Premise: If you try to make any moves, you'll endanger yourself and the airplane.. Hypothesis: You should feel at liberty to move around as you like,",
+            "output": "contradiction"
+        },
+        "173": {
+            "input": "Premise: Controllers would notify their supervisors, who in turn would inform management all the way up to FAA headquarters in Washington.. Hypothesis: The controllers wouldn't notify their managers and the managers wouldn't notify the FAA.",
+            "output": "contradiction"
+        },
+        "174": {
+            "input": "Premise: She was kind of headstrong and she was, um, kind of artistic maybe, and, uh, uh, liked to have a good sense of humor.. Hypothesis: She valued good humor above all else.",
+            "output": "neutral"
+        },
+        "175": {
+            "input": "Premise: Thus the military did not have 14 minutes to respond to American 77, as testimony to the Commission in May 2003 suggested.. Hypothesis: The testimony to the Commission suggested how long the military had to respond to American 77.",
+            "output": "entailment"
+        },
+        "176": {
+            "input": "Premise: As shown in the cases studied in Chapter 7, production-cycle time and inventory carrying costs are two crucial parameters in making rapid replenishment sourcing decisions.. Hypothesis: There were no cases studied in the seventh chapter.",
+            "output": "contradiction"
+        },
+        "177": {
+            "input": "Premise: Only after a common convention for bar codes had been established and in use for several years did retailers turn to such systems to transmit and receive data from suppliers.. Hypothesis: Retailers only adopted the use of such systems once bar codes had become common practice.",
+            "output": "entailment"
+        },
+        "178": {
+            "input": "Premise: ' The atom was named before it was split.. Hypothesis: The atom was only named once it had been split.",
+            "output": "contradiction"
+        },
+        "179": {
+            "input": "Premise: Texas has contributed a few good words to the English language without any help from Spanish or Mexican.. Hypothesis: A few good words have been contributed by Michigan, which can not be said about Texas.",
+            "output": "contradiction"
+        },
+        "180": {
+            "input": "Premise: Consistent with Vygotsky's concept of the  zone,  sensitive parents adjust the way they talk about emotions to fit children's increasing competence.. Hypothesis: Sensitive parents do not adjust their communication to fit their child's increasing competence.",
+            "output": "contradiction"
+        },
+        "181": {
+            "input": "Premise:   )The word and concept are Jack Williamson's, from a 1942 story,  Seetee Ship. . Hypothesis: The Seetee Ship is Jack Williamson's most famous story.",
+            "output": "neutral"
+        },
+        "182": {
+            "input": "Premise: There was one particular woman I don't recall her name.. Hypothesis: I don't remember that woman's name. ",
+            "output": "entailment"
+        },
+        "183": {
+            "input": "Premise: Um, I don't think I'll be able to settle down here though, because most of my relatives live up north.. Hypothesis: I might end up settling down here. ",
+            "output": "contradiction"
+        },
+        "184": {
+            "input": "Premise: Do you ever tell this story yourself?. Hypothesis: Do you ever smash your head into the wall?",
+            "output": "contradiction"
+        },
+        "185": {
+            "input": "Premise: Let's Sports! (ad for an athletic club)' . Hypothesis: The ad was brightly colored and had a football player on it.",
+            "output": "neutral"
+        },
+        "186": {
+            "input": "Premise: Not too many stories about Grandmom and Grandpop though they were pretty quiet.. Hypothesis: Turns out my grandparents were some of the wildest people you'll ever meet.",
+            "output": "contradiction"
+        },
+        "187": {
+            "input": "Premise: Do you ever tell this story yourself?. Hypothesis: Is that a story you tell?",
+            "output": "entailment"
+        },
+        "188": {
+            "input": "Premise: If my father bought it, it would have to be a Dodge.. Hypothesis: I never knew my father but I wish that I could.",
+            "output": "contradiction"
+        },
+        "189": {
+            "input": "Premise: Um, yes y'all need to include that picture with my little dysentery here, uh disinter, I guess it is.. Hypothesis: I don't need any pictures.",
+            "output": "contradiction"
+        },
+        "190": {
+            "input": "Premise: The paper marker identifies each piece in the layout so that the cloth pieces for individual apparel items can be put together after the fabric is cut.. Hypothesis: The paper marker makes putting together the items more efficient.",
+            "output": "entailment"
+        },
+        "191": {
+            "input": "Premise: And I said to him, And what is that for?. Hypothesis: I asked him what that was for.",
+            "output": "entailment"
+        },
+        "192": {
+            "input": "Premise: The controller checked to see if American Airlines could establish communication with American 11.. Hypothesis: The controller gave up trying to find a signal and declared American 11 a lost cause.",
+            "output": "contradiction"
+        },
+        "193": {
+            "input": "Premise: At 9:36, the FAA's Boston Center called NEADS and relayed the discovery about an unidentified aircraft closing in on Latest report.. Hypothesis: After nine o'clock, the Boston Center relayed the discovery to NEADS.",
+            "output": "entailment"
+        },
+        "194": {
+            "input": "Premise: Parents must ask questions like  . Hypothesis: Parents should never ask any questions",
+            "output": "contradiction"
+        },
+        "195": {
+            "input": "Premise: How do they feel about your being a Theater major?. Hypothesis: Do they support your decision to change majors?",
+            "output": "neutral"
+        },
+        "196": {
+            "input": "Premise:  From General Stores to Mass Retailers. Hypothesis: Mass retailers came before general stores.",
+            "output": "contradiction"
+        },
+        "197": {
+            "input": "Premise: Finding the correct parts for a shirt can often involve a hunt through the plant.. Hypothesis: There's never any need to hunt for a shirt's correct parts.",
+            "output": "contradiction"
+        },
+        "198": {
+            "input": "Premise: While the evidence of Iranian involvement is strong, there are also signs that al Qaeda played some role, as yet unknown.. Hypothesis: There is no evidence linking Iran to this.  ",
+            "output": "contradiction"
+        },
+        "199": {
+            "input": "Premise: You never call.. Hypothesis: You often call. ",
+            "output": "contradiction"
+        },
+        "200": {
+            "input": "Premise: For one thing, he documents many neologisms, an activity that endears him to many working lexicographers.. Hypothesis: Neologism is itself a neologism that he invented.",
+            "output": "neutral"
+        }
+    }
+}

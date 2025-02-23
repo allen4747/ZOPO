@@ -1,0 +1,807 @@
+{
+    "metadata": {
+        "num_examples": 200
+    },
+    "examples": {
+        "1": {
+            "input": "Premise: oh really it wouldn't matter if we plant them when it was starting to get warmer. Hypothesis: The plants are strictly seasonal, only grown during the winter.",
+            "output": "contradiction"
+        },
+        "2": {
+            "input": "Premise: Do you know what this is?\" With a dramatic gesture she flung back the left side of her coat and exposed a small enamelled badge.. Hypothesis: She was not wearing a coat during the time.",
+            "output": "contradiction"
+        },
+        "3": {
+            "input": "Premise: Finally, the Administration strongly opposes including reductions for CO2 in S. 556 or any multi-pollutant bill.. Hypothesis: Any multi-pollutant bill is opposed by the Administration, that means people will be happy about that.",
+            "output": "neutral"
+        },
+        "4": {
+            "input": "Premise: For the first time I entertained the idea of taking my talents to that particular market\u2026 .. Hypothesis: I had thought of doing it many times, but I knew I would fail.",
+            "output": "contradiction"
+        },
+        "5": {
+            "input": "Premise: they don't call them immigrants anymore that was back during my granddaddy's day. Hypothesis: They never called them immigrants.",
+            "output": "contradiction"
+        },
+        "6": {
+            "input": "Premise: i can't do any jumping up and down because it makes it hurt. Hypothesis: The pain is too much after jumping, it needs surgery.",
+            "output": "neutral"
+        },
+        "7": {
+            "input": "Premise: Information is the resource-extractive industry of the next century, and the concept of intellectual property --a term that dates back 150 years--comes up when individuals or companies assert a particular claim and embody it in the form of copyrights, trademarks, and patents.. Hypothesis: Copyrights, trademarks, and patents don't always protect you from intellectual property theft.",
+            "output": "neutral"
+        },
+        "8": {
+            "input": "Premise: right oh they've really done uh good job of keeping everybody informed of what's going on sometimes i've wondered if it wasn't almost more than we needed to know. Hypothesis: After sharing all information with everyone, I think I may have shared too much. ",
+            "output": "entailment"
+        },
+        "9": {
+            "input": "Premise: no i i just painted. Hypothesis: I painted just now. ",
+            "output": "entailment"
+        },
+        "10": {
+            "input": "Premise: From ethnic food shops and vintage clothing stores to electronics and book shops, there are so many interesting shopping spots that it is hard to imagine their breadth and depth.. Hypothesis: There are a wide variety of shopping spots, including ethnic food grocery stores, vintage clothing stores, electronic stores, book stores, and many more.",
+            "output": "entailment"
+        },
+        "11": {
+            "input": "Premise: looking at that and you know and if it's if it's funny or if it keeps my interest if it's exciting i'll watch it if not i don't and times that i saw that or pieces of that it wasn't any it wasn't great Thirty Something i watched a few times because there was a few good episodes and then after that it it i just lost interest in it. Hypothesis: I've never watched Thirty Something because none of the episodes were any good.",
+            "output": "contradiction"
+        },
+        "12": {
+            "input": "Premise: Most produce is locally grown, with some from the restaurant's own organic garden.. Hypothesis: Most produce is local.",
+            "output": "entailment"
+        },
+        "13": {
+            "input": "Premise: After their savage battles, the warriors recuperated through meditation in the peace of a Zen monastery rock garden.. Hypothesis: The warriors had savage battles at a Zen monastery rock garden.",
+            "output": "contradiction"
+        },
+        "14": {
+            "input": "Premise:  Medicare gross outlay projections based on intermediate assumptions of the 2001 HI and SMI Trustees' reports.. Hypothesis: HI and SMI Trustee reports were used to estimate future Medicare costs.",
+            "output": "entailment"
+        },
+        "15": {
+            "input": "Premise: Guards would regulate those who entered and departed.. Hypothesis: Guards had big guns and swords.",
+            "output": "neutral"
+        },
+        "16": {
+            "input": "Premise: yeah because being a student i'm doing it for the money. Hypothesis: I'm no longer a student, so I don't need the money anymore.",
+            "output": "contradiction"
+        },
+        "17": {
+            "input": "Premise: As Jon looked at him, Barnam puffed out his chest.. Hypothesis: Barnam puffed out his chest when Jon looked at him.",
+            "output": "entailment"
+        },
+        "18": {
+            "input": "Premise: The Romans built roads and established towns, including the towns of Palmaria (Palma) and Pollentia (near present-day Alc??dia).. Hypothesis: Some of the original towns built by the Romans are still in existence.",
+            "output": "neutral"
+        },
+        "19": {
+            "input": "Premise: he's not a starter. Hypothesis: He is the one they always have starting.",
+            "output": "contradiction"
+        },
+        "20": {
+            "input": "Premise: The most important directions are simply up and up leads eventually to the cathedral and fortress commanding the hilltop, and down inevitably leads to one of three gates through the wall to the new town.. Hypothesis: The cathedral and fortress are located higher while the gates are below.",
+            "output": "entailment"
+        },
+        "21": {
+            "input": "Premise: Then he gave in.. Hypothesis: He gave in to the pain.",
+            "output": "neutral"
+        },
+        "22": {
+            "input": "Premise: The Indigenous Project, a new program run by the Oregon Law Center, is one of only a handful of places in the United States where indigenous farmworkers from Mexico and Central America can find free and confidential legal aid.. Hypothesis: The Indigenous Project is run by the Nebraska Law Center.",
+            "output": "contradiction"
+        },
+        "23": {
+            "input": "Premise: Vatican II gave rise to a less hierarchical and more outward-looking Catholicism and set the stage for once-unthinkable innovations like plainclothes nuns and the celebration of the Mass in English and other modern languages.. Hypothesis: Vatican II led to a greater centralization of power within the Catholic church.",
+            "output": "contradiction"
+        },
+        "24": {
+            "input": "Premise: An overall increase in prices is only possible when there has been an overall increase in the amount of money in circulation.. Hypothesis: Prices always increase, regardless of the money in circulation.",
+            "output": "contradiction"
+        },
+        "25": {
+            "input": "Premise: The city plans to build a community center for Lincoln Place and a future fire station on the site.. Hypothesis: The fire station that the city will build is going to be painted red and very large.",
+            "output": "neutral"
+        },
+        "26": {
+            "input": "Premise: That analysis is guided by an economist's faith in the maxim that people are generally pretty good at looking out for their own interests.. Hypothesis: The analysis is guided by the belief that people are generally good at looking into their own interests ",
+            "output": "entailment"
+        },
+        "27": {
+            "input": "Premise: It is not possible to walk up through the water as at Dunn's River, but steps have been erected at the side of the water to take you to a platform at the foot of the first cascade.. Hypothesis: Just as at Dunn's River, you can wade up through the water to the platform.",
+            "output": "contradiction"
+        },
+        "28": {
+            "input": "Premise: Acute Bronchitis Upper Respiratory Symptoms Lower Respiratory Symptoms Work Loss Days Minor Restricted Activity Days (minus asthma attacks). Hypothesis: Acute bronchitis does not lead to loss of work days.",
+            "output": "contradiction"
+        },
+        "29": {
+            "input": "Premise: Saint-Paul-de-Vence. Hypothesis: Saint-Paul-de-Vence",
+            "output": "entailment"
+        },
+        "30": {
+            "input": "Premise: Beside the fortress lies an 18th-century caravanserai, or inn, which has been converted into a hotel, and now hosts regular folklore evenings of Turkish dance and music.. Hypothesis: The 18th century caravanserai is now a hotel.",
+            "output": "entailment"
+        },
+        "31": {
+            "input": "Premise: General Motors, for instance, lost $460 million to strikes in 1997, but investors treated the costs as a kind of extraordinary charge and valued the company as if the losses had never happened.. Hypothesis: GM lost a lot of money in labor disputes.",
+            "output": "entailment"
+        },
+        "32": {
+            "input": "Premise: On various episodes he is a member, along with Bluebeard and the Grim Reaper, of the Jury of the Damned; he takes part in a snake-bludgeoning (in a scandal exposed by a Bob Woodward book); his enemies list is used for dastardly purposes; even his dog Checkers is said to be bound for hell.. Hypothesis: There are no episodes where he is a member of anything.",
+            "output": "contradiction"
+        },
+        "33": {
+            "input": "Premise: His fantastic body could heal itself against whatever they did to him, and his mind refused to accept the torture supinely.. Hypothesis: His weak body could not heal itself against the tiniest scratch.",
+            "output": "contradiction"
+        },
+        "34": {
+            "input": "Premise: away from the children. Hypothesis: No adults allowed near the children",
+            "output": "neutral"
+        },
+        "35": {
+            "input": "Premise: It is not a surprise, either, that Al Pacino chews the scenery in Devil's Advocate . And the idea that if the devil showed up on Earth he'd be running a New York corporate-law firm is also, to say the least, pre-chewed.. Hypothesis: Nobody expects that the devil would take the form of a lawyer.",
+            "output": "contradiction"
+        },
+        "36": {
+            "input": "Premise: it depends a lot of uh a lot of things were thought that uh as you know the farmers thought okay we got chemicals we're putting chemicals on the field well the ground will naturally filter out the. Hypothesis: There is not point in putting farming chemicals in the ground.",
+            "output": "contradiction"
+        },
+        "37": {
+            "input": "Premise: A newly unified Christian Spain under the Catholic Monarchs, Ferdinand and Isabella, completed the Reconquest, defeating the only Moorish enclave left on the Iberian peninsula, Granada, in 1492.. Hypothesis: The last Moorish enclave was defeated in 1492.",
+            "output": "entailment"
+        },
+        "38": {
+            "input": "Premise: The author began with a set of hunches or hypotheses about what can go wrong in agency management, and what would be evidence supporting-or contradicting-these hypotheses.. Hypothesis: The hunches provided by the author weren't realistic as it pertains to agency management.",
+            "output": "neutral"
+        },
+        "39": {
+            "input": "Premise: So it wasn't Missenhardt's singing--marvelous though that was--that made Osmin's rantings so thrilling.. Hypothesis: Osmin went off on a rant every day.",
+            "output": "neutral"
+        },
+        "40": {
+            "input": "Premise: There's only one thing for me to do.\". Hypothesis: I've exhausted all my other options.",
+            "output": "neutral"
+        },
+        "41": {
+            "input": "Premise: yeah well at least as they told us uh two shifts. Hypothesis: They said there was only one shift.",
+            "output": "contradiction"
+        },
+        "42": {
+            "input": "Premise:  He caught a grip on himself, fighting the fantasies of his mind, and took another breath of air.. Hypothesis: The air tasted like molten metal - the taste of blood.",
+            "output": "neutral"
+        },
+        "43": {
+            "input": "Premise: Since the rules were issued as interim rules and not as general notices of proposed rulemaking, they are not subject to the Unfunded Mandates Reform Act of 1995.. Hypothesis: The rules were  not issued as interim rules but rather general notices of proposed rulemaking.",
+            "output": "contradiction"
+        },
+        "44": {
+            "input": "Premise: yeah and i'll do this uh sometimes i'll put my after I pour that into my back into my saucepan i'll put the eggs in the same dish and beat them up and then pour the cornstarch and the milk mixture in the egg so. Hypothesis: Sometimes I put the eggs in the same dish and add the cornstarch.",
+            "output": "entailment"
+        },
+        "45": {
+            "input": "Premise: well what is it. Hypothesis: Tell me what it is.",
+            "output": "entailment"
+        },
+        "46": {
+            "input": "Premise: to uh working a steady eight hour job as it were i had been working for a camp and had relatively real long hours sixteen years old and could handle getting up at five and not getting to bed until ten or eleven and. Hypothesis: I had been working all day long for a camp.",
+            "output": "entailment"
+        },
+        "47": {
+            "input": "Premise: The Wither's eldest boy, one of the four of the town militia, saluted in the old style with his stick sword.. Hypothesis: The Wither's only had daughters. ",
+            "output": "contradiction"
+        },
+        "48": {
+            "input": "Premise: The University of Nevada-Las Vegas boasts a student population over 23,000 (though, like most of the people in Las Vegas, they are commuters).. Hypothesis: The University of Nevada doesn't allow students to commute.",
+            "output": "contradiction"
+        },
+        "49": {
+            "input": "Premise: The park was established in 1935 and was given Corbett's name after India became independent.. Hypothesis: The name of the park has always been Corbett.",
+            "output": "contradiction"
+        },
+        "50": {
+            "input": "Premise: To their good fortune, he's proving them right.. Hypothesis: He is showing that they are wrong.",
+            "output": "contradiction"
+        },
+        "51": {
+            "input": "Premise: Leather Wares. Hypothesis: The wares are made of leather.",
+            "output": "entailment"
+        },
+        "52": {
+            "input": "Premise: This was built 15 years earlier by Jahangir's wife, Nur Jahan, for her father, who served as Mughal Prime Minister.. Hypothesis: Nur Jahan's father served as the Prime Minister of Mughal. ",
+            "output": "entailment"
+        },
+        "53": {
+            "input": "Premise: And she came to you?. Hypothesis: The person asked if the woman came to him.",
+            "output": "entailment"
+        },
+        "54": {
+            "input": "Premise: Whether you drink beer or alcohol or not, a trip to Dublin isn't complete without a visit to some of its pubs don't miss this experience.. Hypothesis: If you don't drink, don't bother visiting the pubs in London.",
+            "output": "contradiction"
+        },
+        "55": {
+            "input": "Premise: That, too, was locked or bolted on the inside. . Hypothesis: It too was locked inside.",
+            "output": "entailment"
+        },
+        "56": {
+            "input": "Premise: well that's uh i agree with you there i mean he didn't have the surrounding cast that Montana had there's no doubt about that. Hypothesis: I don't agree when you say that he didn't have as much support as Montana.",
+            "output": "contradiction"
+        },
+        "57": {
+            "input": "Premise: How did this man know?. Hypothesis: The man knew something.",
+            "output": "entailment"
+        },
+        "58": {
+            "input": "Premise: Search out the House of Dionysos and the House of the Trident with their simple floor patterns, and the House of Dolphins and the House of Masks for more elaborate examples, including Dionysos riding a panther, on the floor of the House of Masks.. Hypothesis: The floor patterns of the House of the Trident are very intricate.",
+            "output": "contradiction"
+        },
+        "59": {
+            "input": "Premise: Seemingly endemic corruption was compounded by a remarkable dearth of political leadership and decisive action.. Hypothesis: There is massive corruption in the political system.",
+            "output": "entailment"
+        },
+        "60": {
+            "input": "Premise: A student visa overstayer is not going to be a high priority for pro bono assistance.. Hypothesis: Overstaying a student visa will make pro bono assistance difficult.",
+            "output": "entailment"
+        },
+        "61": {
+            "input": "Premise: no never heard of it. Hypothesis: He does not know what it is.",
+            "output": "neutral"
+        },
+        "62": {
+            "input": "Premise: Ca'daan felt his skin get hot and unable to come up with any suitable response, moved on.. Hypothesis: Ca'daan was freezing!",
+            "output": "contradiction"
+        },
+        "63": {
+            "input": "Premise: i think that the people that are um have um a lower income which you automatically equate with lower education. Hypothesis: I think because you have lower income you are less educated.",
+            "output": "neutral"
+        },
+        "64": {
+            "input": "Premise: yeah so it's easy to do i'm actually interested in getting one of those kind of my wife has been talking about this in the past couple of years one of those kind of campers that pop-up so it's about uh maybe eight foot square and but only about two feet tall and when you get to where you're going it raises up and there's tenting material. Hypothesis: I don't want a camper like that.",
+            "output": "contradiction"
+        },
+        "65": {
+            "input": "Premise: yeah but uh do you have small kids. Hypothesis: It matters not if children are involved.",
+            "output": "contradiction"
+        },
+        "66": {
+            "input": "Premise: life track. Hypothesis: Jobs and work.",
+            "output": "neutral"
+        },
+        "67": {
+            "input": "Premise: But in fact Haveman and Wolfe's statistical analysis is designed to rule out this and similar alternative theories, leaving us to conclude that the moves themselves are harmful.. Hypothesis: We think these moves are benevolent.",
+            "output": "contradiction"
+        },
+        "68": {
+            "input": "Premise: Oh, my friend, have I not said to you all along that I have no proofs. . Hypothesis: I've always had the proof that he did it.",
+            "output": "contradiction"
+        },
+        "69": {
+            "input": "Premise: Each edition of the DSM is the product of arguments, negotiations, and compromises.. Hypothesis: No arguments are made for each edition of the DSM.",
+            "output": "contradiction"
+        },
+        "70": {
+            "input": "Premise: However, the extent to which these comments were electronically available and the role that this access played in the rulemaking process varied substantially.. Hypothesis: There was great variance in the extent to which these comments were available electronically.",
+            "output": "entailment"
+        },
+        "71": {
+            "input": "Premise: Congress' determination to make agencies accountable for their performance lay at the heart of two landmark reforms of the 1990 the Chief Financial Officers (CFO) Act of 1990 and the Government Performance and Results Act of 1993 (GPRA).. Hypothesis: The CFO and GPRA Acts have been successful in keeping agencies honest. ",
+            "output": "neutral"
+        },
+        "72": {
+            "input": "Premise: Rather, kids today are not only little bundles of joy but also are perhaps the ultimate symbols of worldly success and status.. Hypothesis: Children today are symbols of success and status.",
+            "output": "entailment"
+        },
+        "73": {
+            "input": "Premise: Criminal discovered in last chapter. . Hypothesis: Criminal is never discovered.",
+            "output": "contradiction"
+        },
+        "74": {
+            "input": "Premise: San'doro didn't make it sound hypothetical, thought Jon.. Hypothesis: San'doro didn't sound like that was still merely a thought, mused Jon; what was he planning to do against him?",
+            "output": "neutral"
+        },
+        "75": {
+            "input": "Premise: Now it's my turn, and even if I'm walking in a dead man's shoes, I can make my way afresh.. Hypothesis: It's my turn to change things for myself.",
+            "output": "entailment"
+        },
+        "76": {
+            "input": "Premise: The cover story details the disturbing behavior of the Littleton killers before last week's massacre.. Hypothesis: The story has childhood pictures of the killers.",
+            "output": "neutral"
+        },
+        "77": {
+            "input": "Premise: uh it's in Georgia it's yeah it's right outside of Macon and and it's just a i like the way that i like the way that idea of the south is. Hypothesis: It's located just outside of Macon in Georgia.",
+            "output": "entailment"
+        },
+        "78": {
+            "input": "Premise: Therefore, the number of boilermakers may actually grow more quickly than what was assumed.. Hypothesis: The number of boilermakers increases at a rate of 1.26.",
+            "output": "neutral"
+        },
+        "79": {
+            "input": "Premise: We still espouse a God-given right of human beings to use the environment for their benefit, says Barrett Duke of the Southern Baptists.. Hypothesis: Duke says we can use the environment to our benefit.",
+            "output": "entailment"
+        },
+        "80": {
+            "input": "Premise: [W]e have a book worthy of its subject--graceful, astonishingly well researched, yet imbued with a sense of flow that is rarely achieved at this level of scholarship, says Daphne Merkin in the New York Times Book Review . (See Sarah Kerr's review in Slate.). Hypothesis: The woman gave the book a high rating with her review.",
+            "output": "entailment"
+        },
+        "81": {
+            "input": "Premise: uh high humidity. Hypothesis: Cold and dry.",
+            "output": "contradiction"
+        },
+        "82": {
+            "input": "Premise: 120 \"You do not think I ought to go to the police?\". Hypothesis: So you want me to call the cops?",
+            "output": "contradiction"
+        },
+        "83": {
+            "input": "Premise: Asked about abortion the other day on CNN, Republican National Committee Chairman Jim Nicholson also invoked what is apparently the party-line  inclusive party.. Hypothesis: The Republican National Committee Chairman gave the party's standard answer on the subject of abortion when he was asked about it on CNN.",
+            "output": "entailment"
+        },
+        "84": {
+            "input": "Premise: And there was me.. Hypothesis: I was also there, although I wasn't very noticeable, as usual.",
+            "output": "neutral"
+        },
+        "85": {
+            "input": "Premise: I had rejected it as absurd, nevertheless it persisted. . Hypothesis: It persisted even after I rejected it as an absurdity.",
+            "output": "entailment"
+        },
+        "86": {
+            "input": "Premise: A group of guys went out for a drink after work, and sitting at the bar was a real  a 6 foot blonde with a fabulous face and figure to match.. Hypothesis: The men wanted to hit on the beautiful blonde at the bar. ",
+            "output": "neutral"
+        },
+        "87": {
+            "input": "Premise: After the second course I began to feel slightly at ease, although I couldn't help being disturbed by the way they just stared at me.. Hypothesis: I felt nervous that they were going to poison me.",
+            "output": "neutral"
+        },
+        "88": {
+            "input": "Premise: it takes so much i mean it's like of course it does i mean by the times it transforms into Wave by mark off model and you put it in there and you want to correct those and then you know you're trying to make the the Wave smooth so you can approximately of course it's going to take a lot. Hypothesis: It does not take anything.",
+            "output": "contradiction"
+        },
+        "89": {
+            "input": "Premise: Critics praise Goodman's finely honed descriptive abilities and instinctive grasp of familial dynamics, the ways in which dreams and emotional habits are handed down .... Hypothesis: Emotional habits and dreams are always derived from candy and popcorn.",
+            "output": "contradiction"
+        },
+        "90": {
+            "input": "Premise: so it's sociology. Hypothesis: so it's biology",
+            "output": "contradiction"
+        },
+        "91": {
+            "input": "Premise: 2. Receiving Water Samples. Hypothesis: The water samples are received by the lab.",
+            "output": "neutral"
+        },
+        "92": {
+            "input": "Premise: Yes, undoubtedly the hand of Mr. Brown! Mr. Carter paused.. Hypothesis: No identity could be assigned to the severed appendage. ",
+            "output": "contradiction"
+        },
+        "93": {
+            "input": "Premise: The key question may be not what Hillary knew but when she knew it.. Hypothesis: We know Hillary knew it, the question is when she knew it.",
+            "output": "entailment"
+        },
+        "94": {
+            "input": "Premise: You are sure that you did not in any way disclose your identity?\" Tommy shook his head.. Hypothesis: You are sure that you did not in any way disclose that your last name is Smith? ",
+            "output": "neutral"
+        },
+        "95": {
+            "input": "Premise: To some critics, the mystery isn't, as Harris suggests, how women throughout history have exploited their sexual power over men, but how pimps like him have come away with the profit.. Hypothesis: Some critics think that it is a mystery how pimps have profited from women's sexuality.",
+            "output": "entailment"
+        },
+        "96": {
+            "input": "Premise: So, which one of you ladies wants to go first.. Hypothesis: There is a question of who should go first.",
+            "output": "entailment"
+        },
+        "97": {
+            "input": "Premise: Thus, recent evidence suggests that by not including an estimate of reductions in short-term mortality due to changes in ambient ozone, both the Base and Alternative Estimates may underestimate the benefits of implementation of the Clear Skies Act.. Hypothesis: Recent findings say that Base and Alternative estimates may not quite see all of the benefits of the Clear Skies Act.",
+            "output": "entailment"
+        },
+        "98": {
+            "input": "Premise: Do you think I should be concerned?. Hypothesis: Do you think it is a problem?",
+            "output": "entailment"
+        },
+        "99": {
+            "input": "Premise: 4 billion for mercury.. Hypothesis: Cleaning up mercury pollution costs billions of dollars every year.",
+            "output": "neutral"
+        },
+        "100": {
+            "input": "Premise: In a six-year study, scientists fed dogs and other animals irradiated chicken and found no evidence of increased cancer or other toxic effects.. Hypothesis: Scientists gave animals irradiated chicken and they were fine.",
+            "output": "entailment"
+        },
+        "101": {
+            "input": "Premise: The researchers found expected stresses like the loss of a check in the mail and the illness of loved ones.. Hypothesis: The stresses affected people much diffferently than the researchers expected.",
+            "output": "contradiction"
+        },
+        "102": {
+            "input": "Premise: for me now the address is the same you know my my office address. Hypothesis: My office won't accept any personal mail.",
+            "output": "neutral"
+        },
+        "103": {
+            "input": "Premise: no not it not no it's a it's not something. Hypothesis: It's not something",
+            "output": "entailment"
+        },
+        "104": {
+            "input": "Premise: Inside are leather-bound regimental books with each serviceperson's name duly inscribed.. Hypothesis: There are books that have each person's name.",
+            "output": "entailment"
+        },
+        "105": {
+            "input": "Premise: The governing statute provides that a committee consisting of the Comptroller General, the Speaker of the House and President Pro Tempore of the Senate, the Majority and Minority leaders, and the Chairmen and Ranking Minority Members of the Senate Governmental Affairs and House Government Reform Committees recommend an individual to the President for appointment.. Hypothesis: The process is long and will be reformed in the coming years.",
+            "output": "neutral"
+        },
+        "106": {
+            "input": "Premise:  The Romans never really infiltrated Ibiza, and even after the defeat of Hannibal in 202 b.c. during the Second Punic War their influence was restrained.. Hypothesis: The Romans didn't infiltrate Ibiza because it wasn't valuable.",
+            "output": "neutral"
+        },
+        "107": {
+            "input": "Premise: In that case, price discrimination can survive.. Hypothesis: In that circumstance, discrimination in price is fine.",
+            "output": "entailment"
+        },
+        "108": {
+            "input": "Premise: As a result, EPA could not ensure that it was directing its efforts toward the environmental problems that were of greatest concern to citizens or posed the greatest risk to the health of the population or the environment itself.. Hypothesis: EPA couldn't ensure it was directing its efforts toward the environmental problem.",
+            "output": "entailment"
+        },
+        "109": {
+            "input": "Premise: okay i'll keep that in mind yeah you serve that yourself or the for a family. Hypothesis: Ok I will remember that. You serve that for yourself or a family.",
+            "output": "entailment"
+        },
+        "110": {
+            "input": "Premise: In fact, you're going to be rewarded.. Hypothesis: Indeed, you will get a prize.",
+            "output": "entailment"
+        },
+        "111": {
+            "input": "Premise: It must also report the information to the employee's home agency promptly to facilitate disbursement of pay by the home agency.. Hypothesis: The information is all reported at once at the end of the fiscal year.",
+            "output": "neutral"
+        },
+        "112": {
+            "input": "Premise: But if Clinton consents, censure and community service can proceed.. Hypothesis: The community service will proceed if Clinton allows it.",
+            "output": "entailment"
+        },
+        "113": {
+            "input": "Premise: Occasionally, he'd wince and apologise for any incoherence.. Hypothesis: He would never apologize for his incoherent speech.",
+            "output": "contradiction"
+        },
+        "114": {
+            "input": "Premise: and it's just like college too i think that if a kid goes to college and you can help them fine but i don't think you should pay the whole way. Hypothesis: If you pay for the entire thing, the kid will not understand the importance of money fully.",
+            "output": "neutral"
+        },
+        "115": {
+            "input": "Premise: You name it L.A.'s got it.. Hypothesis: L.A. doesn't offer much of anything.",
+            "output": "contradiction"
+        },
+        "116": {
+            "input": "Premise: oh that sounds interesting too. Hypothesis: That sounds as intriguing as the premise of this book.",
+            "output": "neutral"
+        },
+        "117": {
+            "input": "Premise: Because GAO's primary function is to support the Congress in carrying out its decision-making and oversight responsibilities, the number of times our experts testify before congressional panels each year is an indicator of our responsiveness and reflects the impact, importance, and value of our work.. Hypothesis: They refused to provide any support to the Congress.",
+            "output": "contradiction"
+        },
+        "118": {
+            "input": "Premise: The questions may need to be tailored to. Hypothesis: A majority of the questions referenced will need to be tailored to.",
+            "output": "neutral"
+        },
+        "119": {
+            "input": "Premise: Too bad it chose to use McIntyre instead.. Hypothesis: McIntyre was picked to be used.",
+            "output": "entailment"
+        },
+        "120": {
+            "input": "Premise: Hamon said the proposed bill has attracted a number of co-sponsors, and Legal Aid backers are hoping to get it passed in the upcoming legislative session.. Hypothesis: The proposed bill would make Legal Aid accessible to more people.",
+            "output": "neutral"
+        },
+        "121": {
+            "input": "Premise: and you know if i know that they're gonna be there you know you you i try to really watch it and like you say you know really dress up and if i know they're not you know i i've been doing a lot of reorganization you know the last couple of months the same way you are you know and it's just so it's just impossible to crawl down on the floor and dig through boxes in a dress you know it is so. Hypothesis: I never try to watch it.",
+            "output": "contradiction"
+        },
+        "122": {
+            "input": "Premise: Oh, sorry, wrong church.. Hypothesis: It was the right church.",
+            "output": "contradiction"
+        },
+        "123": {
+            "input": "Premise: As long as Assad lives, he can manage these troubles and keep an agreement with Israel.. Hypothesis: The only way for Assad to take care of the trouble is for him to die. ",
+            "output": "contradiction"
+        },
+        "124": {
+            "input": "Premise: Component modularization and prefabrication off-site can reduce the amount of time cranes are needed on a site, as well as provide opportunities to reduce project schedules and construction costs and to concentrate jobs locally at the prefabrication facility.. Hypothesis: Reducing project schedules and the costs associated with construction increases the company's profits.",
+            "output": "neutral"
+        },
+        "125": {
+            "input": "Premise: oh boy it the i think it's like one or the other isn't it i mean you either. Hypothesis: I think it's one or the other kind of shirt.",
+            "output": "neutral"
+        },
+        "126": {
+            "input": "Premise: no i i even i enjoy reading T News i try to catch it because it's another example they just they just show you the words and the facts and they they don't offer any commentary and it gives me a quick chance to to be caught up during the day because you know we don't listen to the radio at work at all so i don't like to go the whole day without hearing anything. Hypothesis: We are bombarded with the news all day that when I get home I need to turn it off.",
+            "output": "contradiction"
+        },
+        "127": {
+            "input": "Premise: Crosethe Rue de Rivoli to the Palais-Royal, built for Car?\u00addi?\u00adnal Richelieu as his Paris residence in 1639, and originally named Palais-Cardinal.. Hypothesis: Crosethe Rue De Rivoli to the Palais-Royal was built for King Louis XVI.",
+            "output": "contradiction"
+        },
+        "128": {
+            "input": "Premise: Nabatean trading town on the route from Gaza to Petra .. Hypothesis: Between Gaza and Petra, there is a Nabatean trading town.",
+            "output": "entailment"
+        },
+        "129": {
+            "input": "Premise: When Jesus was born in about 4 b.c. , Joseph and Mary escaped Herod's paranoia by fleeing into Egypt with the new-born infant.. Hypothesis: The flight to Egypt and the precise timeline have been debated by historians for centuries.",
+            "output": "neutral"
+        },
+        "130": {
+            "input": "Premise: Changes in technology and its application to electronic commerce and expanding Internet applications will change the specific control activities that may be employed and how they are implemented, but the basic requirements of control will not have changed.. Hypothesis: Technology will make it so we have less control of activities. ",
+            "output": "neutral"
+        },
+        "131": {
+            "input": "Premise: He says men are here.. Hypothesis: He said that the men were not here. ",
+            "output": "contradiction"
+        },
+        "132": {
+            "input": "Premise: If the face has been getting longer at the bottom over the generations, it has been getting shorter (and broader) on top.. Hypothesis: The shape of the face doesn't change at all over the span of generations.",
+            "output": "contradiction"
+        },
+        "133": {
+            "input": "Premise: Twenty-eight grants targeted statewide web sites, which encompass not only all of the LSC programs in a state, but other state justice community partners.. Hypothesis: Grants aren't related to money.",
+            "output": "neutral"
+        },
+        "134": {
+            "input": "Premise: yep because it's when it's self propelled it's heavy yeah. Hypothesis: it's heavy when it's self propelled",
+            "output": "entailment"
+        },
+        "135": {
+            "input": "Premise: It's conceivable that some of these allegations are true, and there's no harm in checking them out, as long as the decedent's family agrees to participate.. Hypothesis: Some of the allegations might be true.",
+            "output": "entailment"
+        },
+        "136": {
+            "input": "Premise: We briefly discussed the Nazi angle. Hypothesis: We looked for more evidence about the Nazi angle.",
+            "output": "neutral"
+        },
+        "137": {
+            "input": "Premise: and the nurses aren't no see you have to pay that. Hypothesis: You have to pay for that.",
+            "output": "entailment"
+        },
+        "138": {
+            "input": "Premise: approaches for setting different requirements for sources that pose different levels of hazard (tiering); worst-case releases and other hazard assessment issues; accident information reporting; public participation; inherently safer approaches; and implementation and integration of section 112(r) with state programs, particularly state air permitting programs.. Hypothesis: There are no hazards and therefore aren't any different requirements.",
+            "output": "contradiction"
+        },
+        "139": {
+            "input": "Premise: Since his death it has been transformed into the Bob Marley Museum and carefully managed by the Marley family to protect the memory of his life.. Hypothesis: The Marley family burned the museum down after Bob died.",
+            "output": "contradiction"
+        },
+        "140": {
+            "input": "Premise: Take a picnic and enjoy an alfresco lunch at this spectacular spot.. Hypothesis: This spot is a great place to have a picnic.",
+            "output": "entailment"
+        },
+        "141": {
+            "input": "Premise: In the other sight he saw Adrin's hands cocking back a pair of dragon-hammered pistols.. Hypothesis: Adrin was seen cocking a pistol in each hand out of the corner of his eye.",
+            "output": "neutral"
+        },
+        "142": {
+            "input": "Premise: DOD's common practice for managing this environment has been to create aggressive risk reduction efforts in its programs.. Hypothesis: The DOD increases risk to manage the environment.",
+            "output": "contradiction"
+        },
+        "143": {
+            "input": "Premise: i like the Moody Blues. Hypothesis: The Moody Blues are absolutely my favorite band.  ",
+            "output": "neutral"
+        },
+        "144": {
+            "input": "Premise: yeah i know the motor oil. Hypothesis: I know what they do with motor oil.",
+            "output": "neutral"
+        },
+        "145": {
+            "input": "Premise: In addition, we supported the creation of a 250-page Poverty Law Manual that introduces advocates to the fundamentals of poverty law.. Hypothesis: The manual has increased the utilization of poverty law services.",
+            "output": "neutral"
+        },
+        "146": {
+            "input": "Premise: Life, unlike Reich's book, is not a series of morality fables.. Hypothesis: Reich is a well-respected author.",
+            "output": "neutral"
+        },
+        "147": {
+            "input": "Premise: The conspiracy-minded allege that the chains also leverage their influence to persuade the big publishers to produce more blockbusters at the expense of moderate-selling books.. Hypothesis: Big publishers want to produce more high budget films, even if that means badly selling books.",
+            "output": "neutral"
+        },
+        "148": {
+            "input": "Premise: yeah i i think my favorite restaurant is always been the one closest  you know the closest as long as it's it meets the minimum criteria you know of good food. Hypothesis: I am not picky about what kind of food I eat I just don't want to travel far. ",
+            "output": "entailment"
+        },
+        "149": {
+            "input": "Premise: Beginning with his unsuccessful reconnoitring at Bournemouth, he passed on to his return to London, the buying of the car, the growing anxieties of Tuppence, the call upon Sir James, and the sensational occurrences of the previous night.. Hypothesis: His life had been slow and boring as of late. ",
+            "output": "contradiction"
+        },
+        "150": {
+            "input": "Premise: Small towns like Louisian lay scattered all over the Oil Fields; the main train line branched between them.. Hypothesis: There was only one town in the oil fields.",
+            "output": "contradiction"
+        },
+        "151": {
+            "input": "Premise: A small page-boy was waiting outside her own door when she returned to it.. Hypothesis: The page-boy she'd been expecting was gone, having waited too long for her to return.",
+            "output": "contradiction"
+        },
+        "152": {
+            "input": "Premise: I think it behooves Slate, in its effort to take over the public-opinion industry, to make a thorough effort to uncover the truth behind this unnatural connection.. Hypothesis: Slate should make an effort uncover the truth.",
+            "output": "entailment"
+        },
+        "153": {
+            "input": "Premise: At the same moment I felt a terrific blow on the back of my head\u2026 .\" She shuddered.. Hypothesis: I was hit on by a nerdy guy at the local bar. ",
+            "output": "contradiction"
+        },
+        "154": {
+            "input": "Premise: The Indigenous Project, a new program run by the Oregon Law Center, is one of only a handful of places in the United States where indigenous farmworkers from Mexico and Central America can find free and confidential legal aid.. Hypothesis: The Indigenous Project is run by the Oregon Law Center.",
+            "output": "entailment"
+        },
+        "155": {
+            "input": "Premise: Silverwork and Pewter. Hypothesis: Silvework and Petwer are related.",
+            "output": "neutral"
+        },
+        "156": {
+            "input": "Premise: You can alternate lazy days on the beach with some of the Medi?\u00adter?\u00adra?\u00adnean's best deep-sea diving, boat excursions around pirate coves, canoeing and fishing on inland rivers, or hikes and picnics in the mountains.. Hypothesis: Outdoor activities range from beach-going, deep-sea diving, boat excursions, canoeing, and fishing, to hikes and picnics out in the wilderness.",
+            "output": "entailment"
+        },
+        "157": {
+            "input": "Premise: She will step down from the court in December 2002.. Hypothesis: She's going to step down from the court in the winter of 2002, after all those years.",
+            "output": "neutral"
+        },
+        "158": {
+            "input": "Premise: As a result, their services may be more effective when conducted in the emergency department environment.. Hypothesis: Their services might be more effective if they're done in the OR.",
+            "output": "contradiction"
+        },
+        "159": {
+            "input": "Premise: NONFEDERAL PHYSICAL PROPERTY ANNUAL STEWARDSHIP INFORMATION For the Fiscal Year Ended September. Hypothesis: The report details federal physical property",
+            "output": "contradiction"
+        },
+        "160": {
+            "input": "Premise: But even managers who try to stay alert to these forces often gather their information anecdotally or informally.. Hypothesis: Managers don't ever gather information informally.",
+            "output": "contradiction"
+        },
+        "161": {
+            "input": "Premise: yeah right right yeah i know i uh i remember my college days  and having to do that too. Hypothesis: I didn't have to do that once I left college.",
+            "output": "neutral"
+        },
+        "162": {
+            "input": "Premise: A more unusual dish is azure, a kind of sweet porridge made with cereals, nuts, and fruit sprinkled with rosewater.. Hypothesis: Azure is the name of a coffee.",
+            "output": "contradiction"
+        },
+        "163": {
+            "input": "Premise: We hate them because they are smarter, or more studious, or more focused than we are.. Hypothesis: We hold no ill will towards them.",
+            "output": "contradiction"
+        },
+        "164": {
+            "input": "Premise: Challenges to Restore Public Confidence in. Hypothesis: The public has great confidence, despite the situation.",
+            "output": "contradiction"
+        },
+        "165": {
+            "input": "Premise: In the same issue, a document entitled Analysis Regarding The Food And Drug Administration's Jurisdiction Over Nicotine-Containing Cigarettes And Smokeless Tobacco Products was published and comments were requested.. Hypothesis: A document was published about the FDA's jurisdiction over cigarettes.",
+            "output": "entailment"
+        },
+        "166": {
+            "input": "Premise: (Imagine the difference between smoking a cigarette and injecting pure nicotine directly into a vein.). Hypothesis: Smoking a cigarette is a lot like injecting pure nicotine.",
+            "output": "neutral"
+        },
+        "167": {
+            "input": "Premise: For ideological free-marketeers (like myself), theories like Smith and Wright's can be intellectually jarring.. Hypothesis: I can appreciate their position even if it does contradict my opinions. ",
+            "output": "neutral"
+        },
+        "168": {
+            "input": "Premise: Have you got him?\". Hypothesis: Did you catch him?",
+            "output": "entailment"
+        },
+        "169": {
+            "input": "Premise: Don't you remember? Today we're going to auntie Basia's birthday party.'. Hypothesis: We are going to Aunt Basia's birthday party today, remember?",
+            "output": "entailment"
+        },
+        "170": {
+            "input": "Premise: Then he gave in.. Hypothesis: He gave in.",
+            "output": "entailment"
+        },
+        "171": {
+            "input": "Premise: The Revolutionaries couldn't be dissuaded from destroying most of the cathedral's statues, although 67 were saved (many of the originals are now housed in the Mus??e de l'Oeuvre Notre-Dame next door).. Hypothesis: Only 67 statues were able to be saved from the Revolutionaries destruction.",
+            "output": "entailment"
+        },
+        "172": {
+            "input": "Premise: Others love to see it in the middle of the heaviest monsoon, its marble translucent, its image blurred in the rain-stippled water channels of its gardens.. Hypothesis: Some people love to visit during the heaviest monsoon.",
+            "output": "entailment"
+        },
+        "173": {
+            "input": "Premise: Built in a.d. 688 691, it is decorated in thousands of exquisite, predominantly blue and yellow, Persian ceramic tiles, with Koranic scriptures on the lintels.. Hypothesis: It's decorated in hundreds of green and brown ceramic tiles.",
+            "output": "contradiction"
+        },
+        "174": {
+            "input": "Premise: His proud reserve--a product of 40 years in the spotlight--is refreshing but does not bode well for his capacity to shepherd big ideas through Congress.. Hypothesis: He is quiet but still gets lots of things through Congress.",
+            "output": "neutral"
+        },
+        "175": {
+            "input": "Premise: 3)  Dare you rise to the occasion, like Raskolnikov, and reject the petty rules that govern lesser men?. Hypothesis: Would you rise up and defeaat all evil lords in the town?",
+            "output": "neutral"
+        },
+        "176": {
+            "input": "Premise: 'Have you Mr. Whittington's address in town? . Hypothesis: I already have the address for Mr. Whittington, thank you. ",
+            "output": "contradiction"
+        },
+        "177": {
+            "input": "Premise: From 1998 through 2000, the federal government achieved surpluses, shifting from being a drain on net national saving to become a contributor to it.. Hypothesis: Government surplus contributed to net national saving.",
+            "output": "entailment"
+        },
+        "178": {
+            "input": "Premise: You're all right now.. Hypothesis: The struggle and pain is over. ",
+            "output": "neutral"
+        },
+        "179": {
+            "input": "Premise: It was here in 1952 that King Farouk signed his abdication before boarding his yacht for exile in Italy.. Hypothesis: King Farouk was exiled to Italy, and signed his abdication in 1952.",
+            "output": "entailment"
+        },
+        "180": {
+            "input": "Premise: Just north of the Shalom Tower is the Yemenite Quarter, its main attractions being the bustling Carmel market and good Oriental restaurants.. Hypothesis: The Carmel market in the Yemenite Quarter is very busy.",
+            "output": "entailment"
+        },
+        "181": {
+            "input": "Premise: Escaped or abandoned raccoons have been breeding in the wild for the past 20 years and have damaged corn crops, watermelon and melon farms, and rainbow trout hatcheries, the paper said.. Hypothesis: Raccoons, if they are escaped or abandoned, tend to damage things- this is what has been happening for the past 20 years - but many organizations are trying to solve the problem.",
+            "output": "neutral"
+        },
+        "182": {
+            "input": "Premise: One bakes Flipper.. Hypothesis: Flipper was baked.",
+            "output": "entailment"
+        },
+        "183": {
+            "input": "Premise: Long Bay is seven miles of sublime fine sand, gentle azure water, and cooling palm trees.. Hypothesis: The Long Bay is a nice place to receive a tan.",
+            "output": "neutral"
+        },
+        "184": {
+            "input": "Premise: The town is also known for its sparkling wine and for the caves where about 70 per?\u00adcent of France's cultivated mushrooms are grown.. Hypothesis: The town has a lot of sparkling wine.",
+            "output": "entailment"
+        },
+        "185": {
+            "input": "Premise: because then they'll or you have a prescription. Hypothesis: Either way you won't have a prescription.",
+            "output": "contradiction"
+        },
+        "186": {
+            "input": "Premise: that would be good what'd you say. Hypothesis: That would be horrendous. ",
+            "output": "contradiction"
+        },
+        "187": {
+            "input": "Premise: yeah well the uh NC double A tournament's going on right now and uh i haven't watched it this year because Louisville's out of it this year. Hypothesis: I'll watch the basketball tournament next year.",
+            "output": "neutral"
+        },
+        "188": {
+            "input": "Premise: In few other modern cities are you likely to see such a variety of costumes.. Hypothesis: Not many modern cities contain a large array of costumes.",
+            "output": "entailment"
+        },
+        "189": {
+            "input": "Premise: Leather Wares. Hypothesis: The wares are made of cotton and coarse fabric.",
+            "output": "contradiction"
+        },
+        "190": {
+            "input": "Premise: right yeah that's it's always handy to have that that credit card for whatever it is that you might need it for. Hypothesis: It is not necessary to have a credit card.",
+            "output": "contradiction"
+        },
+        "191": {
+            "input": "Premise: See the idea?\" 35 \"Then you think\" Tuppence paused to grasp the supposition fully \"that it WAS as Jane Finn that they wanted me to go to Paris?\" Mr. Carter smiled more wearily than ever.. Hypothesis: Mr. Carter was growing more and more tired.",
+            "output": "entailment"
+        },
+        "192": {
+            "input": "Premise: The materials then are searched for counterevidence and subsidiary or branching paths are laid out.. Hypothesis: Subsidiary or branching paths are laid out after the materials are searched for counterevidence.",
+            "output": "entailment"
+        },
+        "193": {
+            "input": "Premise: 5 are highly correlated during summer months in some areas.. Hypothesis: Nothing is correlated to the summer in all areas.  ",
+            "output": "contradiction"
+        },
+        "194": {
+            "input": "Premise: yeah i'm trying to find out how long we're supposed talk. Hypothesis: I'm not sure how long we're supposed to talk for.",
+            "output": "entailment"
+        },
+        "195": {
+            "input": "Premise: it's neat when you think about how she wrote it and stuff otherwise the lyrics are kind of. Hypothesis: The way she wrote it isn't interesting at all. ",
+            "output": "contradiction"
+        },
+        "196": {
+            "input": "Premise: A newly unified Christian Spain under the Catholic Monarchs, Ferdinand and Isabella, completed the Reconquest, defeating the only Moorish enclave left on the Iberian peninsula, Granada, in 1492.. Hypothesis: Ferdinand and Isabella completed the Reconquest to establish a Muslim Spain.",
+            "output": "contradiction"
+        },
+        "197": {
+            "input": "Premise: He loved her.. Hypothesis: He hated her.",
+            "output": "contradiction"
+        },
+        "198": {
+            "input": "Premise: So they set about clearing the land for agriculture, setting fire to massive tracts of forest.. Hypothesis: Forests were cleared with fire.",
+            "output": "entailment"
+        },
+        "199": {
+            "input": "Premise: well what is it. Hypothesis: Don't tell me about it.",
+            "output": "contradiction"
+        },
+        "200": {
+            "input": "Premise: in well i think i think my long-term sense of of budget concerns is that we're going is a lot of others government's spending goes on goes towards this uh health care and things like that and a lot of causes of poor health or need for health care are brought about by various factors such as such as pollution stress you know work work environment conditions and so forth but generally the government is. Hypothesis: The government spends very little on health care.",
+            "output": "contradiction"
+        }
+    }
+}

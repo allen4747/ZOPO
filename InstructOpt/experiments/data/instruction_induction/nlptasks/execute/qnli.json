@@ -1,0 +1,2191 @@
+{
+    "metadata": {
+        "num_examples": 546
+    },
+    "examples": {
+        "1": {
+            "input": "Question: What do scholars agree on about the posting on the door story?. Sentence: The story is based on comments made by Philipp Melanchthon, though it is thought that he was not in Wittenberg at the time.",
+            "output": "not entailment"
+        },
+        "2": {
+            "input": "Question: What are the three parchment-bound manuscripts of the Codex Forster called?. Sentence: One of the great treasures in the library is the Codex Forster, some of Leonardo da Vinci's note books.",
+            "output": "not entailment"
+        },
+        "3": {
+            "input": "Question: On what service could the ESPN Deportes broadcast be streamed?. Sentence: The ESPN Deportes Spanish broadcast was made available through WatchESPN.",
+            "output": "entailment"
+        },
+        "4": {
+            "input": "Question: Tumor antigens are complexed with MHC class I molecules in the same way as what antigens?. Sentence: NK cells also kill tumorous cells in a similar way, especially if the tumor cells have fewer MHC class I molecules on their surface than normal; this is a common phenomenon with tumors.",
+            "output": "not entailment"
+        },
+        "5": {
+            "input": "Question: What is the name of the country's longest continuously running student film society?. Sentence: Students at the University of Chicago run over 400 clubs and organizations known as Recognized Student Organizations (RSOs).",
+            "output": "not entailment"
+        },
+        "6": {
+            "input": "Question: What is the name of another algorithm useful for conveniently testing the primality of large numbers?. Sentence: These include the Miller\u2013Rabin primality test, which is fast but has a small probability of error, and the AKS primality test, which always produces the correct answer in polynomial time but is too slow to be practical.",
+            "output": "entailment"
+        },
+        "7": {
+            "input": "Question: What may be possible for multiple Kuznets' cycles to be in at any given time?. Sentence: This implies that it may be possible for multiple Kuznets' cycles to be in effect at any given time.",
+            "output": "entailment"
+        },
+        "8": {
+            "input": "Question: What sea were Ctenophores accidently introduced?. Sentence: Ctenophores may be abundant during the summer months in some coastal locations, but in other places they are uncommon and difficult to find.",
+            "output": "not entailment"
+        },
+        "9": {
+            "input": "Question: After an eventful and tiring year for the world during 1968, what type of ending to the year did the images from space provide?. Sentence: The mission and Christmas provided an inspiring end to 1968, which had been a troubled year for the US, marked by Vietnam War protests, race riots, and the assassinations of civil rights leader Martin Luther King, Jr., and Senator Robert F. Kennedy.",
+            "output": "entailment"
+        },
+        "10": {
+            "input": "Question: What is the name of a Bodhisattva vow?. Sentence: A Lama who has through phowa and siddhi consciously determined to be reborn, often many times, in order to continue their Bodhisattva vow is called a Tulku.",
+            "output": "entailment"
+        },
+        "11": {
+            "input": "Question: What type of writings did the reading of the Qur'an bring out in Luther?. Sentence: He went on to produce several critical pamphlets on Islam, which he called \"Mohammedanism\" or \"the Turk\".",
+            "output": "entailment"
+        },
+        "12": {
+            "input": "Question: What are the exceptions in the constitution  that require special considerations to amend?. Sentence: Victoria has a written constitution enacted in 1975, but based on the 1855 colonial constitution, passed by the United Kingdom Parliament as the Victoria Constitution Act 1855, which establishes the Parliament as the state's law-making body for matters coming under state responsibility.",
+            "output": "not entailment"
+        },
+        "13": {
+            "input": "Question: Around roughly how many students enroll yearly in creative and performing arts classes?. Sentence: Several thousand major and non-major undergraduates enroll annually in creative and performing arts classes.",
+            "output": "entailment"
+        },
+        "14": {
+            "input": "Question: What is the English translation of Het Scheur?. Sentence: The largest and southern main branch begins as Waal and continues as Boven Merwede (\"Upper Merwede\"), Beneden Merwede (\"Lower Merwede\"), Noord River (\"North River\"), Nieuwe Maas (\"New Meuse\"), Het Scheur (\"the Rip\") and Nieuwe Waterweg (\"New Waterway\").",
+            "output": "entailment"
+        },
+        "15": {
+            "input": "Question: What resource is the economy of southern California depedent on?. Sentence: It is dominated and heavily dependent upon abundance of petroleum, as opposed to other regions where automobiles not nearly as dominant, the vast majority of transport runs on this fuel.",
+            "output": "entailment"
+        },
+        "16": {
+            "input": "Question: Who worked later on to find these missing magnetic tapes that had data stored on them?. Sentence: Stan Lebar, who led the team that designed and built the lunar television camera at Westinghouse Electric Corporation, also worked with Nafzger to try to locate the missing tapes.",
+            "output": "entailment"
+        },
+        "17": {
+            "input": "Question: Families with French names in South Africa speak what language today?. Sentence: Many of the farms in the Western Cape province in South Africa still bear French names.",
+            "output": "not entailment"
+        },
+        "18": {
+            "input": "Question: Resources are constrained by hierarchy theorems to produce what?. Sentence: They are called hierarchy theorems because they induce a proper hierarchy on the classes defined by constraining the respective resources.",
+            "output": "entailment"
+        },
+        "19": {
+            "input": "Question: Who created the photographic series titled Animal Locomotion?. Sentence: These sequences of photographs taken a fraction of a second apart capture images of different animals and humans performimg various actions.",
+            "output": "not entailment"
+        },
+        "20": {
+            "input": "Question: Who was influential in promoting the use of chemical compounds as medicines?. Sentence: Living in the 10th century, he wrote The foundations of the true properties of Remedies, amongst others describing arsenious oxide, and being acquainted with silicic acid.",
+            "output": "not entailment"
+        },
+        "21": {
+            "input": "Question: What supplanted Frame Relay and X.25. Sentence: However, X.25 and well as Frame Relay have been supplanted by the Internet Protocol (IP) at the network layer, and the Asynchronous Transfer Mode (ATM) and or versions of Multi-Protocol Label Switching (MPLS) at layer two.",
+            "output": "entailment"
+        },
+        "22": {
+            "input": "Question: How many affiliates did ABC have in 1949?. Sentence: For its part, ABC was on the verge of bankruptcy, with only five owned-and-operated stations and nine full-time affiliates.",
+            "output": "entailment"
+        },
+        "23": {
+            "input": "Question: What type of engines became popular for power generation after piston steam engines?. Sentence: Considering that the great majority of worldwide electric generation is produced by turbine type steam engines, the \"steam age\" is continuing with energy levels far beyond those of the turn of the 19th century.",
+            "output": "not entailment"
+        },
+        "24": {
+            "input": "Question: How long does it take to know the outcome of a division?. Sentence: As a result, the outcome of each division is known in seconds.",
+            "output": "entailment"
+        },
+        "25": {
+            "input": "Question: How does the D-loop finish replicating?. Sentence: The results of the microscopy experiments led to the idea that chloroplast DNA replicates using a double displacement loop (D-loop).",
+            "output": "not entailment"
+        },
+        "26": {
+            "input": "Question: Which two importers claimed that under a French competition law, they were prevented from selling Picon beer under wholesale price?. Sentence: In Konsumentombudsmannen v Gourmet AB the Court suggested that a total ban for advertising alcohol on the radio, TV and in magazines could fall within article 34 where advertising was the only way for sellers to overcome consumers' \"traditional social practices and to local habits and customs\" to buy their products, but again the national courts would decide whether it was justified under article 36 to protect public health.",
+            "output": "not entailment"
+        },
+        "27": {
+            "input": "Question: What do carotenoids absorb?. Sentence: I contain light-harvesting complexes with chlorophyll and carotenoids that absorb light energy and use it to energize electrons.",
+            "output": "entailment"
+        },
+        "28": {
+            "input": "Question: As of what year were 10000 horsepower engines available?. Sentence: The atmospheric engines of Newcomen and Watt were large compared to the amount of power they produced, but high pressure steam engines were light enough to be applied to vehicles such as traction engines and the railway locomotives.",
+            "output": "not entailment"
+        },
+        "29": {
+            "input": "Question: Who is also known at the father of the hydrogen bomb?. Sentence: Notable faculty in physics have included the speed of light calculator A. A. Michelson, elementary charge calculator Robert A. Millikan, discoverer of the Compton Effect Arthur H. Compton, the creator of the first nuclear reactor Enrico Fermi, \"the father of the hydrogen bomb\" Edward Teller, \"one of the most brilliant and productive experimental physicists of the twentieth century",
+            "output": "entailment"
+        },
+        "30": {
+            "input": "Question: When was Kublai's administration running out of money?. Sentence: The Chinese region of Fujian was the original home of the Chinese Tran (Chen) clan before they migrated under Tr\u1ea7n Kinh (\u9673\u4eac, Ch\u00e9n J\u012bng) to Dai Viet and whose descendants established the Tr\u1ea7n dynasty which ruled Vietnam \u0110\u1ea1i Vi\u1ec7t, and certain members of the clan could still speak Chinese such as when a Yuan dynasty envoy had a meeting with the Chinese-speaking Tr\u1ea7n prince Tr\u1ea7n Qu\u1ed1c Tu\u1ea5n (later King Tr\u1ea7n H\u01b0ng \u0110\u1ea1o) in 1282.",
+            "output": "not entailment"
+        },
+        "31": {
+            "input": "Question: What did Luther do at the end of his speech?. Sentence: At the end of this speech, Luther raised his arm \"in the traditional salute of a knight winning a bout.\"",
+            "output": "entailment"
+        },
+        "32": {
+            "input": "Question: Why did the European nations and Japan separated themselves from United States during the crisis?. Sentence: Some European nations and Japan sought to disassociate themselves from United States foreign policy in the Middle East to avoid being targeted by the boycott.",
+            "output": "entailment"
+        },
+        "33": {
+            "input": "Question: Who designed the \"50\"?. Sentence: Like the Lombardi Trophy, the \"50\" will be designed by Tiffany & Co.",
+            "output": "entailment"
+        },
+        "34": {
+            "input": "Question: Who was the medical report written for?. Sentence: The most authoritative account at the time came from the medical faculty in Paris in a report to the king of France that blamed the heavens, in the form of a conjunction of three planets in 1345 that caused a \"great pestilence in the air\".",
+            "output": "entailment"
+        },
+        "35": {
+            "input": "Question: How much does it cost to gain entry to a parliament meeting?. Sentence: Entry is free, but booking in advance is recommended due to limited space.",
+            "output": "entailment"
+        },
+        "36": {
+            "input": "Question: What was named \"The Tesla\" in his honor?. Sentence: His work fell into relative obscurity after his death, but in 1960 the General Conference on Weights and Measures named the SI unit of magnetic flux density the tesla in his honor.",
+            "output": "entailment"
+        },
+        "37": {
+            "input": "Question: How did scientists assess the DNA/RNA of yersinia pestis?. Sentence: ends the debate about the etiology of the Black Death, and unambiguously demonstrates that Y. pestis was the causative agent of the epidemic plague that devastated Europe during the Middle Ages\".",
+            "output": "not entailment"
+        },
+        "38": {
+            "input": "Question: How did the BBC get audio versions of the lost episodes?. Sentence: Some episodes have been returned to the BBC from the archives of other countries who bought prints for broadcast, or by private individuals who acquired them by various means.",
+            "output": "not entailment"
+        },
+        "39": {
+            "input": "Question: Who else did Tesla make the acquaintance of in 1886?. Sentence: Based on Tesla's patents and other ideas they agreed to back him financially and handle his patents.",
+            "output": "not entailment"
+        },
+        "40": {
+            "input": "Question: Who were otachi?. Sentence: Confucian scholars were attracted to the medical profession because it ensured a high income and medical ethics were compatible with Confucian virtues.",
+            "output": "not entailment"
+        },
+        "41": {
+            "input": "Question: How are cyanobacteria sometimes wrongly described?. Sentence: They are a diverse phylum of bacteria capable of carrying out photosynthesis, and are gram-negative, meaning that they have two cell membranes.",
+            "output": "not entailment"
+        },
+        "42": {
+            "input": "Question: What problems did the Yuan dynasty have near its end?. Sentence: The final years of the Yuan dynasty were marked by struggle, famine, and bitterness among the populace.",
+            "output": "entailment"
+        },
+        "43": {
+            "input": "Question: Which archaeologist proposed the idea that the Amazon rainforest couldn't sustain large populations?. Sentence: Archeologist Betty Meggers was a prominent proponent of this idea, as described in her book Amazonia: Man and Culture in a Counterfeit Paradise.",
+            "output": "entailment"
+        },
+        "44": {
+            "input": "Question: Who is the first administrator of the Federal Energy Office?. Sentence: Simon allocated states the same amount of domestic oil for 1974 that each had consumed in 1972, which worked for states whose populations were not increasing.",
+            "output": "not entailment"
+        },
+        "45": {
+            "input": "Question: How much Victorian farmland is farmed in grains?. Sentence: Victorian farms produce nearly 90% of Australian pears and third of apples.",
+            "output": "not entailment"
+        },
+        "46": {
+            "input": "Question: What is the vast disparities in wealth attributed to by Socialists?. Sentence: In order to rectify this situation, socialists argue that the means of production should be socially owned so that income differentials would be reflective of individual contributions to the social product.",
+            "output": "not entailment"
+        },
+        "47": {
+            "input": "Question: Who has limited productive potential when faced with less access to education?. Sentence: As a result, those who are unable to afford an education, or choose not to pursue optional education, generally receive much lower wages.",
+            "output": "not entailment"
+        },
+        "48": {
+            "input": "Question: How many nations contain \"Amazonas\" in their names?. Sentence: This region includes territory belonging to nine nations.",
+            "output": "not entailment"
+        },
+        "49": {
+            "input": "Question: In the Philippines, what percentage of secondary school students attend private schools?. Sentence: In the Philippines, the private sector has been a major provider of educational services, accounting for about 7.5% of primary enrollment, 32% of secondary enrollment and about 80% of tertiary enrollment.",
+            "output": "entailment"
+        },
+        "50": {
+            "input": "Question: What other European Protestant leader was educated at the University of Paris?. Sentence: William Farel was a student of Lefevre who went on to become a leader of the Swiss Reformation, establishing a Protestant government in Geneva.",
+            "output": "not entailment"
+        },
+        "51": {
+            "input": "Question: What is the smalled work force sector?. Sentence: Industry and manufacturing is the smallest sector, accounting for 16% of GDP.",
+            "output": "entailment"
+        },
+        "52": {
+            "input": "Question: What is a protein that is closely intertwined with circadian rhythms?. Sentence: Additionally, proteins such as NFIL3, which have been shown to be closely intertwined with both T-cell differentiation and our circadian rhythms, can be affected through the disturbance of natural light and dark cycles through instances of sleep deprivation, shift work, etc.",
+            "output": "entailment"
+        },
+        "53": {
+            "input": "Question: What does the name Fresno mean in Spanish?. Sentence: The name Fresno means \"ash tree\" in Spanish, and an ash leaf is featured on the city's flag.",
+            "output": "entailment"
+        },
+        "54": {
+            "input": "Question: What type of steam engine doesn't need valves to direct steam?. Sentence: Instead of valves, the entire cylinder rocks, or oscillates, such that one or more holes in the cylinder line up with holes in a fixed port face or in the pivot mounting (trunnion).",
+            "output": "not entailment"
+        },
+        "55": {
+            "input": "Question: How many Kenyans are non-religious?. Sentence: Sizeable minorities of other faiths do exist (Muslim 11.2%, indigenous beliefs 1.7%), and nonreligious 2.4%.",
+            "output": "entailment"
+        },
+        "56": {
+            "input": "Question: What other activities does the UNFCCC require the IPCC to run?. Sentence: While the preparation of the assessment reports is a major IPCC function, it also supports other activities, such as the Data Distribution Centre and the National Greenhouse Gas Inventories Programme, required under the UNFCCC.",
+            "output": "entailment"
+        },
+        "57": {
+            "input": "Question: What did Guo Shoujing do for calendars?. Sentence: There are no explicit signs of Muslim influences in the Shoushi calendar, but Mongol rulers were known to be interested in Muslim calendars.",
+            "output": "not entailment"
+        },
+        "58": {
+            "input": "Question: In what body of water is the Harvard - Yale Regatta held?. Sentence: The Harvard crew is typically considered to be one of the top teams in the country in rowing.",
+            "output": "not entailment"
+        },
+        "59": {
+            "input": "Question: Where does the secondary theory say most genes are kept?. Sentence: It further contends that only a minority of the genetic material is kept in circular chromosomes while the rest is in branched, linear, or other complex structures.",
+            "output": "entailment"
+        },
+        "60": {
+            "input": "Question: How many Panthers were designated All-Pro?. Sentence: Carolina started the season 14\u20130, not only setting franchise records for the best start and the longest single-season winning streak, but also posting the best start to a season by an NFC team in NFL history, breaking the 13\u20130 record previously shared with the 2009 New Orleans Saints and the 2011 Green Bay Packers.",
+            "output": "not entailment"
+        },
+        "61": {
+            "input": "Question: Why did Toghun Temur dismiss Toghtogha?. Sentence: In 1354, when Toghtogha led a large army to crush the Red Turban rebels, Toghun Tem\u00fcr suddenly dismissed him for fear of betrayal.",
+            "output": "entailment"
+        },
+        "62": {
+            "input": "Question: What is another name for teaching within the family?. Sentence: Formal teaching may be carried out by paid professionals.",
+            "output": "not entailment"
+        },
+        "63": {
+            "input": "Question: What part of the V&A collection does the Henry Cole Wing houses?. Sentence: He designed to the north west of the garden the five-storey School for Naval Architects (also known as the science schools), now the Henry Cole Wing in 1867\u201372.",
+            "output": "not entailment"
+        },
+        "64": {
+            "input": "Question: When did Tugh Temur die?. Sentence: After El Tem\u00fcr's death, Bayan became as powerful an official as El Tem\u00fcr had been in the beginning of his long reign.",
+            "output": "not entailment"
+        },
+        "65": {
+            "input": "Question: What does the Secretariat Wing house?. Sentence: On the very northern edge of the site is situated the Secretariat Wing, also built in 1862 this houses the offices and board room etc. and is not open to the public.",
+            "output": "entailment"
+        },
+        "66": {
+            "input": "Question: What did these flights test on the CM?. Sentence: These flights validated the Service Module engine and the Command Module heat shield.",
+            "output": "entailment"
+        },
+        "67": {
+            "input": "Question: What was the occasion for the boat demonstration?. Sentence: The crowd that witnessed the demonstration made outrageous claims about the workings of the boat, such as magic, telepathy, and being piloted by a trained monkey hidden inside.",
+            "output": "not entailment"
+        },
+        "68": {
+            "input": "Question: What change in conditions may make the Amazon rainforest unsustainable?. Sentence: The result indicates that the rainforest could be threatened though the 21st century by climate change in addition to deforestation.",
+            "output": "not entailment"
+        },
+        "69": {
+            "input": "Question: In what year did a Doctor first become nominated for a Best Actor award?. Sentence: In 2011, Matt Smith became the first Doctor to be nominated for a BAFTA Television Award for Best Actor and in 2016, Michelle Gomez became the first female to receive a BAFTA nomination for the series, getting a Best Supporting Actress nomination for her work as Missy.",
+            "output": "entailment"
+        },
+        "70": {
+            "input": "Question: What company developed the most successful steam engine indicator?. Sentence: The most useful instrument for analyzing the performance of steam engines is the steam engine indicator.",
+            "output": "not entailment"
+        },
+        "71": {
+            "input": "Question: What are apicoplasts missing?. Sentence: Apicoplasts have lost all photosynthetic function, and contain no photosynthetic pigments or true thylakoids.",
+            "output": "entailment"
+        },
+        "72": {
+            "input": "Question: Against whom did the Camisards rise up to fight?. Sentence: It took French troops years to hunt down and destroy all the bands of Camisards, between 1702 and 1709.",
+            "output": "not entailment"
+        },
+        "73": {
+            "input": "Question: What did Guo Shoujing do for calendars?. Sentence: Guo Shoujing applied mathematics to the construction of calendars.",
+            "output": "entailment"
+        },
+        "74": {
+            "input": "Question: What applies to equally to constant velocity motion as it does to rest.. Sentence: Inertia therefore applies equally well to constant velocity motion as it does to rest.",
+            "output": "entailment"
+        },
+        "75": {
+            "input": "Question: What year did two of Ghengis Khan and B\u00f6rte's sons die?. Sentence: B\u00f6rte had three more sons, Chagatai (1187\u20141241), \u00d6gedei (1189\u20141241), and Tolui (1190\u20131232).",
+            "output": "entailment"
+        },
+        "76": {
+            "input": "Question: What use was suggested for the system. Sentence: He called it packet switching, a more accessible name than Baran's, and proposed to build a nationwide network in the UK.",
+            "output": "not entailment"
+        },
+        "77": {
+            "input": "Question: When was the Office of Western Medicine founded?. Sentence: The Nestorian physician Jesus the Interpreter founded the Office of Western Medicine in 1263 during the reign of Kublai.",
+            "output": "entailment"
+        },
+        "78": {
+            "input": "Question: When was Luther examined at Augsburg by the papal legate?. Sentence: There, in October 1518, under questioning by papal legate Cardinal Cajetan Luther stated that he did not consider the papacy part of the biblical Church because historistical interpretation of Bible prophecy concluded that the papacy was the Antichrist.",
+            "output": "entailment"
+        },
+        "79": {
+            "input": "Question: Where did the highwaymen take Luther?. Sentence: They escorted Luther to the security of the Wartburg Castle at Eisenach.",
+            "output": "entailment"
+        },
+        "80": {
+            "input": "Question: What effort was Luther not particularly in favor of?. Sentence: For I acknowledge none of them to be really a book of mine, except perhaps the Bondage of the Will and the Catechism.\"",
+            "output": "not entailment"
+        },
+        "81": {
+            "input": "Question: Where was Super Bowl 50 held?. Sentence: The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California.",
+            "output": "entailment"
+        },
+        "82": {
+            "input": "Question: What 3 things does the Air Force work key on. Sentence: Baran developed the concept of distributed adaptive message block switching during his research at the RAND Corporation for the US Air Force into survivable communications networks, first presented to the Air Force in the summer of 1961 as briefing B-265, later published as RAND report P-2626 in 1962, and finally in report RM 3420 in 1964.",
+            "output": "not entailment"
+        },
+        "83": {
+            "input": "Question: What is the time period of this statistic?. Sentence: A study by the American Association of University Women reported that 9.6% of students in the United States claim to have received unwanted sexual attention from an adult associated with education; be they a volunteer, bus driver, teacher, administrator or other adult; sometime during their educational career.",
+            "output": "entailment"
+        },
+        "84": {
+            "input": "Question: Who was the Jin dynasty defector who betrayed the location of the Jin army?. Sentence: The commander of the Jin dynasty army made a tactical mistake in not attacking the Mongols at the first opportunity.",
+            "output": "not entailment"
+        },
+        "85": {
+            "input": "Question: What did Tesla's father originally want him to do?. Sentence: Shortly after he arrived, Tesla contracted cholera; he was bedridden for nine months and was near death multiple times.",
+            "output": "not entailment"
+        },
+        "86": {
+            "input": "Question: When was the Masovian Duchy reincorporated into the Polish Crown?. Sentence: In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the official capital of Masovian Duchy in 1413.",
+            "output": "not entailment"
+        },
+        "87": {
+            "input": "Question: In what year was the Commission on Pan Methodist Cooperation and Union formed?. Sentence: In May 2012, The United Methodist Church entered into full communion with the African Methodist Episcopal Church, African Methodist Episcopal Zion Church, African Union Methodist Protestant Church, Christian Methodist Episcopal Church, and Union American Methodist Episcopal Church, in which these Churches agreed to \"recognize each other's churches, share sacraments, and affirm their clergy and ministries.\"",
+            "output": "not entailment"
+        },
+        "88": {
+            "input": "Question: What was Ban Ki-Moon the Secretary General of?. Sentence: While acknowledging the central role economic growth can potentially play in human development, poverty reduction and the achievement of the Millennium Development Goals, it is becoming widely understood amongst the development community that special efforts must be made to ensure poorer sections of society are able to participate in economic growth.",
+            "output": "not entailment"
+        },
+        "89": {
+            "input": "Question: Where was Shirey going to be when Fort Oswego was to be attacked?. Sentence: In conjunction, Shirley was made aware that the French were massing for an attack on Fort Oswego in his absence when he planned to attack Fort Niagara.",
+            "output": "entailment"
+        },
+        "90": {
+            "input": "Question: How does Kenya curb coruption?. Sentence: However, there are several rather significant developments with regards to curbing corruption from the Kenyan government, for instance, the establishment of a new and independent Ethics and Anti-Corruption Commission (EACC).",
+            "output": "entailment"
+        },
+        "91": {
+            "input": "Question: What did NSFNET promote. Sentence: Initially created to link researchers to the nation's NSF-funded supercomputing centers, through further public funding and private industry partnerships it developed into a major part of the Internet backbone.",
+            "output": "not entailment"
+        },
+        "92": {
+            "input": "Question: What is rubisco's flaw?. Sentence: This is a big problem, since O2 is produced by the initial light reactions of photosynthesis, causing issues down the line in the Calvin cycle which uses rubisco.",
+            "output": "not entailment"
+        },
+        "93": {
+            "input": "Question: What did Agricola apparently believe about who should be in control  law?. Sentence: Early in 1537, Johannes Agricola (1494\u20131566) \u2013 serving at the time as pastor in Luther's birthplace, Eisleben \u2013 preached a sermon in which he claimed that God's gospel, not God's moral law (the Ten Commandments), revealed God's wrath to Christians.",
+            "output": "not entailment"
+        },
+        "94": {
+            "input": "Question: What proportion of the general population in the area than became Iran did Genghis Khan kill?. Sentence: In the Middle East, and particularly in Iran, Genghis Khan is almost universally condemned as a destructive and genocidal warlord who caused enormous damage and destruction to the population of these areas.",
+            "output": "not entailment"
+        },
+        "95": {
+            "input": "Question: Which of Luther's hymn was the main one for Advent?. Sentence: Nun komm, der Heiden Heiland\" (Now come, Savior of the gentiles), based on Veni redemptor gentium, became the main hymn (Hauptlied) for Advent.",
+            "output": "entailment"
+        },
+        "96": {
+            "input": "Question: What was one of Luther's most personal writings?. Sentence: The catechism is one of Luther's most personal works.",
+            "output": "entailment"
+        },
+        "97": {
+            "input": "Question: How long is the term of a Judicial Council member?. Sentence: It consists of nine members, both laity and clergy, elected by the General Conference for an eight-year term.",
+            "output": "entailment"
+        },
+        "98": {
+            "input": "Question: How long did it take for the Theses to spread through Europe?. Sentence: Within two weeks, copies of the theses had spread throughout Germany; within two months, they had spread throughout Europe.",
+            "output": "entailment"
+        },
+        "99": {
+            "input": "Question: What kind of membrane do primary chloroplasts have?. Sentence: While primary chloroplasts have a double membrane from their cyanobacterial ancestor, secondary chloroplasts have additional membranes outside of the original two, as a result of the secondary endosymbiotic event, when a nonphotosynthetic eukaryote engulfed a chloroplast-containing alga but failed to digest it\u2014much like the cyanobacterium at the beginning of this story.",
+            "output": "entailment"
+        },
+        "100": {
+            "input": "Question: Who did Tesla credit for his abilities?. Sentence: Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence.",
+            "output": "entailment"
+        },
+        "101": {
+            "input": "Question: When did Tesla make the induction motor?. Sentence: The motor used polyphase current which generated a rotating magnetic field to turn the motor (a principle Tesla claimed to have conceived in 1882).",
+            "output": "not entailment"
+        },
+        "102": {
+            "input": "Question: What was a plugs-out test done to simulate on the LC-34?. Sentence: A \"plugs-out\" test was planned for January, which would simulate a launch countdown on LC-34 with the spacecraft transferring from pad-supplied to internal power.",
+            "output": "entailment"
+        },
+        "103": {
+            "input": "Question: Who sold the Upper Rhine to Burgundy?. Sentence: The mouths of the Rhine, in the county of Holland, fell to the Burgundian Netherlands in the 15th century; Holland remained contentious territory throughout the European wars of religion and the eventual collapse of the Holy Roman Empire, when the length of the Rhine fell to the First French Empire and its client states.",
+            "output": "not entailment"
+        },
+        "104": {
+            "input": "Question: What is another word for cryptophytes?. Sentence: They synthesize ordinary starch, which is stored in granules found in the periplastid space\u2014outside the original double membrane, in the place that corresponds to the red alga's cytoplasm.",
+            "output": "not entailment"
+        },
+        "105": {
+            "input": "Question: Where does the Rhine encounter it's tributary the Neckar?. Sentence: Most of Luxembourg and a very small part of Belgium also drain to the Rhine via the Moselle.",
+            "output": "not entailment"
+        },
+        "106": {
+            "input": "Question: When did Prime Minister Wilson commit to some form of devolved legislature?. Sentence: However, it was not until 1978 that final legislative proposals for a Scottish Assembly were passed by the United Kingdom Parliament.",
+            "output": "not entailment"
+        },
+        "107": {
+            "input": "Question: Which countries use the green Greek cross as a symbol of pharmacy?. Sentence: Other symbols are common in different countries: the green Greek cross in France, Argentina, the United Kingdom, Belgium, Ireland, Italy, Spain, and India, the increasingly rare Gaper in the Netherlands, and a red stylized letter A in Germany and Austria (from Apotheke, the German word for pharmacy, from the same Greek root as the English word 'apothecary').",
+            "output": "entailment"
+        },
+        "108": {
+            "input": "Question: What is the basic unit of organization within the UMC?. Sentence: The Annual Conference, roughly the equivalent of a diocese in the Anglican Communion and the Roman Catholic Church or a synod in some Lutheran denominations such as the Evangelical Lutheran Church in America, is the basic unit of organization within the UMC.",
+            "output": "entailment"
+        },
+        "109": {
+            "input": "Question: When did the European Anti-Fraud Office investigate John Dalli?. Sentence: This led to the creation of the European Anti-fraud Office.",
+            "output": "not entailment"
+        },
+        "110": {
+            "input": "Question: What was the name of the Norman castle?. Sentence: Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains.",
+            "output": "not entailment"
+        },
+        "111": {
+            "input": "Question: Apollo 17 was significant for what reason?. Sentence: Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans.",
+            "output": "not entailment"
+        },
+        "112": {
+            "input": "Question: What percent of the global assets in 2000 were owned by just 1% of adults?. Sentence: A January 2014 report by Oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50% of the world's population, or about 3.5 billion people.",
+            "output": "not entailment"
+        },
+        "113": {
+            "input": "Question: Where was media day for Super Bowl 50 held?. Sentence: The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night.",
+            "output": "not entailment"
+        },
+        "114": {
+            "input": "Question: What is the process of turning CO2 into organic molecules called?. Sentence: They then use the ATP and NADPH to make organic molecules from carbon dioxide in a process known as the Calvin cycle.",
+            "output": "entailment"
+        },
+        "115": {
+            "input": "Question: What country was Abhisit Vejjajiva prime minister of, despite having been born in Newcastle?. Sentence: Ironmaster, metallurgist, and member of parliament Isaac Lowthian Bell was born in the city in 1816.",
+            "output": "not entailment"
+        },
+        "116": {
+            "input": "Question: Who was given the esteemed status of MVP for Super Bowl 50?. Sentence: Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2\u00bd sacks, and two forced fumbles.",
+            "output": "entailment"
+        },
+        "117": {
+            "input": "Question: What series has an actor doing an impression of the Fourth Doctor?. Sentence: Jon Culshaw frequently impersonates the Fourth Doctor in the BBC Dead Ringers series.",
+            "output": "entailment"
+        },
+        "118": {
+            "input": "Question: Constitutional impasse is distinct from what key term?. Sentence: For instance, if the head of government of a country were to refuse to enforce a decision of that country's highest court, it would not be civil disobedience, since the head of government would be acting in her or his capacity as public official rather than private citizen.",
+            "output": "not entailment"
+        },
+        "119": {
+            "input": "Question: How many PD rings are there?. Sentence: In a few species like Cyanidioschyzon merol\u00e6, chloroplasts have a third plastid-dividing ring located in the chloroplast's intermembrane space.",
+            "output": "not entailment"
+        },
+        "120": {
+            "input": "Question: What was later discovered written by Luther?. Sentence: The statement was in Latin, apart from \"We are beggars,\" which was in German.",
+            "output": "not entailment"
+        },
+        "121": {
+            "input": "Question: Which famous Germain Renaissance painter and printmaker is represented in the drawings collection of the V&A?. Sentence: The collection of drawings includes over 10,000 British and 2,000 old master works, including works by: D\u00fcrer, Giovanni Benedetto Castiglione, Bernardo Buontalenti, Rembrandt, Antonio Verrio, Paul Sandby, John Russell, Angelica Kauffman, John Flaxman, Hugh Douglas Hamilton, Thomas Rowlandson, William Kilburn, Thomas Girtin, Jean Auguste Dominique Ingres, David Wilkie, John Martin, Samuel Palmer, Sir Edwin Henry Landseer, Lord Frederic Leighton, Sir Samuel Luke Fildes and Aubrey Beardsley.",
+            "output": "entailment"
+        },
+        "122": {
+            "input": "Question: How many legions in five bases were along the Rhine by the Romans?. Sentence: The actual number of legions present at any base or in all, depended on whether a state or threat of war existed.",
+            "output": "not entailment"
+        },
+        "123": {
+            "input": "Question: What event was blamed on the introduction of mnemiopsis into The Black Sea?. Sentence: One ctenophore, Mnemiopsis, has accidentally been introduced into the Black Sea, where it is blamed for causing fish stocks to collapse by eating both fish larvae and organisms that would otherwise have fed the fish.",
+            "output": "entailment"
+        },
+        "124": {
+            "input": "Question: How many pounds of steam per kilowatt hour does the Energiprojekt AB engine use?. Sentence: Although the reciprocating steam engine is no longer in widespread commercial use, various companies are exploring or exploiting the potential of the engine as an alternative to internal combustion engines.",
+            "output": "not entailment"
+        },
+        "125": {
+            "input": "Question: When did the Jin dynasty end?. Sentence: During the Yuan dynasty, one of Confucius' descendants moved from China to Goryeo era Korea and established a branch of the family there after marrying a Korean woman.",
+            "output": "not entailment"
+        },
+        "126": {
+            "input": "Question: ABC news provides content for radio stations owned by what company?. Sentence: ABC News provides news and features content for select radio stations owned by Citadel Broadcasting, which purchased the ABC Radio properties in 2007.",
+            "output": "entailment"
+        },
+        "127": {
+            "input": "Question: Is the output of a functional problem typically characterized by a simple or complex answer?. Sentence: Notable examples include the traveling salesman problem and the integer factorization problem.",
+            "output": "not entailment"
+        },
+        "128": {
+            "input": "Question: What museum preserves the memory of the crime?. Sentence: A fine tribute to the fall of Warsaw and history of Poland can be found in the Warsaw Uprising Museum and in the Katy\u0144 Museum which preserves the memory of the crime.",
+            "output": "entailment"
+        },
+        "129": {
+            "input": "Question: What role in economics did the university play a major part in?. Sentence: The university's sociology department was the first independent sociology department in the United States and gave birth to the Chicago school of sociology.",
+            "output": "not entailment"
+        },
+        "130": {
+            "input": "Question: When did the ancestors of modern Homo sapiens inhabit Kenya?. Sentence: Recent findings near Lake Turkana indicate that hominids such as Homo habilis (1.8 and 2.5 million years ago) and Homo erectus (1.8 million to 350,000 years ago) are possible direct ancestors of modern Homo sapiens, and lived in Kenya in the Pleistocene epoch.",
+            "output": "entailment"
+        },
+        "131": {
+            "input": "Question: When did Torchwood premier?. Sentence: The series debuted on BBC Three on 22 October 2006.",
+            "output": "entailment"
+        },
+        "132": {
+            "input": "Question: Where did France focus its efforts to rebuild its empire?. Sentence: France took control of Algeria in 1830 but began in earnest to rebuild its worldwide empire after 1850, concentrating chiefly in North and West Africa, as well as South-East Asia, with other conquests in Central and East Africa, as well as the South Pacific.",
+            "output": "entailment"
+        },
+        "133": {
+            "input": "Question: People of what nationality invented the steam turbine?. Sentence: Land-based steam engines could exhaust much of their steam, as feed water was usually readily available.",
+            "output": "not entailment"
+        },
+        "134": {
+            "input": "Question: What did Paul Baran develop. Sentence: The new concept found little resonance among network implementers until the independent work of Donald Davies at the National Physical Laboratory (United Kingdom) (NPL) in the late 1960s.",
+            "output": "not entailment"
+        },
+        "135": {
+            "input": "Question: Who were two of Kublai's Chinese advisers?. Sentence: At various times another central government institution called the Department of State Affairs (Shangshu Sheng) that mainly dealt with finance was established (such as during the reign of K\u00fcl\u00fcg Khan or Emperor Wuzong), but was usually abandoned shortly afterwards.",
+            "output": "not entailment"
+        },
+        "136": {
+            "input": "Question: What was Temur Khan's Chinese-style name?. Sentence: Thus, Zhenjin's third son, with the support of his mother K\u00f6kejin and the minister Bayan, succeeded the throne and ruled as Tem\u00fcr Khan, or Emperor Chengzong, from 1294 to 1307.",
+            "output": "entailment"
+        },
+        "137": {
+            "input": "Question: Why did he walk?. Sentence: He squished his toes one hundred times for each foot every night, saying that it stimulated his brain cells.",
+            "output": "not entailment"
+        },
+        "138": {
+            "input": "Question: When did Barton and Whitfield demand climate research records?. Sentence: On 23 June 2005, Rep. Joe Barton, chairman of the House Committee on Energy and Commerce wrote joint letters with Ed Whitfield, Chairman of the Subcommittee on Oversight and Investigations demanding full records on climate research, as well as personal information about their finances and careers, from Mann, Bradley and Hughes.",
+            "output": "entailment"
+        },
+        "139": {
+            "input": "Question: What did Luther believe that the soul does after death?. Sentence: This also led Luther to reject the idea of torments for the saints: \"It is enough for us to know that souls do not leave their bodies to be threatened by the torments and punishments of hell, but enter a prepared bedchamber in which they sleep in peace.\"",
+            "output": "not entailment"
+        },
+        "140": {
+            "input": "Question: What local radio station is broadcast by the Corporation from the Pink Palace?. Sentence: It is from here that the Corporation broadcasts the Look North television regional news programme and local radio station BBC Radio Newcastle.",
+            "output": "entailment"
+        },
+        "141": {
+            "input": "Question: What do radical Islamist organizations reject entirely?. Sentence: Radical Islamist organizations like al-Qaeda and the Egyptian Islamic Jihad, and groups such as the Taliban, entirely reject democracy, often declaring as kuffar those Muslims who support it (see takfirism), as well as calling for violent/offensive jihad or urging and conducting attacks on a religious basis.",
+            "output": "entailment"
+        },
+        "142": {
+            "input": "Question: What was William Johnson's Iroquois name?. Sentence: The British Superintendent for Indian Affairs in the New York region and beyond, Johnson was known to the Iroquois as Warraghiggey, meaning \"He who does great things.\"",
+            "output": "entailment"
+        },
+        "143": {
+            "input": "Question: What does legend say Genghis Khan used to obliterate the Kharezmid emporer's place of birth?. Sentence: According to legend, Genghis Khan even went so far as to divert a river through the Khwarezmid emperor's birthplace, erasing it from the map.[citation needed]",
+            "output": "entailment"
+        },
+        "144": {
+            "input": "Question: How many plays was Denver kept out of the end zone after getting the ball from Newton?. Sentence: On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line.",
+            "output": "not entailment"
+        },
+        "145": {
+            "input": "Question: Where did support from governmental and religious groups come from?. Sentence: The Taliban were spawned by the thousands of madrasahs the Deobandi movement established for impoverished Afghan refugees and supported by governmental and religious groups in neighboring Pakistan.",
+            "output": "entailment"
+        },
+        "146": {
+            "input": "Question: What happens to the norm when a number is multiplied by p?. Sentence: While completing Q (roughly, filling the gaps) with respect to the absolute value yields the field of real numbers, completing with respect to the p-adic norm |\u2212|p yields the field of p-adic numbers.",
+            "output": "not entailment"
+        },
+        "147": {
+            "input": "Question: After the merger between ABC and Capital Cities, who became the vice president of ABC broadcasting?. Sentence: The merger between ABC and Capital Cities received federal approval on September 5, 1985.",
+            "output": "not entailment"
+        },
+        "148": {
+            "input": "Question: In which case did the Court state that Austria was not allowed to hold places in Austrian schools exclusively for Austrian students?. Sentence: In Commission v Austria the Court held that Austria was not entitled to restrict places in Austrian universities to Austrian students to avoid \"structural, staffing and financial problems\" if (mainly German) foreign students applied for places because there was little evidence of an actual problem.",
+            "output": "entailment"
+        },
+        "149": {
+            "input": "Question: What type of math was advanced during the Yuan?. Sentence: Advances in polynomial algebra were made by mathematicians during the Yuan era.",
+            "output": "entailment"
+        },
+        "150": {
+            "input": "Question: What was the purpose of CSNET. Sentence: It played a significant role in spreading awareness of, and access to, national networking and was a major milestone on the path to development of the global Internet.",
+            "output": "not entailment"
+        },
+        "151": {
+            "input": "Question: What US war has a large amount of Civil Disobedients?. Sentence: During the Vietnam War era, the Chicago Eight used a political defense, while Benjamin Spock used a technical defense.",
+            "output": "entailment"
+        },
+        "152": {
+            "input": "Question: When had the Brotherhood renounced violence as a means of achieving its goals?. Sentence: By the 1970s, the Brotherhood had renounced violence as a means of achieving its goals.",
+            "output": "entailment"
+        },
+        "153": {
+            "input": "Question: What year did Doctor Who win a Peabody award?. Sentence: The programme is listed in Guinness World Records as the longest-running science fiction television show in the world, the \"most successful\" science fiction series of all time\u2014based on its over-all broadcast ratings, DVD and book sales, and iTunes traffic\u2014 and for the largest ever simulcast of a TV drama with its 50th anniversary special.",
+            "output": "not entailment"
+        },
+        "154": {
+            "input": "Question: How many meals a day do normal Kenyans eat?. Sentence: Ugali with vegetables, sour milk, meat, fish or any other stew is generally eaten by much of the population for lunch or supper.",
+            "output": "not entailment"
+        },
+        "155": {
+            "input": "Question: How effective was the military use of the \"Afghan Arabs\"?. Sentence: While the military effectiveness of these \"Afghan Arabs\" was marginal, an estimated 16,000 to 35,000 Muslim volunteers came from around the world came to fight in Afghanistan.",
+            "output": "entailment"
+        },
+        "156": {
+            "input": "Question: To whom did Toghrul refuse to give his daughter in marriage, angering Tem\u00fcjin?. Sentence: One of the later ruptures between Toghrul and Tem\u00fcjin was Toghrul's refusal to give his daughter in marriage to Jochi, the eldest son of Tem\u00fcjin, a sign of disrespect in the Mongolian culture.",
+            "output": "entailment"
+        },
+        "157": {
+            "input": "Question: For which show did Billie Piper tape an introduction?. Sentence: For the Canadian broadcast, Christopher Eccleston recorded special video introductions for each episode (including a trivia question as part of a viewer contest) and excerpts from the Doctor Who Confidential documentary were played over the closing credits; for the broadcast of \"The Christmas Invasion\" on 26 December 2005, Billie Piper recorded a special video introduction.",
+            "output": "entailment"
+        },
+        "158": {
+            "input": "Question: Healing services involve the laying on of hands and what else?. Sentence: Some clergy offer healing services, while exorcism is an occasional practice by some clergy in The United Methodist Church in Africa.",
+            "output": "not entailment"
+        },
+        "159": {
+            "input": "Question: Which department houses the works on paper of the costume collection?. Sentence: One of the first significant gifts of costume came in 1913 when the V&A received the Talbot Hughes collection containing 1,442 costumes and items as a gift from Harrods following its display at the nearby department store.",
+            "output": "not entailment"
+        },
+        "160": {
+            "input": "Question: What famous 5.9-mile athletic event takes place annually in Newcastle in June?. Sentence: The city's speedway team Newcastle Diamonds are based at Brough Park in Byker, a venue that is also home to greyhound racing.",
+            "output": "not entailment"
+        },
+        "161": {
+            "input": "Question: What is the name of the European Union agency for external border security?. Sentence: Frontex, the European Union agency for external border security, has its headquarters in Warsaw.",
+            "output": "entailment"
+        },
+        "162": {
+            "input": "Question: What Denver player caught the ball 76 times in the 2015 season?. Sentence: Tight end Owen Daniels was also a big element of the passing game with 46 receptions for 517 yards.",
+            "output": "not entailment"
+        },
+        "163": {
+            "input": "Question: When was the congregation at St. George's founded?. Sentence: At this time, Methodists had not yet broken away from the Anglican Church and the Methodist Episcopal Church was not founded until 1784.",
+            "output": "not entailment"
+        },
+        "164": {
+            "input": "Question: Where are the specialized cells that eliminate cells that recognize self-antigens located?. Sentence: One of the functions of specialized cells (located in the thymus and bone marrow) is to present young lymphocytes with self antigens produced throughout the body and to eliminate those cells that recognize self-antigens, preventing autoimmunity.",
+            "output": "entailment"
+        },
+        "165": {
+            "input": "Question: What building is the most interesting of the late 19th-century architecture?. Sentence: Some 19th-century buildings in the Praga district (the Vistula\u2019s right bank) have been restored although many have been poorly maintained.",
+            "output": "not entailment"
+        },
+        "166": {
+            "input": "Question: Who invited Washington to dine with him?. Sentence: Saint-Pierre said, \"As to the Summons you send me to retire, I do not think myself obliged to obey it.\"",
+            "output": "not entailment"
+        },
+        "167": {
+            "input": "Question: When do cash flow problems exist?. Sentence: Underbids happen when builders ask for too little money to complete the project.",
+            "output": "not entailment"
+        },
+        "168": {
+            "input": "Question: What company created Doctor Who?. Sentence: Who character by BBC Television in the early 1960s, a myriad of stories have been published about Doctor Who, in different media: apart from the actual television episodes that continue to be produced by the BBC, there have also been novels, comics, short stories, audio books, radio plays, interactive video games, game books, webcasts, DVD extras, and even stage performances.",
+            "output": "entailment"
+        },
+        "169": {
+            "input": "Question: What are other major fatality causes?. Sentence: Other major causes of fatalities in the construction industry include electrocution, transportation accidents, and trench cave-ins.",
+            "output": "entailment"
+        },
+        "170": {
+            "input": "Question: What can faith groups ask the Presiding Officer to do for them?. Sentence: The first item of business on Wednesdays is usually Time for Reflection, at which a speaker addresses members for up to four minutes, sharing a perspective on issues of faith.",
+            "output": "not entailment"
+        },
+        "171": {
+            "input": "Question: Where is the Z-ring?. Sentence: The Min system manages the placement of the Z-ring, ensuring that the chloroplast is cleaved more or less evenly.",
+            "output": "not entailment"
+        },
+        "172": {
+            "input": "Question: Which Pope sought to undermine Luther's theories?. Sentence: There, in October 1518, under questioning by papal legate Cardinal Cajetan Luther stated that he did not consider the papacy part of the biblical Church because historistical interpretation of Bible prophecy concluded that the papacy was the Antichrist.",
+            "output": "not entailment"
+        },
+        "173": {
+            "input": "Question: How did the 2001 IPCC report compare to reality on sea levels?. Sentence: On 1 February 2007, the eve of the publication of IPCC's major report on climate, a study was published suggesting that temperatures and sea levels have been rising at or above the maximum rates proposed during the last IPCC report in 2001.",
+            "output": "not entailment"
+        },
+        "174": {
+            "input": "Question: What three things are needed for construction to take place?. Sentence: Construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client.",
+            "output": "not entailment"
+        },
+        "175": {
+            "input": "Question: Why is Warsaw's flora very rich in species?. Sentence: The species richness is mainly due to the location of Warsaw within the border region of several big floral regions comprising substantial proportions of close-to-wilderness areas (natural forests, wetlands along the Vistula) as well as arable land, meadows and forests.",
+            "output": "entailment"
+        },
+        "176": {
+            "input": "Question: What was the Yuan's Persian ally?. Sentence: It had significantly eased trade and commerce across Asia until its decline; the communications between Yuan dynasty and its ally and subordinate in Persia, the Ilkhanate, encouraged this development.",
+            "output": "entailment"
+        },
+        "177": {
+            "input": "Question: When did the last glacial start?. Sentence: The last glacial ran from ~74,000 (BP = Before Present), until the end of the Pleistocene (~11,600 BP).",
+            "output": "entailment"
+        },
+        "178": {
+            "input": "Question: The Maroons compete in what league division?. Sentence: The Maroons compete in the NCAA's Division III as members of the University Athletic Association (UAA).",
+            "output": "entailment"
+        },
+        "179": {
+            "input": "Question: Where did Jebe die?. Sentence: The famous cavalry expedition led by Subutai and Jebe, in which they encircled the entire Caspian Sea defeating all armies in their path, remains unparalleled to this day, and word of the Mongol triumphs began to trickle to other nations, particularly Europe.",
+            "output": "not entailment"
+        },
+        "180": {
+            "input": "Question: What writing inspired the name Great Yuan?. Sentence: Furthermore, the Yuan is sometimes known as the \"Empire of the Great Khan\" or \"Khanate of the Great Khan\", which particularly appeared on some Yuan maps, since Yuan emperors held the nominal title of Great Khan.",
+            "output": "not entailment"
+        },
+        "181": {
+            "input": "Question: Of what form do Fermat numbers take?. Sentence: However, the very next Fermat number 232 + 1 is composite (one of its prime factors is 641), as Euler discovered later, and in fact no further Fermat numbers are known to be prime.",
+            "output": "not entailment"
+        },
+        "182": {
+            "input": "Question: In what year did ABC agree to finance Disneyland?. Sentence: Walt Disney and his brother Roy contacted Goldenson at the end of 1953 for ABC to agree to finance part of the Disneyland project in exchange for producing a television program for the network.",
+            "output": "not entailment"
+        },
+        "183": {
+            "input": "Question: What is economic liberalism one of the causes of?. Sentence: Despite popular prejudices to the contrary, the U.S. economy consistently affords a lower level of economic mobility than all the continental European countries for which data is available.\"",
+            "output": "not entailment"
+        },
+        "184": {
+            "input": "Question: Who handled play-by-play for the Denver radio market?. Sentence: The flagship stations of each station in the markets of each team will carry their local play-by-play calls.",
+            "output": "not entailment"
+        },
+        "185": {
+            "input": "Question: What types of health outcomes do pharmacists aim for with their patients?. Sentence: Pharmacists are healthcare professionals with specialised education and training who perform various roles to ensure optimal health outcomes for their patients through the quality use of medicines.",
+            "output": "entailment"
+        },
+        "186": {
+            "input": "Question: Why is Priestley usually given credit for being first to discover oxygen?. Sentence: After breathing the gas himself, he wrote: \"The feeling of it to my lungs was not sensibly different from that of common air, but I fancied that my breast felt peculiarly light and easy for some time afterwards.\"",
+            "output": "not entailment"
+        },
+        "187": {
+            "input": "Question: What is included with each packet label. Sentence: It may also be labeled with the sequence number of the packet.",
+            "output": "not entailment"
+        },
+        "188": {
+            "input": "Question: What does ctenophora mean in Greek?. Sentence: Ctenophora (/t\u1d7b\u02c8n\u0252f\u0259r\u0259/; singular ctenophore, /\u02c8t\u025bn\u0259f\u0254\u02d0r/ or /\u02c8ti\u02d0n\u0259f\u0254\u02d0r/; from the Greek \u03ba\u03c4\u03b5\u03af\u03c2 kteis 'comb' and \u03c6\u03ad\u03c1\u03c9 pher\u014d 'carry'; commonly known as comb jellies) is a phylum of animals that live in marine waters worldwide.",
+            "output": "entailment"
+        },
+        "189": {
+            "input": "Question: What term resulted from Dioscorides' book?. Sentence: The title coined the term materia medica.",
+            "output": "entailment"
+        },
+        "190": {
+            "input": "Question: What injury did Thomas Davis suffer in the NFC Championship?. Sentence: Despite this, he insisted he would still find a way to play in the Super Bowl.",
+            "output": "not entailment"
+        },
+        "191": {
+            "input": "Question: What nationality is the band Coldplay?. Sentence: On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay.",
+            "output": "entailment"
+        },
+        "192": {
+            "input": "Question: What are the antimicrobial peptides that are the main form of invertebrate systemic immunity called?. Sentence: The complement system and phagocytic cells are also used by most forms of invertebrate life.",
+            "output": "not entailment"
+        },
+        "193": {
+            "input": "Question: How many hours can one expect to ride the train from Newcastle to King's Cross?. Sentence: Train operator Virgin Trains East Coast provides a half-hourly frequency of trains to London King's Cross, with a journey time of about three hours, these services call at Durham, Darlington, York, Doncaster, Newark North Gate and Peterborough and north to Scotland with all trains calling at Edinburgh and a small number of trains extended to Glasgow, Aberdeen and Inverness.",
+            "output": "entailment"
+        },
+        "194": {
+            "input": "Question: Scholars stated that there was already an existing settlement between 2 parties prior to which date?. Sentence: The possibility that the Middle East could become another superpower confrontation with the USSR was of more concern to the US than oil.",
+            "output": "not entailment"
+        },
+        "195": {
+            "input": "Question: What geochemist developed the uranium-lead dating method into lead-lead dating?. Sentence: Just and Lynn Margulis, computer scientist Richard Hamming, the creator of the Hamming Code, lithium-ion battery developer John B. Goodenough, mathematician and Fields Medal recipient Paul Joseph Cohen, and geochemist Clair Cameron Patterson, who developed the uranium-lead dating method into lead-lead dating.",
+            "output": "entailment"
+        },
+        "196": {
+            "input": "Question: When did the merger between ABC and Capital Cities gain federal approval?. Sentence: The merger between ABC and Capital Cities received federal approval on September 5, 1985.",
+            "output": "entailment"
+        },
+        "197": {
+            "input": "Question: How many LEA-funded 11 to 18 schools are there in Newcastle?. Sentence: There are eleven LEA-funded 11 to 18 schools and seven independent schools with sixth forms in Newcastle.",
+            "output": "entailment"
+        },
+        "198": {
+            "input": "Question: What was the civil disobedience performed at the test site?. Sentence: When the Committee for Non-Violent Action sponsored a protest in August 1957, at the Camp Mercury nuclear test site near Las Vegas, Nevada, 13 of the protesters attempted to enter the test site knowing that they faced arrest.",
+            "output": "entailment"
+        },
+        "199": {
+            "input": "Question: What was the corporate entity American Broadcasting-Paramount Theatres renamed in 1965?. Sentence: In 1965, the corporate entity, American Broadcasting-Paramount Theatres, was renamed as the American Broadcasting Companies,  while its cinema division became ABC Theatres;[citation needed] its recording division was renamed ABC Records in 1966.",
+            "output": "entailment"
+        },
+        "200": {
+            "input": "Question: What satellite enabled Sky Digital to launch an all new digital service?. Sentence: When Sky Digital was launched in 1998 the new service used the Astra 2A satellite which was located at the 28.5\u00b0E orbital position, unlike the analogue service which was broadcast from 19.2\u00b0",
+            "output": "not entailment"
+        },
+        "201": {
+            "input": "Question: Which architect, famous for the India Gate in New Delhi, is represented in the RIBA collection?. Sentence: Not only are all the major British architects of the last four hundred years represented, but many European (especially Italian) and American architects' drawings are held in the collection.",
+            "output": "not entailment"
+        },
+        "202": {
+            "input": "Question: How many people were on the test flight of the AS-206?. Sentence: After an unmanned LM test flight AS-206, a crew would fly the first Block II CSM and LM in a dual mission known as AS-207/208, or AS-278 (each spacecraft would be launched on a separate Saturn IB.)",
+            "output": "entailment"
+        },
+        "203": {
+            "input": "Question: Who was Emma's brother?. Sentence: His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.",
+            "output": "not entailment"
+        },
+        "204": {
+            "input": "Question: How long does the Members Debate last?. Sentence: The relevant minister, whose department the debate and motion relate to \"winds up\" the debate by speaking after all other participants.",
+            "output": "not entailment"
+        },
+        "205": {
+            "input": "Question: What type of support does co-teaching provide?. Sentence: Co-teachers work in sync with one another to create a climate of learning.",
+            "output": "not entailment"
+        },
+        "206": {
+            "input": "Question: The price of oil is usually a stable commodity until when?. Sentence: Until the oil shock, the price had also remained fairly stable versus other currencies and commodities.",
+            "output": "entailment"
+        },
+        "207": {
+            "input": "Question: What did Lempicka represent better than anyone else?. Sentence: Better than anyone else she represented the Art Deco style in painting and art.",
+            "output": "entailment"
+        },
+        "208": {
+            "input": "Question: What is stratigraphy?. Sentence: In typical geological investigations, geologists use primary information related to petrology (the study of rocks), stratigraphy (the study of sedimentary layers), and structural geology (the study of positions of rock units and their deformation).",
+            "output": "entailment"
+        },
+        "209": {
+            "input": "Question: What was the premise of Woodrow Wilson's inquiry?. Sentence: The inquiry was the idea of President Wilson and the American delegation from the Paris Peace Conference.",
+            "output": "not entailment"
+        },
+        "210": {
+            "input": "Question: What's the average decibel level of noise in Newcastle?. Sentence: The report claimed that these noise levels would have a negative long-term impact on the health of the city's residents.",
+            "output": "not entailment"
+        },
+        "211": {
+            "input": "Question: To whom did William Maclure submit the map?. Sentence: This antedates William Smith's geological map of England by six years, although it was constructed using a different classification of rocks.",
+            "output": "not entailment"
+        },
+        "212": {
+            "input": "Question: In which year did the newspaper change its previous definition?. Sentence: In 1999, the Times added a newer county\u2014Imperial\u2014to that list.",
+            "output": "entailment"
+        },
+        "213": {
+            "input": "Question: What was the name given to the regions in which the pro - slavery southerners lived?. Sentence: However, the secession crisis following the election of Abraham Lincoln in 1860 led to the proposal never coming to a vote.",
+            "output": "not entailment"
+        },
+        "214": {
+            "input": "Question: Where did he begin teaching?. Sentence: He started teaching in Rotterdam, where he finished writing and publishing his multi-volume masterpiece, Historical and Critical Dictionary.",
+            "output": "entailment"
+        },
+        "215": {
+            "input": "Question: What is the name of the current King of Thebes in the play?. Sentence: One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial.",
+            "output": "entailment"
+        },
+        "216": {
+            "input": "Question: What mechanism can be used to make oxygen?. Sentence: After a set cycle time the operation of the two beds is interchanged, thereby allowing for a continuous supply of gaseous oxygen to be pumped through a pipeline.",
+            "output": "not entailment"
+        },
+        "217": {
+            "input": "Question: What is the highest peak in Victoria?. Sentence: Victoria contains many topographically, geologically and climatically diverse areas, ranging from the wet, temperate climate of Gippsland in the southeast to the snow-covered Victorian alpine areas which rise to almost 2,000 m (6,600 ft), with Mount Bogong the highest peak at 1,986 m (6,516 ft).",
+            "output": "entailment"
+        },
+        "218": {
+            "input": "Question: In what time frame did Tesla weigh almost exactly the same amount?. Sentence: He was an elegant, stylish figure in New York City, meticulous in his grooming, clothing, and regimented in his daily activities.",
+            "output": "not entailment"
+        },
+        "219": {
+            "input": "Question: What bus company in Newcastle provides the majority of services south of the river?. Sentence: Stagecoach is the primary operator in the city proper, with cross-city services mainly between both the West and East ends via the city centre with some services extending out to the MetroCentre, Killingworth, Wallsend and Ponteland.",
+            "output": "not entailment"
+        },
+        "220": {
+            "input": "Question: The Bank of America Tower was previously known as what?. Sentence: The tallest building in Downtown Jacksonville's skyline is the Bank of America Tower, constructed in 1990 as the Barnett Center.",
+            "output": "entailment"
+        },
+        "221": {
+            "input": "Question: What two other rulers had their graves hidden under a river?. Sentence: Other tales state that his grave was stampeded over by many horses, and that trees were then planted over the site, and the permafrost also did its part in hiding the burial site.",
+            "output": "not entailment"
+        },
+        "222": {
+            "input": "Question: About how many Walloons and Huguenots emigrated to England and Ireland in this era?. Sentence: In relative terms, this was one of the largest waves of immigration ever of a single ethnic community to Britain.",
+            "output": "not entailment"
+        },
+        "223": {
+            "input": "Question: Who presented the Edict of Worms declaring Luther to be an outlaw?. Sentence: \" It also made it a crime for anyone in Germany to give Luther food or shelter.",
+            "output": "not entailment"
+        },
+        "224": {
+            "input": "Question: Who created an index of health and social problems?. Sentence: Creating an index of \"Health and Social Problems\" from nine factors, authors Richard Wilkinson and Kate Pickett found health and social problems \"more common in countries with bigger income inequalities\", and more common among states in the US with larger income inequalities.",
+            "output": "entailment"
+        },
+        "225": {
+            "input": "Question: Who was the main performer at this year's halftime show?. Sentence: It was the third-most watched U.S. broadcast ever.",
+            "output": "not entailment"
+        },
+        "226": {
+            "input": "Question: What did the Court of Justice say Steymann was entitled to?. Sentence: The Court of Justice held that Mr Steymann was entitled to stay, so long as there was at least an \"indirect quid pro quo\" for the work he did.",
+            "output": "entailment"
+        },
+        "227": {
+            "input": "Question: Who did Luther view to be the Antichrist?. Sentence: He consistently rejected the idea of a Holy War, \"as though our people were an army of Christians against the Turks, who were enemies of Christ.",
+            "output": "not entailment"
+        },
+        "228": {
+            "input": "Question: What does Graham Twigg propose about the spread of disease?. Sentence: Archaeologist Barney Sloane has argued that there is insufficient evidence of the extinction of a large number of rats in the archaeological record of the medieval waterfront in London and that the plague spread too quickly to support the thesis that the Y. pestis was spread from fleas on rats; he argues that transmission must have been person to person.",
+            "output": "not entailment"
+        },
+        "229": {
+            "input": "Question: Which Panthers player got a penalty, which gave the Broncos a new set of downs?. Sentence: Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs.",
+            "output": "entailment"
+        },
+        "230": {
+            "input": "Question: When was the FIS founded?. Sentence: The FIS won sweeping victories in local elections and it was going to win national elections in 1991 when voting was canceled by a military coup d'\u00e9tat.",
+            "output": "not entailment"
+        },
+        "231": {
+            "input": "Question: Where can chloroplasts sometimes be found?. Sentence: The plant cells which contain chloroplasts are usually parenchyma cells, though chloroplasts can also be found in collenchyma tissue.",
+            "output": "entailment"
+        },
+        "232": {
+            "input": "Question: What are the two principal Asian-American groups living in the west side neighborhood of Fresno?. Sentence: It is culturally diverse and also includes significant Mexican-American and Asian-American (principally Hmong or Laotian) populations.",
+            "output": "entailment"
+        },
+        "233": {
+            "input": "Question: What is the enrollment of undergraduates at Harvard?. Sentence: Harvard's 2,400 professors, lecturers, and instructors instruct 7,200 undergraduates and 14,000 graduate students.",
+            "output": "entailment"
+        },
+        "234": {
+            "input": "Question: What has caused savanna regions to grow into the South American tropics in the last 34 million years?. Sentence: Climate fluctuations during the last 34 million years have allowed savanna regions to expand into the tropics.",
+            "output": "entailment"
+        },
+        "235": {
+            "input": "Question: What was one of the Norman's major exports?. Sentence: Most Norman knights remained poor and land-hungry, and by 1066 Normandy had been exporting fighting horsemen for more than a generation.",
+            "output": "entailment"
+        },
+        "236": {
+            "input": "Question: Suzuki Chokichi's incense burner dated 1875 is made of what from material?. Sentence: One of the finest objects displayed is Suzuki Chokichi's bronze incense burner (koro) dated 1875, standing at over 2.25 metres high and 1.25 metres in diameter it is also one of the largest examples made.",
+            "output": "entailment"
+        },
+        "237": {
+            "input": "Question: How many atoms combine to form dioxygen?. Sentence: It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements.",
+            "output": "not entailment"
+        },
+        "238": {
+            "input": "Question: What are the stages in a compound engine called?. Sentence: These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried.",
+            "output": "entailment"
+        },
+        "239": {
+            "input": "Question: What does FOTA stand for?. Sentence: Since 1963, the Festival of the Arts (FOTA) takes over campus for 7\u201310 days of exhibitions and interactive artistic endeavors.",
+            "output": "entailment"
+        },
+        "240": {
+            "input": "Question: Why has the corruption not be in the public view?. Sentence: Kenya\u2019s armed forces, like many government institutions in the country, have been tainted by corruption allegations.",
+            "output": "not entailment"
+        },
+        "241": {
+            "input": "Question: What system was adopted for education?. Sentence: Between 1964 and 1985, the 7\u20134\u20132\u20133 system was adopted \u2013 seven years of primary, four years of lower secondary, two years of upper secondary, and three years of university.",
+            "output": "entailment"
+        },
+        "242": {
+            "input": "Question: During the compression stage of the Rankine cycle, what state is the working fluid in?. Sentence: By condensing the fluid, the work required by the pump consumes only 1% to 3% of the turbine power and contributes to a much higher efficiency for a real cycle.",
+            "output": "not entailment"
+        },
+        "243": {
+            "input": "Question: What was the ideal duty of a Newcomen engine?. Sentence: The historical measure of a steam engine's energy efficiency was its \"duty\".",
+            "output": "not entailment"
+        },
+        "244": {
+            "input": "Question: When the election produced an SNP majority government, what was it the first occurrence of?. Sentence: The SNP overall majority meant that there was sufficient support in the Scottish Parliament to hold a referendum on Scottish independence.",
+            "output": "not entailment"
+        },
+        "245": {
+            "input": "Question: How did Natives in Logstown take Celeron's information?. Sentence: When C\u00e9loron's expedition arrived at Logstown, the Native Americans in the area informed C\u00e9loron that they owned the Ohio Country and that they would trade with the British regardless of the French.",
+            "output": "entailment"
+        },
+        "246": {
+            "input": "Question: During what period the drainage basin of the Amazon likely split?. Sentence: During the mid-Eocene, it is believed that the drainage basin of the Amazon was split along the middle of the continent by the Purus Arch.",
+            "output": "entailment"
+        },
+        "247": {
+            "input": "Question: What special audio recording was released for the 40th anniversary?. Sentence: Additionally, multiple Doctors have returned in new adventures together in audio dramas based on the series.",
+            "output": "not entailment"
+        },
+        "248": {
+            "input": "Question: What type of homes is Fresno known for?. Sentence: The area is also known for its early twentieth century homes, many of which have been restored in recent decades.",
+            "output": "entailment"
+        },
+        "249": {
+            "input": "Question: An MSP may introduce a bill as what?. Sentence: Bills can be introduced to Parliament in a number of ways; the Scottish Government can introduce new laws or amendments to existing laws as a bill; a committee of the Parliament can present a bill in one of the areas under its remit; a member of the Scottish Parliament can introduce a bill as a private member; or a private bill can be submitted to Parliament by an outside proposer.",
+            "output": "entailment"
+        },
+        "250": {
+            "input": "Question: Who formulated the idea of clonal selection theory of immunity?. Sentence: The theory was later modified to reflect new discoveries regarding histocompatibility or the complex \"two-signal\" activation of T cells.",
+            "output": "not entailment"
+        },
+        "251": {
+            "input": "Question: How many points did the Broncos score in the final three minutes of the Pittsburgh game?. Sentence: Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",
+            "output": "not entailment"
+        },
+        "252": {
+            "input": "Question: Who originally hosted the syndicated version of Who Wants to Be a Millionaire?. Sentence: Millionaire ended its run on the network's primetime lineup after three years in 2002, with Buena Vista Television relaunching the show as a syndicated program (under that incarnation's original host Meredith Vieira) in September of that year.",
+            "output": "entailment"
+        },
+        "253": {
+            "input": "Question: Given the strength of French forces at Louisbourg, what did Loudoun do?. Sentence: Faced with this strength, Loudoun returned to New York amid news that a massacre had occurred at Fort William Henry.",
+            "output": "entailment"
+        },
+        "254": {
+            "input": "Question: When did Doctor Who win an award for Best Drama Series?. Sentence: In 2011, Matt Smith became the first Doctor to be nominated for a BAFTA Television Award for Best Actor and in 2016, Michelle Gomez became the first female to receive a BAFTA nomination for the series, getting a Best Supporting Actress nomination for her work as Missy.",
+            "output": "not entailment"
+        },
+        "255": {
+            "input": "Question: Who published Tesla's writings?. Sentence: Among his books are My Inventions: The Autobiography of Nikola Tesla, compiled and edited by Ben Johnston; The Fantastic Inventions of Nikola Tesla, compiled and edited by David Hatcher Childress; and The Tesla Papers.",
+            "output": "not entailment"
+        },
+        "256": {
+            "input": "Question: Complexity theory classifies problems based on what primary attribute?. Sentence: Since complexity theory is interested in classifying problems based on their difficulty, one defines sets of problems based on some criteria.",
+            "output": "entailment"
+        },
+        "257": {
+            "input": "Question: Who was the first NASA scientist in space?. Sentence: The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups.",
+            "output": "not entailment"
+        },
+        "258": {
+            "input": "Question: What's the name of Newcastle's gay club scene?. Sentence: There are many bars on the Bigg Market, and other popular areas for nightlife are Collingwood Street, popularly referred to as the 'Diamond Strip' due to its concentration of high-end bars, Neville Street, the Central Station area and Osborne Road in the Jesmond area of the city.",
+            "output": "not entailment"
+        },
+        "259": {
+            "input": "Question: What was the eventual final goal of the Apollo projects?. Sentence: Possible missions included ferrying crews to a space station, circumlunar flights, and eventual manned lunar landings.",
+            "output": "entailment"
+        },
+        "260": {
+            "input": "Question: How much of Afghanistan did the Taliban take over?. Sentence: In 1996, a more conservative and anti-democratic Islamist movement known as the Taliban rose to power, defeated most of the warlords and took over roughly 80% of Afghanistan.",
+            "output": "entailment"
+        },
+        "261": {
+            "input": "Question: What network was designed by the french. Sentence: First demonstrated in 1973, it was developed to explore alternatives to the early ARPANET design and to support network research generally.",
+            "output": "not entailment"
+        },
+        "262": {
+            "input": "Question: What is more often seen in root tip maristems?. Sentence: Chloroplasts do not normally develop from proplastids in root tip meristems\u2014instead, the formation of starch-storing amyloplasts is more common.",
+            "output": "entailment"
+        },
+        "263": {
+            "input": "Question: What is the legislature of the European Union comprised of?. Sentence: The main sources of primary law are the Treaties establishing the European Union.",
+            "output": "not entailment"
+        },
+        "264": {
+            "input": "Question: Who sculpted the representations of Prince Albert and Queen Victoria found in the main entrance?. Sentence: Prince Albert appears within the main arch above the twin entrances, Queen Victoria above the frame around the arches and entrance, sculpted by Alfred Drury.",
+            "output": "entailment"
+        },
+        "265": {
+            "input": "Question: There are direct contractual links between who?. Sentence: Any subcontractor has a direct contractual relationship with the main contractor.",
+            "output": "not entailment"
+        },
+        "266": {
+            "input": "Question: How much of normal is the oxygen breathed in space suits?. Sentence: In the case of spacesuits, the O_2 partial pressure in the breathing gas is, in general, about 30 kPa (1.4 times normal), and the resulting O_2 partial pressure in the astronaut's arterial blood is only marginally more than normal sea-level O_2 partial pressure (for more information on this, see space suit and arterial blood gas).",
+            "output": "entailment"
+        },
+        "267": {
+            "input": "Question: When was the salary range listed valid for (month and year)?. Sentence: Teachers in state schools must have at least a bachelor's degree, complete an approved teacher education program, and be licensed.",
+            "output": "not entailment"
+        },
+        "268": {
+            "input": "Question: What book did Luther translate into German at this time?. Sentence: Luther's disappearance during his return trip back to Wittenberg was planned.",
+            "output": "not entailment"
+        },
+        "269": {
+            "input": "Question: What city north of New York was settled by Huguenots?. Sentence: A small group of Huguenots also settled on the south shore of Staten Island along the New York Harbor, for which the current neighborhood of Huguenot was named.",
+            "output": "not entailment"
+        },
+        "270": {
+            "input": "Question: Which cathedral is located in Fenham?. Sentence: Newcastle has three cathedrals, the Anglican St. Nicholas, with its elegant lantern tower of 1474, the Roman Catholic St. Mary's designed by Augustus Welby Pugin and the Coptic Cathedral located in Fenham.",
+            "output": "entailment"
+        },
+        "271": {
+            "input": "Question: What happened to Apollo 13?. Sentence: Five of the remaining six missions achieved successful landings, but the Apollo 13 landing was prevented by an oxygen tank explosion in transit to the Moon, which disabled the command spacecraft's propulsion and life support.",
+            "output": "entailment"
+        },
+        "272": {
+            "input": "Question: Why does a lower level of economic growth occur due to high-end consumption?. Sentence: Effects of inequality researchers have found include higher rates of health and social problems, and lower rates of social goods, a lower level of economic utility in society from resources devoted on high-end consumption, and even a lower level of economic growth when human capital is neglected for high-end consumption.",
+            "output": "entailment"
+        },
+        "273": {
+            "input": "Question: The silver and gold collection of the V&A is divided into which categories?. Sentence: The main silver gallery is divided into these areas:",
+            "output": "not entailment"
+        },
+        "274": {
+            "input": "Question: What year did Newcastle first develop its cycling strategy?. Sentence: As of 2012, the local council social aims and objectives for cycling include: highlighting the usage of cycling to cut city congestion; educating that cycling promotes healthy living\u2026",
+            "output": "not entailment"
+        },
+        "275": {
+            "input": "Question: How did trying to establish a devolved Scottish Assembly go in 1979?. Sentence: The 1979 Scottish devolution referendum to establish a devolved Scottish Assembly failed.",
+            "output": "entailment"
+        },
+        "276": {
+            "input": "Question: What are incompetent government's commitment to social justice limited to?. Sentence: \" All this compares very favourably against incompetent, inefficient, or neglectful governments whose commitment to social justice is limited to rhetoric.",
+            "output": "entailment"
+        },
+        "277": {
+            "input": "Question: The WJZ callsign would then be assigned to an ABC affiliate in what city in 1959?. Sentence: The WABC call letters were previously used by the flagship station of CBS Radio (now WCBS (AM)) until 1946.",
+            "output": "not entailment"
+        },
+        "278": {
+            "input": "Question: Scholars stated that there was already an existing settlement between 2 parties prior to which date?. Sentence: In the United States, scholars argue that there already existed a negotiated settlement based on equality between both parties prior to 1973.",
+            "output": "entailment"
+        },
+        "279": {
+            "input": "Question: Who was added to party as Washington went on the way?. Sentence: Governor Robert Dinwiddie of Virginia was an investor in the Ohio Company, which stood to lose money if the French held their claim.",
+            "output": "not entailment"
+        },
+        "280": {
+            "input": "Question: What campaign did the Communist regime initiate after WWII?. Sentence: After World War II, under a Communist regime set up by the conquering Soviets, the \"Bricks for Warsaw\" campaign was initiated, and large prefabricated housing projects were erected in Warsaw to address the housing shortage, along with other typical buildings of an Eastern Bloc city, such as the Palace of Culture and Science, a gift from the Soviet Union.",
+            "output": "entailment"
+        },
+        "281": {
+            "input": "Question: In a computational problem, what can be described as a string over an alphabet?. Sentence: When considering computational problems, a problem instance is a string over an alphabet.",
+            "output": "entailment"
+        },
+        "282": {
+            "input": "Question: What government agency supervised Buddhist monks?. Sentence: The top-level department and government agency known as the Bureau of Buddhist and Tibetan Affairs (Xuanzheng Yuan) was set up in Khanbaliq (modern Beijing) to supervise Buddhist monks throughout the empire.",
+            "output": "entailment"
+        },
+        "283": {
+            "input": "Question: Where does the Nederrijn change it's name?. Sentence: However, at Wijk bij Duurstede, the Nederrijn changes its name and becomes the Lek.",
+            "output": "entailment"
+        },
+        "284": {
+            "input": "Question: What did the Court of Justice reason were controlled in all member states in Josemans v Burgemeester van Maastricht?. Sentence: The Court of Justice reasoned that narcotic drugs were controlled in all member states, and so this differed from other cases where prostitution or other quasi-legal activity was subject to restriction.",
+            "output": "entailment"
+        },
+        "285": {
+            "input": "Question: Who did Carolina beat in the divisional round?. Sentence: The Panthers then blew out the Arizona Cardinals in the NFC Championship Game, 49\u201315, racking up 487 yards and forcing seven turnovers.",
+            "output": "not entailment"
+        },
+        "286": {
+            "input": "Question: What was the main idea of James Hutton's paper?. Sentence: In his paper, he explained his theory that the Earth must be much older than had previously been supposed in order to allow enough time for mountains to be eroded and for sediments to form new rocks at the bottom of the sea, which in turn were raised up to become dry land.",
+            "output": "entailment"
+        },
+        "287": {
+            "input": "Question: What production company pitched The Untouchables to CBS in 1958?. Sentence: The movement in westerns, which ABC is credited for having started, represented a fifth of all primetime series on American television in January 1959, at which point detective shows were beginning to rise in popularity as well.",
+            "output": "not entailment"
+        },
+        "288": {
+            "input": "Question: What is an example of an NP-intermediate problem not known to exist in P or NP-complete?. Sentence: The graph isomorphism problem, the discrete logarithm problem and the integer factorization problem are examples of problems believed to be NP-intermediate.",
+            "output": "entailment"
+        },
+        "289": {
+            "input": "Question: When did Luther return to Wittenberg?. Sentence: He wrote to the Elector: \"During my absence, Satan has entered my sheepfold, and committed ravages which I cannot repair by writing, but only by my personal presence and living word.\"",
+            "output": "not entailment"
+        },
+        "290": {
+            "input": "Question: What did Iqbal fear would weaken the spiritual foundations of Islam and Muslim society?. Sentence: In his travels to Egypt, Afghanistan, Palestine and Syria, he promoted ideas of greater Islamic political co-operation and unity, calling for the shedding of nationalist differences.",
+            "output": "not entailment"
+        },
+        "291": {
+            "input": "Question: How many homes had BSkyB's direct-to-home satellite service available to them in 2010?. Sentence: BSkyB's direct-to-home satellite service became available in 10 million homes in 2010, Europe's first pay-TV platform in to achieve that milestone.",
+            "output": "entailment"
+        },
+        "292": {
+            "input": "Question: What will concentrated oxygen greatly speed up?. Sentence: Concentrated O_2 will allow combustion to proceed rapidly and energetically.",
+            "output": "entailment"
+        },
+        "293": {
+            "input": "Question: How many housing units were there in 2000?. Sentence: There were 149,025 housing units at an average density of 1,427.9 square miles (3,698 km2).",
+            "output": "entailment"
+        },
+        "294": {
+            "input": "Question: How high is Victoria's Mount Bogong?. Sentence: There is an extensive series of river systems in Victoria.",
+            "output": "not entailment"
+        },
+        "295": {
+            "input": "Question: What type of cascade results when complement proteins bind to microbes and activate their protease activity?. Sentence: After complement proteins initially bind to the microbe, they activate their protease activity, which in turn activates other complement proteases, and so on.",
+            "output": "not entailment"
+        },
+        "296": {
+            "input": "Question: The Super Bowl 50 Host Committee said it would be the most what ever?. Sentence: The Super Bowl 50",
+            "output": "not entailment"
+        },
+        "297": {
+            "input": "Question: What did Davies call his system. Sentence: He gave a talk on the proposal in 1966, after which a person from the Ministry of Defence (MoD) told him about Baran's work.",
+            "output": "not entailment"
+        },
+        "298": {
+            "input": "Question: What percentage of Warsaw's population was Protestant in 1901?. Sentence: After the war, the new communist authorities of Poland discouraged church construction and only a small number were rebuilt.",
+            "output": "not entailment"
+        },
+        "299": {
+            "input": "Question: President Johnson issued an executive order to rename the Launch Operations Center after whom?. Sentence: But an even bigger facility would be needed for the mammoth rocket required for the manned lunar mission, so land acquisition was started in July 1961 for a Launch Operations Center (LOC) immediately north of Canaveral at Merritt Island.",
+            "output": "not entailment"
+        },
+        "300": {
+            "input": "Question: Name a luxury division of Toyota.. Sentence: A decade after the 1973 oil crisis, Honda, Toyota and Nissan, affected by the 1981 voluntary export restraints, opened US assembly plants and established their luxury divisions (Acura, Lexus and Infiniti, respectively) to distinguish themselves from their mass-market brands.",
+            "output": "entailment"
+        },
+        "301": {
+            "input": "Question: What type of positions would these counties be trying to recruit for?. Sentence: Many counties offer alternative licensing programs to attract people into teaching, especially for hard-to-fill positions.",
+            "output": "entailment"
+        },
+        "302": {
+            "input": "Question: Some have generalized the meaning of the word imperialism down to general-purpose what?. Sentence: The definition of imperialism has not been finalized for centuries and was confusedly seen to represent the policies of major powers, or simply, general-purpose aggressiveness.",
+            "output": "entailment"
+        },
+        "303": {
+            "input": "Question: Why was NBC unable to broadcast the coronation of Queen Elizabeth II?. Sentence: The first attempts to internationalize the ABC television network date back to the 1950s, after Leonard Goldenson, following the United Paramount Theatres model, tried to use on ABC the same strategies he had made in expanding UPT's theater operation to the international market.",
+            "output": "not entailment"
+        },
+        "304": {
+            "input": "Question: What did the engineers fear would be difficult in space due to it never being attempted in Earth orbit?. Sentence: Many engineers feared that a rendezvous \u2014let alone a docking\u2014 neither of which had been attempted even in Earth orbit, would be extremely difficult in lunar orbit.",
+            "output": "entailment"
+        },
+        "305": {
+            "input": "Question: Why did Tesla want funds from Morgan?. Sentence: On 14 October 1904, Morgan finally replied through his secretary, stating, \"It will be impossible for [me] to do anything in the matter,\" after Tesla had written to Morgan when the financier was meeting with the Archbishop of Canterbury in an attempt to appeal to his Christian spirit.",
+            "output": "not entailment"
+        },
+        "306": {
+            "input": "Question: What was done to the Trajan's Column replica to fit it under the ceiling?. Sentence: Replicas of two earlier Davids by Donatello's David and Verrocchio's David, are also included, although for conservation reasons the Verrocchio replica is displayed in a glass case.",
+            "output": "not entailment"
+        },
+        "307": {
+            "input": "Question: Which species are ribbon-shaped planktonic animals?. Sentence: There are two known species, with worldwide distribution in warm, and warm-temperate waters: Cestum veneris (\"Venus' girdle\") is among the largest ctenophores \u2013 up to 1.5 meters (4.9 ft) long, and can undulate slowly or quite rapidly.",
+            "output": "not entailment"
+        },
+        "308": {
+            "input": "Question: How much food does a ctenophora eat in a day?. Sentence: In favorable circumstances, ctenophores can eat ten times their own weight in a day.",
+            "output": "entailment"
+        },
+        "309": {
+            "input": "Question: What is floridean?. Sentence: Rhodoplasts synthesize a form of starch called floridean, which collects into granules outside the rhodoplast, in the cytoplasm of the red alga.",
+            "output": "entailment"
+        },
+        "310": {
+            "input": "Question: What kind of problems are one of the main topics studied in computational complexity theory?. Sentence: Decision problems are one of the central objects of study in computational complexity theory.",
+            "output": "entailment"
+        },
+        "311": {
+            "input": "Question: What is the name of one type of modern primality test?. Sentence: Modern primality tests for general numbers n can be divided into two main classes, probabilistic (or \"Monte Carlo\") and deterministic algorithms.",
+            "output": "entailment"
+        },
+        "312": {
+            "input": "Question: What is a trait of sequential hermaphrodites?. Sentence: Most species are hermaphrodites\u2014a single animal can produce both eggs and sperm, meaning it can fertilize its own egg, not needing a mate.",
+            "output": "not entailment"
+        },
+        "313": {
+            "input": "Question: What is the English translation of Kunskapsskolan?. Sentence: Sweden is internationally known for this innovative school voucher model that provides Swedish pupils with the opportunity to choose the school they prefer.",
+            "output": "not entailment"
+        },
+        "314": {
+            "input": "Question: Who were the sculpture galleries that opened in 2006 named after?. Sentence: With the opening of the Dorothy and Michael Hintze sculpture galleries in 2006 it was decided to extend the chronology of the works on display up to 1950; this has involved loans by other museums, including Tate Britain, so works by Henry Moore and Jacob Epstein along with other of their contemporaries are now on view.",
+            "output": "entailment"
+        },
+        "315": {
+            "input": "Question: How long has Radio Tyneside been the voluntary hospital radio service?. Sentence: The city also has a Radio Lollipop station based at the Great North Children's Hospital in the Newcastle Royal Victoria Infirmary.",
+            "output": "not entailment"
+        },
+        "316": {
+            "input": "Question: When was the \"Dalekmania\" period?. Sentence: The second was the late 1970s, when Tom Baker occasionally drew audiences of over 12 million.",
+            "output": "not entailment"
+        },
+        "317": {
+            "input": "Question: Who headed the Niagara Falls Cataract Construction Company in 1893?. Sentence: In 1893 Richard Dean Adams, who headed up the Niagara Falls Cataract Construction Company sought Tesla's opinion on what system would be best to transmit power generated at the falls.",
+            "output": "entailment"
+        },
+        "318": {
+            "input": "Question: Who designed the largest item from Italy that is part of the V&A sculpture collection?. Sentence: The largest item from Italy is the Chancel Chapel from Santa Chiara Florence dated 1493\u20131500, designed by Giuliano da Sangallo it is 11.1 metres in height by 5.4 metres square, it includes a grand sculpted tabernacle by Antonio Rossellino and coloured terracotta decoration.",
+            "output": "entailment"
+        },
+        "319": {
+            "input": "Question: When did Tesla go to Tomingaj?. Sentence: He read many books while in Tomingaj, and later said that Mark Twain's works had helped him to miraculously recover from his earlier illness.",
+            "output": "not entailment"
+        },
+        "320": {
+            "input": "Question: The loss of biodiversity may be the result of what, according to environmentalists?. Sentence: Amazonian evergreen forests account for about 10% of the world's terrestrial primary productivity and 10% of the carbon stores in ecosystems\u2014of the order of 1.1 \u00d7 1011 metric tonnes of carbon.",
+            "output": "not entailment"
+        },
+        "321": {
+            "input": "Question: During what time did the rainforest spanned a narrow band?. Sentence: During the Oligocene, for example, the rainforest spanned a relatively narrow band.",
+            "output": "entailment"
+        },
+        "322": {
+            "input": "Question: What is \"The Gate\"?. Sentence: Newcastle's gay scene - 'The Pink Triangle' - is centred on the Times Square area near the Centre for Life and has a range of bars, caf\u00e9s and clubs.",
+            "output": "not entailment"
+        },
+        "323": {
+            "input": "Question: What denomination is the Diocesan School for Girls in Auckland affiliated with?. Sentence: Private schools are often Anglican, such as King's College and Diocesan School for Girls in Auckland, St Paul's Collegiate School in Hamilton, St Peter's School in Cambridge, Samuel Marsden Collegiate School in Wellington, and Christ's College and St Margaret's College in Christchurch; or Presbyterian, such as Saint Kentigern College and St Cuthbert's College in Auckland, Scots College and Queen Margaret College in Wellington, and St Andrew's College and Rangi Ruru Girls' School in Christchurch.",
+            "output": "entailment"
+        },
+        "324": {
+            "input": "Question: Why did Tesla begin investigating invisible energy?. Sentence: Tesla is quoted by The New York Times as saying, \"I am in too much grief to talk.",
+            "output": "not entailment"
+        },
+        "325": {
+            "input": "Question: What received a battering during the Siege of Newcastle?. Sentence: The church tower received a battering during the Siege of Newcastle by the Scots who finally breached the Town Wall and forced surrender.",
+            "output": "entailment"
+        },
+        "326": {
+            "input": "Question: At what point does oxygen toxicity begin to happen?. Sentence: Oxygen toxicity usually begins to occur at partial pressures more than 50 kilopascals (kPa), equal to about 50% oxygen composition at standard pressure or 2.5 times the normal sea-level O_2 partial pressure of about 21 kPa.",
+            "output": "entailment"
+        },
+        "327": {
+            "input": "Question: When did the Chinese famine begin?. Sentence: Nestorian graves dating to 1338\u201339 near Lake Issyk Kul in Kyrgyzstan have inscriptions referring to plague and are thought by many epidemiologists to mark the outbreak of the epidemic, from which it could easily have spread to China and India.",
+            "output": "not entailment"
+        },
+        "328": {
+            "input": "Question: When was the debut of the 1983 special called The Five Doctors?. Sentence: The 1988 story Silver Nemesis was broadcast with all three episodes airing back to back on TVNZ in New Zealand in November, after the first episode had been shown in the UK but before the final two instalments had aired there.",
+            "output": "not entailment"
+        },
+        "329": {
+            "input": "Question: What governing body appoints commissioners and the board of European Central Bank?. Sentence: The \"European Council\" (rather than the Council, made up of different government Ministers) is composed of the Prime Ministers or executive Presidents of the member states.",
+            "output": "entailment"
+        },
+        "330": {
+            "input": "Question: In the fall quarter of 2014, how many students signed up for the university's  in total?. Sentence: In the fall quarter of 2014, the University of Chicago enrolled 5,792 students in the College, 3,468 students in its four graduate divisions, 5,984 students in its professional schools, and 15,244 students overall.",
+            "output": "entailment"
+        },
+        "331": {
+            "input": "Question: During which years was no census taken?. Sentence: Most work has been done on the spread of the plague in England, and even estimates of overall population at the start vary by over 100% as no census was undertaken between the time of publication of the Domesday Book and the year 1377.",
+            "output": "entailment"
+        },
+        "332": {
+            "input": "Question: What is the increased rates of self-employment based on?. Sentence: However, most of it is often based on necessity rather than opportunity.",
+            "output": "entailment"
+        },
+        "333": {
+            "input": "Question: The sieve of Eratosthenes would not be valid if what were true?. Sentence: Similarly, the sieve of Eratosthenes would not work correctly if 1 were considered a prime: a modified version of the sieve that considers 1 as prime would eliminate all multiples of 1 (that is, all other numbers) and produce as output only the single number 1.",
+            "output": "entailment"
+        },
+        "334": {
+            "input": "Question: How many homes had BSkyB's direct-to-home satellite service available to them in 2010?. Sentence: The target was first announced in August 2004, since then an additional 2.4m customers had subscribed to BSkyB's direct-to-home service.",
+            "output": "not entailment"
+        },
+        "335": {
+            "input": "Question: What have the Treaties sought to enable since its foundation?. Sentence: Free movement was increasingly based on \"citizenship\", so that people had rights to empower them to become economically and socially active, rather than economic activity being a precondition for rights.",
+            "output": "not entailment"
+        },
+        "336": {
+            "input": "Question: What does the sea monster with a female upper body hold in its claws?. Sentence: The mermaid (syrenka) is Warsaw's symbol and can be found on statues throughout the city and on the city's coat of arms.",
+            "output": "not entailment"
+        },
+        "337": {
+            "input": "Question: What is the dispensary subject to in a majority of countries?. Sentence: In most countries, the dispensary is subject to pharmacy legislation; with requirements for storage conditions, compulsory texts, equipment, etc., specified in legislation.",
+            "output": "entailment"
+        },
+        "338": {
+            "input": "Question: When did Tesla get his US citizenship?. Sentence: On 30 July 1891, at the age of 35, Tesla became a naturalized citizen of the United States, and established his South Fifth Avenue laboratory, and later another at 46 E. Houston Street, in New York.",
+            "output": "entailment"
+        },
+        "339": {
+            "input": "Question: What month and year was Apollo 13 launched?. Sentence: Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.",
+            "output": "not entailment"
+        },
+        "340": {
+            "input": "Question: What drove residents to quieter suburban housing?. Sentence: The construction of highways led residents to move to newer housing in the suburbs.",
+            "output": "entailment"
+        },
+        "341": {
+            "input": "Question: What ruler, besides John of Saxony and Philip of Hesse, formed the Schmalkaldic League?. Sentence: The Swiss cities, however, did not sign these agreements.",
+            "output": "not entailment"
+        },
+        "342": {
+            "input": "Question: What would type of studying would require a teacher to take on a supervisor role?. Sentence: A teacher's professional duties may extend beyond formal teaching.",
+            "output": "not entailment"
+        },
+        "343": {
+            "input": "Question: What is the current number of electors currently in a Scottish Parliament constituency?. Sentence: Currently, the average Scottish Parliament constituency comprises 55,000 electors.",
+            "output": "entailment"
+        },
+        "344": {
+            "input": "Question: In what year did the film also mention the number of regenerations?. Sentence: This line became stuck in the public consciousness despite not often being repeated, and was recognised by producers of the show as a plot obstacle for when the show finally had to regenerate the Doctor a thirteenth time.",
+            "output": "not entailment"
+        },
+        "345": {
+            "input": "Question: What is notable about the Amazon forest when it is seen from space?. Sentence: Deforestation is considerable, and areas cleared of forest are visible to the naked eye from outer space.",
+            "output": "entailment"
+        },
+        "346": {
+            "input": "Question: What was Newcastle named as the most type of city in the UK?. Sentence: In a report, published in early February 2007 by the Ear Institute at the University College London, and Widex, a Danish hearing aid manufacturer, Newcastle was named as the noisiest city in the whole of the UK, with an average level of 80.4 decibels.",
+            "output": "entailment"
+        },
+        "347": {
+            "input": "Question: What is the scale used to measure the strength of hurricanes called?. Sentence: The eye crossed St. Augustine with winds that had just barely diminished to 110 mph (180 km/h), making it a strong Category 2 on the Saffir-Simpson Scale.",
+            "output": "entailment"
+        },
+        "348": {
+            "input": "Question: What system was adopted for education?. Sentence: Kenya's first system of education was introduced by British colonists.",
+            "output": "not entailment"
+        },
+        "349": {
+            "input": "Question: What was the name of the Media Day event for Super Bowl 50?. Sentence: The game's media day, which was typically held on the Tuesday afternoon prior to the game, was moved to the Monday evening and re-branded as Super Bowl Opening Night.",
+            "output": "entailment"
+        },
+        "350": {
+            "input": "Question: When did the second series of Torchwood play?. Sentence: A second series of Torchwood aired in 2008; for three episodes, the cast was joined by Freema Agyeman reprising her Doctor Who role of Martha Jones.",
+            "output": "entailment"
+        },
+        "351": {
+            "input": "Question: What contains a nearly verbatim of parliamentary debates?. Sentence: Proceedings are also recorded in text form, in print and online, in the Official Report, which is the substantially verbatim transcript of parliamentary debates.",
+            "output": "entailment"
+        },
+        "352": {
+            "input": "Question: By 199 how many universities were connected. Sentence: By 1998, the vBNS had grown to connect more than 100 universities and research and engineering institutions via 12 national points of presence with DS-3",
+            "output": "entailment"
+        },
+        "353": {
+            "input": "Question: Generally speaking, what size are the earthquakes that hit southern California?. Sentence: Each year, the southern California area has about 10,000 earthquakes.",
+            "output": "not entailment"
+        },
+        "354": {
+            "input": "Question: When was the new constitution promulgated?. Sentence: As of that day, the new constitution heralding the Second Republic came into force.",
+            "output": "not entailment"
+        },
+        "355": {
+            "input": "Question: What did Wiesner shout out in front of the press during a presentation by von Braun?. Sentence: No, that's no good\" in front of the press, during a presentation by von Braun.",
+            "output": "entailment"
+        },
+        "356": {
+            "input": "Question: Who did the NIF regime harbor prior to 9/11?. Sentence: After al-Nimeiry was overthrown in 1985 the party did poorly in national elections, but in 1989 it was able to overthrow the elected post-al-Nimeiry government with the help of the military.",
+            "output": "not entailment"
+        },
+        "357": {
+            "input": "Question: In what century did missionaries notably establish church schools in South Africa?. Sentence: Some of the oldest schools in South Africa are private church schools that were established by missionaries in the early nineteenth century.",
+            "output": "entailment"
+        },
+        "358": {
+            "input": "Question: What is the edge of the moraine plateau called?. Sentence: The significant element of the relief, in this part of Warsaw, is the edge of moraine plateau called Warsaw Escarpment.",
+            "output": "entailment"
+        },
+        "359": {
+            "input": "Question: What do scholars sometimes assert that Luther believed about what faith and reason were to each other?. Sentence: Some scholars have asserted that Luther taught that faith and reason were antithetical in the sense that questions of faith could not be illuminated by reason.",
+            "output": "entailment"
+        },
+        "360": {
+            "input": "Question: What are Ctenophora commonly known as?. Sentence: Ctenophora (/t\u1d7b\u02c8n\u0252f\u0259r\u0259/; singular ctenophore, /\u02c8t\u025bn\u0259f\u0254\u02d0r/ or /\u02c8ti\u02d0n\u0259f\u0254\u02d0r/; from the Greek \u03ba\u03c4\u03b5\u03af\u03c2 kteis 'comb' and \u03c6\u03ad\u03c1\u03c9 pher\u014d 'carry'; commonly known as comb jellies) is a phylum of animals that live in marine waters worldwide.",
+            "output": "entailment"
+        },
+        "361": {
+            "input": "Question: What drove increased rental prices in East New York?. Sentence: Through gentrification of older neighbourhoods, for example, in East New York, rental prices increased rapidly as landlords found new residents willing to pay higher market rate for housing and left lower income families without rental units.",
+            "output": "entailment"
+        },
+        "362": {
+            "input": "Question: When is the earliest Britain had an imperialist policy?. Sentence: Britain's imperialist ambitions can be seen as early as the sixteenth century.",
+            "output": "entailment"
+        },
+        "363": {
+            "input": "Question: How many times has Polonia won the cup?. Sentence: They also won the country\u2019s championship in 1946, and won the cup twice as well.",
+            "output": "entailment"
+        },
+        "364": {
+            "input": "Question: When was the Soulages collection acquired?. Sentence: The Soulages collection of Italian and French Renaissance objects was acquired between 1859 and 1865, and includes several cassone.",
+            "output": "entailment"
+        },
+        "365": {
+            "input": "Question: What happened to Tesla's belongings?. Sentence: Two days later, the FBI ordered the Alien Property Custodian to seize Tesla's belongings, even though Tesla was an American citizen.",
+            "output": "entailment"
+        },
+        "366": {
+            "input": "Question: How many fumbles did Von Miller force in Super Bowl 50?. Sentence: The Broncos took an early lead in Super Bowl 50 and never trailed.",
+            "output": "not entailment"
+        },
+        "367": {
+            "input": "Question: Are juiveniles capable of reproduction?. Sentence: In at least some species, juveniles are capable of reproduction before reaching the adult size and shape.",
+            "output": "entailment"
+        },
+        "368": {
+            "input": "Question: Who explained that inertial reference frames equaled reference frames subject to constant acceleration?. Sentence: The concept of inertia can be further generalized to explain the tendency of objects to continue in many different forms of constant motion, even those that are not strictly constant velocity.",
+            "output": "not entailment"
+        },
+        "369": {
+            "input": "Question: What region does use the term 'private schools' to refer to universities?. Sentence: In the United Kingdom and several other Commonwealth countries including Australia and Canada, the use of the term is generally restricted to primary and secondary educational levels; it is almost never used of universities and other tertiary institutions.",
+            "output": "not entailment"
+        },
+        "370": {
+            "input": "Question: Historically, which movement has the Methodist Church supported?. Sentence: Historically, the Methodist Church has supported the temperance movement.",
+            "output": "entailment"
+        },
+        "371": {
+            "input": "Question: How are 'un-aided' schools different from 'aided' schools?. Sentence: The private 'un-aided' schools are fully funded by private parties.",
+            "output": "entailment"
+        },
+        "372": {
+            "input": "Question: What is the ABC affiliate that serves Lima, Ohio?. Sentence: Currently, New Jersey, Rhode Island and Delaware are the only U.S. states where ABC does not have a locally licensed affiliate (New Jersey is served by New York City O&O WABC-TV and Philadelphia O&O WPVI-TV; Rhode Island is served by New Bedford, Massachusetts-licensed WLNE; and Delaware is served by WPVI and Salisbury, Maryland affiliate WMDT).",
+            "output": "not entailment"
+        },
+        "373": {
+            "input": "Question: Who wrote The Mutants?. Sentence: The first serial had been completed and the BBC believed it was crucial that the next one be a success, but The Mutants was the only script ready to go, so the show had little choice but to use it.",
+            "output": "not entailment"
+        },
+        "374": {
+            "input": "Question: Who recorded a version of the Doctor Who theme with spoken lyrics in the 1970's?. Sentence: In the early 1970s, Jon Pertwee, who had played the Third Doctor, recorded a version of the Doctor",
+            "output": "entailment"
+        },
+        "375": {
+            "input": "Question: Which two importers claimed that under a French competition law, they were prevented from selling Picon beer under wholesale price?. Sentence: In Keck and Mithouard two importers claimed that their prosecution under a French competition law, which prevented them selling Picon beer under wholesale price, was unlawful.",
+            "output": "entailment"
+        },
+        "376": {
+            "input": "Question: Western governments considered Islamists to be the lesser of two evils when compared to whom?. Sentence: Islamists were considered by Western governments bulwarks against\u2014what were thought to be at the time\u2014more dangerous leftist/communist/nationalist insurgents/opposition, which Islamists were correctly seen as opposing.",
+            "output": "entailment"
+        },
+        "377": {
+            "input": "Question: What is one condition that an element p of R must satisfy in order to be considered a prime element?. Sentence: An element p of R is called prime element if it is neither zero nor a unit (i.e., does not have a multiplicative inverse) and satisfies the following requirement: given x and y in R such that p divides the product xy, then p divides x or y. An element is irreducible if it is not a unit and cannot be written as a product of two ring elements that are not units.",
+            "output": "entailment"
+        },
+        "378": {
+            "input": "Question: What entity was Touchstone Television reorganized into in 2007?. Sentence: Since the 1950s, ABC has had two main production facilities: the ABC Television Center (now The Prospect Studios) on Prospect Avenue in Hollywood, California, shared with the operations of KABC-TV until 1999; and the ABC Television Center, East, a set of studios located throughout the New York City.",
+            "output": "not entailment"
+        },
+        "379": {
+            "input": "Question: The UMC believes that Jesus repudiated the les talionis in what BIble verses?. Sentence: The United Methodist Church, along with other Methodist churches, condemns capital punishment, saying that it cannot accept retribution or social vengeance as a reason for taking human life.",
+            "output": "not entailment"
+        },
+        "380": {
+            "input": "Question: Boycotting, refusing to pay taxes, sit ins, and draft dodging all make what harder?. Sentence: Brownlee notes that \"although civil disobedients are constrained in their use of coercion by their conscientious aim to engage in moral dialogue, nevertheless they may find it necessary to employ limited coercion in order to get their issue onto the table.\"",
+            "output": "not entailment"
+        },
+        "381": {
+            "input": "Question: What is the first line of defense against pathogens that prevents them from entering an organism?. Sentence: This improved response is then retained after the pathogen has been eliminated, in the form of an immunological memory, and allows the adaptive immune system to mount faster and stronger attacks each time this pathogen is encountered.",
+            "output": "not entailment"
+        },
+        "382": {
+            "input": "Question: What did the number of legions in Roman times depend on?. Sentence: Between about AD 14 and 180, the assignment of legions was as follows: for the army of Germania Inferior, two legions at Vetera (Xanten), I Germanica and XX Valeria (Pannonian troops); two legions at oppidum Ubiorum (\"town of the Ubii\"), which was renamed to Colonia Agrippina, descending to Cologne, V Alaudae, a Celtic legion recruited from Gallia Narbonensis and XXI, possibly a Galatian legion from the other side of the empire.",
+            "output": "not entailment"
+        },
+        "383": {
+            "input": "Question: What did Tesla design several experimental setups to produce?. Sentence: In March 1896, after hearing of Wilhelm R\u00f6ntgen's discovery of X-ray and X-ray imaging (radiography), Tesla proceeded to do his own experiments in X-ray imaging, developing a high energy single terminal vacuum tube of his own design that had no target electrode and that worked from the output of the Tesla Coil (the modern term for the phenomenon produced by this device is bremsstrahlung or braking radiation).",
+            "output": "not entailment"
+        },
+        "384": {
+            "input": "Question: What tribe uses GPS devices to map lands?. Sentence: Using handheld GPS devices and programs like Google Earth, members of the Trio Tribe, who live in the rainforests of southern Suriname, map out their ancestral lands to help strengthen their territorial claims.",
+            "output": "entailment"
+        },
+        "385": {
+            "input": "Question: How many volts could particles be charged to in his weapon design?. Sentence: It describes an open-ended vacuum tube with a gas jet seal that allows particles to exit, a method of charging particles to millions of volts, and a method of creating and directing non-dispersive particle streams (through electrostatic repulsion).",
+            "output": "entailment"
+        },
+        "386": {
+            "input": "Question: When did it retract to a inland formation?. Sentence: It expanded again during the Middle Miocene, then retracted to a mostly inland formation at the last glacial maximum.",
+            "output": "entailment"
+        },
+        "387": {
+            "input": "Question: what was Tesla's financial situation after being forced out?. Sentence: They eventually forced Tesla out leaving him penniless.",
+            "output": "entailment"
+        },
+        "388": {
+            "input": "Question: What is issued once construction is complete and a final inspection has been passed?. Sentence: Once construction is complete and a final inspection has been passed, an occupancy permit may be issued.",
+            "output": "entailment"
+        },
+        "389": {
+            "input": "Question: What would need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?. Sentence: For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers.",
+            "output": "not entailment"
+        },
+        "390": {
+            "input": "Question: What was the name given to the regions in which the pro - slavery southerners lived?. Sentence: Subsequently, Californios (dissatisfied with inequitable taxes and land laws) and pro-slavery southerners in the lightly populated \"Cow Counties\" of southern California attempted three times in the 1850s to achieve a separate statehood or territorial status separate from Northern California.",
+            "output": "entailment"
+        },
+        "391": {
+            "input": "Question: What is malum in se considerations?. Sentence: Some legal requirements come from malum in se considerations, or the desire to prevent things that are indisputably bad \u2013 bridge collapses or explosions.",
+            "output": "entailment"
+        },
+        "392": {
+            "input": "Question: What was the newer county added to the list?. Sentence: In 1999, the Times added a newer county\u2014Imperial\u2014to that list.",
+            "output": "entailment"
+        },
+        "393": {
+            "input": "Question: When did Tesla graduate?. Sentence: Tesla was able to perform integral calculus in his head, which prompted his teachers to believe that he was cheating.",
+            "output": "not entailment"
+        },
+        "394": {
+            "input": "Question: Who did the SNP obtain 16 seats from?. Sentence: The SNP took 16 seats from Labour, with many of their key figures not returned to parliament, although Labour leader Iain Gray retained East Lothian by 151 votes.",
+            "output": "entailment"
+        },
+        "395": {
+            "input": "Question: What are cestida called?. Sentence: Velamen parallelum, which is typically less than 20 centimeters (0.66 ft) long, can move much faster in what has been described as a \"darting motion\".",
+            "output": "not entailment"
+        },
+        "396": {
+            "input": "Question: Constructing a project that fails to adhere to codes does not benefit whom?. Sentence: Constructing a project that fails to adhere to codes does not benefit the owner.",
+            "output": "entailment"
+        },
+        "397": {
+            "input": "Question: Revolutionary civil disobedience towards culture is highlighted by example of who?. Sentence: Revolutionary civil disobedience is more of an active attempt to overthrow a government (or to change cultural traditions, social customs, religious beliefs, etc...revolution doesn't have to be political, i.e. \"cultural revolution\", it simply implies sweeping and widespread change to a section of the social fabric).",
+            "output": "not entailment"
+        },
+        "398": {
+            "input": "Question: What is the oldest Methodist church in continuous use in the United States?. Sentence: St. George's United Methodist Church, located at the corner of 4th and New Streets, in the Old City neighborhood of Philadelphia, is the oldest Methodist church in continuous use in the United States, beginning in 1769.",
+            "output": "entailment"
+        },
+        "399": {
+            "input": "Question: WHat were features of Apple Talk. Sentence: It was the primary protocol used by Apple devices through the 1980s and 90s.",
+            "output": "not entailment"
+        },
+        "400": {
+            "input": "Question: What is the title of Edwards book about Luther?. Sentence: Some scholars, such as Mark U. Edwards in his book Luther's Last Battles: Politics and Polemics 1531\u201346 (1983), suggest that since Luther's increasingly antisemitic views developed during the years his health deteriorated, it is possible they were at least partly the product of a declining state of mind.",
+            "output": "entailment"
+        },
+        "401": {
+            "input": "Question: What did the Ominde Commission do?. Sentence: The commission focused on identity and unity, which were critical issues at the time.",
+            "output": "entailment"
+        },
+        "402": {
+            "input": "Question: When did Washington reach Fort Le Boeuf?. Sentence: On December 12, Washington and his men reached Fort Le Boeuf.",
+            "output": "entailment"
+        },
+        "403": {
+            "input": "Question: ABC bought 20 acres of land in Hollwood in 1949 that would become what studio?. Sentence: ABC's other owned-and-operated stations launched over the course of the next 13 months: WENR-TV in Chicago signed on the air on September 17, while WXYZ-TV in Detroit went on the air on October 9, 1948.",
+            "output": "not entailment"
+        },
+        "404": {
+            "input": "Question: When were the public housing developments built in the neighborhood?. Sentence: There have been numerous attempts to revitalize the neighborhood, including the construction of a modern shopping center on the corner of Fresno and B streets, an aborted attempt to build luxury homes and a golf course on the western edge of the neighborhood, and some new section 8 apartments have been built along Church Ave west of Elm St. Cargill Meat Solutions and Foster Farms both have large processing facilities in the neighborhood, and the stench from these (and other small industrial facilities) has long plagued area residents.",
+            "output": "not entailment"
+        },
+        "405": {
+            "input": "Question: What did Paul-Louis Simond establish in 1898?. Sentence: The investigation of the pathogen that caused the 19th-century plague was begun by teams of scientists who visited Hong Kong in 1894, among whom was the French-Swiss bacteriologist Alexandre Yersin, after whom the pathogen was named Yersinia pestis.",
+            "output": "not entailment"
+        },
+        "406": {
+            "input": "Question: What are Plastoglobuli made of?. Sentence: Plastoglobuli (singular plastoglobulus, sometimes spelled plastoglobule(s)), are spherical bubbles of lipids and proteins about 45\u201360 nanometers across.",
+            "output": "entailment"
+        },
+        "407": {
+            "input": "Question: How did the 2001 IPCC report compare to reality for 2001-2006?. Sentence: The study compared IPCC 2001 projections on temperature and sea level change with observations.",
+            "output": "not entailment"
+        },
+        "408": {
+            "input": "Question: Which well-known general abandoned Jamukha's coalition against Tem\u00fcjin?. Sentence: Jamukha's assumption of this title was the final breach with Tem\u00fcjin, and Jamukha formed a coalition of tribes to oppose him.",
+            "output": "not entailment"
+        },
+        "409": {
+            "input": "Question: What cable provider did ABC reach an agreement with in 1993 to carry it's owned-and-operated stations in ABC O&O markets?. Sentence: In 1993, the FCC repealed the Financial Interest and Syndication Rules, once again allowing networks to hold interests in television production studios.",
+            "output": "not entailment"
+        },
+        "410": {
+            "input": "Question: What do the Waal and the Nederrijn-Lek discharge throguh?. Sentence: The discharge of the Rhine is divided among three branches: the River Waal (6/9 of total discharge), the River Nederrijn \u2013",
+            "output": "not entailment"
+        },
+        "411": {
+            "input": "Question: Where was Tem\u00fcjin's patron Toghrul exiled?. Sentence: Toghrul, as Tem\u00fcjin's patron, was exiled to the Qara Khitai.",
+            "output": "entailment"
+        },
+        "412": {
+            "input": "Question: What can rubisco do by mistake?. Sentence: It can waste up to half the carbon fixed by the Calvin cycle.",
+            "output": "not entailment"
+        },
+        "413": {
+            "input": "Question: What was the name of the 2010 Christmas special?. Sentence: In February 2011, a soundtrack was released for the 2010 Christmas special: \"A Christmas Carol\", and in December 2011 the soundtrack for Series 6 was released, both by Silva Screen Records.",
+            "output": "entailment"
+        },
+        "414": {
+            "input": "Question: How was coal transferred from the river banks to colliers?. Sentence: In the Sandgate area, to the east of the city and beside the river, resided the close-knit community of keelmen and their families.",
+            "output": "not entailment"
+        },
+        "415": {
+            "input": "Question: Which Apollo was the first testing of the LM, unmanned, in Earth's orbit?. Sentence: The ascent engine was fired in abort mode, known as a \"fire-in-the-hole\" test, where it was lit simultaneously with jettison of the descent stage.",
+            "output": "not entailment"
+        },
+        "416": {
+            "input": "Question: When did Mongke Khan become Great Khan?. Sentence: M\u00f6ngke Khan succeeded \u00d6gedei's son, G\u00fcy\u00fck, as Great Khan in 1251.",
+            "output": "entailment"
+        },
+        "417": {
+            "input": "Question: Where are some words from the Geordia dialect used?. Sentence: Some words used in the Geordie dialect are used elsewhere in the Northern United Kingdom.",
+            "output": "entailment"
+        },
+        "418": {
+            "input": "Question: In what years did Doctor Who originally show on TV?. Sentence: The show has influenced generations of British television professionals, many of whom grew up watching the series.",
+            "output": "not entailment"
+        },
+        "419": {
+            "input": "Question: What are malum prohibitum considerations?. Sentence: Some legal requirements come from malum in se considerations, or the desire to prevent things that are indisputably bad \u2013 bridge collapses or explosions.",
+            "output": "not entailment"
+        },
+        "420": {
+            "input": "Question: How many yards did the Carolina Panthers gain in the 487 in the NFC Championship Game?. Sentence: The Panthers then blew out the Arizona Cardinals in the NFC Championship Game, 49\u201315, racking up 487 yards and forcing seven turnovers.",
+            "output": "entailment"
+        },
+        "421": {
+            "input": "Question: What parts of a conventional reciprocating steam engine could be replaced by a pistonless rotary engine?. Sentence: It is possible to use a mechanism based on a pistonless rotary engine such as the Wankel engine in place of the cylinders and valve gear of a conventional reciprocating steam engine.",
+            "output": "entailment"
+        },
+        "422": {
+            "input": "Question: What is an etioplast?. Sentence: An etioplast is a plastid that lacks chlorophyll, and has inner membrane invaginations that form a lattice of tubes in their stroma, called a prolamellar body.",
+            "output": "entailment"
+        },
+        "423": {
+            "input": "Question: What type of reaction is present in the emergency oxygen generator of an airplane?. Sentence: Pulling on the masks \"to start the flow of oxygen\" as cabin safety instructions dictate, forces iron filings into the sodium chlorate inside the canister.",
+            "output": "not entailment"
+        },
+        "424": {
+            "input": "Question: What injury did Thomas Davis suffer during the playoff games?. Sentence: Carolina suffered a major setback when Thomas Davis, an 11-year veteran who had already overcome three ACL tears in his career, went down with a broken arm in the NFC Championship Game.",
+            "output": "entailment"
+        },
+        "425": {
+            "input": "Question: What party had a victory in the 2015 UK election?. Sentence: Following the Conservative victory in the 2015 UK election, standing orders of the House of Commons were changed to give MPs representing English constituencies a new \"veto\" over laws only affecting England.",
+            "output": "entailment"
+        },
+        "426": {
+            "input": "Question: What is the definition of agency as it relates to capabilities?. Sentence: Unlike neoliberalism, which \u201cdefines well-being as utility maximization\u201d, economic growth and income are considered a means to an end rather than the end itself.",
+            "output": "not entailment"
+        },
+        "427": {
+            "input": "Question: Why was CBS unable to broadcast the coronation of Queen Elizabeth II?. Sentence: The first attempts to internationalize the ABC television network date back to the 1950s, after Leonard Goldenson, following the United Paramount Theatres model, tried to use on ABC the same strategies he had made in expanding UPT's theater operation to the international market.",
+            "output": "not entailment"
+        },
+        "428": {
+            "input": "Question: What crops were introduced or popularized in the Yuan?. Sentence: It had significantly eased trade and commerce across Asia until its decline; the communications between Yuan dynasty and its ally and subordinate in Persia, the Ilkhanate, encouraged this development.",
+            "output": "not entailment"
+        },
+        "429": {
+            "input": "Question: how many yards did Newton get for passes in the 2015 season?. Sentence: Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4.",
+            "output": "entailment"
+        },
+        "430": {
+            "input": "Question: When did Dyrrachium  fall to the Normans?. Sentence: The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there.",
+            "output": "entailment"
+        },
+        "431": {
+            "input": "Question: ABC began to focus on what kind of series after NBC's success in 1984?. Sentence: After nearly a decade of ratings trouble, NBC had regained the ratings lead among the Big Three networks in 1984 on the success of series such as The Cosby Show, Cheers and Miami Vice.",
+            "output": "not entailment"
+        },
+        "432": {
+            "input": "Question: What did Gou use for astronomy?. Sentence: He was one of the first mathematicians in China to work on spherical trigonometry.",
+            "output": "not entailment"
+        },
+        "433": {
+            "input": "Question: In what year did ABC submit licenses for 5 television stations?. Sentence: These applications all requested for the stations to broadcast on VHF channel 7, as Frank Marx, then ABC's vice-president of engineering, thought that the low-band VHF frequencies (corresponding to channels 2 through 6) would be requisitioned from broadcasting use and reallocated for the U.S. Army.",
+            "output": "not entailment"
+        },
+        "434": {
+            "input": "Question: What was produced at tesla's company?. Sentence: After leaving Edison's company Tesla partnered with two businessmen in 1886, Robert Lane and Benjamin Vail, who agreed to finance an electric lighting company in Tesla's name, Tesla Electric Light & Manufacturing.",
+            "output": "not entailment"
+        },
+        "435": {
+            "input": "Question: Who did the Broncos tie with the most sacks in a Super Bowl?. Sentence: Manning became the oldest quarterback ever to win a Super Bowl at age 39, and the first quarterback ever to win a Super Bowl with two different teams, while Gary Kubiak became the first head coach to win a Super Bowl with the same franchise he went to the Super Bowl with as a player.",
+            "output": "not entailment"
+        },
+        "436": {
+            "input": "Question: What is most of Warsaw's modern growth based on?. Sentence: Most of the modern day population growth is based on internal migration and urbanisation.",
+            "output": "entailment"
+        },
+        "437": {
+            "input": "Question: What company filed a complaint with the FCC in 1934 concerning problems establishing new stations?. Sentence: Having no power over the networks themselves, the FCC established a regulation forbidding licenses to be issued for radio stations if they were affiliated with a network which already owned multiple networks that provided content of public interest.",
+            "output": "not entailment"
+        },
+        "438": {
+            "input": "Question: What year was Jamukha elected G\u00fcr Khan?. Sentence: In 1201, a khuruldai elected Jamukha as G\u00fcr Khan, \"universal ruler\", a title used by the rulers of the Qara Khitai.",
+            "output": "entailment"
+        },
+        "439": {
+            "input": "Question: What entity enforces the Charter of Fundamental Rights of the European Union?. Sentence: Therefore, the Charter of Fundamental Rights of the European Union has become an integral part of European Union law, codifying the fundamental rights which were previously considered general principles of European Union law.",
+            "output": "not entailment"
+        },
+        "440": {
+            "input": "Question: What does the pleurobrachia have on opposite sides of its body?. Sentence: Some species of cydippids have bodies that are flattened to various extents, so that they are wider in the plane of the tentacles.",
+            "output": "not entailment"
+        },
+        "441": {
+            "input": "Question: Brownlee argues disobedience can be justified toward what institutions?. Sentence: Some theories of civil disobedience hold that civil disobedience is only justified against governmental entities.",
+            "output": "not entailment"
+        },
+        "442": {
+            "input": "Question: What are the two simple word responses to a decision problem?. Sentence: A decision problem is a special type of computational problem whose answer is either yes or no, or alternately either 1 or 0.",
+            "output": "entailment"
+        },
+        "443": {
+            "input": "Question: Where does the largest part of Kenya's power come from?. Sentence: The largest share of Kenya's electricity supply comes from hydroelectric stations at dams along the upper Tana River, as well as the Turkwel Gorge Dam in the west.",
+            "output": "entailment"
+        },
+        "444": {
+            "input": "Question: Upon hearing the final product, what was the creator quoted as saying?. Sentence: New techniques were invented to allow mixing of the music, as this was before the era of multitrack tape machines.",
+            "output": "not entailment"
+        },
+        "445": {
+            "input": "Question: The term \"southern\" California usually refers to how many of the southern-most counties of the state?. Sentence: When the state is divided into two areas (northern and southern California), the term \"southern California\" usually refers to the ten southern-most counties of the state.",
+            "output": "entailment"
+        },
+        "446": {
+            "input": "Question: What sort of engines utilized the Yarrow-Schlick-Tweedy balancing system?. Sentence: In the late 19th century, the Yarrow-Schlick-Tweedy balancing 'system' was used on some marine triple expansion engines.",
+            "output": "entailment"
+        },
+        "447": {
+            "input": "Question: Who commissioned the Tapestry?. Sentence: By far the most famous work of Norman art is the Bayeux Tapestry, which is not a tapestry but a work of embroidery.",
+            "output": "not entailment"
+        },
+        "448": {
+            "input": "Question: Which country did Rewe-Zentrale AG wish to import from?. Sentence: German liqueurs were over 25 per cent alcohol, but Cassis de Dijon, which Rewe-Zentrale AG wished to import from France, only had 15 to 20 per cent alcohol.",
+            "output": "entailment"
+        },
+        "449": {
+            "input": "Question: What is the natural dam that the Rhine flows through?. Sentence: The river makes a distinctive turn to the north near Chur.",
+            "output": "not entailment"
+        },
+        "450": {
+            "input": "Question: Since NASA didn't know how many attempts each test would end up requiring, what did they use instead of numbers for the trials?. Sentence: In September 1967, Mueller approved a sequence of mission types which had to be successfully accomplished in order to achieve the manned lunar landing.",
+            "output": "not entailment"
+        },
+        "451": {
+            "input": "Question: In what year was the first commercial steam powered device invented?. Sentence: One engine was still known to be operating in 1820.",
+            "output": "not entailment"
+        },
+        "452": {
+            "input": "Question: What did Sir Charles Parsons invent?. Sentence: Vice Admiral Cuthbert Collingwood, 1st Baron Collingwood, was born in the city.",
+            "output": "not entailment"
+        },
+        "453": {
+            "input": "Question: How much was the 1994 earthquake estimated to have cost?. Sentence: It caused the most property damage of any earthquake in U.S. history, estimated at over $20 billion.",
+            "output": "entailment"
+        },
+        "454": {
+            "input": "Question: How much Victorian farmland is farmed in grains?. Sentence: More than 26,000 square kilometres (10,000 sq mi) of Victorian farmland are sown for grain, mostly in the state's west.",
+            "output": "entailment"
+        },
+        "455": {
+            "input": "Question: What happens to waste heat in the Rankine cycle?. Sentence: The heat is supplied externally to a closed loop with some of the heat added being converted to work and the waste heat being removed in a condenser.",
+            "output": "entailment"
+        },
+        "456": {
+            "input": "Question: What is the most feared condition that divers want to avoid?. Sentence: ; the same thing can occur by breathing 100%",
+            "output": "not entailment"
+        },
+        "457": {
+            "input": "Question: What was the program in the first Children's program block to be broadcast in HD?. Sentence: I block Litton's Weekend Aventure",
+            "output": "entailment"
+        },
+        "458": {
+            "input": "Question: Who provided a definition of linear bounded automata in 1960?. Sentence: Earlier papers studying problems solvable by Turing machines with specific bounded resources include  John Myhill's definition of linear bounded automata (Myhill 1960), Raymond Smullyan's study of rudimentary sets (1961), as well as Hisao Yamada's paper on real-time computations (1962).",
+            "output": "entailment"
+        },
+        "459": {
+            "input": "Question: How many species of Ctenophores have not been fully described or named?. Sentence: Only 100\u2013150 species have been validated, and possibly another 25 have not been fully described and named.",
+            "output": "entailment"
+        },
+        "460": {
+            "input": "Question: What happens to the working fluid in a closed loop system?. Sentence: Low boiling hydrocarbons can be used in a binary cycle.",
+            "output": "not entailment"
+        },
+        "461": {
+            "input": "Question: Where was an elected assembly to be set up, under the terms of the Scotland Act of 1978?. Sentence: Under the terms of the Scotland Act 1978, an elected assembly would be set up in Edinburgh provided that the majority of the Scottish electorate voted for it in a referendum to be held on 1 March 1979 that represented at least 40% of the total electorate.",
+            "output": "entailment"
+        },
+        "462": {
+            "input": "Question: When did ABC first start?. Sentence: Leonard Goldenson, who had been the head of UPT, made the new television network profitable by helping develop and greenlight many successful series.",
+            "output": "not entailment"
+        },
+        "463": {
+            "input": "Question: What are engines using four expansion stages known as?. Sentence: Multiple expansion engines typically had the cylinders arranged inline, but various other formations were used.",
+            "output": "not entailment"
+        },
+        "464": {
+            "input": "Question: What does computational complexity theory most specifically seek to answer?. Sentence: For this reason, complexity theory addresses computational problems and not particular problem instances.",
+            "output": "entailment"
+        },
+        "465": {
+            "input": "Question: What is issued once construction is complete and a final inspection has been passed?. Sentence: During the construction of a building, the municipal building inspector inspects the building periodically to ensure that the construction adheres to the approved plans and the local building code.",
+            "output": "not entailment"
+        },
+        "466": {
+            "input": "Question: Where are the Harvard medical, Dental and school of Public Health located?. Sentence: campus in the Longwood Medical and Academic Area approximately 3.3 miles (5.3 km) southwest of downtown Boston and 3.3 miles (5.3 km) south of the Cambridge campus.",
+            "output": "entailment"
+        },
+        "467": {
+            "input": "Question: Who are committees comprised of?. Sentence: Mandatory Committees are committees which are set down under the Scottish Parliament's standing orders, which govern their remits and proceedings.",
+            "output": "not entailment"
+        },
+        "468": {
+            "input": "Question: Where does the Nederrijn change it's name?. Sentence: The other third of the water flows through the Pannerdens Kanaal and redistributes in the IJssel and Nederrijn.",
+            "output": "not entailment"
+        },
+        "469": {
+            "input": "Question: When did building activity in the palaces and churches take place in the later decades of?. Sentence: The Neoclassical revival affected all aspects of architecture, the most notable are the Great Theater (1825\u20131833) and buildings located at Bank Square (1825\u20131828).",
+            "output": "not entailment"
+        },
+        "470": {
+            "input": "Question: In what borough is there a neighborhood called Huguenot?. Sentence: A small group of Huguenots also settled on the south shore of Staten Island along the New York Harbor, for which the current neighborhood of Huguenot was named.",
+            "output": "entailment"
+        },
+        "471": {
+            "input": "Question: When will Ford's manufacturing plants close?. Sentence: Historically, Victoria has been the base for the manufacturing plants of the major car brands Ford, Toyota and Holden; however, closure announcements by all three companies in the 21st century will mean that Australia will no longer be a base for the global car industry, with Toyota's statement in February 2014 outlining a closure year of 2017.",
+            "output": "not entailment"
+        },
+        "472": {
+            "input": "Question: What events are often associated with volcanism and igneous activity?. Sentence: Dikes, long, planar igneous intrusions, enter along cracks, and therefore often form in large numbers in areas that are being actively deformed.",
+            "output": "not entailment"
+        },
+        "473": {
+            "input": "Question: What was the time limit on Luther's recantation of sentences?. Sentence: Exsurge Domine that he risked excommunication unless he recanted 41 sentences drawn from his writings, including the 95 Theses, within 60 days.",
+            "output": "entailment"
+        },
+        "474": {
+            "input": "Question: Who did the BBC work with to reconstruct some of The Invasion episodes?. Sentence: The BBC, in conjunction with animation studio Cosgrove Hall, reconstructed the missing episodes 1 and 4 of The Invasion (1968), using remastered audio tracks and the comprehensive stage notes for the original filming, for the serial's DVD release in November 2006.",
+            "output": "entailment"
+        },
+        "475": {
+            "input": "Question: Which famous Indian took a plea and put himself at the mercy of the courts?. Sentence: Mohandas Gandhi pleaded guilty and told the court, \"I am here to . .",
+            "output": "entailment"
+        },
+        "476": {
+            "input": "Question: What is the full name of the ASER?. Sentence: They will have to satisfy a number of infrastructure and human resource related criteria to get Recognition (a form of license) from the government.",
+            "output": "not entailment"
+        },
+        "477": {
+            "input": "Question: What do C4 plants need?. Sentence: Cyclic photophosphorylation is common in C4 plants, which need more ATP than NADPH.",
+            "output": "entailment"
+        },
+        "478": {
+            "input": "Question: Strang is an Anglo-Saxon word which means what in modern English?. Sentence: The Geordie dialect has much of its origins in the language spoken by the Anglo-Saxon populations who migrated to and conquered much of England after the end of Roman Imperial rule.",
+            "output": "not entailment"
+        },
+        "479": {
+            "input": "Question: How many segments did the special originally have?. Sentence: An affectionate parody of the television series, it was split into four segments, mimicking the traditional serial format, complete with cliffhangers, and running down the same corridor several times when being chased (the version released on video was split into only two episodes).",
+            "output": "entailment"
+        },
+        "480": {
+            "input": "Question: What is a complex net of contracts and other legal obligations?. Sentence: A construction project is a complex net of contracts and other legal obligations, each of which all parties must carefully consider.",
+            "output": "entailment"
+        },
+        "481": {
+            "input": "Question: During withdrawal from Fort William Henry, what did some Indian allies of French do?. Sentence: When the withdrawal began, some of Montcalm's Indian allies, angered at the lost opportunity for loot, attacked the British column, killing and capturing several hundred men, women, children, and slaves.",
+            "output": "entailment"
+        },
+        "482": {
+            "input": "Question: Who long was the broadcast delay claimed to be the first time the series premiered?. Sentence: The BBC believed that many viewers had missed this introduction to a new series due to the coverage of the assassination, as well as a series of power blackouts across the country, and they broadcast it again on 30 November 1963, just before episode two.",
+            "output": "not entailment"
+        },
+        "483": {
+            "input": "Question: Which NFL team won Super Bowl 50?. Sentence: The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24\u201310 to earn their third Super Bowl title.",
+            "output": "entailment"
+        },
+        "484": {
+            "input": "Question: How did Luther describe his time in the order?. Sentence: He said, \"I lost touch with Christ the Savior and Comforter, and made of him the jailer and hangman of my poor soul.\"",
+            "output": "not entailment"
+        },
+        "485": {
+            "input": "Question: Where was Shirley planning an expedition?. Sentence: In addition to renewing the efforts to capture Niagara, Crown Point and Duquesne, he proposed attacks on Fort Frontenac on the north shore of Lake Ontario and an expedition through the wilderness of the Maine district and down the Chaudi\u00e8re River to attack the city of Quebec.",
+            "output": "entailment"
+        },
+        "486": {
+            "input": "Question: For which show did Billie Piper tape an introduction?. Sentence: CBC began airing series two on 9 October 2006 at 20:00 E/P (20:30 in Newfoundland and Labrador), shortly after that day's CFL double header on Thanksgiving in most of the country.[citation needed]",
+            "output": "not entailment"
+        },
+        "487": {
+            "input": "Question: Who designed The Forest tapestry in the V&A collection?. Sentence: One of the earliest surviving examples of European quilting, the late 14th-century Sicilian Tristan Quilt, is also held by the collection.",
+            "output": "not entailment"
+        },
+        "488": {
+            "input": "Question: What was a plugs-out test done to simulate on the LC-34?. Sentence: If successful, this would be followed by a more rigorous countdown simulation test closer to the February 21 launch, with both spacecraft and launch vehicle fueled.",
+            "output": "not entailment"
+        },
+        "489": {
+            "input": "Question: What is the weight of a bushel of coal in pounds?. Sentence: The best examples of Newcomen designs had a duty of about 7 million, but most were closer to 5 million.",
+            "output": "not entailment"
+        },
+        "490": {
+            "input": "Question: Under Elie Metchnikoff's cellular theory, what cells were responsible for immune response?. Sentence: According to the cellular theory of immunity, represented in particular by Elie Metchnikoff, it was cells \u2013 more precisely, phagocytes \u2013 that were responsible for immune responses.",
+            "output": "entailment"
+        },
+        "491": {
+            "input": "Question: What happened to the ground water in the Rhine during the Rhine straightening program?. Sentence: The rate of flow was increased and the ground water level fell significantly.",
+            "output": "entailment"
+        },
+        "492": {
+            "input": "Question: What type of people were being brought back to the way of truth?. Sentence: After the sixth sermon, the Wittenberg jurist Jerome Schurf wrote to the elector: \"Oh, what joy has Dr. Martin's return spread among us!",
+            "output": "not entailment"
+        },
+        "493": {
+            "input": "Question: What were the first two stations to carry ABC's programming?. Sentence: Since its inception, ABC has had many affiliated stations, which include WABC-TV and WPVI-TV, the first two stations to carry the network's programming.",
+            "output": "entailment"
+        },
+        "494": {
+            "input": "Question: How many museums comprise Harvard Art Museums?. Sentence: Harvard operates several arts, cultural, and scientific museums.",
+            "output": "not entailment"
+        },
+        "495": {
+            "input": "Question: What Doctor Who actress was nominated for an award in 2016?. Sentence: The show has received recognition as one of Britain's finest television programmes, winning the 2006 British Academy Television Award for Best Drama Series and five consecutive (2005\u20132010) awards at the National Television Awards during Russell T Davies' tenure as executive producer.",
+            "output": "not entailment"
+        },
+        "496": {
+            "input": "Question: Which company did Mrs Foster work for?. Sentence: This could also be true if the enterprise is privatised, as it was held with a water company that was responsible for basic water provision.",
+            "output": "not entailment"
+        },
+        "497": {
+            "input": "Question: Who was the head of the company?. Sentence: Based on Tesla's advice and Westinghouse's demonstration that they could build a complete AC system at the Columbian Exposition, a contract for building a two-phase AC generating system at the Niagara Falls was awarded to Westinghouse Electric.",
+            "output": "not entailment"
+        },
+        "498": {
+            "input": "Question: Where does the Rhine river's measurement end?. Sentence: The river length is significantly shortened from the river's natural course due to number of canalisation projects completed in the 19th and 20th century.[note 7] The \"total length of the Rhine\", to the inclusion of Lake Constance and the Alpine Rhine is more difficult to measure objectively; it was cited as 1,232 kilometres (766 miles) by the Dutch Rijkswaterstaat in 2010.[note 1]",
+            "output": "not entailment"
+        },
+        "499": {
+            "input": "Question: In what borough of New York City is ABC headquartered?. Sentence: The American Broadcasting Company (ABC) (stylized in its logo as abc since 1957) is an American commercial broadcast television network that is owned by the Disney\u2013ABC Television Group, a subsidiary of Disney Media Networks division of The Walt Disney Company.",
+            "output": "not entailment"
+        },
+        "500": {
+            "input": "Question: Which leading English tapestry workshop in the late 17th century and early 18th century is represented in the V&A collection?. Sentence: Also included are tapestries from John Vanderbank's workshop which was the leading English tapestry manufactory in the late 17th century and early 18th century.",
+            "output": "entailment"
+        },
+        "501": {
+            "input": "Question: What are white blood cells known as?. Sentence: These cells identify and eliminate pathogens, either by attacking larger pathogens through contact or by engulfing and then killing microorganisms.",
+            "output": "not entailment"
+        },
+        "502": {
+            "input": "Question: Other theories of the word's origin can be generally classed as what?. Sentence: Some disagree with such double or triple non-French linguistic origins, arguing that for the word to have spread into common use in France, it must have originated in the French language.",
+            "output": "entailment"
+        },
+        "503": {
+            "input": "Question: In order to better understand the orientations of faults and folds, structural geologists do what with measurements of geological structures?. Sentence: They also plot and combine measurements of geological structures in order to better understand the orientations of faults and folds in order to reconstruct the history of rock deformation in the area.",
+            "output": "entailment"
+        },
+        "504": {
+            "input": "Question: Who has limited productive potential when faced with less access to education?. Sentence: Conversely, education raises incomes and promotes growth because it helps to unleash the productive potential of the poor.",
+            "output": "entailment"
+        },
+        "505": {
+            "input": "Question: What were British plans against French?. Sentence: The British, intending to blockade French ports, sent out their fleet in February 1755, but the French fleet had already sailed.",
+            "output": "entailment"
+        },
+        "506": {
+            "input": "Question: What did Luther's opponents think that it meant about God's presence?. Sentence: Luther insisted on the Real Presence of the body and blood of Christ in the consecrated bread and wine, which he called the sacramental union, while his opponents believed God to be only spiritually or symbolically present.",
+            "output": "entailment"
+        },
+        "507": {
+            "input": "Question: Who is considered the leading figure in the Arts and Crafts movement?. Sentence: There is a large display on the Great Exhibition which, among other things, led to the founding of the V&A.",
+            "output": "not entailment"
+        },
+        "508": {
+            "input": "Question: What was the population of Kenya in 2014?. Sentence: Kenya covers 581,309 km2 (224,445 sq mi), and had a population of approximately 45 million people in July 2014.",
+            "output": "entailment"
+        },
+        "509": {
+            "input": "Question: In contrast how were Catholic saints portrayed?. Sentence: In contrast to images of frail Catholic saints, Luther was presented as a stout man with a \"double chin, strong mouth, piercing deep-set eyes, fleshy face, and squat neck.",
+            "output": "entailment"
+        },
+        "510": {
+            "input": "Question: What was the attack on the British weakness?. Sentence: Scouts had reported the weakness of the British supply chain, so he ordered an attack against the forts Shirley had erected at the Oneida Carry.",
+            "output": "not entailment"
+        },
+        "511": {
+            "input": "Question: How did war start?. Sentence: The dispute erupted into violence in the Battle of Jumonville Glen in May 1754, during which Virginia militiamen under the command of 22-year-old George Washington ambushed a French patrol.",
+            "output": "not entailment"
+        },
+        "512": {
+            "input": "Question: Why do land plants have more and smaller chloroplasts?. Sentence: Mitochondria have also been observed to follow chloroplasts as they move.",
+            "output": "not entailment"
+        },
+        "513": {
+            "input": "Question: What is the earliest that Bach began using Luther hymns?. Sentence: Johann Sebastian Bach included several verses as chorales in his cantatas and based chorale cantatas entirely on them, namely Christ lag in Todes Banden, BWV 4, as early as possibly 1707, in his second annual cycle (1724 to 1725)",
+            "output": "entailment"
+        },
+        "514": {
+            "input": "Question: If a and q are coprime, which theorem holds that an arithmetic progression has an infinite number of primes?. Sentence: If this necessary condition is satisfied, Dirichlet's theorem on arithmetic progressions asserts that the progression contains infinitely many primes.",
+            "output": "entailment"
+        },
+        "515": {
+            "input": "Question: What is Warsaw known as in Polish?. Sentence: Its population is estimated at 1.740 million residents within a greater metropolitan area of 2.666 million residents, which makes Warsaw the 9th most-populous capital city in the European Union.",
+            "output": "not entailment"
+        },
+        "516": {
+            "input": "Question: What is the name for a response of the immune system that damages the body's native tissues?. Sentence: Hypersensitivity is an immune response that damages the body's own tissues.",
+            "output": "entailment"
+        },
+        "517": {
+            "input": "Question: What is one of the largest city center shopping complexes in the UK?. Sentence: It incorporates a flagship Debenhams store as well as one of the largest John Lewis stores in the UK.",
+            "output": "not entailment"
+        },
+        "518": {
+            "input": "Question: What type of treaty was the Lisbon Treaty?. Sentence: Instead, the Lisbon Treaty was enacted.",
+            "output": "not entailment"
+        },
+        "519": {
+            "input": "Question: Why did OPEC raise the price of oil to $5.11?. Sentence: In response to American aid to Israel, on October 16, 1973, OPEC raised the posted price of oil by 70%, to $5.11 a barrel.",
+            "output": "entailment"
+        },
+        "520": {
+            "input": "Question: What is the gender income inequality in Bahrain?. Sentence: The income gap in other countries ranges from 53% in Botswana to -40% in Bahrain.",
+            "output": "entailment"
+        },
+        "521": {
+            "input": "Question: What was originally on the spacesuits prior to the clear \"fishbowl\" helmet?. Sentence: The traditional visor helmet was replaced with a clear \"fishbowl\" type for greater visibility, and the lunar surface EVA suit would include a water-cooled undergarment.",
+            "output": "entailment"
+        },
+        "522": {
+            "input": "Question: What is the festival of food and drink known as?. Sentence: NewcastleGateshead, a festival of food and drink, runs for 2 weeks each year in mid June.",
+            "output": "not entailment"
+        },
+        "523": {
+            "input": "Question: Who lost to the Panthers in the divisional round of the playoffs?. Sentence: The Panthers then blew out the Arizona Cardinals in the NFC Championship Game, 49\u201315, racking up 487 yards and forcing seven turnovers.",
+            "output": "not entailment"
+        },
+        "524": {
+            "input": "Question: What buildings held the Milton Friedman Institute?. Sentence: In 2008, the University of Chicago announced plans to establish the Milton Friedman Institute which attracted both support and controversy from faculty members and students.",
+            "output": "not entailment"
+        },
+        "525": {
+            "input": "Question: What did Herr Gott, dich loben wir become known as ?. Sentence: He paraphrased the Te Deum as \"Herr Gott, dich loben wir\" with a simplified form of the melody.",
+            "output": "not entailment"
+        },
+        "526": {
+            "input": "Question: Who did the Han Chinese want to help the Mongols fight?. Sentence: Two Han Chinese leaders, Shi Tianze, Liu Heima (\u5289\u9ed1\u99ac, Liu Ni), and the Khitan Xiao Zhala (\u856d\u672d\u524c) defected and commanded the 3 Tumens in the Mongol army.",
+            "output": "not entailment"
+        },
+        "527": {
+            "input": "Question: What were the years two Regulations that conflicted with an Italian law originate in the Simmenthal SpA case?. Sentence: He claimed the Italian nationalisation law conflicted with the Treaty of Rome, and requested a reference be made to both the Italian Constitutional Court and the Court of Justice under TFEU article 267.",
+            "output": "not entailment"
+        },
+        "528": {
+            "input": "Question: What has successfully dealt with ozone depletion?. Sentence: In case of the Ozone depletion global regulation based on the Montreal Protocol has been successful, in case of Climate Change, the Kyoto Protocol failed.",
+            "output": "entailment"
+        },
+        "529": {
+            "input": "Question: In the encoding of mathematical objects, what is the way in which integers are commonly expressed?. Sentence: For example, integers can be represented in binary notation, and graphs can be encoded directly via their adjacency matrices, or by encoding their adjacency lists in binary.",
+            "output": "entailment"
+        },
+        "530": {
+            "input": "Question: Who notably improved the Savery water pump?. Sentence: Bento de Moura Portugal introduced an ingenious improvement of Savery's construction \"to render it capable of working itself\", as described by John Smeaton in the Philosophical Transactions published in 1751.",
+            "output": "entailment"
+        },
+        "531": {
+            "input": "Question: What is ATP synthase similar to?. Sentence: Embedded in the thylakoid membranes are important protein complexes which carry out the light reactions of photosynthesis.",
+            "output": "not entailment"
+        },
+        "532": {
+            "input": "Question: The UMC teaches that pornography is about what?. Sentence: The Sexual Ethics Task Force of The United Methodist Church states that \"Research shows it [pornography] is not an 'innocent activity.'",
+            "output": "not entailment"
+        },
+        "533": {
+            "input": "Question: How many species of bird and mammals are there in the Amazon region?. Sentence: One in five of all the bird species in the world live in the rainforests of the Amazon, and one in five of the fish species live in Amazonian rivers and streams.",
+            "output": "not entailment"
+        },
+        "534": {
+            "input": "Question: What position does Demaryius Thomas play?. Sentence: Veteran receiver Demaryius Thomas led the team with 105 receptions for 1,304 yards and six touchdowns, while Emmanuel Sanders caught 76 passes for 1,135 yards and six scores, while adding another 106 yards returning punts.",
+            "output": "entailment"
+        },
+        "535": {
+            "input": "Question: What are free-to-air encrypted broadcasts known as?. Sentence: Some broadcasts are free-to-air and unencrypted, some are encrypted but do not require a monthly subscription (known as free-to-view), some are encrypted and require a monthly subscription, and some are pay-per-view services.",
+            "output": "entailment"
+        },
+        "536": {
+            "input": "Question: What were the two Huguenot neighborhoods created in Berlin?. Sentence: In Berlin, the Huguenots created two new neighbourhoods: Dorotheenstadt and Friedrichstadt.",
+            "output": "entailment"
+        },
+        "537": {
+            "input": "Question: In what year did Warszowa become the official capital of the Masovian Duchy?. Sentence: In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the official capital of Masovian Duchy in 1413.",
+            "output": "entailment"
+        },
+        "538": {
+            "input": "Question: Interest groups and government agencies that were concerned with energy were no match for who?. Sentence: Further, interest groups and government agencies more worried about energy were no match for Kissinger's dominance.",
+            "output": "entailment"
+        },
+        "539": {
+            "input": "Question: Who authored the Liber servitoris?. Sentence: His Liber servitoris is of particular interest, as it provides the reader with recipes and explains how to prepare the `simples\u2019 from which were compounded the complex drugs then generally used.",
+            "output": "not entailment"
+        },
+        "540": {
+            "input": "Question: What is the receptor that killer T cells use to bind to specific antigens that are complexed with the MHC Class 1 receptor of another cell?. Sentence: Killer T cells are activated when their T cell receptor (TCR) binds to this specific antigen in a complex with the MHC Class I receptor of another cell.",
+            "output": "entailment"
+        },
+        "541": {
+            "input": "Question: Where was French withdrawal to?. Sentence: Johnson's advance stopped at Fort William Henry, and the French withdrew to Ticonderoga Point, where they began the construction of Fort Carillon (later renamed Fort Ticonderoga after British capture in 1759).",
+            "output": "entailment"
+        },
+        "542": {
+            "input": "Question: Why might rats not be responsible for the plague?. Sentence: In addition to arguing that the rat population was insufficient to account for a bubonic plague pandemic, sceptics of the bubonic plague theory point out that the symptoms of the Black Death are not unique (and arguably in some accounts may differ from bubonic plague); that transference via fleas in goods was likely to be of marginal significance; and that the DNA results may be flawed and might not have been repeated elsewhere, despite extensive samples from other mass graves.",
+            "output": "entailment"
+        },
+        "543": {
+            "input": "Question: What Doctor Who mini-episode was shown during the Prom?. Sentence: It also featured the specially filmed mini-episode \"Music of the Spheres\", written by Russell T Davies and starring David Tennant.",
+            "output": "entailment"
+        },
+        "544": {
+            "input": "Question: What is the population of the second largest city in California?. Sentence: Many of southern California's most developed cities lie along or in close proximity to the coast, with the exception of San Bernardino and Riverside.",
+            "output": "not entailment"
+        },
+        "545": {
+            "input": "Question: What was telenet. Sentence: Telenet was the first FCC-licensed public data network in the United States.",
+            "output": "entailment"
+        },
+        "546": {
+            "input": "Question: Who hosts the weeknight talk show featured on ABC networks?. Sentence: Late nights feature the weeknight talk show Jimmy Kimmel Live!.",
+            "output": "entailment"
+        }
+    }
+}

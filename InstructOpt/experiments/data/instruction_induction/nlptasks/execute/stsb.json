@@ -1,0 +1,807 @@
+{
+    "metadata": {
+        "num_examples": 200
+    },
+    "examples": {
+        "1": {
+            "input": "Sentence 1: This dog is jumping through the water.. Sentence 2: Two dogs running through the water on a beach.",
+            "output": 2.200000047683716
+        },
+        "2": {
+            "input": "Sentence 1: A woman peels a potato.. Sentence 2: A woman is peeling a potato.",
+            "output": 5.0
+        },
+        "3": {
+            "input": "Sentence 1: New video shows US police officers beating mentally-ill man. Sentence 2: New York police officer critically wounded in hatchet attack",
+            "output": 0.0
+        },
+        "4": {
+            "input": "Sentence 1: A man is talking on a phone.. Sentence 2: A man is singing to a woman.",
+            "output": 0.25
+        },
+        "5": {
+            "input": "Sentence 1: Michelle Obama To Star In Parks And Recreation. Sentence 2: Michelle Obama to appear on 'Parks and Recreation'",
+            "output": 4.599999904632568
+        },
+        "6": {
+            "input": "Sentence 1: For the entire season, the average five-day forecast track error was 259 miles, Franklin said.. Sentence 2: \"The average track error for the five-day (forecast) is 323 nautical miles.",
+            "output": 1.75
+        },
+        "7": {
+            "input": "Sentence 1: To paraphrase a common saying, \"One man's weed is another man's lawn\".. Sentence 2: First, let me say I've no experience doing battle with Bermuda grass.",
+            "output": 1.0
+        },
+        "8": {
+            "input": "Sentence 1: A man puts some cheese on a pizza.. Sentence 2: A man is sprinkling shredded cheese on a pizza.",
+            "output": 4.199999809265137
+        },
+        "9": {
+            "input": "Sentence 1: A bag of cotton in front of a couch.. Sentence 2: Calico cat sitting on step in front of a door.",
+            "output": 0.0
+        },
+        "10": {
+            "input": "Sentence 1: Israel expands subsidies to settlements. Sentence 2: Israel widens settlement subsidies",
+            "output": 5.0
+        },
+        "11": {
+            "input": "Sentence 1: Afghan legislators approve new election law. Sentence 2: Afghan president approves new election law",
+            "output": 3.799999952316284
+        },
+        "12": {
+            "input": "Sentence 1: Greece votes in crucial election. Sentence 2: Greece looks set for repeat election",
+            "output": 1.7999999523162842
+        },
+        "13": {
+            "input": "Sentence 1: Moderate earthquake jolts NW Pakistan. Sentence 2: Moderate earthquake hits southern Pakistan",
+            "output": 3.0
+        },
+        "14": {
+            "input": "Sentence 1: A parrot is talking.. Sentence 2: A parrot is talking into a microphone.",
+            "output": 3.0
+        },
+        "15": {
+            "input": "Sentence 1: I feel your pain - I absolutely pour with sweat with any vigorous exercise, even in cool conditions.. Sentence 2: Sweat rate is sweat rate, you can't really control it.",
+            "output": 1.0
+        },
+        "16": {
+            "input": "Sentence 1: Since this is a relatively new problem for behavioral researchers, I don't know that there is a common consensus.. Sentence 2: I'll address just the first of your three sub-questions, the others have been answered by Chuck Sherrington.",
+            "output": 0.0
+        },
+        "17": {
+            "input": "Sentence 1: China yuan weakens to 6.3282 against USD Monday. Sentence 2: China's yuan weakens against USD for third day",
+            "output": 3.200000047683716
+        },
+        "18": {
+            "input": "Sentence 1: Margaret Thatcher, former U.K. PM, dead at 87. Sentence 2: Margaret Thatcher dies at 87",
+            "output": 3.799999952316284
+        },
+        "19": {
+            "input": "Sentence 1: A group of people having a meal outside.. Sentence 2: A group of people eat at a table outside.",
+            "output": 4.199999809265137
+        },
+        "20": {
+            "input": "Sentence 1: The technology-laced Nasdaq Composite Index .IXIC inched down 1 point, or 0.11 percent, to 1,650.. Sentence 2: The broad Standard & Poor's 500 Index .SPX inched up 3 points, or 0.32 percent, to 970.",
+            "output": 0.800000011920929
+        },
+        "21": {
+            "input": "Sentence 1: A man is riding on a horse.. Sentence 2: A woman is riding an elephant.",
+            "output": 1.5329999923706055
+        },
+        "22": {
+            "input": "Sentence 1: All we know is this : Distant objects are receding from us at a rate proportional to their distance from us.. Sentence 2: The expansion of space means that objects in cosmological distances are receding away from each other.",
+            "output": 3.4000000953674316
+        },
+        "23": {
+            "input": "Sentence 1: A man is playing a flute.. Sentence 2: A dog is barking at a fly.",
+            "output": 0.0
+        },
+        "24": {
+            "input": "Sentence 1: Two dogs are sniffing something in the rocks.. Sentence 2: Two dogs running down a path in the woods.",
+            "output": 1.600000023841858
+        },
+        "25": {
+            "input": "Sentence 1: The woman felt threatened and went to the magistrate's office, police said.. Sentence 2: The woman reported that she felt threatened and obtained a warrant for Stackhouse's arrest from the local magistrate's office.",
+            "output": 3.25
+        },
+        "26": {
+            "input": "Sentence 1: Cats (and all animals in general) do not understand the concepts of order or tidiness.. Sentence 2: They don't intend to leave those items around the house or untidy the house.",
+            "output": 1.7999999523162842
+        },
+        "27": {
+            "input": "Sentence 1: \"IT is the only vehicle on which established economies will be able to compete,\" Barrett said.. Sentence 2: \"IT is the only vehicle on which established economies will be able to compete\" with fast-growing economies such as China and India, Barrett said.",
+            "output": 3.25
+        },
+        "28": {
+            "input": "Sentence 1: Two kids are playing a game of Foosball.. Sentence 2: The kids are playing a game with each other.",
+            "output": 3.4000000953674316
+        },
+        "29": {
+            "input": "Sentence 1: The best way to clear your head after a study session is by taking on a vigorous physical exercise (min.. Sentence 2: What works for me is to switch the subjects and take frequent breaks.",
+            "output": 2.200000047683716
+        },
+        "30": {
+            "input": "Sentence 1: 1 person killed in sectarian clashes in Lebanon. Sentence 2: Nine killed in Syrian-linked clashes in Lebanon",
+            "output": 1.399999976158142
+        },
+        "31": {
+            "input": "Sentence 1: Matt Smith quits BBC\u201a\u00c4\u00f4s Doctor Who. Sentence 2: Matt Smith quits BBC's Doctor Who",
+            "output": 5.0
+        },
+        "32": {
+            "input": "Sentence 1: A man doing a wheelie on a mountain bike.. Sentence 2: A woman posing by a pillar with a U2 sign.",
+            "output": 0.0
+        },
+        "33": {
+            "input": "Sentence 1: \"They were tossed around like feathers,\" Gordon said.. Sentence 2: \"The concrete barriers (between lanes) were being tossed around like feathers.\"",
+            "output": 3.0
+        },
+        "34": {
+            "input": "Sentence 1: Here's a technique  I've developed without being aware of it: Multiple Browsers.. Sentence 2: I agree with others that tracking your time is fundamental to the solution.",
+            "output": 0.0
+        },
+        "35": {
+            "input": "Sentence 1: At first blush, then, the distinction drawn by the creators of the do-not-call registry would seem to draw the line in precisely the right place.. Sentence 2: At first blush, then, the creators of the registry would seem to have drawn the line between exempted and banned calls in the right place.",
+            "output": 4.0
+        },
+        "36": {
+            "input": "Sentence 1: Singapore stocks end up 0.11 pct. Sentence 2: Singapore stocks close 0.54 pct higher",
+            "output": 2.200000047683716
+        },
+        "37": {
+            "input": "Sentence 1: Two black dogs playing in the grass.. Sentence 2: Two dogs play in the grass.",
+            "output": 4.199999809265137
+        },
+        "38": {
+            "input": "Sentence 1: Two girls are playing Doctor inside their house.. Sentence 2: The two girls are walking with their father.",
+            "output": 0.800000011920929
+        },
+        "39": {
+            "input": "Sentence 1: Three dogs playing in the snow while one dog wears a jacket.. Sentence 2: Three dogs playing in the snow, with a city in the background.",
+            "output": 3.4000000953674316
+        },
+        "40": {
+            "input": "Sentence 1: Train going down the tracks.. Sentence 2: A black steam train traveling on the railroad tracks.",
+            "output": 3.799999952316284
+        },
+        "41": {
+            "input": "Sentence 1: The Nasdaq composite index advanced 20.59, or 1.3 percent, to 1,616.50, after gaining 5.7 percent last week.. Sentence 2: The technology-laced Nasdaq Composite Index <.IXIC> climbed 19.11 points, or 1.2 percent, to 1,615.02.",
+            "output": 2.0
+        },
+        "42": {
+            "input": "Sentence 1: Queen pays tribute to Nelson Mandela. Sentence 2: US presidents pay tribute to Mandela",
+            "output": 1.600000023841858
+        },
+        "43": {
+            "input": "Sentence 1: Israeli police clash with Palestinian protesters at sensitive Jerusalem holy site. Sentence 2: Israel Police Clash With Palestinians in Jerusalem",
+            "output": 3.0
+        },
+        "44": {
+            "input": "Sentence 1: There are individuals who possess extraordinary memory ability, sometimes called eidetic memory.. Sentence 2: There are many arguments for why this is not the case.",
+            "output": 0.0
+        },
+        "45": {
+            "input": "Sentence 1: One Asian and one occasion woman in glasses smiling with their thumbs up.. Sentence 2: Two women are posing for the camera and giving the thumbs up sign.",
+            "output": 3.4000000953674316
+        },
+        "46": {
+            "input": "Sentence 1: a group of navy seals are singing. Sentence 2: A group of military personnel are playing in a brass quintet.",
+            "output": 2.4000000953674316
+        },
+        "47": {
+            "input": "Sentence 1: The Embraer jets are scheduled to be delivered by September 2006.. Sentence 2: The Bombardier and Embraer aircraft will be delivered to U.S. Airways by September 2006.",
+            "output": 3.0
+        },
+        "48": {
+            "input": "Sentence 1: I can only think of context using insofar as or insofar that.. Sentence 2: The form insofar is American English; the standard form in British and other English is 'in so far'.",
+            "output": 1.7999999523162842
+        },
+        "49": {
+            "input": "Sentence 1: As I understand it, nothing that can be changed, or broken down into smaller parts is inherently real.. Sentence 2: Our interactions are merely depends on where we put our perception.",
+            "output": 0.4000000059604645
+        },
+        "50": {
+            "input": "Sentence 1: Scrimshaw, Supervisor, Best Minister and Ten Most Wanted are expected to complete the Belmont field.. Sentence 2: Best Minister, Scrimshaw, and Ten Most Wanted all had workouts on Monday morning.",
+            "output": 2.25
+        },
+        "51": {
+            "input": "Sentence 1: An embolism in a medical context refers to any large moving mass or defect in the blood stream.. Sentence 2: Here is an interesting article on wikipedia to give overview of pressure related injuries.",
+            "output": 0.0
+        },
+        "52": {
+            "input": "Sentence 1: Florida's Supreme Court has twice refused to hear the case.. Sentence 2: On Tuesday, a Florida appeals court again refused to block removal of the tube.",
+            "output": 2.75
+        },
+        "53": {
+            "input": "Sentence 1: A crowd of men wearing paper numbers on their shirts run in a race.. Sentence 2: Several men running down a grass field wearing numbers on the front of their shirts.",
+            "output": 3.5999999046325684
+        },
+        "54": {
+            "input": "Sentence 1: De Blasio sworn in as New York mayor, succeeding Bloomberg. Sentence 2: Bill De Blasio sworn in as New York mayor, succeeding Michael Bloomberg",
+            "output": 5.0
+        },
+        "55": {
+            "input": "Sentence 1: The man is in a deserted field.. Sentence 2: The man is outside in the field.",
+            "output": 4.0
+        },
+        "56": {
+            "input": "Sentence 1: Russia, China Veto UN Resolution on Syria. Sentence 2: Russia, China veto UN resolution on Syria killings",
+            "output": 3.799999952316284
+        },
+        "57": {
+            "input": "Sentence 1: Those expressions could have slightly different meanings especially when talking about finance.. Sentence 2: I suspect the phrase originated in the habit of drawing the internet as a cloud shape on network diagrams.",
+            "output": 0.4000000059604645
+        },
+        "58": {
+            "input": "Sentence 1: These cooks in the white are busy in the kitchen making dinner for their customers.. Sentence 2: The women are preparing dinner in their kitchen.",
+            "output": 3.0
+        },
+        "59": {
+            "input": "Sentence 1: Volkswagen skids into red in wake of pollution scandal. Sentence 2: Volkswagen's \"gesture of goodwill\" to diesel owners",
+            "output": 2.0
+        },
+        "60": {
+            "input": "Sentence 1: In his new position, Dynes will earn $395,000, a significant increase over Atkinson's salary of $361,400.. Sentence 2: Dynes will be paid $395,000 a year; Atkinson's salary is $361,400.",
+            "output": 4.5
+        },
+        "61": {
+            "input": "Sentence 1: A Japanese swordsman jumps into the air.. Sentence 2: A woman is getting her dog to jump in the air.",
+            "output": 1.0
+        },
+        "62": {
+            "input": "Sentence 1: A man plays a keyboard.. Sentence 2: A person is playing the keyboard.",
+            "output": 4.0
+        },
+        "63": {
+            "input": "Sentence 1: Who will succeed Mr. O'Neill at Hyundai is not clear.. Sentence 2: There is no clear successor for Mr. O'Neill at Hyundai.",
+            "output": 5.0
+        },
+        "64": {
+            "input": "Sentence 1: A woman is collecting tap water in a mug.. Sentence 2: A boy is filling a pitcher with water.",
+            "output": 1.399999976158142
+        },
+        "65": {
+            "input": "Sentence 1: I would say the best thing for me is to have a proper and consistent sleep schedule.. Sentence 2: There's also FreakyAlarm for iOS, which makes you solve simple logic/math problems before the alarm will turn off.",
+            "output": 0.800000011920929
+        },
+        "66": {
+            "input": "Sentence 1: I was invited in to pitch story ideas to Ron Moore at ST:TNG.. Sentence 2: It's obviously possible for it to leave the field without harm - it occurred.",
+            "output": 0.0
+        },
+        "67": {
+            "input": "Sentence 1: A woman is bungee jumping.. Sentence 2: A girl is bungee jumping.",
+            "output": 4.199999809265137
+        },
+        "68": {
+            "input": "Sentence 1: The broader Standard & Poor's 500 Index rose 3.42 points, or 0.34 percent, to 1,007.84.. Sentence 2: The technology-laced Nasdaq Composite Index .IXIC was down 1.55 points, or 0.09 percent, at 1,744.91.",
+            "output": 1.0
+        },
+        "69": {
+            "input": "Sentence 1: A dog and cat laying down together.. Sentence 2: Two grey dogs are carrying a stick in the water.",
+            "output": 0.6000000238418579
+        },
+        "70": {
+            "input": "Sentence 1: About 25 governments have signed in the last four months, about half of those in the last three weeks.. Sentence 2: According to the State Department list, about 25 nations have signed bilateral agreements in the past four months, about half in the past three weeks.",
+            "output": 3.200000047683716
+        },
+        "71": {
+            "input": "Sentence 1: Kittens are eating food.. Sentence 2: Kittens are eating from dishes.",
+            "output": 4.0
+        },
+        "72": {
+            "input": "Sentence 1: A woman stands with her arms out at her sides while another takes a picture.. Sentence 2: A man stands in a crowd holding a white object.",
+            "output": 0.4000000059604645
+        },
+        "73": {
+            "input": "Sentence 1: It would be unusual for a snake to attack a stationary person.. Sentence 2: I'm no herpetologist, but in my experience, snakes are in the \"you don't bug me, I won't bug you\" category.",
+            "output": 4.199999809265137
+        },
+        "74": {
+            "input": "Sentence 1: The bank also said its offer was subject to the agreement of Drax's senior banks, senior bond holders and hedging banks by 30 September 2003.. Sentence 2: The offer is also subject to Goldman signing an agreement with Drax's senior banks, senior bond holders and hedging banks by Sept. 30, it said.",
+            "output": 4.400000095367432
+        },
+        "75": {
+            "input": "Sentence 1: A man dives into a pool.. Sentence 2: A man dives into a swimming pool.",
+            "output": 5.0
+        },
+        "76": {
+            "input": "Sentence 1: A little girl and boy are reading books.. Sentence 2: An older child is playing with a doll while gazing out the window.",
+            "output": 0.20000000298023224
+        },
+        "77": {
+            "input": "Sentence 1: The user needs to evaluate for his/herself the cost/benefit of an \"obvious\" efficiency tool, such as macros.. Sentence 2: Instead of trying to force specific answers or method's on them.",
+            "output": 0.800000011920929
+        },
+        "78": {
+            "input": "Sentence 1: A woman is removing skin from some meat.. Sentence 2: A woman is slicing a tomato.",
+            "output": 1.2000000476837158
+        },
+        "79": {
+            "input": "Sentence 1: A man is playing guitar.. Sentence 2: A man plays a guitar.",
+            "output": 4.85699987411499
+        },
+        "80": {
+            "input": "Sentence 1: Lebanon businesses strike in protest at political impasse. Sentence 2: Tunisia president says confident can overcome political crisis",
+            "output": 0.6000000238418579
+        },
+        "81": {
+            "input": "Sentence 1: One killed, 40 injured in Mexico candy factory blast. Sentence 2: Three killed, 21 injured in two road mishaps",
+            "output": 0.800000011920929
+        },
+        "82": {
+            "input": "Sentence 1: A boy skateboards down the railing of some graffiti stairs. Sentence 2: A skateboarder is jumping over an obstacle in front of a white house.",
+            "output": 2.799999952316284
+        },
+        "83": {
+            "input": "Sentence 1: A man with a grey beard rides his bike on the beach of the ocean.. Sentence 2: A spotted dog stands on his hind legs to catch a ball on the beach.",
+            "output": 0.6000000238418579
+        },
+        "84": {
+            "input": "Sentence 1: A dog with a stick follows another dog through the water.. Sentence 2: A four wheel drive car is driving through the mud.",
+            "output": 0.0
+        },
+        "85": {
+            "input": "Sentence 1: The biggest reason I can think of is that you're taking away a defence mechanism for the cat.. Sentence 2: Cats don't usually like to have their paws held, touched, or anything like that.",
+            "output": 1.600000023841858
+        },
+        "86": {
+            "input": "Sentence 1: The black and white cows pause in front of the gate.. Sentence 2: A black cow and a brown cow stands in a plain in front of an uprooted tree.",
+            "output": 2.200000047683716
+        },
+        "87": {
+            "input": "Sentence 1: Chinese shares close higher on Tuesday. Sentence 2: Chinese shares close lower on Wednesday",
+            "output": 1.7999999523162842
+        },
+        "88": {
+            "input": "Sentence 1: A young boy in red swim trunks is jumping into a pool.. Sentence 2: A dog is being squirted with a hose as it jumps into a paddling pool.",
+            "output": 0.800000011920929
+        },
+        "89": {
+            "input": "Sentence 1: Female in a maroon shirt engaged in conversation with another female in a tan blazer.. Sentence 2: A girl in a blue dress and another girl in a purple dress, both smiling.",
+            "output": 1.2000000476837158
+        },
+        "90": {
+            "input": "Sentence 1: An elderly woman catches a ride on the back of the bicycle.. Sentence 2: The boats are on the water located in front of the mountain.",
+            "output": 0.0
+        },
+        "91": {
+            "input": "Sentence 1: A doctor prescribes medicine to a patient.. Sentence 2: A doctor prescribes a medicine.",
+            "output": 4.400000095367432
+        },
+        "92": {
+            "input": "Sentence 1: The woman had brown hair.. Sentence 2: The woman has gray hair.",
+            "output": 2.4000000953674316
+        },
+        "93": {
+            "input": "Sentence 1: A red and white plane flying on a sunny day.. Sentence 2: Red and white plane flying through the air.",
+            "output": 4.199999809265137
+        },
+        "94": {
+            "input": "Sentence 1: The man is playing the guitar.. Sentence 2: A man is playing a guitar.",
+            "output": 4.908999919891357
+        },
+        "95": {
+            "input": "Sentence 1: Graham is expected to be nominated and elected to a second one-year term today and will deliver the presidential address.. Sentence 2: Later Tuesday, Graham was expected to be re-elected for a second one-year term.",
+            "output": 3.3329999446868896
+        },
+        "96": {
+            "input": "Sentence 1: Jordan Opens First Tent Camp for Syrian Refugees. Sentence 2: Jordan Opens First Refugee Camp for Syrians",
+            "output": 4.800000190734863
+        },
+        "97": {
+            "input": "Sentence 1: Presumably the decision of drivers to slow down in response to work zone signage is influenced by many factors.. Sentence 2: This short talk deals with issues of \"cheating slightly\" :Dan Ariely: Our buggy moral code.",
+            "output": 0.0
+        },
+        "98": {
+            "input": "Sentence 1: A woman is slicing fruit.. Sentence 2: Two women are slicing some lemons.",
+            "output": 2.0
+        },
+        "99": {
+            "input": "Sentence 1: A band is performing on a stage.. Sentence 2: A band is playing onstage.",
+            "output": 5.0
+        },
+        "100": {
+            "input": "Sentence 1: I disagree that the moniker \u201cmost extensive\u201d should be applied to Dorothy Jones Heydt\u2019s language.. Sentence 2: The most extensive Vulcan language was made by fans in the 60's, especially by linguist Dorothy Jones Heydt.",
+            "output": 1.6699999570846558
+        },
+        "101": {
+            "input": "Sentence 1: \"I can say I am being forced into exile by the world superpower,\" he said.. Sentence 2: \"I am being forced into exile by the world's superpower,\" Taylor said in an address videotaped at his home.",
+            "output": 3.0
+        },
+        "102": {
+            "input": "Sentence 1: 'Around 100 dead or injured' after China earthquake. Sentence 2: Hundreds dead or injured in China quake",
+            "output": 3.799999952316284
+        },
+        "103": {
+            "input": "Sentence 1: The man stirred the sauce for the chicken.. Sentence 2: The man is stirring oil.",
+            "output": 2.4000000953674316
+        },
+        "104": {
+            "input": "Sentence 1: First, we must consider that \"Sphere\" is less Hard SF and more soft SF, thriller, airport novel and such.. Sentence 2: \"Fins\" on real spacecraft are usually for one of two purposes: solar panels or thermal radiators.",
+            "output": 0.0
+        },
+        "105": {
+            "input": "Sentence 1: At his request, he will be reassigned within the district.. Sentence 2: District Superintendent J. Chester Floyd told reporters Monday that McCrackin will be reassigned within the district.",
+            "output": 2.799999952316284
+        },
+        "106": {
+            "input": "Sentence 1: Russian Federal Law is actually quite specific on this one and not as arbitrary as argued.. Sentence 2: The last round of presidential elections in Russia was held on March 4th, 2012 and December 4th, 2011 for the Duma.",
+            "output": 0.6000000238418579
+        },
+        "107": {
+            "input": "Sentence 1: Left side of a silver train engine.. Sentence 2: A close-up of a black train engine.",
+            "output": 2.200000047683716
+        },
+        "108": {
+            "input": "Sentence 1: A black and white dog is running through the grass.. Sentence 2: The black and white dog is running on the grass.",
+            "output": 4.800000190734863
+        },
+        "109": {
+            "input": "Sentence 1: A man is performing a stunt outdoors.. Sentence 2: A young man on a beach is performing skateboard stunts.",
+            "output": 2.799999952316284
+        },
+        "110": {
+            "input": "Sentence 1: BioReliance's stock closed down 2 cents yesterday at $47.98 per share.. Sentence 2: Shares of BioReliance sold at $47.98 at the close of market yesterday, down 2 cents.",
+            "output": 5.0
+        },
+        "111": {
+            "input": "Sentence 1: A man is playing the piano.. Sentence 2: A man is playing a wooden flute.",
+            "output": 1.399999976158142
+        },
+        "112": {
+            "input": "Sentence 1: A woman is playing the flute.. Sentence 2: A man is playing a flute.",
+            "output": 2.75
+        },
+        "113": {
+            "input": "Sentence 1: A woman puts flour on a piece of meat.. Sentence 2: A woman is putting flour onto some meat.",
+            "output": 5.0
+        },
+        "114": {
+            "input": "Sentence 1: Batman and Robin fly a helicopter over water.. Sentence 2: A helicopter flies over water.",
+            "output": 2.5999999046325684
+        },
+        "115": {
+            "input": "Sentence 1: Police disperse protest in east Sudan - witnesses. Sentence 2: Police disperse east China chemical plant protesters",
+            "output": 1.600000023841858
+        },
+        "116": {
+            "input": "Sentence 1: Absolute majority always defined by the institution, or the context.. Sentence 2: In countries like India, when you have 2/3 of the seats of all parliament, you have absolute majority.",
+            "output": 2.5999999046325684
+        },
+        "117": {
+            "input": "Sentence 1: A man sitting on the floor plays a guitar.. Sentence 2: A man sitting on the floor in a room is strumming a guitar.",
+            "output": 4.800000190734863
+        },
+        "118": {
+            "input": "Sentence 1: Dali painting stolen from gallery. Sentence 2: Salvador Dali painting snatched from New York gallery",
+            "output": 3.799999952316284
+        },
+        "119": {
+            "input": "Sentence 1: You are safe to use the bottles as long as they have been properly sterilised.. Sentence 2: I would say it's completely safe so long as the bottles have been adequately rinsed to remove any detergent residue.",
+            "output": 3.799999952316284
+        },
+        "120": {
+            "input": "Sentence 1: A young boy has a red fishing pole.. Sentence 2: A young boy stands over a bridge with a fishing pole.",
+            "output": 3.0
+        },
+        "121": {
+            "input": "Sentence 1: The woman is cracking eggs into a bowl.. Sentence 2: The lady broke raw eggs into a bowl.",
+            "output": 4.800000190734863
+        },
+        "122": {
+            "input": "Sentence 1: A common one is haddock and is in season pretty much year round.. Sentence 2: White fish are, as a rule, more delicately flavored than darker fleshed fish.",
+            "output": 1.399999976158142
+        },
+        "123": {
+            "input": "Sentence 1: Two women holding checkered flags near an orange car.. Sentence 2: Two ladies in skimpy clothes pose next to an old fashioned car.",
+            "output": 2.799999952316284
+        },
+        "124": {
+            "input": "Sentence 1: the tan dog is playing with the red dog out in the snow. Sentence 2: A yellow dog is playing in the snow.",
+            "output": 2.5999999046325684
+        },
+        "125": {
+            "input": "Sentence 1: a young boy climbing on a rock wall. Sentence 2: Five greyhounds are racing on a sand track.",
+            "output": 0.0
+        },
+        "126": {
+            "input": "Sentence 1: The answer will depend significantly on what country you're traveling to.. Sentence 2: As someone who has always travelled with a lot of prescription medication, I always declare it.",
+            "output": 1.0
+        },
+        "127": {
+            "input": "Sentence 1: A black dog walking beside a pool.. Sentence 2: A black dog is walking along the side of a pool.",
+            "output": 5.0
+        },
+        "128": {
+            "input": "Sentence 1: The man and two young boys jump on a trampoline.. Sentence 2: A man and two boys are bouncing on a trampoline.",
+            "output": 4.800000190734863
+        },
+        "129": {
+            "input": "Sentence 1: 5 killed, 50 injured in Pakistan blast. Sentence 2: 3 killed, 138 injured in Boston blasts: media",
+            "output": 0.800000011920929
+        },
+        "130": {
+            "input": "Sentence 1: It is simply the number of balls bowled divided by the number of wickets taken.. Sentence 2: Bowling strike rate is defined for a bowler as the average number of balls bowled per wicket taken.",
+            "output": 4.400000095367432
+        },
+        "131": {
+            "input": "Sentence 1: The difficulty arises not from the various linguistic properties of the language pair as many here suggest.. Sentence 2: It depends on generally syntactic structure of two languages and -yes- some pragmatic issues.",
+            "output": 1.7999999523162842
+        },
+        "132": {
+            "input": "Sentence 1: Professor Burkhauser has done extensive research on who is hurt by higher minimum wages.. Sentence 2: Minimum wage laws hurt the least skilled, least productive the most.",
+            "output": 2.799999952316284
+        },
+        "133": {
+            "input": "Sentence 1: A man is playing a guitar.. Sentence 2: A woman is riding a horse.",
+            "output": 0.5
+        },
+        "134": {
+            "input": "Sentence 1: Japan falls silent to mark 311 tragedy. Sentence 2: Japan thanks Taiwan for quake aid",
+            "output": 0.4000000059604645
+        },
+        "135": {
+            "input": "Sentence 1: I just hold the cheese closer to the edge away from the grater.. Sentence 2: By the wording of the question, I'm pretty sure you're using one of those pyramidal graters or a \"sheet\" grater.",
+            "output": 1.399999976158142
+        },
+        "136": {
+            "input": "Sentence 1: A backpack standing beside a train.. Sentence 2: A social gathering of people in a restaurant.",
+            "output": 0.0
+        },
+        "137": {
+            "input": "Sentence 1: A man is playing the drums.. Sentence 2: A man is playing guitar.",
+            "output": 1.7999999523162842
+        },
+        "138": {
+            "input": "Sentence 1: The black bird is sitting on the ground.. Sentence 2: The back of a pig under a tree with a cow in the background.",
+            "output": 0.0
+        },
+        "139": {
+            "input": "Sentence 1: The broad Standard & Poor's 500 Index <.SPX> was up 8.79 points, or 0.96 percent, at 929.06.. Sentence 2: The technology-laced Nasdaq Composite Index <.IXIC> jumped 26 points, or 1.78 percent, to 1,516.",
+            "output": 1.0
+        },
+        "140": {
+            "input": "Sentence 1: A pair of men walk along the beach.. Sentence 2: Two men standing in the surf on a beach.",
+            "output": 2.5999999046325684
+        },
+        "141": {
+            "input": "Sentence 1: Two cats are close together inside and black and white furry enclosure.. Sentence 2: Two baby kittens are sitting inside a cow-schemed, fur-covered dome.",
+            "output": 3.5999999046325684
+        },
+        "142": {
+            "input": "Sentence 1: If you have access to it, you can very easily do that with Thomson Reuters\u2019 Web of Science portal.. Sentence 2: You can have a look at the arXiv cultoromics website at http://arxiv.culturomics.org, which however searches in articles on the arXiv.",
+            "output": 0.20000000298023224
+        },
+        "143": {
+            "input": "Sentence 1: Freezing motion generally requires one, maybe two things: fast shutter speed, and flash at the right time.. Sentence 2: In addition to @Pearsonartphoto's answer, you can use flash (either the built-in or better yet, an extarnal) to freeze the motion.",
+            "output": 2.5999999046325684
+        },
+        "144": {
+            "input": "Sentence 1: As I wrote above, it's hard to rate this wall.. Sentence 2: Unlike others, I think the route is pretty well described.",
+            "output": 0.20000000298023224
+        },
+        "145": {
+            "input": "Sentence 1: A man is riding on a boat.. Sentence 2: A man is tying in the machine.",
+            "output": 0.4000000059604645
+        },
+        "146": {
+            "input": "Sentence 1: two young girls hug each other in the grass.. Sentence 2: two young girls holding each other on the grassy ground",
+            "output": 4.599999904632568
+        },
+        "147": {
+            "input": "Sentence 1: A lady and her daughter look through a microscope.. Sentence 2: A girl and a lady both looking through a microscope.",
+            "output": 4.599999904632568
+        },
+        "148": {
+            "input": "Sentence 1: A red bird and four other birds sitting in the snow.. Sentence 2: Five birds stand on the snow.",
+            "output": 2.799999952316284
+        },
+        "149": {
+            "input": "Sentence 1: 17 govt employees killed in Pakistan bus bombing. Sentence 2: At least 78 killed in Pakistan church bombing",
+            "output": 0.800000011920929
+        },
+        "150": {
+            "input": "Sentence 1: A woman is cutting an onion.. Sentence 2: A man is cutting onions.",
+            "output": 2.615000009536743
+        },
+        "151": {
+            "input": "Sentence 1: A Das Air Cargo plane sits on the runway.. Sentence 2: A passenger plane parked on a runway.",
+            "output": 3.200000047683716
+        },
+        "152": {
+            "input": "Sentence 1: The plane was estimated to be within 100 pounds of its maximum takeoff weight.. Sentence 2: US Airways Flight 5481, which crashed Jan. 8, was judged to be within 100 pounds of its maximum takeoff weight.",
+            "output": 3.25
+        },
+        "153": {
+            "input": "Sentence 1: An animal is chewing on something.. Sentence 2: An animal is chewing on a key chain.",
+            "output": 3.200000047683716
+        },
+        "154": {
+            "input": "Sentence 1: Feel the fear... And do it anyway The book recommends to feel the fear.. Sentence 2: 13 Tips To Face Your Fear and Enjoy the Ride seems interesting.",
+            "output": 2.200000047683716
+        },
+        "155": {
+            "input": "Sentence 1: A part of the question thusfar unattended is whether the concept of phoneme has always been contentious.. Sentence 2: \"Phoneme\" is a theoretical construct which probably can't go away.",
+            "output": 1.600000023841858
+        },
+        "156": {
+            "input": "Sentence 1: Here is the 2006 cover release, choice B in your question is the 2006 version.. Sentence 2: Wikipedia's compilation of Time Travel Rules is a good resource to check about this subject.",
+            "output": 0.20000000298023224
+        },
+        "157": {
+            "input": "Sentence 1: International forensic teams join Kenyan mall carnage probe. Sentence 2: Arrested Briton 'not significant' to Kenya attack probe",
+            "output": 1.0
+        },
+        "158": {
+            "input": "Sentence 1: The brown and white cows are eating in the trough.. Sentence 2: Brown and white cows are eating from a trough.",
+            "output": 4.800000190734863
+        },
+        "159": {
+            "input": "Sentence 1: Yes, absolutely - the receiving player must allow the ball to bounce before returning the serve - or any shot, actually.. Sentence 2: Yes, the receiver needs to wait until the ball touches his playing area, otherwise it counts as being obstructed.",
+            "output": 3.0
+        },
+        "160": {
+            "input": "Sentence 1: They don't taste identical at all, and even more important, they don't smell the same.. Sentence 2: Black pepper and white pepper are differing preparations of the fruit of the Piper nigrum plant.",
+            "output": 2.5999999046325684
+        },
+        "161": {
+            "input": "Sentence 1: PM in Tehran, asks NAM to take clear stand on Syria. Sentence 2: Manmohan in Tehran, asks NAM to take a stand on Syria",
+            "output": 3.799999952316284
+        },
+        "162": {
+            "input": "Sentence 1: I managed to find this recipe, I think this is where I got the idea.. Sentence 2: I've only made a couple of bbq sauces, but they've always come out really well.",
+            "output": 1.0
+        },
+        "163": {
+            "input": "Sentence 1: A boy is playing a piano.. Sentence 2: A man is singing and playing a guitar.",
+            "output": 1.25
+        },
+        "164": {
+            "input": "Sentence 1: Roy Moore, the suspended chief justice of the Alabama Supreme Court, stood accused but unrepentant Wednesday in the same courtroom he recently presided over.. Sentence 2: Moore, the suspended chief justice of the Alabama Supreme Court, stands trial before the Alabama Court of the Judiciary.",
+            "output": 3.799999952316284
+        },
+        "165": {
+            "input": "Sentence 1: Bangladesh Islamist execution upheld. Sentence 2: Bangladesh executes opposition leader",
+            "output": 3.4000000953674316
+        },
+        "166": {
+            "input": "Sentence 1: The University constituencies are modelled on the University constituencies in use in Britain in 1922 when Ireland became independent.. Sentence 2: This is still a representational form of gov't, but with a unique twist.",
+            "output": 0.20000000298023224
+        },
+        "167": {
+            "input": "Sentence 1: Agnew said Pinellas began baiting when rabies cases \"went from zero to 30\" in 1995.. Sentence 2: Still, Pinellas rabies cases fell sharply to 17 in 1996 and 3 in 1997, Agnew said.",
+            "output": 1.75
+        },
+        "168": {
+            "input": "Sentence 1: At least 12 dead in Washington .... Sentence 2: At least 150 dead as strong quake hits southwest Balochistan",
+            "output": 0.4000000059604645
+        },
+        "169": {
+            "input": "Sentence 1: A black and white cat is sitting on a brown chair looking up.. Sentence 2: Black and white cat sitting on wood chair looking up.",
+            "output": 3.5999999046325684
+        },
+        "170": {
+            "input": "Sentence 1: An animal is biting a persons finger.. Sentence 2: A slow loris is biting a persons finger.",
+            "output": 3.0
+        },
+        "171": {
+            "input": "Sentence 1: The boy in the orange shirt is throwing the ball.. Sentence 2: The black and white muzzled dog is leaping above the grass.",
+            "output": 0.20000000298023224
+        },
+        "172": {
+            "input": "Sentence 1: If you wear a bear bell on your backpack, your fellow hikers will kill you for being annoying.. Sentence 2: The above advice is quite good, just wanted to add on thing to consider regarding food in bear country.",
+            "output": 0.6000000238418579
+        },
+        "173": {
+            "input": "Sentence 1: Blast on Indian train kills one. Sentence 2: State: No funds for yeshiva that incites violence",
+            "output": 0.0
+        },
+        "174": {
+            "input": "Sentence 1: A guy is riding a horse.. Sentence 2: A man is riding a horse in the desert.",
+            "output": 3.4000000953674316
+        },
+        "175": {
+            "input": "Sentence 1: David Weber's The War God's Own has some lengthy travel scenes in it which he does quite well.. Sentence 2: One thing that should be used as a seasoning in Odyssey tales is the idea of the false destination.",
+            "output": 0.20000000298023224
+        },
+        "176": {
+            "input": "Sentence 1: Two dogs fighting in the snow.. Sentence 2: Two dogs play in the snow.",
+            "output": 3.200000047683716
+        },
+        "177": {
+            "input": "Sentence 1: The man is smashing garlic.. Sentence 2: A man is smashing some garlic.",
+            "output": 5.0
+        },
+        "178": {
+            "input": "Sentence 1: A man playing the violin in the rain.. Sentence 2: A man playing the guitar in the rain.",
+            "output": 3.200000047683716
+        },
+        "179": {
+            "input": "Sentence 1: New Japan govt hints at joining Pacific trade pact: Report. Sentence 2: Japan, US hold talks linked to regional trade pact",
+            "output": 2.799999952316284
+        },
+        "180": {
+            "input": "Sentence 1: According to this website the peak visible magnitude will be about 10.5 around February 2nd.. Sentence 2: The AAVSO data seems to indicate that it might have already peaked, at around 10.5 (visual).",
+            "output": 3.5999999046325684
+        },
+        "181": {
+            "input": "Sentence 1: Living room or den with large screen television.. Sentence 2: Living room with tan furniture and flat screen television.",
+            "output": 3.200000047683716
+        },
+        "182": {
+            "input": "Sentence 1: The lady made some slices on the shrimp.. Sentence 2: A chef is slicing a shrimp.",
+            "output": 2.799999952316284
+        },
+        "183": {
+            "input": "Sentence 1: This may be overly obvious, but in American English, saying \"you're welcome\" is certainly polite and standard.. Sentence 2: I'm not sure how \"Not at all\" sounds in response to \"thank you\".",
+            "output": 1.399999976158142
+        },
+        "184": {
+            "input": "Sentence 1: A man is feeding a mouse to a snake.. Sentence 2: The man is feeding a mouse to the snake.",
+            "output": 5.0
+        },
+        "185": {
+            "input": "Sentence 1: The player shoots the winning points.. Sentence 2: The basketball player is about to score points for his team.",
+            "output": 2.799999952316284
+        },
+        "186": {
+            "input": "Sentence 1: A man is cleaning a fish on a kitchen counter.. Sentence 2: A man is playing a flute.",
+            "output": 0.800000011920929
+        },
+        "187": {
+            "input": "Sentence 1: The Hare Psychopathy Checklist is often used to assess psychopathy in clinical settings.. Sentence 2: From an article entitled Can You Call a 9-Year-Old a Psychopath?",
+            "output": 1.7999999523162842
+        },
+        "188": {
+            "input": "Sentence 1: Men are jumping into water from a bridge.. Sentence 2: Men jump in a river.",
+            "output": 2.75
+        },
+        "189": {
+            "input": "Sentence 1: Boat sails in rough water.. Sentence 2: A man is kayaking in rough waters.",
+            "output": 2.5999999046325684
+        },
+        "190": {
+            "input": "Sentence 1: A man is playing a flute.. Sentence 2: A man is playing guitar.",
+            "output": 2.1670000553131104
+        },
+        "191": {
+            "input": "Sentence 1: A group of peoples posing in fur hats.. Sentence 2: A group of cyclists in green and white with spectators looking on.",
+            "output": 0.0
+        },
+        "192": {
+            "input": "Sentence 1: Sources say agents confiscated \"several\" documents he was carrying.. Sentence 2: Agents confiscated several classified documents in his possession and interrogated him.",
+            "output": 3.5
+        },
+        "193": {
+            "input": "Sentence 1: Earlier Thursday, PeopleSoft formally rejected the unsolicited bid from Oracle.. Sentence 2: Thursday morning, PeopleSoft's board rejected the Oracle takeover offer.",
+            "output": 4.400000095367432
+        },
+        "194": {
+            "input": "Sentence 1: a dog runs through the long grass.. Sentence 2: A dog lays down in the long green grass.",
+            "output": 2.5999999046325684
+        },
+        "195": {
+            "input": "Sentence 1: Egyptians vote to pick president for first time. Sentence 2: Egyptians wait for key presidential vote results",
+            "output": 2.5999999046325684
+        },
+        "196": {
+            "input": "Sentence 1: A baby is crawling happily.. Sentence 2: A cat is walking on hardwood floor.",
+            "output": 0.10000000149011612
+        },
+        "197": {
+            "input": "Sentence 1: Representatives for Puretunes could not immediately be reached for comment Wednesday.. Sentence 2: Puretunes representatives could not be located Thursday to comment on the suit.",
+            "output": 3.25
+        },
+        "198": {
+            "input": "Sentence 1: A woman is slicing some tuna.. Sentence 2: A woman is cutting raw fish.",
+            "output": 2.799999952316284
+        },
+        "199": {
+            "input": "Sentence 1: A group of four people in a dinner having cake.. Sentence 2: Four people eating dessert around a table.",
+            "output": 3.799999952316284
+        },
+        "200": {
+            "input": "Sentence 1: A kitchen with wood cabinets and dining table.. Sentence 2: A kitchen with wooden cabinets and furniture.",
+            "output": 4.400000095367432
+        }
+    }
+}

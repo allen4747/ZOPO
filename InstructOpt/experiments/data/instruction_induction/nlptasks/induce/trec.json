@@ -1,0 +1,4007 @@
+{
+    "metadata": {
+        "num_examples": 1000
+    },
+    "examples": {
+        "1": {
+            "input": "What 's the origin of the word ` news ' ?",
+            "output": "Abbreviation"
+        },
+        "2": {
+            "input": "What is the abbreviation for micro ?",
+            "output": "Description and abstract concept"
+        },
+        "3": {
+            "input": "What was a Mae West on a World War II battleship ?",
+            "output": "Abbreviation"
+        },
+        "4": {
+            "input": "Who was the second man to walk on the moon ?",
+            "output": "Human being"
+        },
+        "5": {
+            "input": "What is the latitude and longitude of El Paso , Texas ?",
+            "output": "Location"
+        },
+        "6": {
+            "input": "What instrument is Ray Charles best known for playing ?",
+            "output": "Entity"
+        },
+        "7": {
+            "input": "What `` marvelous '' major-league baseball player is now a spokesman for a beer company ?",
+            "output": "Human being"
+        },
+        "8": {
+            "input": "What does laser stand for ?",
+            "output": "Abbreviation"
+        },
+        "9": {
+            "input": "Why are so many umbrellas black ?",
+            "output": "Abbreviation"
+        },
+        "10": {
+            "input": "What is the origin of the city `` Corpus Christi '' ?",
+            "output": "Abbreviation"
+        },
+        "11": {
+            "input": "When did Theo Rousseau paint the `` Forest of Fontaine '' ?",
+            "output": "Location"
+        },
+        "12": {
+            "input": "What former major-league left-handed baseball pitcher was known as `` Space Man '' ?",
+            "output": "Human being"
+        },
+        "13": {
+            "input": "What was the nickname of model Leslie Hornby ?",
+            "output": "Human being"
+        },
+        "14": {
+            "input": "What country buys 25 percent of the world 's tea exports ?",
+            "output": "Numeric value"
+        },
+        "15": {
+            "input": "What is the origin of Boxing Day ?",
+            "output": "Abbreviation"
+        },
+        "16": {
+            "input": "What does NAFTA stand for ?",
+            "output": "Description and abstract concept"
+        },
+        "17": {
+            "input": "What do the 12 days of Christmas mean ?",
+            "output": "Abbreviation"
+        },
+        "18": {
+            "input": "What 1927 silent film received an international revival in 1981 ?",
+            "output": "Entity"
+        },
+        "19": {
+            "input": "What is a fear of cholera ?",
+            "output": "Entity"
+        },
+        "20": {
+            "input": "What does the T.S. stand for in T.S. Eliot 's name ?",
+            "output": "Description and abstract concept"
+        },
+        "21": {
+            "input": "What was the U.S. highway death toll in 1969 ?",
+            "output": "Location"
+        },
+        "22": {
+            "input": "Where are the 49 steps ?",
+            "output": "Numeric value"
+        },
+        "23": {
+            "input": "How many maids were milking ?",
+            "output": "Location"
+        },
+        "24": {
+            "input": "How do movie blues screens work ?",
+            "output": "Abbreviation"
+        },
+        "25": {
+            "input": "CNN began broadcasting in what year ?",
+            "output": "Location"
+        },
+        "26": {
+            "input": "Who portrayed Prewett in From Here to Eternity ?",
+            "output": "Human being"
+        },
+        "27": {
+            "input": "What is the fear of the computer called ?",
+            "output": "Entity"
+        },
+        "28": {
+            "input": "How do you say 2 in Latin ?",
+            "output": "Entity"
+        },
+        "29": {
+            "input": "What 's the difference between sleet and freezing rain ?",
+            "output": "Abbreviation"
+        },
+        "30": {
+            "input": "What company produces Spumante ?",
+            "output": "Human being"
+        },
+        "31": {
+            "input": "What Nazi leader killed himself in jail just before he was to be executed as a war criminal ?",
+            "output": "Human being"
+        },
+        "32": {
+            "input": "What southeast Asian country has the Wang River joining the Ping River at Tak ?",
+            "output": "Numeric value"
+        },
+        "33": {
+            "input": "What are people doing to help prevent the extinction of birds ?",
+            "output": "Abbreviation"
+        },
+        "34": {
+            "input": "What is the U.S. location of Procter & Gamble corporate offices ?",
+            "output": "Numeric value"
+        },
+        "35": {
+            "input": "Who invented the pull-tab opener on cans ?",
+            "output": "Human being"
+        },
+        "36": {
+            "input": "What is a fear of sleep ?",
+            "output": "Entity"
+        },
+        "37": {
+            "input": "What is the difference between microprocessors & microcontrollers ?",
+            "output": "Abbreviation"
+        },
+        "38": {
+            "input": "What does the technique called `` cold fusion '' produce ?",
+            "output": "Entity"
+        },
+        "39": {
+            "input": "What Broadway musical was inspired by Cervantes 's Don Quixote ?",
+            "output": "Entity"
+        },
+        "40": {
+            "input": "How many games are played in a five-team round-robin tournament ?",
+            "output": "Location"
+        },
+        "41": {
+            "input": "What was the tragedy that struck the city of Dogtown in 1899 ?",
+            "output": "Entity"
+        },
+        "42": {
+            "input": "What is the term for the side of the mountain that faces the prevailing winds ?",
+            "output": "Entity"
+        },
+        "43": {
+            "input": "Where do you find information about the Queensland National Competition Policy",
+            "output": "Numeric value"
+        },
+        "44": {
+            "input": "Who portrayed The Cowardly Lion in The Wizard of Oz ?",
+            "output": "Human being"
+        },
+        "45": {
+            "input": "How did water appear on the earth ?",
+            "output": "Abbreviation"
+        },
+        "46": {
+            "input": "What is the Islamic counterpart to the Red Cross ?",
+            "output": "Entity"
+        },
+        "47": {
+            "input": "What English playwright penned : `` Where the bee sucks , so shall I '' ?",
+            "output": "Human being"
+        },
+        "48": {
+            "input": "What character narrates Treasure Island ?",
+            "output": "Human being"
+        },
+        "49": {
+            "input": "What letter does Gorbachev 's middle name start with ?",
+            "output": "Entity"
+        },
+        "50": {
+            "input": "What is the origin of the word , JJ .",
+            "output": "Abbreviation"
+        },
+        "51": {
+            "input": "What do ladybugs eat ?",
+            "output": "Entity"
+        },
+        "52": {
+            "input": "What was the death toll at the eruption of Mount Pinatubo ?",
+            "output": "Location"
+        },
+        "53": {
+            "input": "What is the population of Japan ?",
+            "output": "Location"
+        },
+        "54": {
+            "input": "Who was the first man to return to space ?",
+            "output": "Human being"
+        },
+        "55": {
+            "input": "How many chairs are shown in Vincent Van Gogh 's 188 work The Artist 's Room in Arles ?",
+            "output": "Location"
+        },
+        "56": {
+            "input": "How many URL extensions are there ? and what are they ?",
+            "output": "Location"
+        },
+        "57": {
+            "input": "What was the eighth day following the Nones in each month of the Roman calendar called ?",
+            "output": "Entity"
+        },
+        "58": {
+            "input": "What novel inspired the movie BladeRunner ?",
+            "output": "Entity"
+        },
+        "59": {
+            "input": "By how much will the California state gas tax rise by the year 2000 ?",
+            "output": "Location"
+        },
+        "60": {
+            "input": "Where is the largest post office building in the world ?",
+            "output": "Numeric value"
+        },
+        "61": {
+            "input": "What famed tennis tournament 's men 's singles title was Fred Perry the last Englishman to win ?",
+            "output": "Entity"
+        },
+        "62": {
+            "input": "What is an auto-commentary ?",
+            "output": "Abbreviation"
+        },
+        "63": {
+            "input": "What CBS soap opera was interrupted by the bulletin of John F. Kennedy 's assassination ?",
+            "output": "Entity"
+        },
+        "64": {
+            "input": "How long is Camptown Racetrack ?",
+            "output": "Location"
+        },
+        "65": {
+            "input": "How many American soldiers have died for their country to date ?",
+            "output": "Location"
+        },
+        "66": {
+            "input": "What is Betsy Ross famous for ?",
+            "output": "Abbreviation"
+        },
+        "67": {
+            "input": "What is hydroelectricity ?",
+            "output": "Abbreviation"
+        },
+        "68": {
+            "input": "What is the abbreviated term used for the National Bureau of Investigation ?",
+            "output": "Description and abstract concept"
+        },
+        "69": {
+            "input": "Why do some people have two different color eyes ?",
+            "output": "Abbreviation"
+        },
+        "70": {
+            "input": "What city is terrorized by Dracula in The Night Stalker ?",
+            "output": "Numeric value"
+        },
+        "71": {
+            "input": "What is the per-capita income of Colombia , South America , ?",
+            "output": "Location"
+        },
+        "72": {
+            "input": "Who was Bonnie Blue Butler 's father ?",
+            "output": "Human being"
+        },
+        "73": {
+            "input": "How many people were executed for Abraham Lincoln 's assassination ?",
+            "output": "Location"
+        },
+        "74": {
+            "input": "What is troilism ?",
+            "output": "Abbreviation"
+        },
+        "75": {
+            "input": "How much caffeine is in a 16 oz cup of coffee ?",
+            "output": "Location"
+        },
+        "76": {
+            "input": "What are some colorful flowers that will bloom in the fall in New England ?",
+            "output": "Entity"
+        },
+        "77": {
+            "input": "What is tumbled marble ?",
+            "output": "Abbreviation"
+        },
+        "78": {
+            "input": "Who is currently the most popular singer in the world ?",
+            "output": "Human being"
+        },
+        "79": {
+            "input": "What two vegetables are combined in succotash ?",
+            "output": "Entity"
+        },
+        "80": {
+            "input": "What color is the eight-ball in pocket billiards ?",
+            "output": "Entity"
+        },
+        "81": {
+            "input": "What happened to Pepsi Clear ?",
+            "output": "Abbreviation"
+        },
+        "82": {
+            "input": "Which breakfast cereal brought you `` the best each morning '' ?",
+            "output": "Entity"
+        },
+        "83": {
+            "input": "What does `` E Pluribus Unum '' on the penny mean ?",
+            "output": "Abbreviation"
+        },
+        "84": {
+            "input": "What is the horsepower of the shuttle boosters ?",
+            "output": "Location"
+        },
+        "85": {
+            "input": "What two countries are separated by the Bering Strait ?",
+            "output": "Numeric value"
+        },
+        "86": {
+            "input": "What is a fear of women ?",
+            "output": "Entity"
+        },
+        "87": {
+            "input": "What cards are bullets ?",
+            "output": "Entity"
+        },
+        "88": {
+            "input": "How do you calculate the change in enthalpy of a chemical reaction ?",
+            "output": "Abbreviation"
+        },
+        "89": {
+            "input": "What are the most common elements in the Earth 's crust ?",
+            "output": "Entity"
+        },
+        "90": {
+            "input": "How is saline used in medicine ?",
+            "output": "Abbreviation"
+        },
+        "91": {
+            "input": "How do I contact answers.com ?",
+            "output": "Abbreviation"
+        },
+        "92": {
+            "input": "What are the historical trials following World War II called ?",
+            "output": "Entity"
+        },
+        "93": {
+            "input": "How did Jayne Mansfield die ?",
+            "output": "Abbreviation"
+        },
+        "94": {
+            "input": "When was Yemen reunified ?",
+            "output": "Location"
+        },
+        "95": {
+            "input": "What percent of world 's fresh water is found in Canada ?",
+            "output": "Location"
+        },
+        "96": {
+            "input": "What are some good fractal web sites ?",
+            "output": "Numeric value"
+        },
+        "97": {
+            "input": "What sprawling U.S. state boasts the most airports ?",
+            "output": "Numeric value"
+        },
+        "98": {
+            "input": "How do microwaves work ?",
+            "output": "Abbreviation"
+        },
+        "99": {
+            "input": "What is the circumorbital hematoma ?",
+            "output": "Abbreviation"
+        },
+        "100": {
+            "input": "Who wrote The Ugly Duckling ?",
+            "output": "Human being"
+        },
+        "101": {
+            "input": "Who shoplifts ?",
+            "output": "Human being"
+        },
+        "102": {
+            "input": "What was the name of the flight that Fawaz Younis hijacked ?",
+            "output": "Entity"
+        },
+        "103": {
+            "input": "How many people have died of tuberculosis ?",
+            "output": "Location"
+        },
+        "104": {
+            "input": "How do you use an intranet ?",
+            "output": "Abbreviation"
+        },
+        "105": {
+            "input": "Where did the world come from ?",
+            "output": "Numeric value"
+        },
+        "106": {
+            "input": "Where did Dylan Thomas die ?",
+            "output": "Numeric value"
+        },
+        "107": {
+            "input": "Name the university of which Woodrow Wilson was president .",
+            "output": "Human being"
+        },
+        "108": {
+            "input": "What is the brand name of the chemical daminozide ?",
+            "output": "Entity"
+        },
+        "109": {
+            "input": "What oldtime kids ' fare did TV Guide writer Jeff Greenfield call `` one of the most...subversive TV shows in American history '' ?",
+            "output": "Entity"
+        },
+        "110": {
+            "input": "What is the recommended weight of a 15 year-old male that is 5 , 6 ?",
+            "output": "Location"
+        },
+        "111": {
+            "input": "Where can I find scientific data , `` research papers , '' on textile engineering ?",
+            "output": "Numeric value"
+        },
+        "112": {
+            "input": "What title did Shevardnadze have during the Soviet era ?",
+            "output": "Human being"
+        },
+        "113": {
+            "input": "What Sinatra hit did he dooby dooby do in ?",
+            "output": "Entity"
+        },
+        "114": {
+            "input": "What bowl game began as an East-West contest between Michigan and Stanford in 192 ?",
+            "output": "Entity"
+        },
+        "115": {
+            "input": "What kind of company is 7-Eleven ?",
+            "output": "Human being"
+        },
+        "116": {
+            "input": "How long ago did the Anglican church part from the Vatican ?",
+            "output": "Location"
+        },
+        "117": {
+            "input": "Who played the title role in The Romantic Englishwoman ?",
+            "output": "Human being"
+        },
+        "118": {
+            "input": "CPR is the abbreviation for what ?",
+            "output": "Description and abstract concept"
+        },
+        "119": {
+            "input": "Where on the Internet can I get chemicals importers ?",
+            "output": "Numeric value"
+        },
+        "120": {
+            "input": "Where did he get the title ?",
+            "output": "Numeric value"
+        },
+        "121": {
+            "input": "What explorers followed Columbus to the Americas ?",
+            "output": "Human being"
+        },
+        "122": {
+            "input": "What is the only gland in humans that can regenerate itself ?",
+            "output": "Entity"
+        },
+        "123": {
+            "input": "How many people live in cities ?",
+            "output": "Location"
+        },
+        "124": {
+            "input": "Who claimed to be the world 's most perfectly-developed man ?",
+            "output": "Human being"
+        },
+        "125": {
+            "input": "Who was the author of the book about computer hackers called `` The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage '' ?",
+            "output": "Human being"
+        },
+        "126": {
+            "input": "What is Grenada 's main commodity export ?",
+            "output": "Entity"
+        },
+        "127": {
+            "input": "How do you send a movie transcript to Hollywood so that it can be produced into a film ?",
+            "output": "Abbreviation"
+        },
+        "128": {
+            "input": "How big is a normal size penis for a 15-year-old ?",
+            "output": "Location"
+        },
+        "129": {
+            "input": "What was the infamous pseudonym of Peter Sutcliffe ?",
+            "output": "Human being"
+        },
+        "130": {
+            "input": "Who was the only person convicted in the My Lai Massacre ?",
+            "output": "Human being"
+        },
+        "131": {
+            "input": "Whose cupboard was bare ?",
+            "output": "Human being"
+        },
+        "132": {
+            "input": "What President became Chief Justice after his presidency ?",
+            "output": "Human being"
+        },
+        "133": {
+            "input": "What soft drink tells us to `` Go Hawaiian '' ?",
+            "output": "Entity"
+        },
+        "134": {
+            "input": "What was the sister ship of the Olympic ?",
+            "output": "Entity"
+        },
+        "135": {
+            "input": "How does hair curl ?",
+            "output": "Abbreviation"
+        },
+        "136": {
+            "input": "What is the Home Rule Act ?",
+            "output": "Abbreviation"
+        },
+        "137": {
+            "input": "What is Spumante ?",
+            "output": "Abbreviation"
+        },
+        "138": {
+            "input": "What board game does a `` wood-pusher '' play poorly ?",
+            "output": "Entity"
+        },
+        "139": {
+            "input": "Where is the group M People from ?",
+            "output": "Numeric value"
+        },
+        "140": {
+            "input": "What is he doing now ?",
+            "output": "Abbreviation"
+        },
+        "141": {
+            "input": "Who are the presidents of Mexico and Indonesia ?",
+            "output": "Human being"
+        },
+        "142": {
+            "input": "How many members of a family could be drafted in the U.S. military during World War II ?",
+            "output": "Location"
+        },
+        "143": {
+            "input": "What king boycotted Prince Charles 's wedding ?",
+            "output": "Human being"
+        },
+        "144": {
+            "input": "What company started out making pies , and wound up manufacturing plastic throwing toys ?",
+            "output": "Human being"
+        },
+        "145": {
+            "input": "When is President Nixon 's birthday ?",
+            "output": "Location"
+        },
+        "146": {
+            "input": "What is the legal blood alcohol limit for the state of California ?",
+            "output": "Entity"
+        },
+        "147": {
+            "input": "How is Answers.com different from KnowPost.com ?",
+            "output": "Abbreviation"
+        },
+        "148": {
+            "input": "Where is Inoco based ?",
+            "output": "Numeric value"
+        },
+        "149": {
+            "input": "Name a female figure skater .",
+            "output": "Human being"
+        },
+        "150": {
+            "input": "What would happen to Canada if Quebec separated ?",
+            "output": "Abbreviation"
+        },
+        "151": {
+            "input": "Who was the first black woman to star in the Folies Bergeres ?",
+            "output": "Human being"
+        },
+        "152": {
+            "input": "What are the top 10 colleges in the United States in the field of engineering ?",
+            "output": "Human being"
+        },
+        "153": {
+            "input": "Who manufactures the software , `` PhotoShop '' ?",
+            "output": "Human being"
+        },
+        "154": {
+            "input": "What lake is Sheboygan on ?",
+            "output": "Numeric value"
+        },
+        "155": {
+            "input": "Who is Dear Abby ?",
+            "output": "Human being"
+        },
+        "156": {
+            "input": "How many people live in Tokyo ?",
+            "output": "Location"
+        },
+        "157": {
+            "input": "When did Hitler come to power in Germany ?",
+            "output": "Location"
+        },
+        "158": {
+            "input": "How does light travel through the void of space if there is no medium for it to ` wave ' or ` pulse ' .",
+            "output": "Abbreviation"
+        },
+        "159": {
+            "input": "Why do eyes sometimes look red in photographs ?",
+            "output": "Abbreviation"
+        },
+        "160": {
+            "input": "What is the website for the USA journal ?",
+            "output": "Numeric value"
+        },
+        "161": {
+            "input": "Name the various super-teams to which the Angel has belonged .",
+            "output": "Human being"
+        },
+        "162": {
+            "input": "What is considered the costliest disaster the insurance industry has ever faced ?",
+            "output": "Entity"
+        },
+        "163": {
+            "input": "What 's the meaning of the Latin battle cry : Ad arma , ad arma .",
+            "output": "Abbreviation"
+        },
+        "164": {
+            "input": "What country boasts the most dams ?",
+            "output": "Numeric value"
+        },
+        "165": {
+            "input": "What are the four railways in Monopoly ?",
+            "output": "Human being"
+        },
+        "166": {
+            "input": "What war saw battles at Parrot 's Beak and Black Virgin ?",
+            "output": "Entity"
+        },
+        "167": {
+            "input": "What two vessels fought the first sea battle between iron-covered ships ?",
+            "output": "Entity"
+        },
+        "168": {
+            "input": "What enigmatic U.S. vice president was once tried and acquitted for treason in a plot to set up his own independent empire in the West ?",
+            "output": "Human being"
+        },
+        "169": {
+            "input": "What J.R.R. Tolkien book features Gimli as a central character ?",
+            "output": "Entity"
+        },
+        "170": {
+            "input": "What is amezaiku ?",
+            "output": "Abbreviation"
+        },
+        "171": {
+            "input": "What is commonly considered the fifth sense ?",
+            "output": "Abbreviation"
+        },
+        "172": {
+            "input": "What are the lyrics to `` Smelly Cat '' ?",
+            "output": "Abbreviation"
+        },
+        "173": {
+            "input": "What 's the world 's most common compound ?",
+            "output": "Entity"
+        },
+        "174": {
+            "input": "How do you handle a hungry man ?",
+            "output": "Abbreviation"
+        },
+        "175": {
+            "input": "Which operating system runs on IBM-compatible machines ?",
+            "output": "Entity"
+        },
+        "176": {
+            "input": "Who wrote `` The Pit and the Pendulum '' ?",
+            "output": "Human being"
+        },
+        "177": {
+            "input": "How do you make the color purple ?",
+            "output": "Abbreviation"
+        },
+        "178": {
+            "input": "What is God ?",
+            "output": "Abbreviation"
+        },
+        "179": {
+            "input": "Who moderated the first Kennedy-Nixon TV debate ?",
+            "output": "Human being"
+        },
+        "180": {
+            "input": "How do I legally make my own will and testament ?",
+            "output": "Abbreviation"
+        },
+        "181": {
+            "input": "What is the real name of the singer , Madonna ?",
+            "output": "Human being"
+        },
+        "182": {
+            "input": "What do peacocks mate with ?",
+            "output": "Entity"
+        },
+        "183": {
+            "input": "What was known as the Spice Island ?",
+            "output": "Numeric value"
+        },
+        "184": {
+            "input": "How many miles is it from Frankfurt , Germany to Salzburg , Austria ?",
+            "output": "Location"
+        },
+        "185": {
+            "input": "How long did the Charles Manson murder trial last ?",
+            "output": "Location"
+        },
+        "186": {
+            "input": "What do Italians call Florence ?",
+            "output": "Entity"
+        },
+        "187": {
+            "input": "What is the name of the gulf between Sweden and Finland ?",
+            "output": "Numeric value"
+        },
+        "188": {
+            "input": "How can a foreigner get a U.S. Social Security card ?",
+            "output": "Abbreviation"
+        },
+        "189": {
+            "input": "What four-legged creature did a Cornell University study say would make man 's best companion in space ?",
+            "output": "Entity"
+        },
+        "190": {
+            "input": "What is the origin of the expression `` tout de suite '' ?",
+            "output": "Abbreviation"
+        },
+        "191": {
+            "input": "Who wrote ` Hamlet ' ?",
+            "output": "Human being"
+        },
+        "192": {
+            "input": "What film featured a snarly character named Kid Shelleen ?",
+            "output": "Entity"
+        },
+        "193": {
+            "input": "Where are the headquarters of Eli Lilly ?",
+            "output": "Numeric value"
+        },
+        "194": {
+            "input": "What ice creams contain seaweed ?",
+            "output": "Entity"
+        },
+        "195": {
+            "input": "What does the theory of quantum leaps mean in simpler terms ?",
+            "output": "Abbreviation"
+        },
+        "196": {
+            "input": "What German city do Italians call The Monaco of Bavaria ?",
+            "output": "Numeric value"
+        },
+        "197": {
+            "input": "What is dry ice ?",
+            "output": "Abbreviation"
+        },
+        "198": {
+            "input": "How many layers of yellow paint is a Faber Mongol pencil lucky enough to be sprayed with ?",
+            "output": "Location"
+        },
+        "199": {
+            "input": "What city boasts Penn 's Landing , on the banks of the Delaware river ?",
+            "output": "Numeric value"
+        },
+        "200": {
+            "input": "What beer 's name is translated as `` lion brew '' ?",
+            "output": "Entity"
+        },
+        "201": {
+            "input": "What interesting method was used to run the credits in the early Popeye cartoons ?",
+            "output": "Entity"
+        },
+        "202": {
+            "input": "What is viscosity ?",
+            "output": "Abbreviation"
+        },
+        "203": {
+            "input": "What 's the second-most-used vowel in English ?",
+            "output": "Entity"
+        },
+        "204": {
+            "input": "What Rocky Mountain ridge separates North America 's eastward and westward-flowing rivers ?",
+            "output": "Numeric value"
+        },
+        "205": {
+            "input": "What is her profession ?",
+            "output": "Human being"
+        },
+        "206": {
+            "input": "How many times does the tide ebb and flow each day ?",
+            "output": "Location"
+        },
+        "207": {
+            "input": "What killed Bob Marley ?",
+            "output": "Entity"
+        },
+        "208": {
+            "input": "What are the top vegetable crops in the world ?",
+            "output": "Entity"
+        },
+        "209": {
+            "input": "When did Rococo painting and architecture flourish ?",
+            "output": "Location"
+        },
+        "210": {
+            "input": "What prison is found in Ossining , New York ?",
+            "output": "Numeric value"
+        },
+        "211": {
+            "input": "Who was the Democratic nominee in the American presidential election ?",
+            "output": "Human being"
+        },
+        "212": {
+            "input": "What is the largest office block in the world ?",
+            "output": "Numeric value"
+        },
+        "213": {
+            "input": "When do MORMONS believe Christ was born ?",
+            "output": "Location"
+        },
+        "214": {
+            "input": "Name a medicine commonly used to combat AIDS ?",
+            "output": "Entity"
+        },
+        "215": {
+            "input": "When was Queen Victoria born ?",
+            "output": "Location"
+        },
+        "216": {
+            "input": "What was the Long March in China ?",
+            "output": "Abbreviation"
+        },
+        "217": {
+            "input": "What is the speed of the Mississippi River ?",
+            "output": "Location"
+        },
+        "218": {
+            "input": "Where can I buy a hat like the kind Jay Kay from Jamiroquai wears ?",
+            "output": "Numeric value"
+        },
+        "219": {
+            "input": "What doctor is synonymous with footwear and foot care ?",
+            "output": "Human being"
+        },
+        "220": {
+            "input": "What is the tallest mountain ?",
+            "output": "Numeric value"
+        },
+        "221": {
+            "input": "How many varieties of apple are there ?",
+            "output": "Location"
+        },
+        "222": {
+            "input": "Where is Sinn Fein 's headquarters ?",
+            "output": "Numeric value"
+        },
+        "223": {
+            "input": "How do you ask questions ?",
+            "output": "Abbreviation"
+        },
+        "224": {
+            "input": "What year did nylon stockings first go on sale ?",
+            "output": "Location"
+        },
+        "225": {
+            "input": "What bestselling modern poet was the co-founder of the famous City Lights Bookshop in San Francisco ?",
+            "output": "Human being"
+        },
+        "226": {
+            "input": "What anesthetic did Queen Victoria allow to be used for the birth of her seventh child , in 1853 ?",
+            "output": "Entity"
+        },
+        "227": {
+            "input": "Name the largest country in South America .",
+            "output": "Numeric value"
+        },
+        "228": {
+            "input": "Which two states enclose Chesapeake Bay ?",
+            "output": "Numeric value"
+        },
+        "229": {
+            "input": "What diamond producer controls about 80% of the world 's diamonds ?",
+            "output": "Human being"
+        },
+        "230": {
+            "input": "What is Nitrox diving ?",
+            "output": "Abbreviation"
+        },
+        "231": {
+            "input": "What does CPR stand for ?",
+            "output": "Description and abstract concept"
+        },
+        "232": {
+            "input": "What is a fear of fish ?",
+            "output": "Entity"
+        },
+        "233": {
+            "input": "What was the orca 's name that died of a fungal infection at Sea World ?",
+            "output": "Entity"
+        },
+        "234": {
+            "input": "How many people in the world speak French ?",
+            "output": "Location"
+        },
+        "235": {
+            "input": "What South African producer had a 1988 profit of $836 million ?",
+            "output": "Human being"
+        },
+        "236": {
+            "input": "What product on the market is good for hiding facial scars ?",
+            "output": "Entity"
+        },
+        "237": {
+            "input": "What good are mosquitoes ?",
+            "output": "Abbreviation"
+        },
+        "238": {
+            "input": "How does the tail affect the flight of a kite ?",
+            "output": "Abbreviation"
+        },
+        "239": {
+            "input": "Whose funeral train traveled from Washington D.C. to Springfield , Illinois ?",
+            "output": "Human being"
+        },
+        "240": {
+            "input": "What 's the state motto of California ?",
+            "output": "Abbreviation"
+        },
+        "241": {
+            "input": "How many Americans have HIV ?",
+            "output": "Location"
+        },
+        "242": {
+            "input": "What does e=mc2 mean ?",
+            "output": "Abbreviation"
+        },
+        "243": {
+            "input": "What did people use to freshen their breath before toothpaste ?",
+            "output": "Entity"
+        },
+        "244": {
+            "input": "Who did Dita Beard work for ?",
+            "output": "Human being"
+        },
+        "245": {
+            "input": "How long is human gestation ?",
+            "output": "Location"
+        },
+        "246": {
+            "input": "How many people are there in the world ?",
+            "output": "Location"
+        },
+        "247": {
+            "input": "What Russian master spy lived in the U.S. under the name Emil Goldfus ?",
+            "output": "Human being"
+        },
+        "248": {
+            "input": "What kind of poisoning is known as plumbism ?",
+            "output": "Entity"
+        },
+        "249": {
+            "input": "Who established a Viking colony in Greenland about 985 ?",
+            "output": "Human being"
+        },
+        "250": {
+            "input": "Where can I find a world atlas map online at no charge ?",
+            "output": "Numeric value"
+        },
+        "251": {
+            "input": "What baseball team became the Minnesota Twins ?",
+            "output": "Human being"
+        },
+        "252": {
+            "input": "What film marked Robert Redford 's directorial debut ?",
+            "output": "Entity"
+        },
+        "253": {
+            "input": "How much caffeine is in a 16 oz cup of coffee ?",
+            "output": "Location"
+        },
+        "254": {
+            "input": "Who was the author of the novel `` Far From the Madding Crowd '' ?",
+            "output": "Human being"
+        },
+        "255": {
+            "input": "What U.S. senator once played basketball for the New York Knicks ?",
+            "output": "Human being"
+        },
+        "256": {
+            "input": "What is the estimated total U.S. whitetail deer population ?",
+            "output": "Location"
+        },
+        "257": {
+            "input": "What book did Aaron Hass write ?",
+            "output": "Entity"
+        },
+        "258": {
+            "input": "How many liberty bells have there been ?",
+            "output": "Location"
+        },
+        "259": {
+            "input": "What trophy is awarded to the winners of the Super Bowl ?",
+            "output": "Entity"
+        },
+        "260": {
+            "input": "What are the Benelux countries ?",
+            "output": "Numeric value"
+        },
+        "261": {
+            "input": "What is the English meaning of caliente ?",
+            "output": "Abbreviation"
+        },
+        "262": {
+            "input": "Who has the only speaking role in `` Silent Movie '' ?",
+            "output": "Human being"
+        },
+        "263": {
+            "input": "What fossilizes to form coprolite ?",
+            "output": "Entity"
+        },
+        "264": {
+            "input": "Why are sometimes your hands cold , but the rest of you isn 't ?",
+            "output": "Abbreviation"
+        },
+        "265": {
+            "input": "Who penned : `` Neither a borrower nor a lender be '' ?",
+            "output": "Human being"
+        },
+        "266": {
+            "input": "What is Rona Barrett 's married name ?",
+            "output": "Human being"
+        },
+        "267": {
+            "input": "When were camcorders introduced in Malaysia ?",
+            "output": "Location"
+        },
+        "268": {
+            "input": "What game do Steve McQueen and Edward G. Robinson play in The Cincinnati Kid ?",
+            "output": "Entity"
+        },
+        "269": {
+            "input": "Who is the youngest of the Beatles ?",
+            "output": "Human being"
+        },
+        "270": {
+            "input": "What is a hormone ?",
+            "output": "Abbreviation"
+        },
+        "271": {
+            "input": "How long does it take the typical American to eat 23 quarts of ice cream ?",
+            "output": "Location"
+        },
+        "272": {
+            "input": "How is thalassemia defined ?",
+            "output": "Abbreviation"
+        },
+        "273": {
+            "input": "How did Asia get its name ?",
+            "output": "Abbreviation"
+        },
+        "274": {
+            "input": "What comedian created a punch-drunk pugilist named Cauliflower McPugg ?",
+            "output": "Human being"
+        },
+        "275": {
+            "input": "Who was Darth Vader 's son ?",
+            "output": "Human being"
+        },
+        "276": {
+            "input": "What Erica Jong novel deals with Isadora Wing 's fear ?",
+            "output": "Entity"
+        },
+        "277": {
+            "input": "What are the seven seas ?",
+            "output": "Numeric value"
+        },
+        "278": {
+            "input": "Whose acceptance speech of more than 3 minutes prompted a time limit on Academy Award thank-yous ?",
+            "output": "Human being"
+        },
+        "279": {
+            "input": "Who invented baseball ?",
+            "output": "Human being"
+        },
+        "280": {
+            "input": "What is being done about the millennium bug ?",
+            "output": "Abbreviation"
+        },
+        "281": {
+            "input": "What 's the world 's largest cathedral ?",
+            "output": "Numeric value"
+        },
+        "282": {
+            "input": "What movie did Steven Spielberg direct in 1975 ?",
+            "output": "Entity"
+        },
+        "283": {
+            "input": "Where did Dikembe Mutombo go to college ?",
+            "output": "Numeric value"
+        },
+        "284": {
+            "input": "Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10-?? of all profits of his voyage .",
+            "output": "Human being"
+        },
+        "285": {
+            "input": "What is a virtual IP address ?",
+            "output": "Abbreviation"
+        },
+        "286": {
+            "input": "How many people was Randy Craft convicted of killing ?",
+            "output": "Location"
+        },
+        "287": {
+            "input": "What is the rarest coin ?",
+            "output": "Entity"
+        },
+        "288": {
+            "input": "What was the real name of writer Ross Macdonald , creator of the hero Lew Archer ?",
+            "output": "Human being"
+        },
+        "289": {
+            "input": "How many years make up a lustrum ?",
+            "output": "Location"
+        },
+        "290": {
+            "input": "What is Maurizio Pellegrin 's age ?",
+            "output": "Location"
+        },
+        "291": {
+            "input": "Where can I find a case on Americans with Disabilities Act of 199 ?",
+            "output": "Numeric value"
+        },
+        "292": {
+            "input": "Who is Imam Hussain Ben Ali whom Shia people believe in ?",
+            "output": "Human being"
+        },
+        "293": {
+            "input": "How do plants make food ?",
+            "output": "Abbreviation"
+        },
+        "294": {
+            "input": "What was the name of `` The Muppets '' creator ?",
+            "output": "Human being"
+        },
+        "295": {
+            "input": "What is widely used to detect birth defects ?",
+            "output": "Entity"
+        },
+        "296": {
+            "input": "What 's the term for any four-sided figure ?",
+            "output": "Entity"
+        },
+        "297": {
+            "input": "How does Belle describe her life in Beauty and the Beast ?",
+            "output": "Abbreviation"
+        },
+        "298": {
+            "input": "What erupts every hour at Yellowstone National Park ?",
+            "output": "Numeric value"
+        },
+        "299": {
+            "input": "What actor learned to play the saxophone and speak Russian for a role in a movie ?",
+            "output": "Human being"
+        },
+        "300": {
+            "input": "How many types of cheese are there in France ?",
+            "output": "Location"
+        },
+        "301": {
+            "input": "What does a dipsomaniac crave ?",
+            "output": "Entity"
+        },
+        "302": {
+            "input": "Who was the first person inducted into the U.S. Swimming Hall of Fame ?",
+            "output": "Human being"
+        },
+        "303": {
+            "input": "What is the life span of the average monkey ?",
+            "output": "Location"
+        },
+        "304": {
+            "input": "What is Candlemas Day ?",
+            "output": "Abbreviation"
+        },
+        "305": {
+            "input": "What do you call a `` twirl '' in ballet ?",
+            "output": "Entity"
+        },
+        "306": {
+            "input": "What ocean did the Titanic sink in ?",
+            "output": "Numeric value"
+        },
+        "307": {
+            "input": "What does God create in the first sentence of the Bible ?",
+            "output": "Entity"
+        },
+        "308": {
+            "input": "How much does a poodle weigh ?",
+            "output": "Location"
+        },
+        "309": {
+            "input": "What is the first day of the week ?",
+            "output": "Location"
+        },
+        "310": {
+            "input": "What city did the Mormons establish as their headquarters in 1847 ?",
+            "output": "Numeric value"
+        },
+        "311": {
+            "input": "What was the food of the Greek gods called ?",
+            "output": "Entity"
+        },
+        "312": {
+            "input": "What is the most radioactive food ?",
+            "output": "Entity"
+        },
+        "313": {
+            "input": "What actor and actress have made the most movies ?",
+            "output": "Human being"
+        },
+        "314": {
+            "input": "How does marl form and what mineral does it contain ?",
+            "output": "Abbreviation"
+        },
+        "315": {
+            "input": "When was London 's Docklands Light Railway constructed ?",
+            "output": "Location"
+        },
+        "316": {
+            "input": "Who found Hawaii ?",
+            "output": "Human being"
+        },
+        "317": {
+            "input": "Who created the character James Bond ?",
+            "output": "Human being"
+        },
+        "318": {
+            "input": "What is the telephone number for the University of Kentucky ?",
+            "output": "Location"
+        },
+        "319": {
+            "input": "How do anti-locking brakes work ?",
+            "output": "Abbreviation"
+        },
+        "320": {
+            "input": "Who made the first gas engine ?",
+            "output": "Human being"
+        },
+        "321": {
+            "input": "What 's the population of Mississippi ?",
+            "output": "Location"
+        },
+        "322": {
+            "input": "What 's the most commonly-spoken language in Belgium ?",
+            "output": "Entity"
+        },
+        "323": {
+            "input": "What is the difference between jazz and blues ?",
+            "output": "Abbreviation"
+        },
+        "324": {
+            "input": "What product does `` Mrs. Olsen '' promote ?",
+            "output": "Entity"
+        },
+        "325": {
+            "input": "How can I get rich quick ?",
+            "output": "Abbreviation"
+        },
+        "326": {
+            "input": "What is a common anti-AIDS drug ?",
+            "output": "Entity"
+        },
+        "327": {
+            "input": "What is the chemical reactivity of neon ?",
+            "output": "Location"
+        },
+        "328": {
+            "input": "What is the `` 7-minute cigarette '' ?",
+            "output": "Abbreviation"
+        },
+        "329": {
+            "input": "How is the element strontium purified ?",
+            "output": "Abbreviation"
+        },
+        "330": {
+            "input": "How do you stop junk snail mail ?",
+            "output": "Abbreviation"
+        },
+        "331": {
+            "input": "What Scottish poet penned To a Mouse and To a Louse ?",
+            "output": "Human being"
+        },
+        "332": {
+            "input": "What company was the original sponsor of TV 's Superman ?",
+            "output": "Human being"
+        },
+        "333": {
+            "input": "How do you match a name to a social security number ?",
+            "output": "Abbreviation"
+        },
+        "334": {
+            "input": "Who wrote Brave New World ?",
+            "output": "Human being"
+        },
+        "335": {
+            "input": "When was the USSR dissolved ?",
+            "output": "Location"
+        },
+        "336": {
+            "input": "What London street claims to be the world center for men 's tailoring ?",
+            "output": "Numeric value"
+        },
+        "337": {
+            "input": "What city was Martin Luther King Jr. assassinated in ?",
+            "output": "Numeric value"
+        },
+        "338": {
+            "input": "How do I know how much money to save for retirement ?",
+            "output": "Abbreviation"
+        },
+        "339": {
+            "input": "What is the purpose of BIOS ?",
+            "output": "Abbreviation"
+        },
+        "340": {
+            "input": "What is the population of Mexico ?",
+            "output": "Location"
+        },
+        "341": {
+            "input": "What does Ouija mean ?",
+            "output": "Abbreviation"
+        },
+        "342": {
+            "input": "What is a tonne ?",
+            "output": "Abbreviation"
+        },
+        "343": {
+            "input": "What is one of the cities that the University of Minnesota is located in ?",
+            "output": "Numeric value"
+        },
+        "344": {
+            "input": "What is the size of the largest akita ?",
+            "output": "Location"
+        },
+        "345": {
+            "input": "Which side should a bowler facing a 37803 split hit the 3-pin on-the left or the right ?",
+            "output": "Entity"
+        },
+        "346": {
+            "input": "Who runs Andy Capp 's favorite pub ?",
+            "output": "Human being"
+        },
+        "347": {
+            "input": "Who claimed he killed 4 , 280 buffalo as food for the crew building the Kansas Pacific Railway ?",
+            "output": "Human being"
+        },
+        "348": {
+            "input": "Why is the word `` abbreviation '' so long ?",
+            "output": "Abbreviation"
+        },
+        "349": {
+            "input": "When did Mount St. Helen last have a major eruption ?",
+            "output": "Location"
+        },
+        "350": {
+            "input": "Who gave King Arthur the round table ?",
+            "output": "Human being"
+        },
+        "351": {
+            "input": "When will Jean Aeul publish her next book ?",
+            "output": "Location"
+        },
+        "352": {
+            "input": "What is the most famous German word in the English language ?",
+            "output": "Entity"
+        },
+        "353": {
+            "input": "What is the meaning of `` CPR '' ?",
+            "output": "Abbreviation"
+        },
+        "354": {
+            "input": "How do you measure the heat of the sun ?",
+            "output": "Abbreviation"
+        },
+        "355": {
+            "input": "What does the six-footed Musca domestica become when it enters a house ?",
+            "output": "Entity"
+        },
+        "356": {
+            "input": "What multitalented Academy-award-winning director failed a college course in motion-picture production ?",
+            "output": "Human being"
+        },
+        "357": {
+            "input": "What two countries fought the Hundred Years ' War ?",
+            "output": "Numeric value"
+        },
+        "358": {
+            "input": "What World War I battle saw 6 , 0 troops killed in one day ?",
+            "output": "Entity"
+        },
+        "359": {
+            "input": "When was the bar-code invented ?",
+            "output": "Location"
+        },
+        "360": {
+            "input": "How many three-letter permutations can be made from the four letters : c ?",
+            "output": "Location"
+        },
+        "361": {
+            "input": "Who was the first President to appoint a woman to head a cabinet ?",
+            "output": "Human being"
+        },
+        "362": {
+            "input": "What is average salary of restaurant manager in United States ?",
+            "output": "Location"
+        },
+        "363": {
+            "input": "What are the residents of the island of Lesbos called ?",
+            "output": "Human being"
+        },
+        "364": {
+            "input": "How many endangered species are there in the world ?",
+            "output": "Location"
+        },
+        "365": {
+            "input": "What Mary Tyler Moore Show regular came into the world as Tadeus Wladyslaw Konopka ?",
+            "output": "Entity"
+        },
+        "366": {
+            "input": "How does marijuana lead to other drugs ?",
+            "output": "Abbreviation"
+        },
+        "367": {
+            "input": "How many visitors go to the Vatican each year ?",
+            "output": "Location"
+        },
+        "368": {
+            "input": "Where can I find information on the Narragansett Indians and other tribes in Rhode Island ?",
+            "output": "Numeric value"
+        },
+        "369": {
+            "input": "What director made one silent and one sound version of The Ten Commandments ?",
+            "output": "Human being"
+        },
+        "370": {
+            "input": "What is the name of the planet that the Ewoks live on ?",
+            "output": "Numeric value"
+        },
+        "371": {
+            "input": "What relative of the racoon is sometimes known as the cat-bear ?",
+            "output": "Entity"
+        },
+        "372": {
+            "input": "Where is the Virtual Desk Reference ?",
+            "output": "Numeric value"
+        },
+        "373": {
+            "input": "How you can raise your IQ ?",
+            "output": "Abbreviation"
+        },
+        "374": {
+            "input": "What is the fastest computer ?",
+            "output": "Entity"
+        },
+        "375": {
+            "input": "What President hit the jogging paths to enhance his athletic image and , sporting No. 39 , almost collapsed during the road race ?",
+            "output": "Human being"
+        },
+        "376": {
+            "input": "When called upon to surrender , what American general replied , `` Sir , I have not yet begun to fight . '' ?",
+            "output": "Human being"
+        },
+        "377": {
+            "input": "When was Calypso music invented ?",
+            "output": "Location"
+        },
+        "378": {
+            "input": "What is the root of all evil ?",
+            "output": "Abbreviation"
+        },
+        "379": {
+            "input": "What time of year has the most air travel ?",
+            "output": "Location"
+        },
+        "380": {
+            "input": "What is the current ticket fare from from Cairo to Barbados ?",
+            "output": "Location"
+        },
+        "381": {
+            "input": "What is damage to business and government caused by bureaucracy ?",
+            "output": "Entity"
+        },
+        "382": {
+            "input": "Why do people shake hands to show friendliness ?",
+            "output": "Abbreviation"
+        },
+        "383": {
+            "input": "How do you make panoramic sugar eggs for Easter - the ones with the scene inside ?",
+            "output": "Abbreviation"
+        },
+        "384": {
+            "input": "What kind of dog is Scooby Doo ?",
+            "output": "Entity"
+        },
+        "385": {
+            "input": "Who loved Flash Gordon besides Dale ?",
+            "output": "Human being"
+        },
+        "386": {
+            "input": "What was the first video ever made ?",
+            "output": "Entity"
+        },
+        "387": {
+            "input": "What substance did Joseph Priestley name for its ability to erase pencil marks ?",
+            "output": "Entity"
+        },
+        "388": {
+            "input": "What 's the most abundant element in the sun ?",
+            "output": "Entity"
+        },
+        "389": {
+            "input": "What year were the Olympic Games played in where Nadia Comaneci became popular ?",
+            "output": "Location"
+        },
+        "390": {
+            "input": "What brand number graces the black label of a bottle of Jack Daniel 's ?",
+            "output": "Location"
+        },
+        "391": {
+            "input": "Who are Woody Woodpecker 's niece and nephew ?",
+            "output": "Human being"
+        },
+        "392": {
+            "input": "How many Fig Newtons are there to the pound ?",
+            "output": "Location"
+        },
+        "393": {
+            "input": "Aspartame is also called what ?",
+            "output": "Entity"
+        },
+        "394": {
+            "input": "What is the wingspan of a condor ?",
+            "output": "Location"
+        },
+        "395": {
+            "input": "What films featured the character Popeye Doyle ?",
+            "output": "Entity"
+        },
+        "396": {
+            "input": "How many colonies did Germany get to keep after World War I ?",
+            "output": "Location"
+        },
+        "397": {
+            "input": "Where was Poe born ?",
+            "output": "Numeric value"
+        },
+        "398": {
+            "input": "How much did the minimum wage amount to in 1991 ?",
+            "output": "Location"
+        },
+        "399": {
+            "input": "Who created Dennis the Menace ?",
+            "output": "Human being"
+        },
+        "400": {
+            "input": "What characteristics contribute to its `` intelligence '' ?",
+            "output": "Abbreviation"
+        },
+        "401": {
+            "input": "What mustachioed comedian portrayed Frankie in North to Alaska ?",
+            "output": "Human being"
+        },
+        "402": {
+            "input": "Who created private detective Philip Marlowe ?",
+            "output": "Human being"
+        },
+        "403": {
+            "input": "What are the Nordic nations ?",
+            "output": "Numeric value"
+        },
+        "404": {
+            "input": "How many people died when the Estonia sank in 1994 ?",
+            "output": "Location"
+        },
+        "405": {
+            "input": "Where could I go to take a ride on a steam locomotive ?",
+            "output": "Numeric value"
+        },
+        "406": {
+            "input": "What is the origin of the term `` blue moon , '' and how often do they occur ?",
+            "output": "Abbreviation"
+        },
+        "407": {
+            "input": "What 's the farthest planet from the sun ?",
+            "output": "Numeric value"
+        },
+        "408": {
+            "input": "What college did Joe Namath play football for ?",
+            "output": "Human being"
+        },
+        "409": {
+            "input": "In My Antonia , how is Mr. Shimerda out of place on the farm ?",
+            "output": "Abbreviation"
+        },
+        "410": {
+            "input": "Who is Charles Lindbergh ?",
+            "output": "Human being"
+        },
+        "411": {
+            "input": "What feud ended with a marriage in Kentucky on March 21 , 1891 ?",
+            "output": "Entity"
+        },
+        "412": {
+            "input": "What does Ms. , Miss , and Mrs. stand for ?",
+            "output": "Description and abstract concept"
+        },
+        "413": {
+            "input": "What does caliente translate to in English ?",
+            "output": "Entity"
+        },
+        "414": {
+            "input": "What does a polyorchid man have at least three of ?",
+            "output": "Entity"
+        },
+        "415": {
+            "input": "What do you call the feeling of having experienced something before ?",
+            "output": "Entity"
+        },
+        "416": {
+            "input": "What did Aaron Hass write ?",
+            "output": "Entity"
+        },
+        "417": {
+            "input": "What is a fear of being dirty ?",
+            "output": "Entity"
+        },
+        "418": {
+            "input": "What is an example of a natural acid-base indicator ?",
+            "output": "Entity"
+        },
+        "419": {
+            "input": "What TV sitcom character had the maiden name Ethel Potter ?",
+            "output": "Human being"
+        },
+        "420": {
+            "input": "How many lakes are there on the Earth ?",
+            "output": "Location"
+        },
+        "421": {
+            "input": "What countries does the Mont Blanc Tunnel join ?",
+            "output": "Numeric value"
+        },
+        "422": {
+            "input": "What is the abbreviation for Original Equipment Manufacturer ?",
+            "output": "Description and abstract concept"
+        },
+        "423": {
+            "input": "Who won the rugby world cup in ?",
+            "output": "Human being"
+        },
+        "424": {
+            "input": "What are the highest-paying odds on a roulette table ?",
+            "output": "Location"
+        },
+        "425": {
+            "input": "What are tonsils for ?",
+            "output": "Abbreviation"
+        },
+        "426": {
+            "input": "What international amateur sports spectacle was first telecast in 1956 ?",
+            "output": "Entity"
+        },
+        "427": {
+            "input": "Who wrote Unsafe at Any Speed ?",
+            "output": "Human being"
+        },
+        "428": {
+            "input": "Where are diamonds mined ?",
+            "output": "Numeric value"
+        },
+        "429": {
+            "input": "What month did the Edmund Fitzgerald sink ?",
+            "output": "Location"
+        },
+        "430": {
+            "input": "Where did the Mayan Indians live ?",
+            "output": "Numeric value"
+        },
+        "431": {
+            "input": "What cigarette company urged us , `` Come to where the flavor is ? ''",
+            "output": "Human being"
+        },
+        "432": {
+            "input": "What is the longest English word ?",
+            "output": "Entity"
+        },
+        "433": {
+            "input": "Why are organ transplants more successful today ?",
+            "output": "Abbreviation"
+        },
+        "434": {
+            "input": "Why are peanut butter cookies topped with crisscrosses ?",
+            "output": "Abbreviation"
+        },
+        "435": {
+            "input": "What year did the War of 1812 begin ?",
+            "output": "Location"
+        },
+        "436": {
+            "input": "What is Columbia Tristar 's phone number ?",
+            "output": "Location"
+        },
+        "437": {
+            "input": "Name a canine cartoon character other than Huckleberry Hound to have a voice by Daws Butler .",
+            "output": "Human being"
+        },
+        "438": {
+            "input": "How many U.S. presidents were assassinated during Queen Victoria 's reign ?",
+            "output": "Location"
+        },
+        "439": {
+            "input": "What apostle is Taylor Caldwell 's Great Lion of God ?",
+            "output": "Human being"
+        },
+        "440": {
+            "input": "What kind of puzzle first appeared in the U.S. in the New York World on December 21 , 1913 ?",
+            "output": "Entity"
+        },
+        "441": {
+            "input": "What is a fear of trees ?",
+            "output": "Entity"
+        },
+        "442": {
+            "input": "Define Sinn Fein .",
+            "output": "Abbreviation"
+        },
+        "443": {
+            "input": "What is the difference between a generator and an alternator ?",
+            "output": "Abbreviation"
+        },
+        "444": {
+            "input": "How many watts make a kilowatt ?",
+            "output": "Location"
+        },
+        "445": {
+            "input": "What is the name of the Indian who became prime minister by beating Mrs. Gandhi in the 1977 election ?",
+            "output": "Human being"
+        },
+        "446": {
+            "input": "What is film noir ?",
+            "output": "Abbreviation"
+        },
+        "447": {
+            "input": "What is a fear of speaking ?",
+            "output": "Entity"
+        },
+        "448": {
+            "input": "Who created the character of Scrooge ?",
+            "output": "Human being"
+        },
+        "449": {
+            "input": "What is the best selling computer model ever ?",
+            "output": "Entity"
+        },
+        "450": {
+            "input": "What was the name of the movie that starred Sharon Stone and Arnold Schwarzenegger ?",
+            "output": "Entity"
+        },
+        "451": {
+            "input": "How far can a human eye see ?",
+            "output": "Location"
+        },
+        "452": {
+            "input": "What country was first to use the airplane as a weapon of war , against the Turks in Libya ?",
+            "output": "Numeric value"
+        },
+        "453": {
+            "input": "Which thrilled taste buds first - Snickers or 3 Musketeers ?",
+            "output": "Entity"
+        },
+        "454": {
+            "input": "What is the location of Edinburgh , Scotland ?",
+            "output": "Numeric value"
+        },
+        "455": {
+            "input": "Who is the fastest guitarist ?",
+            "output": "Human being"
+        },
+        "456": {
+            "input": "Who was the founding member of the Pink Floyd band ?",
+            "output": "Human being"
+        },
+        "457": {
+            "input": "What was the first Funk 'N Lata , Brazilian group , success ?",
+            "output": "Abbreviation"
+        },
+        "458": {
+            "input": "What color is the lipstick on Boy George 's wax lips at London 's Madame Tussaud 's ?",
+            "output": "Entity"
+        },
+        "459": {
+            "input": "Which is the wealthiest country in the world ?",
+            "output": "Numeric value"
+        },
+        "460": {
+            "input": "Which of the following men was not married to Rita Hayworth ?",
+            "output": "Human being"
+        },
+        "461": {
+            "input": "What do Hasidic Jews refrain from while dating ?",
+            "output": "Entity"
+        },
+        "462": {
+            "input": "Who was considered to be the father of psychology ?",
+            "output": "Human being"
+        },
+        "463": {
+            "input": "What 's the most popular four-player game of all time ?",
+            "output": "Entity"
+        },
+        "464": {
+            "input": "What is paracetamol ?",
+            "output": "Abbreviation"
+        },
+        "465": {
+            "input": "How many bails are there in a cricket wicket ?",
+            "output": "Location"
+        },
+        "466": {
+            "input": "What newspaper returned a Pulitzer Prize for the fraudulent story Jimmy 's World ?",
+            "output": "Entity"
+        },
+        "467": {
+            "input": "What is software piracy ?",
+            "output": "Abbreviation"
+        },
+        "468": {
+            "input": "What is a nanometer ?",
+            "output": "Abbreviation"
+        },
+        "469": {
+            "input": "What kind of greeting is appropriate to send on Yom Kippur ?",
+            "output": "Abbreviation"
+        },
+        "470": {
+            "input": "What types of water pollution are there ?",
+            "output": "Entity"
+        },
+        "471": {
+            "input": "What 's the best way to lose the flab under your chin and around your face ?",
+            "output": "Entity"
+        },
+        "472": {
+            "input": "On which flight did Fawaz Younis commit air piracy and hostage taking ?",
+            "output": "Entity"
+        },
+        "473": {
+            "input": "What turns blue litmus paper red ?",
+            "output": "Entity"
+        },
+        "474": {
+            "input": "What civil war was fought between 1936 and 1939 ?",
+            "output": "Entity"
+        },
+        "475": {
+            "input": "What is the average time it takes for a male to ejaculate ?",
+            "output": "Location"
+        },
+        "476": {
+            "input": "What does G.M.T. stand for ?",
+            "output": "Description and abstract concept"
+        },
+        "477": {
+            "input": "How many acres in a mile ?",
+            "output": "Location"
+        },
+        "478": {
+            "input": "What ill-fated American general dragged a bull terrier named Willie through World War II ?",
+            "output": "Human being"
+        },
+        "479": {
+            "input": "How do I get another city 's newspaper ?",
+            "output": "Abbreviation"
+        },
+        "480": {
+            "input": "Who won World War II ?",
+            "output": "Human being"
+        },
+        "481": {
+            "input": "Name a tiger that is extinct .",
+            "output": "Entity"
+        },
+        "482": {
+            "input": "What country covers 8 , 600 , 387 square miles ?",
+            "output": "Numeric value"
+        },
+        "483": {
+            "input": "How did the months of the year get there name ?",
+            "output": "Abbreviation"
+        },
+        "484": {
+            "input": "What weapon did the crossed slits in English castles accommodate ?",
+            "output": "Entity"
+        },
+        "485": {
+            "input": "What 's the second-largest island in the world ?",
+            "output": "Numeric value"
+        },
+        "486": {
+            "input": "How many Beatles ' records went #1 ?",
+            "output": "Location"
+        },
+        "487": {
+            "input": "What does `` Semper Fidelis '' mean ?",
+            "output": "Abbreviation"
+        },
+        "488": {
+            "input": "How old is the sun ?",
+            "output": "Location"
+        },
+        "489": {
+            "input": "What did Englishman John Hawkins begin selling to New World colonists in 1562 ?",
+            "output": "Entity"
+        },
+        "490": {
+            "input": "Which company that manufactures video-game hardware sells the `` super system '' ?",
+            "output": "Human being"
+        },
+        "491": {
+            "input": "Who killed Lee Harvey Oswald ?",
+            "output": "Human being"
+        },
+        "492": {
+            "input": "What 's men 's par on a 455-yard golf hole ?",
+            "output": "Location"
+        },
+        "493": {
+            "input": "What city is Logan Airport in ?",
+            "output": "Numeric value"
+        },
+        "494": {
+            "input": "Colin Powell is best known for what achievement ?",
+            "output": "Abbreviation"
+        },
+        "495": {
+            "input": "Which two products use a tiger as their symbol ?",
+            "output": "Entity"
+        },
+        "496": {
+            "input": "What are three ways in which wind is created on the earth ?",
+            "output": "Entity"
+        },
+        "497": {
+            "input": "What country is proud to claim Volcano National Park ?",
+            "output": "Numeric value"
+        },
+        "498": {
+            "input": "What was the name of Randy Craft 's lawyer ?",
+            "output": "Human being"
+        },
+        "499": {
+            "input": "What were Baffin , Frobisher and Franklin looking for ?",
+            "output": "Entity"
+        },
+        "500": {
+            "input": "What piece of jewelry is pictured on Monopoly 's Luxury Tax space ?",
+            "output": "Entity"
+        },
+        "501": {
+            "input": "What famous comedian recently tried without success to revive the play ?",
+            "output": "Human being"
+        },
+        "502": {
+            "input": "Aspartame is also known as what ?",
+            "output": "Entity"
+        },
+        "503": {
+            "input": "What 's the difference between J.D. and LL.M. ?",
+            "output": "Abbreviation"
+        },
+        "504": {
+            "input": "Where can I find the best free evidence for debate about Russia ?",
+            "output": "Numeric value"
+        },
+        "505": {
+            "input": "What actor dressed up as Santa Claus and had a once-a-year affair with actress Shelley Winters every Christmas for many years ?",
+            "output": "Human being"
+        },
+        "506": {
+            "input": "How many consecutive baseball games did Lou Gehrig play ?",
+            "output": "Location"
+        },
+        "507": {
+            "input": "What was the name of the American ship sunk by a mine in Havana harbor , causing the Spanish-American war ?",
+            "output": "Entity"
+        },
+        "508": {
+            "input": "Where do people mountain climb in Nepal ?",
+            "output": "Numeric value"
+        },
+        "509": {
+            "input": "Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ?",
+            "output": "Human being"
+        },
+        "510": {
+            "input": "What weapon is the mythological character Apollo most proficient with ?",
+            "output": "Entity"
+        },
+        "511": {
+            "input": "What 's the name of the Tokyo Stock Exchange ?",
+            "output": "Entity"
+        },
+        "512": {
+            "input": "What is a wet dream ?",
+            "output": "Abbreviation"
+        },
+        "513": {
+            "input": "How old is Jeremy Piven ?",
+            "output": "Location"
+        },
+        "514": {
+            "input": "What is the origin of U.S. Army sergeant 's stripes ?",
+            "output": "Abbreviation"
+        },
+        "515": {
+            "input": "What is the abbreviation of the company name ` General Motors ' ?",
+            "output": "Description and abstract concept"
+        },
+        "516": {
+            "input": "How long was the longest hiccup attack ?",
+            "output": "Location"
+        },
+        "517": {
+            "input": "What TV detective did Craig Stevens play ?",
+            "output": "Human being"
+        },
+        "518": {
+            "input": "What is the city in which Maurizio Pellegrin lives called ?",
+            "output": "Numeric value"
+        },
+        "519": {
+            "input": "What happened on January 15 , 1969 ?",
+            "output": "Entity"
+        },
+        "520": {
+            "input": "What is Tetrinet ?",
+            "output": "Abbreviation"
+        },
+        "521": {
+            "input": "What is the Hub of London ?",
+            "output": "Abbreviation"
+        },
+        "522": {
+            "input": "Where are 8 of the 10 highest mountains in the world ?",
+            "output": "Numeric value"
+        },
+        "523": {
+            "input": "What are the requirements for becoming a citizen of Australia ?",
+            "output": "Abbreviation"
+        },
+        "524": {
+            "input": "When will the millennium officially begin ?",
+            "output": "Location"
+        },
+        "525": {
+            "input": "What is the most efficient way to start a barbeque ?",
+            "output": "Entity"
+        },
+        "526": {
+            "input": "What 's the only East european country not tied to the ruble ?",
+            "output": "Numeric value"
+        },
+        "527": {
+            "input": "What baseball player was walked the most times ?",
+            "output": "Human being"
+        },
+        "528": {
+            "input": "What causes a person to have constantly sweaty hands and feet ?",
+            "output": "Abbreviation"
+        },
+        "529": {
+            "input": "What famous soldier was born in Europe , died in Asia , and was laid to rest in Africa ?",
+            "output": "Human being"
+        },
+        "530": {
+            "input": "What is Goldfinger 's first name ?",
+            "output": "Human being"
+        },
+        "531": {
+            "input": "What are the 7 principles of learning from the Institute for Research on Learning , IRL ?",
+            "output": "Entity"
+        },
+        "532": {
+            "input": "How many logarithmic scales are there on a slide rule ?",
+            "output": "Location"
+        },
+        "533": {
+            "input": "What country , after Canada and Mexico , is closest to the U.S. ?",
+            "output": "Numeric value"
+        },
+        "534": {
+            "input": "Who said `` What contemptible scoundrel stole the cork from my lunch ? ''",
+            "output": "Human being"
+        },
+        "535": {
+            "input": "Where is Logan Airport ?",
+            "output": "Numeric value"
+        },
+        "536": {
+            "input": "Which mayonnaise refers to itself as `` real '' mayonnaise ?",
+            "output": "Entity"
+        },
+        "537": {
+            "input": "How do doctors diagnose bone cancer ?",
+            "output": "Abbreviation"
+        },
+        "538": {
+            "input": "What is Alice Cooper 's real name ?",
+            "output": "Human being"
+        },
+        "539": {
+            "input": "Where did Freidreich Wilhelm Ludwig Leichhardt , Prussian born explorer , go to school ?",
+            "output": "Numeric value"
+        },
+        "540": {
+            "input": "How many meters are in a mile ?",
+            "output": "Location"
+        },
+        "541": {
+            "input": "Name the various costumed personas of Dr. Henry Pym .",
+            "output": "Human being"
+        },
+        "542": {
+            "input": "What does Inuit and Eskimo mean ?",
+            "output": "Abbreviation"
+        },
+        "543": {
+            "input": "What is AFS ?",
+            "output": "Description and abstract concept"
+        },
+        "544": {
+            "input": "What currents affect the area of the Shetland Islands and Orkney Islands in the North Sea ?",
+            "output": "Abbreviation"
+        },
+        "545": {
+            "input": "What are the 7 Wonders of the World ?",
+            "output": "Entity"
+        },
+        "546": {
+            "input": "What occupation has the highest divorce rate ?",
+            "output": "Human being"
+        },
+        "547": {
+            "input": "What TV show chronicled the lives of Katy Holstrum and Congressman Glen Morley ?",
+            "output": "Entity"
+        },
+        "548": {
+            "input": "When did Spain and Korea start ambassadorial relations ?",
+            "output": "Location"
+        },
+        "549": {
+            "input": "What was another name for East Germany ?",
+            "output": "Entity"
+        },
+        "550": {
+            "input": "In the movie Groundshog Day what is the name of the character played by Andie MacDowell ?",
+            "output": "Human being"
+        },
+        "551": {
+            "input": "What is the world 's best selling cookie ?",
+            "output": "Entity"
+        },
+        "552": {
+            "input": "Which classical Spanish writer said `` All that glitters is not gold '' ?",
+            "output": "Human being"
+        },
+        "553": {
+            "input": "What facial feature did Walt Disney sport that none of Disney 's employees is allowed to ?",
+            "output": "Abbreviation"
+        },
+        "554": {
+            "input": "How many films are made by the major studios in a year ?",
+            "output": "Location"
+        },
+        "555": {
+            "input": "Who is the only prime minister of Canada to serve 22 years but not necessarily consecutively ?",
+            "output": "Human being"
+        },
+        "556": {
+            "input": "In what area of the world was the Six Day War fought ?",
+            "output": "Numeric value"
+        },
+        "557": {
+            "input": "Who co-starred with Julie Andrews in Mary Poppins ?",
+            "output": "Human being"
+        },
+        "558": {
+            "input": "How is Abigail Arcane related to the villainous opponent of the Swamp Thing ?",
+            "output": "Abbreviation"
+        },
+        "559": {
+            "input": "What city is wiener schnitzel named for ?",
+            "output": "Numeric value"
+        },
+        "560": {
+            "input": "How can I give myself a French manicure ?",
+            "output": "Abbreviation"
+        },
+        "561": {
+            "input": "What is California 's state bird ?",
+            "output": "Entity"
+        },
+        "562": {
+            "input": "What New England state carries the telephone area code 27 ?",
+            "output": "Numeric value"
+        },
+        "563": {
+            "input": "What robust U.S. President imported his own instructor after seeing a judo match ?",
+            "output": "Human being"
+        },
+        "564": {
+            "input": "What were the five opening words on Ben Casey ?",
+            "output": "Entity"
+        },
+        "565": {
+            "input": "What National League baseball team employed 72 third baseemen in its first 2 seasons ?",
+            "output": "Human being"
+        },
+        "566": {
+            "input": "What is the difference between a bachelor and a 1 bedroom apartment ?",
+            "output": "Abbreviation"
+        },
+        "567": {
+            "input": "What is the country of origin for the name Thomas ?",
+            "output": "Numeric value"
+        },
+        "568": {
+            "input": "What is the abbreviation of General Motors ?",
+            "output": "Description and abstract concept"
+        },
+        "569": {
+            "input": "What disease is the second-biggest killer of North Americans ?",
+            "output": "Entity"
+        },
+        "570": {
+            "input": "What song did Patti Page set people dancing to in 1950 ?",
+            "output": "Entity"
+        },
+        "571": {
+            "input": "What is hydrogen ?",
+            "output": "Abbreviation"
+        },
+        "572": {
+            "input": "What 's the sequel to Alice 's Adventures in Wonderland ?",
+            "output": "Entity"
+        },
+        "573": {
+            "input": "What 's the last line of Dickens 's A Christmas Carol ?",
+            "output": "Abbreviation"
+        },
+        "574": {
+            "input": "When was the women 's suffrage amendment ratified ?",
+            "output": "Location"
+        },
+        "575": {
+            "input": "Where can I find the history of the Taiwanese language ?",
+            "output": "Numeric value"
+        },
+        "576": {
+            "input": "What is the date of Bastille Day ?",
+            "output": "Location"
+        },
+        "577": {
+            "input": "What chess outcome results when a player has no legal move ?",
+            "output": "Entity"
+        },
+        "578": {
+            "input": "What Hall of Fame pitcher started three World Series Games for the New York Yankees in 1962 ?",
+            "output": "Human being"
+        },
+        "579": {
+            "input": "What is Drew Barrymore 's middle name ?",
+            "output": "Human being"
+        },
+        "580": {
+            "input": "Name the story by Chris Van Allsburg in the which a boy tries to become a great sailor ?",
+            "output": "Entity"
+        },
+        "581": {
+            "input": "How many letters appear with the numbers 2 to 9 on a telephone dial ?",
+            "output": "Location"
+        },
+        "582": {
+            "input": "How does the Nintendo `` Zapper '' work ?",
+            "output": "Abbreviation"
+        },
+        "583": {
+            "input": "Where was George Washington born ?",
+            "output": "Numeric value"
+        },
+        "584": {
+            "input": "What attorney-general ordered the closing of Alcatraz ?",
+            "output": "Human being"
+        },
+        "585": {
+            "input": "What part of your body contains the corpus callosum ?",
+            "output": "Entity"
+        },
+        "586": {
+            "input": "What is Sinn Fein ?",
+            "output": "Abbreviation"
+        },
+        "587": {
+            "input": "What is a geoscientist ?",
+            "output": "Abbreviation"
+        },
+        "588": {
+            "input": "What is the average age a horse lives ?",
+            "output": "Location"
+        },
+        "589": {
+            "input": "When did the Dow first reach ?",
+            "output": "Location"
+        },
+        "590": {
+            "input": "What is a language spoken by the Sioux ?",
+            "output": "Entity"
+        },
+        "591": {
+            "input": "What century 's the setting for TV 's The Adventures of Robin Hood ?",
+            "output": "Location"
+        },
+        "592": {
+            "input": "What are vermicilli , rigati , zitoni , and tubetti ?",
+            "output": "Abbreviation"
+        },
+        "593": {
+            "input": "How do storms form ?",
+            "output": "Abbreviation"
+        },
+        "594": {
+            "input": "Who was the conservationist who served as spokesperson for Post Grape Nuts ?",
+            "output": "Human being"
+        },
+        "595": {
+            "input": "What character in The Beverly Hillbillies has the given names Daisy Moses ?",
+            "output": "Human being"
+        },
+        "596": {
+            "input": "What card suit originally represented the peasant class ?",
+            "output": "Entity"
+        },
+        "597": {
+            "input": "What were the causes of the Civil War ?",
+            "output": "Abbreviation"
+        },
+        "598": {
+            "input": "What is a caldera ?",
+            "output": "Abbreviation"
+        },
+        "599": {
+            "input": "What is Dr. Ruth 's last name ?",
+            "output": "Human being"
+        },
+        "600": {
+            "input": "Why is Microsoft 's Windows 3 software so successful ?",
+            "output": "Abbreviation"
+        },
+        "601": {
+            "input": "What toy can you make sleep ?",
+            "output": "Entity"
+        },
+        "602": {
+            "input": "What 's the American dollar equivalent for 8 pounds in the U.K. ?",
+            "output": "Location"
+        },
+        "603": {
+            "input": "What singer 's theme song was When the Moon Comes over the Mountain ?",
+            "output": "Human being"
+        },
+        "604": {
+            "input": "Where did Gulliver find a race of tiny people ?",
+            "output": "Numeric value"
+        },
+        "605": {
+            "input": "What famed strip of land is a 15-minute boat trip across the Venetian Lagoon from Venice ?",
+            "output": "Numeric value"
+        },
+        "606": {
+            "input": "What makes a tornado turn ?",
+            "output": "Abbreviation"
+        },
+        "607": {
+            "input": "Who invented the electric guitar ?",
+            "output": "Human being"
+        },
+        "608": {
+            "input": "What television network flogged its sports programming on Inga Nielsen 's body in 197 ?",
+            "output": "Human being"
+        },
+        "609": {
+            "input": "What are some of Australia 's native flora ?",
+            "output": "Entity"
+        },
+        "610": {
+            "input": "What does the term 3 mean to a newspaper editor ?",
+            "output": "Abbreviation"
+        },
+        "611": {
+            "input": "What disease did August von Wassermann develop a specific test for in 196 ?",
+            "output": "Entity"
+        },
+        "612": {
+            "input": "What did Martin Luther post on the church door at Wittenberg ?",
+            "output": "Entity"
+        },
+        "613": {
+            "input": "How is the element strontium purified ?",
+            "output": "Abbreviation"
+        },
+        "614": {
+            "input": "What does an average daycare provider get paid in New England ?",
+            "output": "Location"
+        },
+        "615": {
+            "input": "What city or state do the most gay men live in ?",
+            "output": "Numeric value"
+        },
+        "616": {
+            "input": "What is the origin of the ethnic category `` caucasian '' ?",
+            "output": "Abbreviation"
+        },
+        "617": {
+            "input": "What are the different approaches of systems analysis ?",
+            "output": "Entity"
+        },
+        "618": {
+            "input": "What is literary criticism ?",
+            "output": "Abbreviation"
+        },
+        "619": {
+            "input": "What was the first ready-to-eat breakfast cereal ?",
+            "output": "Entity"
+        },
+        "620": {
+            "input": "Where is the Thomas Edison Museum ?",
+            "output": "Numeric value"
+        },
+        "621": {
+            "input": "What does the abbreviation AIDS stand for ?",
+            "output": "Description and abstract concept"
+        },
+        "622": {
+            "input": "What are the first names of the famous husband-and-wife acting team of Lunt and Fontanne ?",
+            "output": "Human being"
+        },
+        "623": {
+            "input": "What incident caused the canning of a summit conference between Eisenhower and Khrushchev ?",
+            "output": "Abbreviation"
+        },
+        "624": {
+            "input": "What is a good book to read for people who hate to read ?",
+            "output": "Entity"
+        },
+        "625": {
+            "input": "What is Bella Abzug 's sartorial trademark ?",
+            "output": "Entity"
+        },
+        "626": {
+            "input": "When was the NFL established ?",
+            "output": "Location"
+        },
+        "627": {
+            "input": "What is cosmology ?",
+            "output": "Abbreviation"
+        },
+        "628": {
+            "input": "How do clouds form ?",
+            "output": "Abbreviation"
+        },
+        "629": {
+            "input": "What state was named the Green Mountain state ?",
+            "output": "Numeric value"
+        },
+        "630": {
+            "input": "What city is served by Tempelhol Airport ?",
+            "output": "Numeric value"
+        },
+        "631": {
+            "input": "The lawyer who represented Randy Craft , what was his name ?",
+            "output": "Human being"
+        },
+        "632": {
+            "input": "What university was Woodrow Wilson President of ?",
+            "output": "Human being"
+        },
+        "633": {
+            "input": "Who produces Spumante ?",
+            "output": "Human being"
+        },
+        "634": {
+            "input": "What are some fun things to do in Cozumel , Mexico for teenagers ?",
+            "output": "Abbreviation"
+        },
+        "635": {
+            "input": "Who gave us the `` Rolling Writer '' ?",
+            "output": "Human being"
+        },
+        "636": {
+            "input": "What are amaretto biscuits ?",
+            "output": "Abbreviation"
+        },
+        "637": {
+            "input": "Who founded the first aerodynamics laboratory in 1912 ?",
+            "output": "Human being"
+        },
+        "638": {
+            "input": "What percentage of all world tornados touch down in the US ?",
+            "output": "Location"
+        },
+        "639": {
+            "input": "What is the name of the kids ' show from Canadian Public TV with the singing pineapple ?",
+            "output": "Entity"
+        },
+        "640": {
+            "input": "How many sperm cells are in an average ejaculation ?",
+            "output": "Location"
+        },
+        "641": {
+            "input": "What was the name of the sitcom that Alyssa Milano starred in with Tony Danza ?",
+            "output": "Entity"
+        },
+        "642": {
+            "input": "What President was meant for , but never placed in , the empty crypt beneath the capital 's rotunda ?",
+            "output": "Human being"
+        },
+        "643": {
+            "input": "What actor was the first man to appear on the cover of McCall 's ?",
+            "output": "Human being"
+        },
+        "644": {
+            "input": "When was the Battle of Hastings ?",
+            "output": "Location"
+        },
+        "645": {
+            "input": "What are some good exercises for kids to do ?",
+            "output": "Entity"
+        },
+        "646": {
+            "input": "How many gallons of paint does it take to paint the Golden Gate Bridge ?",
+            "output": "Location"
+        },
+        "647": {
+            "input": "What are the side effects of mevacor ?",
+            "output": "Abbreviation"
+        },
+        "648": {
+            "input": "What is the largest city on the Great Lakes ?",
+            "output": "Numeric value"
+        },
+        "649": {
+            "input": "What is gymnophobia ?",
+            "output": "Abbreviation"
+        },
+        "650": {
+            "input": "What will a kid eat the middle of , and save the chocolate on the outside for last ?",
+            "output": "Entity"
+        },
+        "651": {
+            "input": "What presidential administration challenged Americans to explore The New Frontier ?",
+            "output": "Human being"
+        },
+        "652": {
+            "input": "What is white chocolate ?",
+            "output": "Abbreviation"
+        },
+        "653": {
+            "input": "What 's Mrs. Bridges 's job on TV 's Upstairs , Downstairs ?",
+            "output": "Human being"
+        },
+        "654": {
+            "input": "How can I look up someone 's E-mail address on the Internet ?",
+            "output": "Abbreviation"
+        },
+        "655": {
+            "input": "Who is Luke Skywalker 's father ?",
+            "output": "Human being"
+        },
+        "656": {
+            "input": "What causes headaches ?",
+            "output": "Abbreviation"
+        },
+        "657": {
+            "input": "What Judith Rossner novel was made into a film starring Diane Keaton ?",
+            "output": "Entity"
+        },
+        "658": {
+            "input": "What does a red flag mean in auto racing ?",
+            "output": "Abbreviation"
+        },
+        "659": {
+            "input": "What is narcolepsy ?",
+            "output": "Abbreviation"
+        },
+        "660": {
+            "input": "What is the Jewish bible called ?",
+            "output": "Entity"
+        },
+        "661": {
+            "input": "Who sent the brief message `` I came , I saw , I conquered '' ?",
+            "output": "Human being"
+        },
+        "662": {
+            "input": "How much did a McDonald 's hamburger cost in 1963 ?",
+            "output": "Location"
+        },
+        "663": {
+            "input": "What is the most number of goals scored by a single team in an NHL hockey game ?",
+            "output": "Location"
+        },
+        "664": {
+            "input": "What makes sperm ?",
+            "output": "Abbreviation"
+        },
+        "665": {
+            "input": "What currency is used in Australia ?",
+            "output": "Entity"
+        },
+        "666": {
+            "input": "CNN is owned by whom ?",
+            "output": "Human being"
+        },
+        "667": {
+            "input": "What makes a clitoris sensitive ?",
+            "output": "Abbreviation"
+        },
+        "668": {
+            "input": "What is a phalanx ?",
+            "output": "Abbreviation"
+        },
+        "669": {
+            "input": "What are the words to the cd Eminem 's , or slim shady , `` My Name Is '' ?",
+            "output": "Abbreviation"
+        },
+        "670": {
+            "input": "What Asian spiritual and political leader was married at the age of 13 ?",
+            "output": "Human being"
+        },
+        "671": {
+            "input": "When did CNN go on the air ?",
+            "output": "Location"
+        },
+        "672": {
+            "input": "Who is John Macarthur , 1767-1834 ?",
+            "output": "Human being"
+        },
+        "673": {
+            "input": "On average , how long time does it take to type a screenplay ?",
+            "output": "Location"
+        },
+        "674": {
+            "input": "How many years is Johnnie Walker Black Label aged ?",
+            "output": "Location"
+        },
+        "675": {
+            "input": "Where can I find information on the cyclone that hit New Jersey on 8/28/1941 ?",
+            "output": "Numeric value"
+        },
+        "676": {
+            "input": "What Kentucky city calls itself The Horse Center of America ?",
+            "output": "Numeric value"
+        },
+        "677": {
+            "input": "What college football team did Knute Rockne build into a power ?",
+            "output": "Human being"
+        },
+        "678": {
+            "input": "What is a fear of gravity ?",
+            "output": "Entity"
+        },
+        "679": {
+            "input": "Who was the Columbia Pictures head who forged actor Cliff Robertson 's name on a $1 , 000 check ?",
+            "output": "Human being"
+        },
+        "680": {
+            "input": "What is the name of the ` female ' counterpart to El Nino , which results in cooling temperatures and very dry weather ?",
+            "output": "Entity"
+        },
+        "681": {
+            "input": "Name the highest mountain .",
+            "output": "Numeric value"
+        },
+        "682": {
+            "input": "Who are the top ten richest people in the world ?",
+            "output": "Human being"
+        },
+        "683": {
+            "input": "What have you not let a tennis ball do if you volley ?",
+            "output": "Abbreviation"
+        },
+        "684": {
+            "input": "Why do airliners crash vs. gliding down ?",
+            "output": "Abbreviation"
+        },
+        "685": {
+            "input": "What comic strip sometimes features a mailman named Beasley ?",
+            "output": "Entity"
+        },
+        "686": {
+            "input": "What hymn did John Steinbeck get his title The Grapes of Wrath from ?",
+            "output": "Entity"
+        },
+        "687": {
+            "input": "What was originally defined as one 1-millionth of the distance from the equator to the Pole ?",
+            "output": "Entity"
+        },
+        "688": {
+            "input": "What is the origin of the word `` pallbearer ? ''",
+            "output": "Abbreviation"
+        },
+        "689": {
+            "input": "What is the airport code for Los Angeles International ?",
+            "output": "Location"
+        },
+        "690": {
+            "input": "Who told all in Ball Four ?",
+            "output": "Human being"
+        },
+        "691": {
+            "input": "How much stronger is the new vitreous carbon material invented by the Tokyo Institute of Technology compared with the material made from cellulose ?",
+            "output": "Location"
+        },
+        "692": {
+            "input": "What is `` the bear of beers '' ?",
+            "output": "Entity"
+        },
+        "693": {
+            "input": "What Ivy League school plays its home games at Palmer Stadium ?",
+            "output": "Human being"
+        },
+        "694": {
+            "input": "Where are the busiest ports in the world ?",
+            "output": "Numeric value"
+        },
+        "695": {
+            "input": "How long does a fly live ?",
+            "output": "Location"
+        },
+        "696": {
+            "input": "For what reason did the Shea & Gould law firm close their L.A. office ?",
+            "output": "Abbreviation"
+        },
+        "697": {
+            "input": "Whom did Friz Freleng add to the Warner Bros. cartoon ranks ?",
+            "output": "Human being"
+        },
+        "698": {
+            "input": "What does the abbreviation IOC stand for ?",
+            "output": "Description and abstract concept"
+        },
+        "699": {
+            "input": "Where 's the Bernini-Bristol Hotel ?",
+            "output": "Numeric value"
+        },
+        "700": {
+            "input": "How much would a black-and-white 1-cent stamp be worth , Thomas Jefferson on it , ?",
+            "output": "Location"
+        },
+        "701": {
+            "input": "What is the world population as of today ?",
+            "output": "Location"
+        },
+        "702": {
+            "input": "How many spears are there on Kenya 's flag ?",
+            "output": "Location"
+        },
+        "703": {
+            "input": "What did the Congress of Vienna establish ?",
+            "output": "Entity"
+        },
+        "704": {
+            "input": "What are the top boy names in the U.S. ?",
+            "output": "Human being"
+        },
+        "705": {
+            "input": "Who provides telephone service in Orange County , California ?",
+            "output": "Human being"
+        },
+        "706": {
+            "input": "What building are British monarchs crowned in ?",
+            "output": "Numeric value"
+        },
+        "707": {
+            "input": "What rum is so `` mixable '' it is a one-brand bar ?",
+            "output": "Entity"
+        },
+        "708": {
+            "input": "What year was the first automobile manufactured ?",
+            "output": "Location"
+        },
+        "709": {
+            "input": "On which date is the Ukrainians ' Christmas ?",
+            "output": "Location"
+        },
+        "710": {
+            "input": "How long does James Bond like his eggs boiled ?",
+            "output": "Location"
+        },
+        "711": {
+            "input": "What is the word for love of pain or abuse ?",
+            "output": "Entity"
+        },
+        "712": {
+            "input": "What country was General Douglas McArthur in when he was recalled by President Truman ?",
+            "output": "Numeric value"
+        },
+        "713": {
+            "input": "What was the previous name for the Commonwealth ?",
+            "output": "Human being"
+        },
+        "714": {
+            "input": "What are all the different types of pizza ?",
+            "output": "Entity"
+        },
+        "715": {
+            "input": "Who is the president of Bolivia ?",
+            "output": "Human being"
+        },
+        "716": {
+            "input": "Who did Napolean defeat at Jena and Auerstadt ?",
+            "output": "Human being"
+        },
+        "717": {
+            "input": "What does the name Kelly mean ?",
+            "output": "Abbreviation"
+        },
+        "718": {
+            "input": "What did Abolitionists try to end ?",
+            "output": "Entity"
+        },
+        "719": {
+            "input": "How old is Stevie Wonder ?",
+            "output": "Location"
+        },
+        "720": {
+            "input": "What category does the color pink denote in the Trivial Pursuit Baby Boomer Edition ?",
+            "output": "Abbreviation"
+        },
+        "721": {
+            "input": "What comedian was born Allen Stewart Konigsberg ?",
+            "output": "Human being"
+        },
+        "722": {
+            "input": "What do you know about multicultural and multilingual schools ?",
+            "output": "Abbreviation"
+        },
+        "723": {
+            "input": "What was the non-fiction best-seller of 1952 , 1953 and 1954 ?",
+            "output": "Entity"
+        },
+        "724": {
+            "input": "Where is Guam ?",
+            "output": "Numeric value"
+        },
+        "725": {
+            "input": "What U.S. President was the first to breed mules ?",
+            "output": "Human being"
+        },
+        "726": {
+            "input": "What 's the most delicate-tasting member of the onion family ?",
+            "output": "Entity"
+        },
+        "727": {
+            "input": "What do chefs call The Master Spice ?",
+            "output": "Entity"
+        },
+        "728": {
+            "input": "Where is Rider College located ?",
+            "output": "Numeric value"
+        },
+        "729": {
+            "input": "Where did the term fireplug come from ?",
+            "output": "Abbreviation"
+        },
+        "730": {
+            "input": "What 's the term for a limestone deposit rising from the floor of a cave ?",
+            "output": "Entity"
+        },
+        "731": {
+            "input": "What causes someone to be ticklish ?",
+            "output": "Abbreviation"
+        },
+        "732": {
+            "input": "How do they find or choose witnesses to an execution ?",
+            "output": "Abbreviation"
+        },
+        "733": {
+            "input": "Which Kevin Costner movie involves the Sioux Indians ?",
+            "output": "Entity"
+        },
+        "734": {
+            "input": "What is BPH ?",
+            "output": "Description and abstract concept"
+        },
+        "735": {
+            "input": "Where can I find a case on Individuals with Disabilities Education Act of 1991 ?",
+            "output": "Numeric value"
+        },
+        "736": {
+            "input": "Name the Ranger who was always after Yogi Bear .",
+            "output": "Human being"
+        },
+        "737": {
+            "input": "What was the 24-disc John Gabel Entertainer the first example of , in 1960 ?",
+            "output": "Entity"
+        },
+        "738": {
+            "input": "Which city has the oldest relationship as a sister city with Los Angeles ?",
+            "output": "Numeric value"
+        },
+        "739": {
+            "input": "Who was the author of `` John Brown 's Body '' ?",
+            "output": "Human being"
+        },
+        "740": {
+            "input": "What is a philanthropist ?",
+            "output": "Abbreviation"
+        },
+        "741": {
+            "input": "What are the rules to `` snow golf '' ?",
+            "output": "Abbreviation"
+        },
+        "742": {
+            "input": "What animal 's tail is called a brush ?",
+            "output": "Entity"
+        },
+        "743": {
+            "input": "How much is Clara Peller being paid by Wendy 's to say `` Where 's the beef '' ?",
+            "output": "Location"
+        },
+        "744": {
+            "input": "How many elephants are left on earth ?",
+            "output": "Location"
+        },
+        "745": {
+            "input": "What is the longest English word that can be formed using just the first row of letters on a typewriter ?",
+            "output": "Entity"
+        },
+        "746": {
+            "input": "How tall is the replica of the Matterhorn at Disneyland ?",
+            "output": "Location"
+        },
+        "747": {
+            "input": "What color was the hundred billionth crayon made by Crayola ?",
+            "output": "Entity"
+        },
+        "748": {
+            "input": "What is the number of American soldiers deployed to South Korea ?",
+            "output": "Location"
+        },
+        "749": {
+            "input": "What credit card features a centurion on its face ?",
+            "output": "Entity"
+        },
+        "750": {
+            "input": "How do I get my LAN card activated so that it can hook up to another computer without using a HUB ?",
+            "output": "Abbreviation"
+        },
+        "751": {
+            "input": "Who said `` the only thing we have to fear is fear itself '' ?",
+            "output": "Human being"
+        },
+        "752": {
+            "input": "What household facility contains a float ball , ballcock , and overflow tube ?",
+            "output": "Entity"
+        },
+        "753": {
+            "input": "What Peruvian city is home to the mummified body of Francisco Pizarro ?",
+            "output": "Numeric value"
+        },
+        "754": {
+            "input": "What are manifest and latent function theories ?",
+            "output": "Abbreviation"
+        },
+        "755": {
+            "input": "Why can 't ostriches fly ?",
+            "output": "Abbreviation"
+        },
+        "756": {
+            "input": "What are the only two states that incorporate the Confederate battle flag in their flags ?",
+            "output": "Numeric value"
+        },
+        "757": {
+            "input": "What 's the only work by Michelangelo that bears his signature ?",
+            "output": "Entity"
+        },
+        "758": {
+            "input": "What made the short-lived Star Hawks strip so unique ?",
+            "output": "Abbreviation"
+        },
+        "759": {
+            "input": "What are fingernails made of ?",
+            "output": "Entity"
+        },
+        "760": {
+            "input": "Where is Amsterdam ?",
+            "output": "Numeric value"
+        },
+        "761": {
+            "input": "Why is the grass green ?",
+            "output": "Abbreviation"
+        },
+        "762": {
+            "input": "What is hebephrenia ?",
+            "output": "Abbreviation"
+        },
+        "763": {
+            "input": "What is Larry King 's occupation ?",
+            "output": "Human being"
+        },
+        "764": {
+            "input": "What is goldenseal ?",
+            "output": "Abbreviation"
+        },
+        "765": {
+            "input": "How many John Deere tractors have been manufactured ?",
+            "output": "Location"
+        },
+        "766": {
+            "input": "What store claims to be the world 's largest department store ?",
+            "output": "Human being"
+        },
+        "767": {
+            "input": "How long does the average domesticated ferret live ?",
+            "output": "Location"
+        },
+        "768": {
+            "input": "Name Li 'l Abner 's favorite Indian drink .",
+            "output": "Entity"
+        },
+        "769": {
+            "input": "Who created the comic strip , `` Garfield '' ?",
+            "output": "Human being"
+        },
+        "770": {
+            "input": "Name the designer of the shoe that spawned millions of plastic imitations , known as ` jellies ' .",
+            "output": "Human being"
+        },
+        "771": {
+            "input": "What famous communist leader died in Mexico City ?",
+            "output": "Human being"
+        },
+        "772": {
+            "input": "What is the historical relationship of Catholic Church and bingo ?",
+            "output": "Abbreviation"
+        },
+        "773": {
+            "input": "What 's the second-most-used murder weapon in the U.S. ?",
+            "output": "Entity"
+        },
+        "774": {
+            "input": "How can you tell when figs are ripe ?",
+            "output": "Abbreviation"
+        },
+        "775": {
+            "input": "Who is the monarch of the United Kingdom ?",
+            "output": "Human being"
+        },
+        "776": {
+            "input": "How many countries are there ?",
+            "output": "Location"
+        },
+        "777": {
+            "input": "What auto race was Wilbur Reed the first to win three times ?",
+            "output": "Entity"
+        },
+        "778": {
+            "input": "Where 's the 19th hole on a golf course ?",
+            "output": "Numeric value"
+        },
+        "779": {
+            "input": "What is the state nickname of Mississippi ?",
+            "output": "Numeric value"
+        },
+        "780": {
+            "input": "What is the secret of the universe ?",
+            "output": "Abbreviation"
+        },
+        "781": {
+            "input": "Who was Sherlock Holmes 's archenemy ?",
+            "output": "Human being"
+        },
+        "782": {
+            "input": "What future deer hunter portrayed Annie Hall 's neurotic brother , Duane ?",
+            "output": "Human being"
+        },
+        "783": {
+            "input": "Who would you use the Heimlich maneuver on ?",
+            "output": "Human being"
+        },
+        "784": {
+            "input": "What magazine gives us the cream , not the skim ?",
+            "output": "Entity"
+        },
+        "785": {
+            "input": "Describe the Long March .",
+            "output": "Abbreviation"
+        },
+        "786": {
+            "input": "What is money made of ?",
+            "output": "Entity"
+        },
+        "787": {
+            "input": "Who invented the Moog Synthesizer ?",
+            "output": "Human being"
+        },
+        "788": {
+            "input": "Why is Microsoft 's Windows 3 such a successful computer program ?",
+            "output": "Abbreviation"
+        },
+        "789": {
+            "input": "How long was the longest sneezing attack ?",
+            "output": "Location"
+        },
+        "790": {
+            "input": "What mystery writer penned `` ...the glory that was Greece , and the grandeur that was Rome '' ?",
+            "output": "Human being"
+        },
+        "791": {
+            "input": "When did Spielberg direct `` Jaws '' ?",
+            "output": "Location"
+        },
+        "792": {
+            "input": "What is the population of Mozambique ?",
+            "output": "Location"
+        },
+        "793": {
+            "input": "Where can one find Mozambique ?",
+            "output": "Numeric value"
+        },
+        "794": {
+            "input": "What state did Helen Keller call home ?",
+            "output": "Numeric value"
+        },
+        "795": {
+            "input": "How much pizza do Americans eat in a day ?",
+            "output": "Location"
+        },
+        "796": {
+            "input": "What was the Chivington Massacre ?",
+            "output": "Abbreviation"
+        },
+        "797": {
+            "input": "What was Paul Bunyan 's ox 's name ?",
+            "output": "Entity"
+        },
+        "798": {
+            "input": "How many people die from snakebite poisoning in the U.S. per year ?",
+            "output": "Location"
+        },
+        "799": {
+            "input": "Why are the ears your center of balance ?",
+            "output": "Abbreviation"
+        },
+        "800": {
+            "input": "What are equity securities ?",
+            "output": "Abbreviation"
+        },
+        "801": {
+            "input": "What was the worst hurricane ?",
+            "output": "Entity"
+        },
+        "802": {
+            "input": "What is the origin of the word `` amen '' ?",
+            "output": "Abbreviation"
+        },
+        "803": {
+            "input": "What does Salk vaccine prevent ?",
+            "output": "Entity"
+        },
+        "804": {
+            "input": "What is cunnilingus ?",
+            "output": "Abbreviation"
+        },
+        "805": {
+            "input": "What were the first three cities to have a population of more than a million ?",
+            "output": "Numeric value"
+        },
+        "806": {
+            "input": "What 's the nickname of oddsmaker Jimmy Snyder ?",
+            "output": "Human being"
+        },
+        "807": {
+            "input": "Who domesticated the wild turkey ?",
+            "output": "Human being"
+        },
+        "808": {
+            "input": "What 's the favorite food of dragonflies ?",
+            "output": "Entity"
+        },
+        "809": {
+            "input": "What volcano showers ash on Sicily ?",
+            "output": "Numeric value"
+        },
+        "810": {
+            "input": "What kind of flowers does detective Nero Wolfe raise ?",
+            "output": "Entity"
+        },
+        "811": {
+            "input": "What state is the Filenes store located in ?",
+            "output": "Numeric value"
+        },
+        "812": {
+            "input": "How many times a year does the American Gourd Society publish The Gourd ?",
+            "output": "Location"
+        },
+        "813": {
+            "input": "How do you select wine ?",
+            "output": "Abbreviation"
+        },
+        "814": {
+            "input": "Who is Shirley MacLaine ?",
+            "output": "Human being"
+        },
+        "815": {
+            "input": "What landmark Italian restaurant can be found at 239 West 48th Street , New York City ?",
+            "output": "Numeric value"
+        },
+        "816": {
+            "input": "Who invented the process to make condensed milk ?",
+            "output": "Human being"
+        },
+        "817": {
+            "input": "What continent 's name appears on the upper left corner of a Budweiser label ?",
+            "output": "Numeric value"
+        },
+        "818": {
+            "input": "What was the name of the famous battle between Texas and Mexico ?",
+            "output": "Entity"
+        },
+        "819": {
+            "input": "What is the nature of snow and how is the formation of snow different from that of ice ?",
+            "output": "Abbreviation"
+        },
+        "820": {
+            "input": "What color are a cherry tree 's flowers ?",
+            "output": "Entity"
+        },
+        "821": {
+            "input": "What is a `` node '' in computer terms ?",
+            "output": "Abbreviation"
+        },
+        "822": {
+            "input": "What California bridge was Don Brown the first to cross , on May 27 , 1937 ?",
+            "output": "Numeric value"
+        },
+        "823": {
+            "input": "How long does it take the Milky Way Galaxy to make one revolution ?",
+            "output": "Location"
+        },
+        "824": {
+            "input": "Which of the following actors worked in New York 's Yiddish Theater ?",
+            "output": "Human being"
+        },
+        "825": {
+            "input": "What country is the origin of the band the Creeps ?",
+            "output": "Numeric value"
+        },
+        "826": {
+            "input": "How many small businesses are there in the United States ?",
+            "output": "Location"
+        },
+        "827": {
+            "input": "What 's the singular of dice ?",
+            "output": "Entity"
+        },
+        "828": {
+            "input": "How many people are taller than 7 feet ?",
+            "output": "Location"
+        },
+        "829": {
+            "input": "How does rabies spread ?",
+            "output": "Abbreviation"
+        },
+        "830": {
+            "input": "Who was Jean Nicolet ?",
+            "output": "Human being"
+        },
+        "831": {
+            "input": "What is InterLata Internet service ?",
+            "output": "Abbreviation"
+        },
+        "832": {
+            "input": "What 's a `` coup de poing '' to a French boxer ?",
+            "output": "Abbreviation"
+        },
+        "833": {
+            "input": "Where did Wile E. Coyote always get his devices ?",
+            "output": "Numeric value"
+        },
+        "834": {
+            "input": "Who was the first governor of West Virginia ?",
+            "output": "Human being"
+        },
+        "835": {
+            "input": "Jackson Pollock is of what nationality ?",
+            "output": "Numeric value"
+        },
+        "836": {
+            "input": "Which continent has the most roses ?",
+            "output": "Numeric value"
+        },
+        "837": {
+            "input": "What 's the official language of Algeria ?",
+            "output": "Entity"
+        },
+        "838": {
+            "input": "What composer was awarded the Medal of Honor by Franklin D. Roosevelt ?",
+            "output": "Human being"
+        },
+        "839": {
+            "input": "Who is the current UN Secretary General ?",
+            "output": "Human being"
+        },
+        "840": {
+            "input": "What is the correct way to use `` may '' vs. `` might '' ?",
+            "output": "Entity"
+        },
+        "841": {
+            "input": "What Colorado city owns its own glacier ?",
+            "output": "Numeric value"
+        },
+        "842": {
+            "input": "What is barnstorming ?",
+            "output": "Abbreviation"
+        },
+        "843": {
+            "input": "What is e-commerce ?",
+            "output": "Abbreviation"
+        },
+        "844": {
+            "input": "What is a fear of being cold ?",
+            "output": "Entity"
+        },
+        "845": {
+            "input": "What comic of TV 's golden age went by the motto `` Anything for a laugh '' ?",
+            "output": "Human being"
+        },
+        "846": {
+            "input": "What concerts are held in New York this week ?",
+            "output": "Entity"
+        },
+        "847": {
+            "input": "How many furlongs are there in a mile-and-a-quarter recetrack ?",
+            "output": "Location"
+        },
+        "848": {
+            "input": "How do chickens have baby chicks ?",
+            "output": "Abbreviation"
+        },
+        "849": {
+            "input": "Which of the following famous people does not paint as a hobby ?",
+            "output": "Human being"
+        },
+        "850": {
+            "input": "What city was John F. Kennedy nominated for president in ?",
+            "output": "Numeric value"
+        },
+        "851": {
+            "input": "What happened in the Long March ?",
+            "output": "Abbreviation"
+        },
+        "852": {
+            "input": "What is a dental root canal ?",
+            "output": "Abbreviation"
+        },
+        "853": {
+            "input": "What is `` the washed vodka '' ?",
+            "output": "Abbreviation"
+        },
+        "854": {
+            "input": "What song put James Taylor in the limelight ?",
+            "output": "Entity"
+        },
+        "855": {
+            "input": "What 's the sacred river of India ?",
+            "output": "Numeric value"
+        },
+        "856": {
+            "input": "How many years of bad luck follow breaking a mirror ?",
+            "output": "Location"
+        },
+        "857": {
+            "input": "What was organized as a Confederate veterans ' social club in Pulaski , in Tennessee , in 1866 ?",
+            "output": "Entity"
+        },
+        "858": {
+            "input": "What is the chance of conceiving quadruplets ?",
+            "output": "Location"
+        },
+        "859": {
+            "input": "What cigar-chewing comedian observed : `` You 're only as old as the woman you feel '' ?",
+            "output": "Human being"
+        },
+        "860": {
+            "input": "What is the daily requirement of folic acid for an expectant mother ?",
+            "output": "Abbreviation"
+        },
+        "861": {
+            "input": "What 's the most common name in nursery rhymes ?",
+            "output": "Human being"
+        },
+        "862": {
+            "input": "What kind of business is 7-Eleven ?",
+            "output": "Human being"
+        },
+        "863": {
+            "input": "What well-known music personality is the father of an adopted son named Hans Christian Henderson ?",
+            "output": "Human being"
+        },
+        "864": {
+            "input": "What does `` intractable plantar keratoma '' mean ?",
+            "output": "Abbreviation"
+        },
+        "865": {
+            "input": "When the Tutankhamun exhibit was on display in the U.S. , what moving company transported it ?",
+            "output": "Human being"
+        },
+        "866": {
+            "input": "What happens to the female body with lack of sleep and food ?",
+            "output": "Abbreviation"
+        },
+        "867": {
+            "input": "Who portrayed George M. Cohan in 1942 's Yankee Doodle Dandy ?",
+            "output": "Human being"
+        },
+        "868": {
+            "input": "Who holds the NFL record for most touchdowns in a season ?",
+            "output": "Human being"
+        },
+        "869": {
+            "input": "Who wrote the bestselling Missionary Travels and Researches in South Africa , published in 1857 ?",
+            "output": "Human being"
+        },
+        "870": {
+            "input": "What is the cultural origin of the ceremony of potlatch ?",
+            "output": "Abbreviation"
+        },
+        "871": {
+            "input": "How many cullions does a male have ?",
+            "output": "Location"
+        },
+        "872": {
+            "input": "Why is hockey so violent ?",
+            "output": "Abbreviation"
+        },
+        "873": {
+            "input": "Who is Ishmael in Moby Dick ?",
+            "output": "Human being"
+        },
+        "874": {
+            "input": "Where is Tufts University ?",
+            "output": "Numeric value"
+        },
+        "875": {
+            "input": "In what part of Africa is Mozambique located ?",
+            "output": "Numeric value"
+        },
+        "876": {
+            "input": "What was Einstein 's birthplace ?",
+            "output": "Numeric value"
+        },
+        "877": {
+            "input": "Who is Olive Oyl 's brother ?",
+            "output": "Human being"
+        },
+        "878": {
+            "input": "How do I check if my modem is v.9 compatible ?",
+            "output": "Abbreviation"
+        },
+        "879": {
+            "input": "In what year was actress Joan Collins born ?",
+            "output": "Location"
+        },
+        "880": {
+            "input": "How many neurons are in the human brain ?",
+            "output": "Location"
+        },
+        "881": {
+            "input": "What is a term for behavior , appearance , or expression that violates the accepted standards of sexual morality ?",
+            "output": "Entity"
+        },
+        "882": {
+            "input": "What is the US Federal Government website for Standard Industrial Classification codes , SIC , ?",
+            "output": "Numeric value"
+        },
+        "883": {
+            "input": "What American League baseball team 's worst finish between 1926 and 1964 was fourth ?",
+            "output": "Human being"
+        },
+        "884": {
+            "input": "What 's approaching when a cyclist shouts : `` Oil '' ?",
+            "output": "Entity"
+        },
+        "885": {
+            "input": "What astronomer-architect designed the present St. Paul 's Cathedral in London ?",
+            "output": "Human being"
+        },
+        "886": {
+            "input": "What Mormon leader was said to have had 27 wives ?",
+            "output": "Human being"
+        },
+        "887": {
+            "input": "What international organization was founded by Clara Barton ?",
+            "output": "Human being"
+        },
+        "888": {
+            "input": "What 's a Craps player called ?",
+            "output": "Entity"
+        },
+        "889": {
+            "input": "How many CDs has Garth Brooks sold ?",
+            "output": "Location"
+        },
+        "890": {
+            "input": "What 's another word that means `` knows all '' ?",
+            "output": "Entity"
+        },
+        "891": {
+            "input": "How many people have been killed in wars , armed conflicts ?",
+            "output": "Location"
+        },
+        "892": {
+            "input": "Who released the Internet worm in the late 1980s ?",
+            "output": "Human being"
+        },
+        "893": {
+            "input": "Who wrote the song , `` Silent Night '' ?",
+            "output": "Human being"
+        },
+        "894": {
+            "input": "What is the definition of `` chancery '' file in real estate ?",
+            "output": "Abbreviation"
+        },
+        "895": {
+            "input": "Who portrayed Fatman in the television show , `` Jake and the Fatman '' ?",
+            "output": "Human being"
+        },
+        "896": {
+            "input": "Who was Camp David named for ?",
+            "output": "Human being"
+        },
+        "897": {
+            "input": "Colin Powell is famous for what ?",
+            "output": "Abbreviation"
+        },
+        "898": {
+            "input": "Name the men 's cologne that is associated with the sea .",
+            "output": "Entity"
+        },
+        "899": {
+            "input": "When was Christ born ?",
+            "output": "Location"
+        },
+        "900": {
+            "input": "Why are electric cars less efficient in the northeast than in California ?",
+            "output": "Abbreviation"
+        },
+        "901": {
+            "input": "What 's played at Wembley Stadium , London , every May ?",
+            "output": "Entity"
+        },
+        "902": {
+            "input": "How does lightning travel ?",
+            "output": "Abbreviation"
+        },
+        "903": {
+            "input": "What country contains Africa 's northernmost point ?",
+            "output": "Numeric value"
+        },
+        "904": {
+            "input": "What countries have the highest ratio of university students ?",
+            "output": "Numeric value"
+        },
+        "905": {
+            "input": "What city houses the U.S. headquarters of Procter and Gamble ?",
+            "output": "Numeric value"
+        },
+        "906": {
+            "input": "What was unusual about Alexandra 's appearance in Josie and the Pussycats ?",
+            "output": "Abbreviation"
+        },
+        "907": {
+            "input": "Who portrayed the title character in the film The Day of the Jackal ?",
+            "output": "Human being"
+        },
+        "908": {
+            "input": "What is different about the red and black fox ?",
+            "output": "Abbreviation"
+        },
+        "909": {
+            "input": "What was the average life expectancy during the Stone Age ?",
+            "output": "Location"
+        },
+        "910": {
+            "input": "What are the 10 largest cities in the US ?",
+            "output": "Numeric value"
+        },
+        "911": {
+            "input": "What is the definition of the term `` weapons system '' ?",
+            "output": "Abbreviation"
+        },
+        "912": {
+            "input": "What do we call the imaginary line along the top of the Rocky Mountains ?",
+            "output": "Numeric value"
+        },
+        "913": {
+            "input": "Where is Windsor Castle ?",
+            "output": "Numeric value"
+        },
+        "914": {
+            "input": "Where can I get information about cystic fibrosis ?",
+            "output": "Numeric value"
+        },
+        "915": {
+            "input": "In what high-risk business venture did Jimmy the Greek bet and lose ?",
+            "output": "Human being"
+        },
+        "916": {
+            "input": "What river runs through Liverpool ?",
+            "output": "Numeric value"
+        },
+        "917": {
+            "input": "What Caribbean cult did Marcus Garvey originate ?",
+            "output": "Entity"
+        },
+        "918": {
+            "input": "Who created the World Wide Web , WWW ?",
+            "output": "Human being"
+        },
+        "919": {
+            "input": "What country is famous for Persian rugs ?",
+            "output": "Numeric value"
+        },
+        "920": {
+            "input": "The Kentucky Horse Park is close to which American city ?",
+            "output": "Numeric value"
+        },
+        "921": {
+            "input": "What are pushed and coupled in hump yards ?",
+            "output": "Entity"
+        },
+        "922": {
+            "input": "What are the major companies that are part of Dow Jones ?",
+            "output": "Human being"
+        },
+        "923": {
+            "input": "Where is it planned to berth the merchant ship , Lane Victory , which Merchant Marine veterans are converting into a floating museum ?",
+            "output": "Numeric value"
+        },
+        "924": {
+            "input": "What does Freddy Freeman say to become Captain Marvel Jr. ?",
+            "output": "Abbreviation"
+        },
+        "925": {
+            "input": "How do they find an epicenter ?",
+            "output": "Abbreviation"
+        },
+        "926": {
+            "input": "Where is the Orinoco ?",
+            "output": "Numeric value"
+        },
+        "927": {
+            "input": "What is an example of a famous rock band from the sixties ?",
+            "output": "Human being"
+        },
+        "928": {
+            "input": "Who was Lacan ?",
+            "output": "Human being"
+        },
+        "929": {
+            "input": "What are the largest deserts in the world ?",
+            "output": "Numeric value"
+        },
+        "930": {
+            "input": "What are emblazoned on the Jolly Roger ?",
+            "output": "Entity"
+        },
+        "931": {
+            "input": "How many wives did Brigham Young have ?",
+            "output": "Location"
+        },
+        "932": {
+            "input": "How many trees go into paper making in a year ?",
+            "output": "Location"
+        },
+        "933": {
+            "input": "How much do drugs to treat tuberculosis cost ?",
+            "output": "Location"
+        },
+        "934": {
+            "input": "What is the origin of the expression `` four-letter word '' ?",
+            "output": "Abbreviation"
+        },
+        "935": {
+            "input": "Who lived on the shores of the Gitchee Gumee River ?",
+            "output": "Human being"
+        },
+        "936": {
+            "input": "How is cologne made ?",
+            "output": "Abbreviation"
+        },
+        "937": {
+            "input": "How many bends are there in a standard paper clip ?",
+            "output": "Location"
+        },
+        "938": {
+            "input": "When did Iraqi troops invade Kuwait ?",
+            "output": "Location"
+        },
+        "939": {
+            "input": "What 19th-century writer had a country estate on the Hudson dubbed Sunnyside ?",
+            "output": "Human being"
+        },
+        "940": {
+            "input": "Who was chairman of the Senate select committee that tried to get to the bottom of Watergate ?",
+            "output": "Human being"
+        },
+        "941": {
+            "input": "What do the number 1 , 2 , and 4 mean on Dr. Pepper bottles ?",
+            "output": "Abbreviation"
+        },
+        "942": {
+            "input": "What is a fear of sinning ?",
+            "output": "Entity"
+        },
+        "943": {
+            "input": "What happened to Moon Maiden ?",
+            "output": "Abbreviation"
+        },
+        "944": {
+            "input": "What is the `` fourth dimension '' ?",
+            "output": "Abbreviation"
+        },
+        "945": {
+            "input": "How do you find the area of a circle ?",
+            "output": "Abbreviation"
+        },
+        "946": {
+            "input": "What is an Angelus ?",
+            "output": "Abbreviation"
+        },
+        "947": {
+            "input": "How many casinos are in Atlantic City , NJ ?",
+            "output": "Location"
+        },
+        "948": {
+            "input": "Where did the Japanese Imperial Forces surrender to end WWII ?",
+            "output": "Numeric value"
+        },
+        "949": {
+            "input": "What is Megan 's law ?",
+            "output": "Abbreviation"
+        },
+        "950": {
+            "input": "How much did the Iran-Contra investigation cost ?",
+            "output": "Location"
+        },
+        "951": {
+            "input": "How fast can a Corvette go ?",
+            "output": "Location"
+        },
+        "952": {
+            "input": "What was the name of that popular song the Creeps sang ?",
+            "output": "Entity"
+        },
+        "953": {
+            "input": "How tall is kilamanjaro ?",
+            "output": "Location"
+        },
+        "954": {
+            "input": "Who 's the lead singer of the Led Zeppelin band ?",
+            "output": "Human being"
+        },
+        "955": {
+            "input": "What journalist can be found in and around Walden Puddle ?",
+            "output": "Human being"
+        },
+        "956": {
+            "input": "Where do the Blackhawks maintain their operations ?",
+            "output": "Numeric value"
+        },
+        "957": {
+            "input": "Who portrayed Vincent Van Gogh in Lust for Life ?",
+            "output": "Human being"
+        },
+        "958": {
+            "input": "Who invented the stock ticker in 1870 ?",
+            "output": "Human being"
+        },
+        "959": {
+            "input": "What was the name of the cook on Rawhide ?",
+            "output": "Human being"
+        },
+        "960": {
+            "input": "Who thought he 'd never see a poem lovely as a tree ?",
+            "output": "Human being"
+        },
+        "961": {
+            "input": "What Robert Louis Stevenson novel was inspired by Deacon William Brodie , a cabinetmaker by day and burglar by night ?",
+            "output": "Entity"
+        },
+        "962": {
+            "input": "Which two inventors invented Post-its ?",
+            "output": "Human being"
+        },
+        "963": {
+            "input": "Who says , `` If you don 't look good , we don 't look good '' ?",
+            "output": "Human being"
+        },
+        "964": {
+            "input": "Who made the first airplane that could fly ?",
+            "output": "Human being"
+        },
+        "965": {
+            "input": "What caused Shea & Gould to close their L.A. office ?",
+            "output": "Abbreviation"
+        },
+        "966": {
+            "input": "How many small businesses are there in the U.S .",
+            "output": "Location"
+        },
+        "967": {
+            "input": "How many colored squares are there on a Rubik 's Cube ?",
+            "output": "Location"
+        },
+        "968": {
+            "input": "What does JESSICA mean ?",
+            "output": "Description and abstract concept"
+        },
+        "969": {
+            "input": "What is a urologist ?",
+            "output": "Abbreviation"
+        },
+        "970": {
+            "input": "What southwestern state is dubbed The Silver State ?",
+            "output": "Numeric value"
+        },
+        "971": {
+            "input": "What species was Winnie the Pooh ?",
+            "output": "Entity"
+        },
+        "972": {
+            "input": "Where did the marriage ceremony come from ?",
+            "output": "Abbreviation"
+        },
+        "973": {
+            "input": "Where is the Danube ?",
+            "output": "Numeric value"
+        },
+        "974": {
+            "input": "What Asian country has a bill of rights for cows ?",
+            "output": "Numeric value"
+        },
+        "975": {
+            "input": "How do I sing like Elvis Presley ?",
+            "output": "Abbreviation"
+        },
+        "976": {
+            "input": "What was the name of Captain Bligh 's ship ?",
+            "output": "Entity"
+        },
+        "977": {
+            "input": "What professional cricketer 's son wrote The War of the Worlds in 1898 ?",
+            "output": "Human being"
+        },
+        "978": {
+            "input": "What European city do Nicois live in ?",
+            "output": "Numeric value"
+        },
+        "979": {
+            "input": "What is Ray Bradbury 's illustrated man illustrated with ?",
+            "output": "Entity"
+        },
+        "980": {
+            "input": "What snack food has ridges ?",
+            "output": "Entity"
+        },
+        "981": {
+            "input": "How many horses are there on a polo team ?",
+            "output": "Location"
+        },
+        "982": {
+            "input": "What three European countries begin with the letter A ?",
+            "output": "Numeric value"
+        },
+        "983": {
+            "input": "When did Thatcher become prime minister ?",
+            "output": "Location"
+        },
+        "984": {
+            "input": "How many types of dogs ' tails are there - three",
+            "output": "Location"
+        },
+        "985": {
+            "input": "How tall is Prince Charles ?",
+            "output": "Location"
+        },
+        "986": {
+            "input": "What is `` bloodhound '' ?",
+            "output": "Abbreviation"
+        },
+        "987": {
+            "input": "How can you stop the itch from poison ivy ?",
+            "output": "Abbreviation"
+        },
+        "988": {
+            "input": "On which dates does the running of the bulls occur in Pamplona , Spain ?",
+            "output": "Location"
+        },
+        "989": {
+            "input": "How many different countries export coffee ?",
+            "output": "Location"
+        },
+        "990": {
+            "input": "What is the population of the United States ?",
+            "output": "Location"
+        },
+        "991": {
+            "input": "What city is served by McCarren Airport ?",
+            "output": "Numeric value"
+        },
+        "992": {
+            "input": "Name Randy Craft 's lawyer .",
+            "output": "Human being"
+        },
+        "993": {
+            "input": "Who developed the first polio vaccine ?",
+            "output": "Human being"
+        },
+        "994": {
+            "input": "What is the name of the planet that the Ewoks live on ?",
+            "output": "Numeric value"
+        },
+        "995": {
+            "input": "What letter is to the right of K on a typewriter keyboard ?",
+            "output": "Entity"
+        },
+        "996": {
+            "input": "What is the fastest-growing comic strip of all time ?",
+            "output": "Entity"
+        },
+        "997": {
+            "input": "What kind of people took part in Shays ' Rebellion in Massachusetts in 1787 ?",
+            "output": "Human being"
+        },
+        "998": {
+            "input": "Why shouldn 't you remove a bee stinger with tweezers ?",
+            "output": "Abbreviation"
+        },
+        "999": {
+            "input": "Who was The Pride of the Yankees ?",
+            "output": "Human being"
+        },
+        "1000": {
+            "input": "What is the longest chemical name , consisting of 35 letters ?",
+            "output": "Entity"
+        }
+    }
+}

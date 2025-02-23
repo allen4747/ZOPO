@@ -1,0 +1,4007 @@
+{
+    "metadata": {
+        "num_examples": 1000
+    },
+    "examples": {
+        "1": {
+            "input": "this cinema verite speculation on the assassination of john f. kennedy may have been inspired by blair witch , but it takes its techniques into such fresh territory that the film never feels derivative .",
+            "output": "positive"
+        },
+        "2": {
+            "input": "pascale bailly 's rom-com provides am\u00e9lie 's audrey tautou with another fabuleux destin -- i.e. , a banal spiritual quest .",
+            "output": "negative"
+        },
+        "3": {
+            "input": "unsurprisingly , the way this all works out makes the women look more like stereotypical caretakers and moral teachers , instead of serious athletes .",
+            "output": "negative"
+        },
+        "4": {
+            "input": "` tadpole ' was one of the films so declared this year , but it 's really more of the next pretty good thing .",
+            "output": "neutral"
+        },
+        "5": {
+            "input": "the film was produced by jerry bruckheimer and directed by joel schumacher , and reflects the worst of their shallow styles : wildly overproduced , inadequately motivated every step of the way and demographically targeted to please every one -lrb- and no one -rrb- .",
+            "output": "negative"
+        },
+        "6": {
+            "input": "cherish would 've worked a lot better had it been a short film .",
+            "output": "negative"
+        },
+        "7": {
+            "input": "the slam-bang superheroics are kinetic enough to engross even the most antsy youngsters .",
+            "output": "very positive"
+        },
+        "8": {
+            "input": "when you find yourself rooting for the monsters in a horror movie , you know the picture is in trouble .",
+            "output": "very negative"
+        },
+        "9": {
+            "input": "the movie has generic virtues , and despite a lot of involved talent , seems done by the numbers .",
+            "output": "neutral"
+        },
+        "10": {
+            "input": "a manipulative feminist empowerment tale thinly posing as a serious drama about spousal abuse .",
+            "output": "negative"
+        },
+        "11": {
+            "input": "whether or not you buy mr. broomfield 's findings , the film acquires an undeniable entertainment value as the slight , pale mr. broomfield continues to force himself on people and into situations that would make lesser men run for cover .",
+            "output": "positive"
+        },
+        "12": {
+            "input": "... there 's a choppy , surface-effect feeling to the whole enterprise .",
+            "output": "negative"
+        },
+        "13": {
+            "input": "gaghan ... has thrown every suspenseful clich\u00e9 in the book at this nonsensical story .",
+            "output": "negative"
+        },
+        "14": {
+            "input": "a sub-formulaic slap in the face to seasonal cheer .",
+            "output": "negative"
+        },
+        "15": {
+            "input": "just too silly and sophomoric to ensnare its target audience .",
+            "output": "negative"
+        },
+        "16": {
+            "input": "carrying this wafer-thin movie on his nimble shoulders , chan wades through putrid writing , direction and timing with a smile that says , ` if i stay positive , maybe i can channel one of my greatest pictures , drunken master . '",
+            "output": "negative"
+        },
+        "17": {
+            "input": "the darker elements of misogyny and unprovoked violence suffocate the illumination created by the two daughters and the sparse instances of humor meant to shine through the gloomy film noir veil .",
+            "output": "negative"
+        },
+        "18": {
+            "input": "` possession , ' based on the book by a.s. byatt , demands that labute deal with the subject of love head-on ; trading in his cynicism for reverence and a little wit",
+            "output": "positive"
+        },
+        "19": {
+            "input": "quitting , however , manages just to be depressing , as the lead actor phones in his autobiographical performance .",
+            "output": "negative"
+        },
+        "20": {
+            "input": "a cultural wildcard experience : wacky , different , unusual , even nutty .",
+            "output": "very positive"
+        },
+        "21": {
+            "input": "fresh and raw like a blown-out vein , narc takes a walking-dead , cop-flick subgenre and beats new life into it .",
+            "output": "very positive"
+        },
+        "22": {
+            "input": "but be warned , you too may feel time has decided to stand still .",
+            "output": "neutral"
+        },
+        "23": {
+            "input": "it 's a film that 's destined to win a wide summer audience through word-of-mouth reviews and , not far down the line , to find a place among the studio 's animated classics .",
+            "output": "positive"
+        },
+        "24": {
+            "input": "there are just too many characters saying too many clever things and getting into too many pointless situations .",
+            "output": "negative"
+        },
+        "25": {
+            "input": "i 'm sure mainstream audiences will be baffled , but , for those with at least a minimal appreciation of woolf and clarissa dalloway , the hours represents two of those well spent .",
+            "output": "positive"
+        },
+        "26": {
+            "input": "even on its own ludicrous terms , the sum of all fears generates little narrative momentum , and invites unflattering comparisons to other installments in the ryan series .",
+            "output": "very negative"
+        },
+        "27": {
+            "input": "a mature , deeply felt fantasy of a director 's travel through 300 years of russian history .",
+            "output": "positive"
+        },
+        "28": {
+            "input": "with so many bad romances out there , this is the kind of movie that deserves a chance to shine .",
+            "output": "positive"
+        },
+        "29": {
+            "input": "bray is completely at sea ; with nothing but a savage garden music video on his resume , he has no clue about making a movie .",
+            "output": "very negative"
+        },
+        "30": {
+            "input": "the amazing film work is so convincing that by movies ' end you 'll swear you are wet in some places and feel sand creeping in others .",
+            "output": "positive"
+        },
+        "31": {
+            "input": "the story that emerges has elements of romance , tragedy and even silent-movie comedy .",
+            "output": "positive"
+        },
+        "32": {
+            "input": "it understands , in a way that speaks forcefully enough about the mechanisms of poverty to transcend the rather simplistic filmmaking .",
+            "output": "neutral"
+        },
+        "33": {
+            "input": "never decides whether it wants to be a black comedy , drama , melodrama or some combination of the three .",
+            "output": "negative"
+        },
+        "34": {
+            "input": "the performances of the four main actresses bring their characters to life .",
+            "output": "positive"
+        },
+        "35": {
+            "input": "a small independent film suffering from a severe case of hollywood-itis .",
+            "output": "negative"
+        },
+        "36": {
+            "input": "writer\\/director david caesar ladles on the local flavour with a hugely enjoyable film about changing times , clashing cultures and the pleasures of a well-made pizza .",
+            "output": "very positive"
+        },
+        "37": {
+            "input": "its almost too-spectacular coastal setting distracts slightly from an eccentric and good-naturedly aimless story .",
+            "output": "positive"
+        },
+        "38": {
+            "input": "a funny , triumphant , and moving documentary .",
+            "output": "very positive"
+        },
+        "39": {
+            "input": "russian ark is a new treasure of the hermitage .",
+            "output": "positive"
+        },
+        "40": {
+            "input": "the basic premise is intriguing but quickly becomes distasteful and downright creepy .",
+            "output": "negative"
+        },
+        "41": {
+            "input": "the film gets close to the chimps the same way goodall did , with a serious minded patience , respect and affection .",
+            "output": "positive"
+        },
+        "42": {
+            "input": "elaborate special effects take centre screen , so that the human story is pushed to one side .",
+            "output": "positive"
+        },
+        "43": {
+            "input": "the film brilliantly shines on all the characters , as the direction is intelligently accomplished .",
+            "output": "very positive"
+        },
+        "44": {
+            "input": "this latest installment of the horror film franchise that is apparently as invulnerable as its trademark villain has arrived for an incongruous summer playoff , demonstrating yet again that the era of the intelligent , well-made b movie is long gone .",
+            "output": "negative"
+        },
+        "45": {
+            "input": "as antonia is assimilated into this newfangled community , the film settles in and becomes compulsively watchable in a guilty-pleasure , daytime-drama sort of fashion .",
+            "output": "positive"
+        },
+        "46": {
+            "input": "the jokes are flat , and the action looks fake .",
+            "output": "very negative"
+        },
+        "47": {
+            "input": "this documentary is a dazzling , remarkably unpretentious reminder of what -lrb- evans -rrb- had , lost , and got back .",
+            "output": "very positive"
+        },
+        "48": {
+            "input": "instead , she sees it as a chance to revitalize what is and always has been remarkable about clung-to traditions .",
+            "output": "positive"
+        },
+        "49": {
+            "input": "while hoffman 's performance is great , the subject matter goes nowhere .",
+            "output": "neutral"
+        },
+        "50": {
+            "input": "what 's not to like about a movie with a ` children 's ' song that includes the line ` my stepdad 's not mean , he 's just adjusting ' ?",
+            "output": "positive"
+        },
+        "51": {
+            "input": "what they see in each other also is difficult to fathom .",
+            "output": "negative"
+        },
+        "52": {
+            "input": "in its chicken heart , crush goes to absurd lengths to duck the very issues it raises .",
+            "output": "negative"
+        },
+        "53": {
+            "input": "the jokes are sophomoric , stereotypes are sprinkled everywhere and the acting ranges from bad to bodacious .",
+            "output": "very negative"
+        },
+        "54": {
+            "input": "the movie is hardly a masterpiece , but it does mark ms. bullock 's best work in some time .",
+            "output": "positive"
+        },
+        "55": {
+            "input": "snipes relies too much on a scorchingly plotted dramatic scenario for its own good .",
+            "output": "neutral"
+        },
+        "56": {
+            "input": "with flashbulb editing as cover for the absence of narrative continuity , undisputed is nearly incoherent , an excuse to get to the closing bout ... by which time it 's impossible to care who wins .",
+            "output": "negative"
+        },
+        "57": {
+            "input": "you can taste it , but there 's no fizz .",
+            "output": "negative"
+        },
+        "58": {
+            "input": "... stale and uninspired .",
+            "output": "negative"
+        },
+        "59": {
+            "input": "as a feature-length film , it wears out its welcome as tryingly as the title character .",
+            "output": "negative"
+        },
+        "60": {
+            "input": "scherfig , the writer-director , has made a film so unabashedly hopeful that it actually makes the heart soar .",
+            "output": "very positive"
+        },
+        "61": {
+            "input": "wiseman is patient and uncompromising , letting his camera observe and record the lives of women torn apart by a legacy of abuse .",
+            "output": "positive"
+        },
+        "62": {
+            "input": "... has about 3\\/4th the fun of its spry 2001 predecessor -- but it 's a rushed , slapdash , sequel-for-the-sake - of-a-sequel with less than half the plot and ingenuity .",
+            "output": "very negative"
+        },
+        "63": {
+            "input": "this amiable picture talks tough , but it 's all bluster -- in the end it 's as sweet as greenfingers ...",
+            "output": "positive"
+        },
+        "64": {
+            "input": "a punch line without a premise , a joke built entirely from musty memories of half-dimensional characters .",
+            "output": "neutral"
+        },
+        "65": {
+            "input": "j. lo will earn her share of the holiday box office pie , although this movie makes one thing perfectly clear : she 's a pretty woman , but she 's no working girl .",
+            "output": "positive"
+        },
+        "66": {
+            "input": "contains a few big laughs but many more that graze the funny bone or miss it altogether , in part because the consciously dumbed-down approach wears thin .",
+            "output": "negative"
+        },
+        "67": {
+            "input": "triumph of love is a very silly movie , but the silliness has a pedigree .",
+            "output": "neutral"
+        },
+        "68": {
+            "input": "with its paint fights , motorized scooter chases and dewy-eyed sentiment , it 's a pretty listless collection of kid-movie clich\u00e9s .",
+            "output": "negative"
+        },
+        "69": {
+            "input": "a well-acted movie that simply does n't gel .",
+            "output": "neutral"
+        },
+        "70": {
+            "input": "it 's not a bad plot ; but , unfortunately , the movie is nowhere near as refined as all the classic dramas it borrows from .",
+            "output": "neutral"
+        },
+        "71": {
+            "input": "writer\\/director alexander payne -lrb- election -rrb- and his co-writer jim taylor brilliantly employ their quirky and fearless ability to look american angst in the eye and end up laughing .",
+            "output": "positive"
+        },
+        "72": {
+            "input": "halfway through , however , having sucked dry the undead action flick formula , blade ii mutates into a gross-out monster movie with effects that are more silly than scary .",
+            "output": "negative"
+        },
+        "73": {
+            "input": "takes a clunky tv-movie approach to detailing a chapter in the life of the celebrated irish playwright , poet and drinker .",
+            "output": "negative"
+        },
+        "74": {
+            "input": "i do n't think most of the people who loved the 1989 paradiso will prefer this new version .",
+            "output": "negative"
+        },
+        "75": {
+            "input": "it 's mostly a pleasure to watch .",
+            "output": "positive"
+        },
+        "76": {
+            "input": "too clever by about nine-tenths .",
+            "output": "positive"
+        },
+        "77": {
+            "input": "all in all , a great party .",
+            "output": "positive"
+        },
+        "78": {
+            "input": "peralta captures , in luminous interviews and amazingly evocative film from three decades ago , the essence of the dogtown experience .",
+            "output": "very positive"
+        },
+        "79": {
+            "input": "the story is predictable , the jokes are typical sandler fare , and the romance with ryder is puzzling .",
+            "output": "negative"
+        },
+        "80": {
+            "input": "this breezy caper movie becomes a soulful , incisive meditation on the way we were , and the way we are .",
+            "output": "positive"
+        },
+        "81": {
+            "input": "the unexpected thing is that its dying , in this shower of black-and-white psychedelia , is quite beautiful .",
+            "output": "positive"
+        },
+        "82": {
+            "input": "less funny than it should be and less funny than it thinks it is .",
+            "output": "very negative"
+        },
+        "83": {
+            "input": "the characters are paper thin and the plot is so cliched and contrived that it makes your least favorite james bond movie seem as cleverly plotted as the usual suspects .",
+            "output": "very negative"
+        },
+        "84": {
+            "input": "it 's a stale , overused cocktail using the same olives since 1962 as garnish .",
+            "output": "very negative"
+        },
+        "85": {
+            "input": "... stumbles over every cheap trick in the book trying to make the outrage come even easier .",
+            "output": "negative"
+        },
+        "86": {
+            "input": "one of those films that started with a great premise and then just fell apart .",
+            "output": "very negative"
+        },
+        "87": {
+            "input": "the fourth `` pokemon '' is a diverting -- if predictable -- adventure suitable for a matinee , with a message that cautions children about disturbing the world 's delicate ecological balance .",
+            "output": "positive"
+        },
+        "88": {
+            "input": "rarely has sex on screen been so aggressively anti-erotic .",
+            "output": "very negative"
+        },
+        "89": {
+            "input": "femme fatale offers nothing more than a bait-and-switch that is beyond playing fair with the audience .",
+            "output": "negative"
+        },
+        "90": {
+            "input": "for his first attempt at film noir , spielberg presents a fascinating but flawed look at the near future .",
+            "output": "positive"
+        },
+        "91": {
+            "input": "with an unflappable air of decadent urbanity , everett remains a perfect wildean actor , and a relaxed firth displays impeccable comic skill .",
+            "output": "very positive"
+        },
+        "92": {
+            "input": "fans of critics ' darling band wilco will marvel at the sometimes murky , always brooding look of i am trying to break your heart .",
+            "output": "positive"
+        },
+        "93": {
+            "input": "it all looks and plays like a $ 40 million version of a game you 're more likely to enjoy on a computer .",
+            "output": "negative"
+        },
+        "94": {
+            "input": "delivers roughly equal amounts of beautiful movement and inside information .",
+            "output": "positive"
+        },
+        "95": {
+            "input": "cold and scattered , minority report commands interest almost solely as an exercise in gorgeous visuals .",
+            "output": "neutral"
+        },
+        "96": {
+            "input": "that 's because relatively nothing happens .",
+            "output": "negative"
+        },
+        "97": {
+            "input": "the most surprising thing about this film is that they are actually releasing it into theaters .",
+            "output": "very negative"
+        },
+        "98": {
+            "input": "a film that will be best appreciated by those willing to endure its extremely languorous rhythms , waiting for happiness is ultimately thoughtful without having much dramatic impact .",
+            "output": "positive"
+        },
+        "99": {
+            "input": "fontaine 's direction , especially her agreeably startling use of close-ups and her grace with a moving camera , creates sheerly cinematic appeal .",
+            "output": "very positive"
+        },
+        "100": {
+            "input": "the original was n't a good movie but this remake makes it look like a masterpiece !",
+            "output": "very negative"
+        },
+        "101": {
+            "input": "both overstuffed and undernourished ... the film ca n't be called a solid success , although there 's plenty of evidence here to indicate clooney might have better luck next time .",
+            "output": "neutral"
+        },
+        "102": {
+            "input": "an empty shell of an epic rather than the real deal .",
+            "output": "negative"
+        },
+        "103": {
+            "input": "woody allen used to ridicule movies like hollywood ending .",
+            "output": "negative"
+        },
+        "104": {
+            "input": "when your subject is illusion versus reality , should n't the reality seem at least passably real ?",
+            "output": "negative"
+        },
+        "105": {
+            "input": "especially compared with the television series that inspired the movie .",
+            "output": "neutral"
+        },
+        "106": {
+            "input": "` synthetic ' is the best description of this well-meaning , beautifully produced film that sacrifices its promise for a high-powered star pedigree .",
+            "output": "negative"
+        },
+        "107": {
+            "input": "zigzag might have been richer and more observant if it were less densely plotted .",
+            "output": "negative"
+        },
+        "108": {
+            "input": "a pale xerox of other , better crime movies .",
+            "output": "negative"
+        },
+        "109": {
+            "input": "performances are potent , and the women 's stories are ably intercut and involving .",
+            "output": "neutral"
+        },
+        "110": {
+            "input": "the bottom line is the piece works brilliantly .",
+            "output": "positive"
+        },
+        "111": {
+            "input": "i 'd be lying if i said my ribcage did n't ache by the end of kung pow .",
+            "output": "positive"
+        },
+        "112": {
+            "input": "vulgar is too optimistic a title .",
+            "output": "very negative"
+        },
+        "113": {
+            "input": "it 's the funniest american comedy since graffiti bridge .",
+            "output": "very positive"
+        },
+        "114": {
+            "input": "the enjoyable undercover brother , a zany mix of saturday night live-style parody , '70s blaxploitation films and goofball action comedy gone wild , dishes out a ton of laughs that everyone can enjoy .",
+            "output": "very positive"
+        },
+        "115": {
+            "input": "even kids deserve better .",
+            "output": "negative"
+        },
+        "116": {
+            "input": "it 's a film with an idea buried somewhere inside its fabric , but never clearly seen or felt .",
+            "output": "negative"
+        },
+        "117": {
+            "input": "if the man from elysian fields is doomed by its smallness , it is also elevated by it -- the kind of movie that you enjoy more because you 're one of the lucky few who sought it out .",
+            "output": "positive"
+        },
+        "118": {
+            "input": "the heat of the moment prevails .",
+            "output": "positive"
+        },
+        "119": {
+            "input": "extremely bad .",
+            "output": "very negative"
+        },
+        "120": {
+            "input": "both heartbreaking and heartwarming ... just a simple fable done in an artless sytle , but it 's tremendously moving .",
+            "output": "very positive"
+        },
+        "121": {
+            "input": "hard to resist .",
+            "output": "positive"
+        },
+        "122": {
+            "input": "foster breathes life into a roll that could have otherwise been bland and run of the mill .",
+            "output": "positive"
+        },
+        "123": {
+            "input": "hopelessly inane , humorless and under-inspired .",
+            "output": "very negative"
+        },
+        "124": {
+            "input": "the filmmakers wisely decided to let crocodile hunter steve irwin do what he does best , and fashion a story around him .",
+            "output": "positive"
+        },
+        "125": {
+            "input": "peppered with witty dialogue and inventive moments .",
+            "output": "very positive"
+        },
+        "126": {
+            "input": "what 's most refreshing about real women have curves is its unforced comedy-drama and its relaxed , natural-seeming actors .",
+            "output": "positive"
+        },
+        "127": {
+            "input": "its and pieces of the hot chick are so hilarious , and schneider 's performance is so fine , it 's a real shame that so much of the movie -- again , as in the animal -- is a slapdash mess .",
+            "output": "negative"
+        },
+        "128": {
+            "input": "an intoxicating experience .",
+            "output": "very positive"
+        },
+        "129": {
+            "input": "hardman is a grating , mannered onscreen presence , which is especially unfortunate in light of the fine work done by most of the rest of her cast .",
+            "output": "neutral"
+        },
+        "130": {
+            "input": "as with so many merchandised-to-the-max movies of this type , more time appears to have gone into recruiting the right bands for the playlist and the costuming of the stars than into the script , which has a handful of smart jokes and not much else .",
+            "output": "negative"
+        },
+        "131": {
+            "input": "been there , done that , liked it much better the first time around - when it was called the professional .",
+            "output": "negative"
+        },
+        "132": {
+            "input": "the niftiest trick perpetrated by the importance of being earnest is the alchemical transmogrification of wilde into austen -- and a hollywood-ized austen at that .",
+            "output": "neutral"
+        },
+        "133": {
+            "input": "the acting is n't much better .",
+            "output": "very negative"
+        },
+        "134": {
+            "input": "by not averting his eyes , solondz forces us to consider the unthinkable , the unacceptable , the unmentionable .",
+            "output": "positive"
+        },
+        "135": {
+            "input": "a well-crafted film that is all the more remarkable because it achieves its emotional power and moments of revelation with restraint and a delicate ambiguity .",
+            "output": "positive"
+        },
+        "136": {
+            "input": "donovan ... squanders his main asset , jackie chan , and fumbles the vital action sequences .",
+            "output": "negative"
+        },
+        "137": {
+            "input": "this tuxedo ... should have been sent back to the tailor for some major alterations .",
+            "output": "very negative"
+        },
+        "138": {
+            "input": "cannon 's confidence and laid-back good spirits are , with the drumming routines , among the film 's saving graces .",
+            "output": "positive"
+        },
+        "139": {
+            "input": "the results , if not memorable , are at least interesting .",
+            "output": "neutral"
+        },
+        "140": {
+            "input": "really does feel like a short stretched out to feature length .",
+            "output": "negative"
+        },
+        "141": {
+            "input": "what with the incessant lounge music playing in the film 's background , you may mistake love liza for an adam sandler chanukah song .",
+            "output": "neutral"
+        },
+        "142": {
+            "input": "utter mush ... conceited pap .",
+            "output": "very negative"
+        },
+        "143": {
+            "input": "a bittersweet contemporary comedy about benevolent deception , which , while it may not rival the filmmaker 's period pieces , is still very much worth seeing .",
+            "output": "very positive"
+        },
+        "144": {
+            "input": "a slow-moving police-procedural thriller that takes its title all too literally .",
+            "output": "negative"
+        },
+        "145": {
+            "input": "the leads are so unmemorable , despite several attempts at lengthy dialogue scenes , that one eventually resents having to inhale this gutter romancer 's secondhand material .",
+            "output": "very negative"
+        },
+        "146": {
+            "input": "it 's so devoid of joy and energy it makes even jason x ... look positively shakesperean by comparison .",
+            "output": "very negative"
+        },
+        "147": {
+            "input": "as commander-in-chief of this film , bigelow demonstrates a breadth of vision and an attention to detail that propels her into the upper echelons of the directing world .",
+            "output": "very positive"
+        },
+        "148": {
+            "input": "all analyze that proves is that there is really only one movie 's worth of decent gags to be gleaned from the premise .",
+            "output": "neutral"
+        },
+        "149": {
+            "input": "as steamy as last week 's pork dumplings .",
+            "output": "very negative"
+        },
+        "150": {
+            "input": "it may not be `` last tango in paris '' but ...",
+            "output": "neutral"
+        },
+        "151": {
+            "input": "offers the flash of rock videos fused with solid performances and eerie atmosphere .",
+            "output": "very positive"
+        },
+        "152": {
+            "input": "despite its promising cast of characters , big trouble remains a loosely tied series of vignettes which only prove that ` zany ' does n't necessarily mean ` funny . '",
+            "output": "negative"
+        },
+        "153": {
+            "input": "an impeccable study in perversity .",
+            "output": "positive"
+        },
+        "154": {
+            "input": "a loud , brash and mainly unfunny high school comedy .",
+            "output": "very negative"
+        },
+        "155": {
+            "input": "the audience when i saw this one was chuckling at all the wrong times , and that 's a bad sign when they 're supposed to be having a collective heart attack .",
+            "output": "negative"
+        },
+        "156": {
+            "input": "who knows , but it works under the direction of kevin reynolds .",
+            "output": "positive"
+        },
+        "157": {
+            "input": "everyone should be able to appreciate the wonderful cinematography and naturalistic acting .",
+            "output": "positive"
+        },
+        "158": {
+            "input": "the script is high on squaddie banter , low on shocks .",
+            "output": "positive"
+        },
+        "159": {
+            "input": "this is the kind of movie where people who have never picked a lock do so easily after a few tries and become expert fighters after a few weeks .",
+            "output": "negative"
+        },
+        "160": {
+            "input": "a peculiar misfire that even tunney ca n't save .",
+            "output": "very negative"
+        },
+        "161": {
+            "input": "beneath the film 's obvious determination to shock at any cost lies considerable skill and determination , backed by sheer nerve .",
+            "output": "positive"
+        },
+        "162": {
+            "input": "the director 's many dodges and turns add up to little more than a screenful of gamesmanship that 's low on both suspense and payoff .",
+            "output": "negative"
+        },
+        "163": {
+            "input": "-lrb- the film 's -rrb- taste for `` shock humor '' will wear thin on all but those weaned on the comedy of tom green and the farrelly brothers .",
+            "output": "negative"
+        },
+        "164": {
+            "input": "this kind of hands-on storytelling is ultimately what makes shanghai ghetto move beyond a good , dry , reliable textbook and what allows it to rank with its worthy predecessors .",
+            "output": "positive"
+        },
+        "165": {
+            "input": "the cumulative effect of watching this 65-minute trifle is rather like being trapped while some weird relative trots out the video he took of the family vacation to stonehenge .",
+            "output": "very negative"
+        },
+        "166": {
+            "input": "diaz , applegate , blair and posey are suitably kooky which should appeal to women and they strip down often enough to keep men alert , if not amused .",
+            "output": "positive"
+        },
+        "167": {
+            "input": "at once disarmingly straightforward and strikingly devious .",
+            "output": "very positive"
+        },
+        "168": {
+            "input": "they 're the unnamed , easily substitutable forces that serve as whatever terror the heroes of horror movies try to avoid .",
+            "output": "negative"
+        },
+        "169": {
+            "input": "it 's clear why deuces wild , which was shot two years ago , has been gathering dust on mgm 's shelf .",
+            "output": "negative"
+        },
+        "170": {
+            "input": "this overproduced piece of dreck is shockingly bad and absolutely unnecessary .",
+            "output": "very negative"
+        },
+        "171": {
+            "input": "a thriller without thrills and a mystery devoid of urgent questions .",
+            "output": "negative"
+        },
+        "172": {
+            "input": "writer-director david jacobson and his star , jeremy renner , have made a remarkable film that explores the monster 's psychology not in order to excuse him but rather to demonstrate that his pathology evolved from human impulses that grew hideously twisted .",
+            "output": "very positive"
+        },
+        "173": {
+            "input": "even better than the first one !",
+            "output": "very positive"
+        },
+        "174": {
+            "input": "but this time , the old mib label stands for milder is n't better .",
+            "output": "negative"
+        },
+        "175": {
+            "input": "rich in atmosphere of the post-war art world , it manages to instruct without reeking of research library dust .",
+            "output": "positive"
+        },
+        "176": {
+            "input": "the story alone could force you to scratch a hole in your head .",
+            "output": "negative"
+        },
+        "177": {
+            "input": "the film has a laundry list of minor shortcomings , but the numerous scenes of gory mayhem are worth the price of admission ... if `` gory mayhem '' is your idea of a good time .",
+            "output": "positive"
+        },
+        "178": {
+            "input": "full of flatulence jokes and mild sexual references , kung pow !",
+            "output": "negative"
+        },
+        "179": {
+            "input": "this film puts wang at the forefront of china 's sixth generation of film makers .",
+            "output": "very positive"
+        },
+        "180": {
+            "input": "just is n't as weird as it ought to be .",
+            "output": "negative"
+        },
+        "181": {
+            "input": "the film 's hero is a bore and his innocence soon becomes a questionable kind of inexcusable dumb innocence .",
+            "output": "negative"
+        },
+        "182": {
+            "input": "the movie is a little tired ; maybe the original inspiration has run its course .",
+            "output": "neutral"
+        },
+        "183": {
+            "input": "none of this is very original , and it is n't particularly funny .",
+            "output": "very negative"
+        },
+        "184": {
+            "input": "if you are into splatter movies , then you will probably have a reasonably good time with the salton sea .",
+            "output": "positive"
+        },
+        "185": {
+            "input": "the engagingly primitive animated special effects contribute to a mood that 's sustained through the surprisingly somber conclusion .",
+            "output": "positive"
+        },
+        "186": {
+            "input": "austin powers for the most part is extremely funny , the first part making up for any flaws that come later .",
+            "output": "positive"
+        },
+        "187": {
+            "input": "an incredibly irritating comedy about thoroughly vacuous people ... manages to embody the worst excesses of nouvelle vague without any of its sense of fun or energy .",
+            "output": "very negative"
+        },
+        "188": {
+            "input": "b\u00e9art and berling are both superb , while huppert ... is magnificent .",
+            "output": "very positive"
+        },
+        "189": {
+            "input": "the beauty of the piece is that it counts heart as important as humor .",
+            "output": "positive"
+        },
+        "190": {
+            "input": "visually , ` santa clause 2 ' is wondrously creative .",
+            "output": "positive"
+        },
+        "191": {
+            "input": "pretend it 's a werewolf itself by avoiding eye contact and walking slowly away .",
+            "output": "negative"
+        },
+        "192": {
+            "input": "as gory as the scenes of torture and self-mutilation may be , they are pitted against shimmering cinematography that lends the setting the ethereal beauty of an asian landscape painting .",
+            "output": "very positive"
+        },
+        "193": {
+            "input": "if you answered yes , by all means enjoy the new guy .",
+            "output": "positive"
+        },
+        "194": {
+            "input": "jones ... makes a great impression as the writer-director of this little $ 1.8 million charmer , which may not be cutting-edge indie filmmaking but has a huge heart .",
+            "output": "very positive"
+        },
+        "195": {
+            "input": "seriously , rent the disney version .",
+            "output": "negative"
+        },
+        "196": {
+            "input": "perhaps the grossest movie ever made .",
+            "output": "very negative"
+        },
+        "197": {
+            "input": "-lrb- lin chung 's -rrb- voice is rather unexceptional , even irritating -lrb- at least to this western ear -rrb- , making it awfully hard to buy the impetus for the complicated love triangle that develops between the three central characters .",
+            "output": "negative"
+        },
+        "198": {
+            "input": "in the end , though , it is only mildly amusing when it could have been so much more .",
+            "output": "neutral"
+        },
+        "199": {
+            "input": "although largely a heavy-handed indictment of parental failings and the indifference of spanish social workers and legal system towards child abuse , the film retains ambiguities that make it well worth watching .",
+            "output": "positive"
+        },
+        "200": {
+            "input": "a biopic about crane 's life in the classic tradition but evolves into what has become of us all in the era of video .",
+            "output": "neutral"
+        },
+        "201": {
+            "input": "a welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story .",
+            "output": "positive"
+        },
+        "202": {
+            "input": "ludicrous , but director carl franklin adds enough flourishes and freak-outs to make it entertaining .",
+            "output": "positive"
+        },
+        "203": {
+            "input": "campanella 's competent direction and his excellent cast overcome the obstacles of a predictable outcome and a screenplay that glosses over rafael 's evolution .",
+            "output": "positive"
+        },
+        "204": {
+            "input": "what it lacks in originality it makes up for in effective if cheap moments of fright and dread .",
+            "output": "neutral"
+        },
+        "205": {
+            "input": "and it 's not that funny -- which is just generally insulting .",
+            "output": "very negative"
+        },
+        "206": {
+            "input": "it 's not particularly well made , but since i found myself howling more than cringing , i 'd say the film works .",
+            "output": "positive"
+        },
+        "207": {
+            "input": "we do get the distinct impression that this franchise is drawing to a close .",
+            "output": "negative"
+        },
+        "208": {
+            "input": "elvira fans could hardly ask for more .",
+            "output": "very positive"
+        },
+        "209": {
+            "input": "this movie ... does n't deserve the energy it takes to describe how bad it is .",
+            "output": "negative"
+        },
+        "210": {
+            "input": "painful , horrifying and oppressively tragic , this film should not be missed .",
+            "output": "very positive"
+        },
+        "211": {
+            "input": "a very familiar tale , one that 's been told by countless filmmakers about italian - , chinese - , irish - , latin - , indian - , russian - and other hyphenate american young men struggling to balance conflicting cultural messages .",
+            "output": "neutral"
+        },
+        "212": {
+            "input": "almost as offensive as `` freddy got fingered . ''",
+            "output": "negative"
+        },
+        "213": {
+            "input": "one of the best films of the year with its exquisite acting , inventive screenplay , mesmerizing music , and many inimitable scenes of tenderness , loss , discontent , and yearning .",
+            "output": "very positive"
+        },
+        "214": {
+            "input": "`` me without you '' is a probing examination of a female friendship set against a few dynamic decades .",
+            "output": "neutral"
+        },
+        "215": {
+            "input": "bravado kathy !",
+            "output": "positive"
+        },
+        "216": {
+            "input": "a miraculous movie , i 'm going home is so slight , yet overflows with wisdom and emotion .",
+            "output": "very positive"
+        },
+        "217": {
+            "input": "the screenplay is hugely overwritten , with tons and tons of dialogue -- most of it given to children .",
+            "output": "negative"
+        },
+        "218": {
+            "input": "superb production values & christian bale 's charisma make up for a derivative plot .",
+            "output": "positive"
+        },
+        "219": {
+            "input": "but it does n't need gangs of new york .",
+            "output": "neutral"
+        },
+        "220": {
+            "input": "she 's not yet an actress , not quite a singer ...",
+            "output": "neutral"
+        },
+        "221": {
+            "input": "the vistas are sweeping and the acting is far from painful .",
+            "output": "neutral"
+        },
+        "222": {
+            "input": "bad company .",
+            "output": "negative"
+        },
+        "223": {
+            "input": "an ambitious ` what if ? '",
+            "output": "positive"
+        },
+        "224": {
+            "input": "imagine susan sontag falling in love with howard stern .",
+            "output": "negative"
+        },
+        "225": {
+            "input": "there 's nothing exactly wrong here , but there 's not nearly enough that 's right .",
+            "output": "negative"
+        },
+        "226": {
+            "input": "symbolically , warm water under a red bridge is a celebration of feminine energy , a tribute to the power of women to heal .",
+            "output": "positive"
+        },
+        "227": {
+            "input": "an enjoyable feel-good family comedy regardless of race .",
+            "output": "positive"
+        },
+        "228": {
+            "input": "malcolm mcdowell is cool .",
+            "output": "positive"
+        },
+        "229": {
+            "input": "unless there are zoning ordinances to protect your community from the dullest science fiction , impostor is opening today at a theater near you .",
+            "output": "negative"
+        },
+        "230": {
+            "input": "this director 's cut -- which adds 51 minutes -- takes a great film and turns it into a mundane soap opera .",
+            "output": "negative"
+        },
+        "231": {
+            "input": "an odd drama set in the world of lingerie models and bar dancers in the midwest that held my interest precisely because it did n't try to .",
+            "output": "very positive"
+        },
+        "232": {
+            "input": "tries too hard to be funny in a way that 's too loud , too goofy and too short of an attention span .",
+            "output": "negative"
+        },
+        "233": {
+            "input": "lush and beautifully photographed -lrb- somebody suggested the stills might make a nice coffee table book -rrb- , but ultimately you 'll leave the theater wondering why these people mattered .",
+            "output": "negative"
+        },
+        "234": {
+            "input": "certainly .",
+            "output": "neutral"
+        },
+        "235": {
+            "input": "as crimes go , writer-director michael kalesniko 's how to kill your neighbor 's dog is slight but unendurable .",
+            "output": "neutral"
+        },
+        "236": {
+            "input": "turturro is fabulously funny and over the top as a ` very sneaky ' butler who excels in the art of impossible disappearing\\/reappearing acts",
+            "output": "very positive"
+        },
+        "237": {
+            "input": "a plodding teen remake that 's so mechanical you can smell the grease on the plot twists .",
+            "output": "very negative"
+        },
+        "238": {
+            "input": "a culture-clash comedy that , in addition to being very funny , captures some of the discomfort and embarrassment of being a bumbling american in europe .",
+            "output": "positive"
+        },
+        "239": {
+            "input": "a lovably old-school hollywood confection .",
+            "output": "positive"
+        },
+        "240": {
+            "input": "it 's a shame the marvelous first 101 minutes have to be combined with the misconceived final 5 .",
+            "output": "negative"
+        },
+        "241": {
+            "input": "a modest masterpiece .",
+            "output": "positive"
+        },
+        "242": {
+            "input": "if the last man were the last movie left on earth , there would be a toss-up between presiding over the end of cinema as we know it and another night of delightful hand shadows .",
+            "output": "negative"
+        },
+        "243": {
+            "input": "the bodily function jokes are about what you 'd expect , but there are rich veins of funny stuff in this movie .",
+            "output": "positive"
+        },
+        "244": {
+            "input": "... quite good at providing some good old fashioned spooks .",
+            "output": "positive"
+        },
+        "245": {
+            "input": "max pokes , provokes , takes expressionistic license and hits a nerve ... as far as art is concerned , it 's mission accomplished .",
+            "output": "positive"
+        },
+        "246": {
+            "input": "a worthwhile documentary , whether you 're into rap or not , even if it may still leave you wanting more answers as the credits roll .",
+            "output": "positive"
+        },
+        "247": {
+            "input": "a rude black comedy about the catalytic effect a holy fool has upon those around him in the cutthroat world of children 's television .",
+            "output": "negative"
+        },
+        "248": {
+            "input": "stanley kwan has directed not only one of the best gay love stories ever made , but one of the best love stories of any stripe .",
+            "output": "very positive"
+        },
+        "249": {
+            "input": "disappointingly , the characters are too strange and dysfunctional , tom included , to ever get under the skin , but this is compensated in large part by the off-the-wall dialogue , visual playfulness and the outlandishness of the idea itself .",
+            "output": "neutral"
+        },
+        "250": {
+            "input": "an animation landmark as monumental as disney 's 1937 breakthrough snow white and the seven dwarfs .",
+            "output": "very positive"
+        },
+        "251": {
+            "input": "the master of disguise falls under the category of ` should have been a sketch on saturday night live . '",
+            "output": "negative"
+        },
+        "252": {
+            "input": "a terrible movie that some people will nevertheless find moving .",
+            "output": "very negative"
+        },
+        "253": {
+            "input": "as inept as big-screen remakes of the avengers and the wild wild west .",
+            "output": "negative"
+        },
+        "254": {
+            "input": "is truth stranger than fiction ?",
+            "output": "neutral"
+        },
+        "255": {
+            "input": "viewers will need all the luck they can muster just figuring out who 's who in this pretentious mess .",
+            "output": "very negative"
+        },
+        "256": {
+            "input": "in a big corner office in hell , satan is throwing up his hands in surrender , is firing his r&d people , and has decided he will just screen the master of disguise 24\\/7 .",
+            "output": "very negative"
+        },
+        "257": {
+            "input": "might best be enjoyed as a daytime soaper .",
+            "output": "neutral"
+        },
+        "258": {
+            "input": "lots of effort and intelligence are on display but in execution it is all awkward , static , and lifeless rumblings .",
+            "output": "very negative"
+        },
+        "259": {
+            "input": "we ca n't accuse kung pow for misfiring , since it is exactly what it wants to be : an atrociously , mind-numbingly , indescribably bad movie .",
+            "output": "very negative"
+        },
+        "260": {
+            "input": "o fantasma is boldly , confidently orchestrated , aesthetically and sexually , and its impact is deeply and rightly disturbing .",
+            "output": "positive"
+        },
+        "261": {
+            "input": "less an examination of neo-nazism than a probe into the nature of faith itself .",
+            "output": "positive"
+        },
+        "262": {
+            "input": "this movie is to be cherished .",
+            "output": "very positive"
+        },
+        "263": {
+            "input": "great fun both for sports aficionados and for ordinary louts whose idea of exercise is climbing the steps of a stadium-seat megaplex .",
+            "output": "positive"
+        },
+        "264": {
+            "input": "tres greek writer and star nia vardalos has crafted here a worldly-wise and very funny script .",
+            "output": "positive"
+        },
+        "265": {
+            "input": "so genial is the conceit , this is one of those rare pictures that you root for throughout , dearly hoping that the rich promise of the script will be realized on the screen .",
+            "output": "positive"
+        },
+        "266": {
+            "input": "there are n't many conclusive answers in the film , but there is an interesting story of pointed personalities , courage , tragedy and the little guys vs. the big guys .",
+            "output": "positive"
+        },
+        "267": {
+            "input": "start reading your scripts before signing that dotted line .",
+            "output": "negative"
+        },
+        "268": {
+            "input": "it is an unstinting look at a collaboration between damaged people that may or may not qual",
+            "output": "positive"
+        },
+        "269": {
+            "input": "b picture , and i mean that as a compliment .",
+            "output": "neutral"
+        },
+        "270": {
+            "input": "just bring on the battle bots , please !",
+            "output": "positive"
+        },
+        "271": {
+            "input": "director yu seems far more interested in gross-out humor than in showing us well-thought stunts or a car chase that we have n't seen 10,000 times .",
+            "output": "negative"
+        },
+        "272": {
+            "input": "they exist for hushed lines like `` they 're back ! ''",
+            "output": "neutral"
+        },
+        "273": {
+            "input": "a small fortune in salaries and stunt cars might have been saved if the director , tom dey , had spliced together bits and pieces of midnight run and 48 hours -lrb- and , for that matter , shrek -rrb- .",
+            "output": "negative"
+        },
+        "274": {
+            "input": "the lousy lead performances ... keep the movie from ever reaching the comic heights it obviously desired .",
+            "output": "negative"
+        },
+        "275": {
+            "input": "this deeply spiritual film taps into the meaning and consolation in afterlife communications .",
+            "output": "positive"
+        },
+        "276": {
+            "input": "this version does justice both to stevenson and to the sci-fi genre .",
+            "output": "positive"
+        },
+        "277": {
+            "input": "how i killed my father is one of those art house films that makes you feel like you 're watching an iceberg melt -- only it never melts .",
+            "output": "neutral"
+        },
+        "278": {
+            "input": "... an enjoyably frothy ` date movie ' ...",
+            "output": "very positive"
+        },
+        "279": {
+            "input": "the phone rings and a voice tells you you 've got seven days left to live .",
+            "output": "neutral"
+        },
+        "280": {
+            "input": "worthy of the gong .",
+            "output": "negative"
+        },
+        "281": {
+            "input": "the ring never lets you off the hook .",
+            "output": "positive"
+        },
+        "282": {
+            "input": "a sluggish pace and lack of genuine narrative hem the movie in every bit as much as life hems in the spirits of these young women .",
+            "output": "negative"
+        },
+        "283": {
+            "input": "it 's just a little too self-satisfied .",
+            "output": "neutral"
+        },
+        "284": {
+            "input": "matters play out realistically if not always fairly .",
+            "output": "positive"
+        },
+        "285": {
+            "input": "the komediant is a tale worth catching .",
+            "output": "positive"
+        },
+        "286": {
+            "input": "a fifty car pileup of cliches .",
+            "output": "very negative"
+        },
+        "287": {
+            "input": "the threat implied in the title pok\u00e9mon 4ever is terrifying -- like locusts in a horde these things will keep coming .",
+            "output": "very negative"
+        },
+        "288": {
+            "input": "goldmember is funny enough to justify the embarrassment of bringing a barf bag to the moviehouse .",
+            "output": "neutral"
+        },
+        "289": {
+            "input": "though there are entertaining and audacious moments , the movie 's wildly careening tone and an extremely flat lead performance do little to salvage this filmmaker 's flailing reputation .",
+            "output": "negative"
+        },
+        "290": {
+            "input": "woefully pretentious .",
+            "output": "negative"
+        },
+        "291": {
+            "input": "... a great , participatory spectator sport . '",
+            "output": "positive"
+        },
+        "292": {
+            "input": "it 's all stitched together with energy , intelligence and verve , enhanced by a surplus of vintage archive footage .",
+            "output": "very positive"
+        },
+        "293": {
+            "input": "my own minority report is that it stinks .",
+            "output": "very negative"
+        },
+        "294": {
+            "input": "i 'm going to give it a marginal thumbs up .",
+            "output": "positive"
+        },
+        "295": {
+            "input": "it 's hard to imagine that even very small children will be impressed by this tired retread .",
+            "output": "very negative"
+        },
+        "296": {
+            "input": "watching austin powers in goldmember is like binging on cotton candy .",
+            "output": "positive"
+        },
+        "297": {
+            "input": "though tom shadyac 's film kicks off spookily enough , around the halfway mark it takes an abrupt turn into glucose sentimentality and laughable contrivance .",
+            "output": "negative"
+        },
+        "298": {
+            "input": "boisterous , heartfelt comedy .",
+            "output": "very positive"
+        },
+        "299": {
+            "input": "thumbs down .",
+            "output": "very negative"
+        },
+        "300": {
+            "input": "too bland and fustily tasteful to be truly prurient .",
+            "output": "negative"
+        },
+        "301": {
+            "input": "though few will argue that it ranks with the best of herzog 's works , invincible shows he 's back in form , with an astoundingly rich film .",
+            "output": "very positive"
+        },
+        "302": {
+            "input": "the master of disguise represents adam sandler 's latest attempt to dumb down the universe .",
+            "output": "negative"
+        },
+        "303": {
+            "input": "on a cutting room floor somewhere lies ... footage that might have made no such thing a trenchant , ironic cultural satire instead of a frustrating misfire .",
+            "output": "very negative"
+        },
+        "304": {
+            "input": "and lee seems just as expectant of an adoring , wide-smiling reception .",
+            "output": "positive"
+        },
+        "305": {
+            "input": "clint eastwood 's blood work is a lot like a well-made pb & j sandwich : familiar , fairly uneventful and boasting no real surprises -- but still quite tasty and inviting all the same .",
+            "output": "positive"
+        },
+        "306": {
+            "input": "goldbacher draws on an elegant visual sense and a talent for easy , seductive pacing ... but she and writing partner laurence coriat do n't manage an equally assured narrative coinage .",
+            "output": "positive"
+        },
+        "307": {
+            "input": "-lrb- westbrook -rrb- makes a wonderful subject for the camera .",
+            "output": "very positive"
+        },
+        "308": {
+            "input": "then again , in a better movie , you might not have noticed .",
+            "output": "very negative"
+        },
+        "309": {
+            "input": "it 's a rare window on an artistic collaboration .",
+            "output": "positive"
+        },
+        "310": {
+            "input": "the film is a fierce dance of destruction .",
+            "output": "positive"
+        },
+        "311": {
+            "input": "a savage john waters-like humor that dances on the edge of tastelessness without ever quite falling over .",
+            "output": "neutral"
+        },
+        "312": {
+            "input": "a fleet-footed and pleasingly upbeat family diversion .",
+            "output": "positive"
+        },
+        "313": {
+            "input": "the chateau is a risky venture that never quite goes where you expect and often surprises you with unexpected comedy .",
+            "output": "positive"
+        },
+        "314": {
+            "input": "wobbly senegalese updating of `` carmen '' which is best for the stunning star turn by djeinaba diop gai",
+            "output": "neutral"
+        },
+        "315": {
+            "input": "the observations of this social\\/economic\\/urban environment are canny and spiced with irony .",
+            "output": "positive"
+        },
+        "316": {
+            "input": "` the film is stark , straightforward and deadly ... an unnatural calm that 's occasionally shaken by ... blasts of rage , and later , violent jealousy . '",
+            "output": "neutral"
+        },
+        "317": {
+            "input": "and as with most late-night bull sessions , eventually the content is n't nearly as captivating as the rowdy participants think it is .",
+            "output": "negative"
+        },
+        "318": {
+            "input": "as gamely as the movie tries to make sense of its title character , there remains a huge gap between the film 's creepy , clean-cut dahmer -lrb- jeremy renner -rrb- and fiendish acts that no amount of earnest textbook psychologizing can bridge .",
+            "output": "very negative"
+        },
+        "319": {
+            "input": "combines sharp comedy , old-fashioned monster movie atmospherics , and genuine heart to create a film that 's not merely about kicking undead \\*\\*\\* , but also about dealing with regret and , ultimately , finding redemption .",
+            "output": "very positive"
+        },
+        "320": {
+            "input": "bluer than the atlantic and more biologically detailed than an autopsy , the movie ... is , also , frequently hilarious .",
+            "output": "very positive"
+        },
+        "321": {
+            "input": "this is an elegantly balanced movie -- every member of the ensemble has something fascinating to do -- that does n't reveal even a hint of artifice .",
+            "output": "very positive"
+        },
+        "322": {
+            "input": "what makes esther kahn so demanding is that it progresses in such a low-key manner that it risks monotony .",
+            "output": "negative"
+        },
+        "323": {
+            "input": "murderous maids has a lot going for it , not least the brilliant performances by testud ... and parmentier .",
+            "output": "positive"
+        },
+        "324": {
+            "input": "for free .",
+            "output": "neutral"
+        },
+        "325": {
+            "input": "a tedious parable about honesty and good sportsmanship .",
+            "output": "neutral"
+        },
+        "326": {
+            "input": "-lrb- city -rrb- reminds us how realistically nuanced a robert de niro performance can be when he is not more lucratively engaged in the shameless self-caricature of ` analyze this ' -lrb- 1999 -rrb- and ` analyze that , ' promised -lrb- or threatened -rrb- for later this year .",
+            "output": "positive"
+        },
+        "327": {
+            "input": "in the process of trimming the movie to an expeditious 84 minutes , director roger kumble seems to have dumped a whole lot of plot in favor of ... outrageous gags .",
+            "output": "negative"
+        },
+        "328": {
+            "input": "charlotte sometimes is a gem .",
+            "output": "positive"
+        },
+        "329": {
+            "input": "naomi watts is terrific as rachel ; her petite frame and vulnerable persona emphasising her plight and isolation .",
+            "output": "positive"
+        },
+        "330": {
+            "input": "and there 's an element of heartbreak to watching it now , with older and wiser eyes , because we know what will happen after greene 's story ends .",
+            "output": "positive"
+        },
+        "331": {
+            "input": "fontaine masterfully creates a portrait of two strong men in conflict , inextricably entwined through family history , each seeing himself in the other , neither liking what he sees .",
+            "output": "positive"
+        },
+        "332": {
+            "input": "the movie 's gloomy atmosphere is fascinating , though , even if the movie itself does n't stand a ghost of a chance .",
+            "output": "neutral"
+        },
+        "333": {
+            "input": "impossible as it may sound , this film 's heart is even more embracing than monty , if only because it accepts nasty behavior and severe flaws as part of the human condition .",
+            "output": "very positive"
+        },
+        "334": {
+            "input": "the characterizations and dialogue lack depth or complexity , with the ironic exception of scooter .",
+            "output": "negative"
+        },
+        "335": {
+            "input": "call this the full monty on ice , the underdog sports team formula redux .",
+            "output": "neutral"
+        },
+        "336": {
+            "input": "-lrb- it -rrb- highlights not so much the crime lord 's messianic bent , but spacey 's .",
+            "output": "neutral"
+        },
+        "337": {
+            "input": "a jumbled fantasy comedy that did not figure out a coherent game plan at scripting , shooting or post-production stages .",
+            "output": "negative"
+        },
+        "338": {
+            "input": "with rare birds , as with the shipping news before it , an attempt is made to transplant a hollywood star into newfoundland 's wild soil -- and the rock once again resists the intrusion .",
+            "output": "neutral"
+        },
+        "339": {
+            "input": "it 's full of cheesy dialogue , but great trashy fun that finally returns de palma to his pulpy thrillers of the early '80s .",
+            "output": "positive"
+        },
+        "340": {
+            "input": "it 's a funny little movie with clever dialogue and likeable characters .",
+            "output": "very positive"
+        },
+        "341": {
+            "input": "it all comes down to whether you can tolerate leon barlow .",
+            "output": "negative"
+        },
+        "342": {
+            "input": "... a low rate annie featuring some kid who ca n't act , only echoes of jordan , and weirdo actor crispin glover screwing things up old school .",
+            "output": "negative"
+        },
+        "343": {
+            "input": "a moving story of determination and the human spirit .",
+            "output": "very positive"
+        },
+        "344": {
+            "input": "the story is also as unoriginal as they come , already having been recycled more times than i 'd care to count .",
+            "output": "negative"
+        },
+        "345": {
+            "input": "this is one of the biggest disappointments of the year .",
+            "output": "very negative"
+        },
+        "346": {
+            "input": "screenwriter chris ver weil 's directing debut is good-natured and never dull , but its virtues are small and easily overshadowed by its predictability .",
+            "output": "neutral"
+        },
+        "347": {
+            "input": "marvelously entertaining and deliriously joyous documentary .",
+            "output": "very positive"
+        },
+        "348": {
+            "input": "but something seems to be missing .",
+            "output": "neutral"
+        },
+        "349": {
+            "input": "the performances of the children , untrained in acting , have an honesty and dignity that breaks your heart .",
+            "output": "positive"
+        },
+        "350": {
+            "input": "imagine the cleanflicks version of ` love story , ' with ali macgraw 's profanities replaced by romance-novel platitudes .",
+            "output": "negative"
+        },
+        "351": {
+            "input": "reveals how important our special talents can be when put in service of of others .",
+            "output": "positive"
+        },
+        "352": {
+            "input": "the byplay and bickering between the now spy-savvy siblings , carmen -lrb- vega -rrb- and juni -lrb- sabara -rrb- cortez , anchor the film in a very real and amusing give-and-take .",
+            "output": "very positive"
+        },
+        "353": {
+            "input": "a refreshingly realistic , affectation-free coming-of-age tale .",
+            "output": "very positive"
+        },
+        "354": {
+            "input": "clumsy , obvious , preposterous , the movie will likely set the cause of woman warriors back decades .",
+            "output": "very negative"
+        },
+        "355": {
+            "input": "shiner can certainly go the distance , but is n't world championship material",
+            "output": "positive"
+        },
+        "356": {
+            "input": "it 's not hateful .",
+            "output": "neutral"
+        },
+        "357": {
+            "input": "alternates between deadpan comedy and heartbreaking loneliness and is n't afraid to provoke introspection in both its characters and its audience .",
+            "output": "positive"
+        },
+        "358": {
+            "input": "looks more like a travel-agency video targeted at people who like to ride bikes topless and roll in the mud than a worthwhile glimpse of independent-community guiding lights .",
+            "output": "very negative"
+        },
+        "359": {
+            "input": "-lrb- scherfig -rrb- has made a movie that will leave you wondering about the characters ' lives after the clever credits roll .",
+            "output": "positive"
+        },
+        "360": {
+            "input": "a meditation on faith and madness , frailty is blood-curdling stuff .",
+            "output": "positive"
+        },
+        "361": {
+            "input": "`` brown sugar '' admirably aspires to be more than another `` best man '' clone by weaving a theme throughout this funny film .",
+            "output": "positive"
+        },
+        "362": {
+            "input": "even if the ring has a familiar ring , it 's still unusually crafty and intelligent for hollywood horror .",
+            "output": "positive"
+        },
+        "363": {
+            "input": "... this is n't even a movie we can enjoy as mild escapism ; it is one in which fear and frustration are provoked to intolerable levels .",
+            "output": "very negative"
+        },
+        "364": {
+            "input": "i wish windtalkers had had more faith in the dramatic potential of this true story .",
+            "output": "neutral"
+        },
+        "365": {
+            "input": "as an actress , madonna is one helluva singer .",
+            "output": "very positive"
+        },
+        "366": {
+            "input": "mattei 's underdeveloped effort here is nothing but a convenient conveyor belt of brooding personalities that parade about as if they were coming back from stock character camp -- a drowsy drama infatuated by its own pretentious self-examination .",
+            "output": "negative"
+        },
+        "367": {
+            "input": "makes the same mistake as the music industry it criticizes , becoming so slick and watered-down it almost loses what made you love it in the first place .",
+            "output": "negative"
+        },
+        "368": {
+            "input": "the way home is an ode to unconditional love and compassion garnered from years of seeing it all , a condition only the old are privy to , and ... often misconstrued as weakness .",
+            "output": "positive"
+        },
+        "369": {
+            "input": "not too fancy , not too filling , not too fluffy , but definitely tasty and sweet .",
+            "output": "positive"
+        },
+        "370": {
+            "input": "this odd , poetic road movie , spiked by jolts of pop music , pretty much takes place in morton 's ever-watchful gaze -- and it 's a tribute to the actress , and to her inventive director , that the journey is such a mesmerizing one .",
+            "output": "very positive"
+        },
+        "371": {
+            "input": "it goes down easy , leaving virtually no aftertaste .",
+            "output": "positive"
+        },
+        "372": {
+            "input": "... is there a deeper , more direct connection between these women , one that spans time and reveals meaning ?",
+            "output": "neutral"
+        },
+        "373": {
+            "input": "-lrb- the cockettes -rrb- provides a window into a subculture hell-bent on expressing itself in every way imaginable . '",
+            "output": "positive"
+        },
+        "374": {
+            "input": "make chan 's action sequences boring .",
+            "output": "negative"
+        },
+        "375": {
+            "input": "a treat for its depiction on not giving up on dreams when you 're a struggling nobody .",
+            "output": "positive"
+        },
+        "376": {
+            "input": "a bright , inventive , thoroughly winning flight of revisionist fancy .",
+            "output": "positive"
+        },
+        "377": {
+            "input": "represents the depths to which the girls-behaving-badly film has fallen .",
+            "output": "negative"
+        },
+        "378": {
+            "input": "sometimes charming , sometimes infuriating , this argentinean ` dramedy ' succeeds mainly on the shoulders of its actors .",
+            "output": "positive"
+        },
+        "379": {
+            "input": "an engaging criminal romp that will have viewers guessing just who 's being conned right up to the finale .",
+            "output": "positive"
+        },
+        "380": {
+            "input": "i believe silberling had the best intentions here , but he just does n't have the restraint to fully realize them .",
+            "output": "neutral"
+        },
+        "381": {
+            "input": "bigelow handles the nuclear crisis sequences evenly but milks drama when she should be building suspense , and drags out too many scenes toward the end that should move quickly .",
+            "output": "negative"
+        },
+        "382": {
+            "input": "the film has -lrb- its -rrb- moments , but they are few and far between .",
+            "output": "negative"
+        },
+        "383": {
+            "input": "their work is fantastic .",
+            "output": "very positive"
+        },
+        "384": {
+            "input": "yet the act is still charming here .",
+            "output": "positive"
+        },
+        "385": {
+            "input": "gooding and coburn are both oscar winners , a fact which , as you watch them clumsily mugging their way through snow dogs , seems inconceivable .",
+            "output": "negative"
+        },
+        "386": {
+            "input": "director-chef gabriele muccino keeps it fast -- zippy , comin ' at ya -- as if fearing that his film is molto superficiale .",
+            "output": "neutral"
+        },
+        "387": {
+            "input": "the film exudes the urbane sweetness that woody allen seems to have bitterly forsaken .",
+            "output": "positive"
+        },
+        "388": {
+            "input": "what makes barbershop so likable , with all its flaws , is that it has none of the pushiness and decibel volume of most contemporary comedies .",
+            "output": "positive"
+        },
+        "389": {
+            "input": "... a guiltless film for nice evening out .",
+            "output": "positive"
+        },
+        "390": {
+            "input": "one of the most unpleasant things the studio has ever produced .",
+            "output": "very negative"
+        },
+        "391": {
+            "input": "hill looks to be going through the motions , beginning with the pale script .",
+            "output": "negative"
+        },
+        "392": {
+            "input": "this film was made by and for those folks who collect the serial killer cards and are fascinated by the mere suggestion of serial killers .",
+            "output": "neutral"
+        },
+        "393": {
+            "input": "tsai may be ploughing the same furrow once too often .",
+            "output": "neutral"
+        },
+        "394": {
+            "input": "it 's a great performance and a reminder of dickens ' grandeur .",
+            "output": "very positive"
+        },
+        "395": {
+            "input": "an enjoyable experience .",
+            "output": "very positive"
+        },
+        "396": {
+            "input": "a rich tale of our times , very well told with an appropriate minimum of means .",
+            "output": "positive"
+        },
+        "397": {
+            "input": "lazy , miserable and smug .",
+            "output": "very negative"
+        },
+        "398": {
+            "input": "a sleep-inducing thriller with a single twist that everyone except the characters in it can see coming a mile away .",
+            "output": "negative"
+        },
+        "399": {
+            "input": "... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920 's ... the film 's ending has a `` what was it all for ? ''",
+            "output": "very negative"
+        },
+        "400": {
+            "input": "the script feels as if it started to explore the obvious voyeuristic potential of ` hypertime ' but then backed off when the producers saw the grosses for spy kids .",
+            "output": "neutral"
+        },
+        "401": {
+            "input": "armed with a game supporting cast , from the pitch-perfect forster to the always hilarious meara and levy , like mike shoots and scores , doing its namesake proud .",
+            "output": "very positive"
+        },
+        "402": {
+            "input": "although made on a shoestring and unevenly acted , conjures a lynch-like vision of the rotting underbelly of middle america .",
+            "output": "negative"
+        },
+        "403": {
+            "input": "one-of-a-kind near-masterpiece .",
+            "output": "very positive"
+        },
+        "404": {
+            "input": "disappointing in comparison to other recent war movies ... or any other john woo flick for that matter .",
+            "output": "negative"
+        },
+        "405": {
+            "input": "much of the movie 's charm lies in the utter cuteness of stuart and margolo .",
+            "output": "positive"
+        },
+        "406": {
+            "input": "likely to have decades of life as a classic movie franchise ?",
+            "output": "positive"
+        },
+        "407": {
+            "input": "... what a banal bore the preachy circuit turns out to be",
+            "output": "very negative"
+        },
+        "408": {
+            "input": "holm does his sly , intricate magic , and iben hjelje is entirely appealing as pumpkin .",
+            "output": "positive"
+        },
+        "409": {
+            "input": "it 's not difficult to spot the culprit early-on in this predictable thriller .",
+            "output": "neutral"
+        },
+        "410": {
+            "input": "low rent from frame one .",
+            "output": "negative"
+        },
+        "411": {
+            "input": "great character interaction .",
+            "output": "very positive"
+        },
+        "412": {
+            "input": "a minor work yet there 's no denying the potency of miller 's strange , fleeting brew of hopeful perseverance and hopeless closure .",
+            "output": "neutral"
+        },
+        "413": {
+            "input": "it 's a piece of handiwork that shows its indie tatters and self-conscious seams in places , but has some quietly moving moments and an intelligent subtlety .",
+            "output": "positive"
+        },
+        "414": {
+            "input": "i have a new favorite musical -- and i 'm not even a fan of the genre",
+            "output": "positive"
+        },
+        "415": {
+            "input": "a moving and stark reminder that the casualties of war reach much further than we imagine .",
+            "output": "very positive"
+        },
+        "416": {
+            "input": "i know we 're not supposed to take it seriously , but i ca n't shake the thought that undercover brother missed an opportunity to strongly present some profound social commentary .",
+            "output": "neutral"
+        },
+        "417": {
+            "input": "its simplicity puts an exclamation point on the fact that this is n't something to be taken seriously , but it also wrecks any chance of the movie rising above similar fare .",
+            "output": "negative"
+        },
+        "418": {
+            "input": "the setting is so cool that it chills the characters , reducing our emotional stake in the outcome of `` intacto 's '' dangerous and seductively stylish game .",
+            "output": "neutral"
+        },
+        "419": {
+            "input": "will give many ministers and bible-study groups hours of material to discuss .",
+            "output": "positive"
+        },
+        "420": {
+            "input": "it 's pauly shore awful .",
+            "output": "very negative"
+        },
+        "421": {
+            "input": "exhilarating but blatantly biased .",
+            "output": "positive"
+        },
+        "422": {
+            "input": "interesting and thoroughly unfaithful version of carmen",
+            "output": "positive"
+        },
+        "423": {
+            "input": "i did n't laugh .",
+            "output": "negative"
+        },
+        "424": {
+            "input": "smart and fun , but far more witty than it is wise .",
+            "output": "positive"
+        },
+        "425": {
+            "input": "swiftly deteriorates into a terribly obvious melodrama and rough-hewn vanity project for lead actress andie macdowell .",
+            "output": "very negative"
+        },
+        "426": {
+            "input": "richard pryor mined his personal horrors and came up with a treasure chest of material , but lawrence gives us mostly fool 's gold .",
+            "output": "negative"
+        },
+        "427": {
+            "input": "it 's very beavis and butthead , yet always seems to elicit a chuckle .",
+            "output": "positive"
+        },
+        "428": {
+            "input": "-lrb- johnnie to and wai ka fai are -rrb- sure to find an enthusiastic audience among american action-adventure buffs , but the film 's interests may be too narrow to attract crossover viewers .",
+            "output": "negative"
+        },
+        "429": {
+            "input": "like the chilled breath of oral storytelling frozen onto film .",
+            "output": "positive"
+        },
+        "430": {
+            "input": "spider-man is in the same category as x-men - occasionally brilliant but mostly average , showing signs of potential for the sequels , but not giving us much this time around .",
+            "output": "neutral"
+        },
+        "431": {
+            "input": "laughably , irredeemably awful .",
+            "output": "very negative"
+        },
+        "432": {
+            "input": "a compelling yarn , but not quite a ripping one .",
+            "output": "positive"
+        },
+        "433": {
+            "input": "this charming but slight tale has warmth , wit and interesting characters compassionately portrayed .",
+            "output": "positive"
+        },
+        "434": {
+            "input": "no big whoop , nothing new to see , zero thrills , too many flashbacks and a choppy ending make for a bad film .",
+            "output": "very negative"
+        },
+        "435": {
+            "input": "so could young romantics out on a date .",
+            "output": "positive"
+        },
+        "436": {
+            "input": "a dark , quirky road movie that constantly defies expectation .",
+            "output": "very positive"
+        },
+        "437": {
+            "input": "mild , meandering teen flick .",
+            "output": "neutral"
+        },
+        "438": {
+            "input": "there 's not a fresh idea at the core of this tale .",
+            "output": "negative"
+        },
+        "439": {
+            "input": "a sexy , surprising romance ... idemoto and kim make a gorgeous pair ... their scenes brim with sexual possibility and emotional danger .",
+            "output": "very positive"
+        },
+        "440": {
+            "input": "... about as exciting to watch as two last-place basketball teams playing one another on the final day of the season .",
+            "output": "very negative"
+        },
+        "441": {
+            "input": "it 's not an easy one to review .",
+            "output": "negative"
+        },
+        "442": {
+            "input": "the world needs more filmmakers with passionate enthusiasms like martin scorsese .",
+            "output": "very positive"
+        },
+        "443": {
+            "input": "transforms one of -lrb- shakespeare 's -rrb- deepest tragedies into a smart new comedy .",
+            "output": "positive"
+        },
+        "444": {
+            "input": "the secrets of time travel will have been discovered , indulged in and rejected as boring before i see this piece of crap again .",
+            "output": "very negative"
+        },
+        "445": {
+            "input": "it 's the kind of under-inspired , overblown enterprise that gives hollywood sequels a bad name .",
+            "output": "very negative"
+        },
+        "446": {
+            "input": "there is n't one moment in the film that surprises or delights .",
+            "output": "very negative"
+        },
+        "447": {
+            "input": "the problem with the film is whether these ambitions , laudable in themselves , justify a theatrical simulation of the death camp of auschwitz ii-birkenau .",
+            "output": "negative"
+        },
+        "448": {
+            "input": "though a capable thriller , somewhere along the way k-19 jettisoned some crucial drama .",
+            "output": "negative"
+        },
+        "449": {
+            "input": "leaves viewers out in the cold and undermines some phenomenal performances .",
+            "output": "negative"
+        },
+        "450": {
+            "input": "it 's incredible the number of stories the holocaust has generated .",
+            "output": "positive"
+        },
+        "451": {
+            "input": "rubbo 's humorously tendentious intervention into the who-wrote-shakespeare controversy .",
+            "output": "positive"
+        },
+        "452": {
+            "input": "a somewhat disappointing and meandering saga .",
+            "output": "neutral"
+        },
+        "453": {
+            "input": "much of what we see is horrible but it 's also undeniably exceedingly clever .",
+            "output": "positive"
+        },
+        "454": {
+            "input": "sweet home alabama is one dumb movie , but its stupidity is so relentlessly harmless that it almost wins you over in the end .",
+            "output": "neutral"
+        },
+        "455": {
+            "input": "there 's a part of us that can not help be entertained by the sight of someone getting away with something .",
+            "output": "positive"
+        },
+        "456": {
+            "input": "happy times maintains an appealing veneer without becoming too cute about it .",
+            "output": "positive"
+        },
+        "457": {
+            "input": "a reminder that beyond all the hype and recent digital glitz , spielberg knows how to tell us about people .",
+            "output": "very positive"
+        },
+        "458": {
+            "input": "as literary desecrations go , this makes for perfectly acceptable , occasionally very enjoyable children 's entertainment .",
+            "output": "positive"
+        },
+        "459": {
+            "input": "this is surely one of the most frantic , virulent and foul-natured christmas season pics ever delivered by a hollywood studio .",
+            "output": "very negative"
+        },
+        "460": {
+            "input": "vividly conveys the shadow side of the 30-year friendship between two english women .",
+            "output": "neutral"
+        },
+        "461": {
+            "input": "stay away .",
+            "output": "very negative"
+        },
+        "462": {
+            "input": "there is one surefire way to get a nomination for a best-foreign-film oscar : make a movie about whimsical folk who learn a nonchallenging , life-affirming lesson while walking around a foreign city with stunning architecture .",
+            "output": "neutral"
+        },
+        "463": {
+            "input": "thanks to confident filmmaking and a pair of fascinating performances , the way to that destination is a really special walk in the woods .",
+            "output": "very positive"
+        },
+        "464": {
+            "input": "a chilling tale of one of the great crimes of 20th century france : the murder of two rich women by their servants in 1933 .",
+            "output": "positive"
+        },
+        "465": {
+            "input": "it 's hard to imagine any recent film , independent or otherwise , that makes as much of a mess as this one .",
+            "output": "very negative"
+        },
+        "466": {
+            "input": "who needs mind-bending drugs when they can see this , the final part of the ` qatsi ' trilogy , directed by godfrey reggio , with music by philip glass ?",
+            "output": "positive"
+        },
+        "467": {
+            "input": "with an admirably dark first script by brent hanley , paxton , making his directorial feature debut , does strong , measured work .",
+            "output": "very positive"
+        },
+        "468": {
+            "input": "borrows a bit from the classics `` wait until dark '' and `` extremities '' ... but in terms of its style , the movie is in a class by itself .",
+            "output": "very positive"
+        },
+        "469": {
+            "input": "one of the best films i have ever seen , constantly pulling the rug from underneath us , seeing things from new sides , plunging deeper , getting more intense .",
+            "output": "positive"
+        },
+        "470": {
+            "input": "less worrying about covering all the drama in frida 's life and more time spent exploring her process of turning pain into art would have made this a superior movie .",
+            "output": "neutral"
+        },
+        "471": {
+            "input": "too much of nemesis has a tired , talky feel .",
+            "output": "negative"
+        },
+        "472": {
+            "input": "dull , a road-trip movie that 's surprisingly short of both adventure and song .",
+            "output": "very negative"
+        },
+        "473": {
+            "input": "the pianist lacks the quick emotional connections of steven spielberg 's schindler 's list .",
+            "output": "neutral"
+        },
+        "474": {
+            "input": "the first half bursts with a goofy energy previous disney films only used for a few minutes here and there .",
+            "output": "neutral"
+        },
+        "475": {
+            "input": "they can and will turn on a dime from oddly humorous to tediously sentimental .",
+            "output": "positive"
+        },
+        "476": {
+            "input": "it 's not too racy and it 's not too offensive .",
+            "output": "neutral"
+        },
+        "477": {
+            "input": "perhaps even the slc high command found writer-director mitch davis 's wall of kitsch hard going .",
+            "output": "negative"
+        },
+        "478": {
+            "input": "s face is chillingly unemotive , yet he communicates a great deal in his performance .",
+            "output": "neutral"
+        },
+        "479": {
+            "input": "it may also be the best sex comedy about environmental pollution ever made .",
+            "output": "very positive"
+        },
+        "480": {
+            "input": "plays like a glossy melodrama that occasionally verges on camp .",
+            "output": "negative"
+        },
+        "481": {
+            "input": "simply a re-hash of the other seven films .",
+            "output": "negative"
+        },
+        "482": {
+            "input": "a creaky staircase gothic .",
+            "output": "neutral"
+        },
+        "483": {
+            "input": "the strong subject matter continues to shock throughout the film .",
+            "output": "neutral"
+        },
+        "484": {
+            "input": "- i also wanted a little alien as a friend !",
+            "output": "positive"
+        },
+        "485": {
+            "input": "all three women deliver remarkable performances .",
+            "output": "positive"
+        },
+        "486": {
+            "input": "stale , futile scenario .",
+            "output": "negative"
+        },
+        "487": {
+            "input": "a direct-to-void release , heading nowhere .",
+            "output": "neutral"
+        },
+        "488": {
+            "input": "it 's a drawling , slobbering , lovable run-on sentence of a film , a southern gothic with the emotional arc of its raw blues soundtrack .",
+            "output": "neutral"
+        },
+        "489": {
+            "input": "indeed , the more outrageous bits achieve a shock-you-into-laughter intensity of almost dadaist proportions .",
+            "output": "positive"
+        },
+        "490": {
+            "input": "morton deserves an oscar nomination .",
+            "output": "very positive"
+        },
+        "491": {
+            "input": "it 's tough being a black man in america , especially when the man has taken away your car , your work-hours and denied you health insurance .",
+            "output": "neutral"
+        },
+        "492": {
+            "input": "this is not an easy film .",
+            "output": "negative"
+        },
+        "493": {
+            "input": "not even solondz 's thirst for controversy , sketchy characters and immature provocations can fully succeed at cheapening it .",
+            "output": "negative"
+        },
+        "494": {
+            "input": "in between all the emotional seesawing , it 's hard to figure the depth of these two literary figures , and even the times in which they lived .",
+            "output": "negative"
+        },
+        "495": {
+            "input": "offers a guilt-free trip into feel-good territory .",
+            "output": "very positive"
+        },
+        "496": {
+            "input": "a movie that sends you out of the theater feeling like you 've actually spent time living in another community .",
+            "output": "positive"
+        },
+        "497": {
+            "input": "the script , the gags , the characters are all direct-to-video stuff , and that 's where this film should have remained .",
+            "output": "very negative"
+        },
+        "498": {
+            "input": "the film is bright and flashy in all the right ways .",
+            "output": "very positive"
+        },
+        "499": {
+            "input": "`` frailty '' offers chills much like those that you get when sitting around a campfire around midnight , telling creepy stories to give each other the willies .",
+            "output": "very positive"
+        },
+        "500": {
+            "input": "is now stretched to barely feature length , with a little more attention paid to the animation .",
+            "output": "neutral"
+        },
+        "501": {
+            "input": "the script becomes lifeless and falls apart like a cheap lawn chair .",
+            "output": "negative"
+        },
+        "502": {
+            "input": "the only reason you should see this movie is if you have a case of masochism and an hour and a half to blow .",
+            "output": "negative"
+        },
+        "503": {
+            "input": "it is very difficult to care about the character , and that is the central flaw of the film .",
+            "output": "very negative"
+        },
+        "504": {
+            "input": "astonishing is n't the word -- neither is incompetent , incoherent or just plain crap .",
+            "output": "very negative"
+        },
+        "505": {
+            "input": "dense and thoughtful and brimming with ideas that are too complex to be rapidly absorbed .",
+            "output": "neutral"
+        },
+        "506": {
+            "input": "the movie is a lumbering load of hokum but ... it 's at least watchable .",
+            "output": "negative"
+        },
+        "507": {
+            "input": "koepp 's screenplay is n't nearly surprising or clever enough to sustain a reasonable degree of suspense on its own .",
+            "output": "very negative"
+        },
+        "508": {
+            "input": "one of the oddest and most inexplicable sequels in movie history .",
+            "output": "neutral"
+        },
+        "509": {
+            "input": "polished , well-structured film .",
+            "output": "positive"
+        },
+        "510": {
+            "input": "a visionary marvel , but it 's lacking a depth in storytelling usually found in anime like this .",
+            "output": "negative"
+        },
+        "511": {
+            "input": "the color sense of stuart little 2 is its most immediate and most obvious pleasure , but it would count for very little if the movie were n't as beautifully shaped and as delicately calibrated in tone as it is .",
+            "output": "positive"
+        },
+        "512": {
+            "input": "the sentimental cliches mar an otherwise excellent film .",
+            "output": "positive"
+        },
+        "513": {
+            "input": "what i saw , i enjoyed .",
+            "output": "very positive"
+        },
+        "514": {
+            "input": "mildly entertaining .",
+            "output": "neutral"
+        },
+        "515": {
+            "input": "the gags , and the script , are a mixed bag .",
+            "output": "negative"
+        },
+        "516": {
+            "input": "as saccharine as it is disposable .",
+            "output": "negative"
+        },
+        "517": {
+            "input": "it seems impossible that an epic four-hour indian musical about a cricket game could be this good , but it is .",
+            "output": "positive"
+        },
+        "518": {
+            "input": "romantic comedy and dogme 95 filmmaking may seem odd bedfellows , but they turn out to be delightfully compatible here .",
+            "output": "very positive"
+        },
+        "519": {
+            "input": "films are made of little moments .",
+            "output": "neutral"
+        },
+        "520": {
+            "input": "the warnings to resist temptation in this film ... are blunt and challenging and offer no easy rewards for staying clean .",
+            "output": "neutral"
+        },
+        "521": {
+            "input": "if jews were catholics , this would be catechism",
+            "output": "neutral"
+        },
+        "522": {
+            "input": "yet another genre exercise , gangster no. 1 is as generic as its title .",
+            "output": "negative"
+        },
+        "523": {
+            "input": "despite the fact that this film was n't as bad as i thought it was going to be , it 's still not a good movie",
+            "output": "very negative"
+        },
+        "524": {
+            "input": "all the movie 's narrative gymnastics ca n't disguise the fact that it 's inauthentic at its core and that its story just is n't worth telling .",
+            "output": "very negative"
+        },
+        "525": {
+            "input": "... really horrible drek .",
+            "output": "very negative"
+        },
+        "526": {
+            "input": "sillier , cuter , and shorter than the first -lrb- as best i remember -rrb- , but still a very good time at the cinema .",
+            "output": "very positive"
+        },
+        "527": {
+            "input": "cube 's charisma and chemistry compensate for corniness and cliche .",
+            "output": "neutral"
+        },
+        "528": {
+            "input": "what enlivens this film , beyond the astute direction of cardoso and beautifully detailed performances by all of the actors , is a note of defiance over social dictates .",
+            "output": "positive"
+        },
+        "529": {
+            "input": "a disoriented but occasionally disarming saga packed with moments out of an alice in wonderland adventure , a stalker thriller , and a condensed season of tv 's big brother .",
+            "output": "positive"
+        },
+        "530": {
+            "input": "could as easily have been called ` under siege 3 : in alcatraz ' ... a cinematic corpse that never springs to life .",
+            "output": "negative"
+        },
+        "531": {
+            "input": "there 's no conversion effort , much of the writing is genuinely witty and both stars are appealing enough to probably have a good shot at a hollywood career , if they want one .",
+            "output": "positive"
+        },
+        "532": {
+            "input": "the actors try hard but come off too amateurish and awkward .",
+            "output": "very negative"
+        },
+        "533": {
+            "input": "boll uses a lot of quick cutting and blurry step-printing to goose things up , but dopey dialogue and sometimes inadequate performances kill the effect .",
+            "output": "very negative"
+        },
+        "534": {
+            "input": "the movie is a mess from start to finish .",
+            "output": "negative"
+        },
+        "535": {
+            "input": "it makes me feel weird \\/ thinking about all the bad things in the world \\/ like puppies with broken legs \\/ and butterflies that die \\/ and movies starring pop queens",
+            "output": "negative"
+        },
+        "536": {
+            "input": "the salton sea has moments of inspired humour , though every scrap is of the darkest variety .",
+            "output": "positive"
+        },
+        "537": {
+            "input": "it 's an actor 's showcase that accomplishes its primary goal without the use of special effects , but rather by emphasizing the characters -- including the supporting ones .",
+            "output": "neutral"
+        },
+        "538": {
+            "input": "with very little to add beyond the dark visions already relayed by superb recent predecessors like swimming with sharks and the player , this latest skewering ... may put off insiders and outsiders alike .",
+            "output": "negative"
+        },
+        "539": {
+            "input": "it does n't work as either .",
+            "output": "very negative"
+        },
+        "540": {
+            "input": "an improvement on the feeble examples of big-screen poke-mania that have preceded it .",
+            "output": "positive"
+        },
+        "541": {
+            "input": "sets animation back 30 years , musicals back 40 years and judaism back at least 50 .",
+            "output": "very negative"
+        },
+        "542": {
+            "input": "-lrb- taylor -rrb- takes us on a ride that 's consistently surprising , easy to watch -- but , oh , so dumb .",
+            "output": "neutral"
+        },
+        "543": {
+            "input": "the script has less spice than a rat burger and the rock 's fighting skills are more in line with steven seagal .",
+            "output": "negative"
+        },
+        "544": {
+            "input": "extraordinary debut from josh koury .",
+            "output": "very positive"
+        },
+        "545": {
+            "input": "the tuxedo miscalculates badly by forcing the star to play second fiddle to the dull effects that allow the suit to come to life .",
+            "output": "very negative"
+        },
+        "546": {
+            "input": "... better described as a ghost story gone badly awry .",
+            "output": "negative"
+        },
+        "547": {
+            "input": "watchable up until the point where the situations and the dialogue spin hopelessly out of control -- that is to say , when carol kane appears on the screen .",
+            "output": "negative"
+        },
+        "548": {
+            "input": "he 's a better actor than a standup comedian .",
+            "output": "positive"
+        },
+        "549": {
+            "input": "they are what makes it worth the trip to the theatre .",
+            "output": "positive"
+        },
+        "550": {
+            "input": "mariah carey gives us another peek at some of the magic we saw in glitter here in wisegirls .",
+            "output": "positive"
+        },
+        "551": {
+            "input": "a psychic journey deep into the very fabric of iranian ... life .",
+            "output": "positive"
+        },
+        "552": {
+            "input": "... rogers 's mouth never stops shut about the war between the sexes and how to win the battle .",
+            "output": "positive"
+        },
+        "553": {
+            "input": "it may not be a great piece of filmmaking , but its power comes from its soul 's - eye view of how well-meaning patronizing masked a social injustice , at least as represented by this case .",
+            "output": "positive"
+        },
+        "554": {
+            "input": "`` feardotcom '' has the makings of an interesting meditation on the ethereal nature of the internet and the otherworldly energies it could channel , but it simply becomes a routine shocker .",
+            "output": "neutral"
+        },
+        "555": {
+            "input": "i 'm giving it thumbs down due to the endlessly repetitive scenes of embarrassment .",
+            "output": "negative"
+        },
+        "556": {
+            "input": "in all the annals of the movies , few films have been this odd , inexplicable and unpleasant .",
+            "output": "very negative"
+        },
+        "557": {
+            "input": "animated drivel meant to enhance the self-image of drooling idiots .",
+            "output": "negative"
+        },
+        "558": {
+            "input": "the film has an infectious enthusiasm and we 're touched by the film 's conviction that all life centered on that place , that time and that sport .",
+            "output": "positive"
+        },
+        "559": {
+            "input": "has far more energy , wit and warmth than should be expected from any movie with a `` 2 '' at the end of its title .",
+            "output": "positive"
+        },
+        "560": {
+            "input": "while we no longer possess the lack-of-attention span that we did at seventeen , we had no trouble sitting for blade ii .",
+            "output": "positive"
+        },
+        "561": {
+            "input": "i like it .",
+            "output": "positive"
+        },
+        "562": {
+            "input": "this is a superior horror flick .",
+            "output": "very positive"
+        },
+        "563": {
+            "input": "take nothing seriously and enjoy the ride .",
+            "output": "positive"
+        },
+        "564": {
+            "input": "in the pianist , polanski is saying what he has long wanted to say , confronting the roots of his own preoccupations and obsessions , and he allows nothing to get in the way .",
+            "output": "positive"
+        },
+        "565": {
+            "input": "they just do n't work in concert .",
+            "output": "negative"
+        },
+        "566": {
+            "input": "the actors pull out all the stops in nearly every scene , but to diminishing effect .",
+            "output": "neutral"
+        },
+        "567": {
+            "input": "drug abuse , infidelity and death are n't usually comedy fare , but turpin 's film allows us to chuckle through the angst .",
+            "output": "positive"
+        },
+        "568": {
+            "input": "- greaseballs mob action-comedy .",
+            "output": "negative"
+        },
+        "569": {
+            "input": "a so-so , made-for-tv something posing as a real movie .",
+            "output": "very negative"
+        },
+        "570": {
+            "input": "there 's some good material in their story about a retail clerk wanting more out of life , but the movie too often spins its wheels with familiar situations and repetitive scenes .",
+            "output": "negative"
+        },
+        "571": {
+            "input": "nicks and steinberg match their own creations for pure venality -- that 's giving it the old college try .",
+            "output": "negative"
+        },
+        "572": {
+            "input": "tartakovsky 's team has some freakish powers of visual charm , but the five writers slip into the modern rut of narrative banality .",
+            "output": "very negative"
+        },
+        "573": {
+            "input": "brings awareness to an issue often overlooked -- women 's depression .",
+            "output": "neutral"
+        },
+        "574": {
+            "input": "while kids will probably eat the whole thing up , most adults will be way ahead of the plot .",
+            "output": "neutral"
+        },
+        "575": {
+            "input": "if you can push on through the slow spots , you 'll be rewarded with some fine acting .",
+            "output": "positive"
+        },
+        "576": {
+            "input": "even with all its botches , enigma offers all the pleasure of a handsome and well-made entertainment .",
+            "output": "positive"
+        },
+        "577": {
+            "input": "just a string of stale gags , with no good inside dope , and no particular bite .",
+            "output": "negative"
+        },
+        "578": {
+            "input": "interesting , but not compelling .",
+            "output": "neutral"
+        },
+        "579": {
+            "input": "as a hybrid teen thriller and murder mystery , murder by numbers fits the profile too closely .",
+            "output": "neutral"
+        },
+        "580": {
+            "input": "boldly engineering a collision between tawdry b-movie flamboyance and grandiose spiritual anomie , rose 's film , true to its source material , provides a tenacious demonstration of death as the great equalizer .",
+            "output": "neutral"
+        },
+        "581": {
+            "input": "the filmmaker 's heart is in the right place ...",
+            "output": "neutral"
+        },
+        "582": {
+            "input": "as it stands it 's an opera movie for the buffs .",
+            "output": "neutral"
+        },
+        "583": {
+            "input": "birthday girl lucks out with chaplin and kidman , who are capable of anteing up some movie star charisma when they need it to sell us on this twisted love story , but who can also negotiate the movie 's darker turns .",
+            "output": "positive"
+        },
+        "584": {
+            "input": "punitively affirmational parable .",
+            "output": "neutral"
+        },
+        "585": {
+            "input": "yet another weepy southern bore-athon .",
+            "output": "neutral"
+        },
+        "586": {
+            "input": "the film is a confusing melange of tones and styles , one moment a romantic trifle and the next a turgid drama .",
+            "output": "negative"
+        },
+        "587": {
+            "input": "it does n't make for great cinema , but it is interesting to see where one 's imagination will lead when given the opportunity .",
+            "output": "negative"
+        },
+        "588": {
+            "input": "if you 're a crocodile hunter fan , you 'll enjoy at least the `` real '' portions of the film .",
+            "output": "neutral"
+        },
+        "589": {
+            "input": "collateral damage is trash , but it earns extra points by acting as if it were n't .",
+            "output": "very negative"
+        },
+        "590": {
+            "input": "we get the comedy we settle for .",
+            "output": "negative"
+        },
+        "591": {
+            "input": "this is a nicely handled affair , a film about human darkness but etched with a light -lrb- yet unsentimental -rrb- touch .",
+            "output": "positive"
+        },
+        "592": {
+            "input": "the urban landscapes are detailed down to the signs on the kiosks , and the color palette , with lots of somber blues and pinks , is dreamy and evocative .",
+            "output": "very positive"
+        },
+        "593": {
+            "input": "rosenthal -lrb- halloween ii -rrb- seems to have forgotten everything he ever knew about generating suspense .",
+            "output": "negative"
+        },
+        "594": {
+            "input": "just a kiss wants desperately to come off as a fanciful film about the typical problems of average people .",
+            "output": "neutral"
+        },
+        "595": {
+            "input": "it 's sobering , particularly if anyone still thinks this conflict can be resolved easily , or soon .",
+            "output": "neutral"
+        },
+        "596": {
+            "input": "begins like a docu-drama but builds its multi-character story with a flourish .",
+            "output": "very positive"
+        },
+        "597": {
+            "input": "those with a modicum of patience will find in these characters ' foibles a timeless and unique perspective .",
+            "output": "positive"
+        },
+        "598": {
+            "input": "promises is a compelling piece that demonstrates just how well children can be trained to live out and carry on their parents ' anguish .",
+            "output": "positive"
+        },
+        "599": {
+            "input": "much smarter and more attentive than it first sets out to be .",
+            "output": "positive"
+        },
+        "600": {
+            "input": "puportedly `` based on true events , '' a convolution of language that suggests it 's impossible to claim that it is `` based on a true story '' with a straight face .",
+            "output": "negative"
+        },
+        "601": {
+            "input": "bigelow offers some flashy twists and turns that occasionally fortify this turgid fable .",
+            "output": "positive"
+        },
+        "602": {
+            "input": "no amount of good acting is enough to save oleander 's uninspired story .",
+            "output": "negative"
+        },
+        "603": {
+            "input": "harmless fun .",
+            "output": "positive"
+        },
+        "604": {
+            "input": "solondz is so intent on hammering home his message that he forgets to make it entertaining .",
+            "output": "negative"
+        },
+        "605": {
+            "input": "the overall vibe is druggy and self-indulgent , like a spring-break orgy for pretentious arts majors .",
+            "output": "negative"
+        },
+        "606": {
+            "input": "all the small moments and flashbacks do n't add up to much more than trite observations on the human condition .",
+            "output": "negative"
+        },
+        "607": {
+            "input": "interminably bleak , to say nothing of boring .",
+            "output": "very negative"
+        },
+        "608": {
+            "input": "a solidly constructed , entertaining thriller that stops short of true inspiration .",
+            "output": "positive"
+        },
+        "609": {
+            "input": "a film that 's flawed and brilliant in equal measure .",
+            "output": "positive"
+        },
+        "610": {
+            "input": "especially give credit to affleck .",
+            "output": "very positive"
+        },
+        "611": {
+            "input": "although frailty fits into a classic genre , in its script and execution it is a remarkably original work .",
+            "output": "positive"
+        },
+        "612": {
+            "input": "a playful iranian parable about openness , particularly the need for people of diverse political perspectives to get along despite their ideological differences .",
+            "output": "positive"
+        },
+        "613": {
+            "input": "flawed , but worth seeing for ambrose 's performance .",
+            "output": "neutral"
+        },
+        "614": {
+            "input": "a huge box-office hit in korea , shiri is a must for genre fans .",
+            "output": "positive"
+        },
+        "615": {
+            "input": "so bland and utterly forgettable that it might as well have been titled generic jennifer lopez romantic comedy .",
+            "output": "very negative"
+        },
+        "616": {
+            "input": "glizty but formulaic and silly ... cagney 's ` top of the world ' has been replaced by the bottom of the barrel .",
+            "output": "negative"
+        },
+        "617": {
+            "input": "ponderous , plodding soap opera disguised as a feature film .",
+            "output": "negative"
+        },
+        "618": {
+            "input": "scott delivers a terrific performance in this fascinating portrait of a modern lothario .",
+            "output": "very positive"
+        },
+        "619": {
+            "input": "`` analyze that '' is one of those crass , contrived sequels that not only fails on its own , but makes you second-guess your affection for the original .",
+            "output": "very negative"
+        },
+        "620": {
+            "input": "the movie is so contrived , nonsensical and formulaic that , come to think of it , the day-old shelf would be a more appropriate location to store it .",
+            "output": "very negative"
+        },
+        "621": {
+            "input": "what -lrb- denis -rrb- accomplishes in his chilling , unnerving film is a double portrait of two young women whose lives were as claustrophic , suffocating and chilly as the attics to which they were inevitably consigned .",
+            "output": "positive"
+        },
+        "622": {
+            "input": "go back to sleep .",
+            "output": "negative"
+        },
+        "623": {
+            "input": "a typically observant , carefully nuanced and intimate french coming-of-age film that is an encouraging debut feature but has a needlessly downbeat ending that is too heavy for all that has preceded it .",
+            "output": "neutral"
+        },
+        "624": {
+            "input": "the story has little wit and no surprises .",
+            "output": "negative"
+        },
+        "625": {
+            "input": "overly long and worshipful bio-doc .",
+            "output": "negative"
+        },
+        "626": {
+            "input": "for all its plot twists , and some of them verge on the bizarre as the film winds down , blood work is a strong , character-oriented piece .",
+            "output": "neutral"
+        },
+        "627": {
+            "input": "silly stuff , all mixed up together like a term paper from a kid who ca n't quite distinguish one sci-fi work from another .",
+            "output": "negative"
+        },
+        "628": {
+            "input": "stuffy , full of itself , morally ambiguous and nothing to shout about .",
+            "output": "negative"
+        },
+        "629": {
+            "input": "nicole holofcener 's lovely and amazing , from her own screenplay , jumps to the head of the class of women 's films that manage to avoid the ghetto of sentimental chick-flicks by treating female follies with a satirical style .",
+            "output": "very positive"
+        },
+        "630": {
+            "input": "if you do n't ... well , skip to another review .",
+            "output": "neutral"
+        },
+        "631": {
+            "input": "did it move me to care about what happened in 1915 armenia ?",
+            "output": "neutral"
+        },
+        "632": {
+            "input": "real-life strongman ahola lacks the charisma and ability to carry the film on his admittedly broad shoulders .",
+            "output": "negative"
+        },
+        "633": {
+            "input": "its one-sidedness ... flirts with propaganda .",
+            "output": "negative"
+        },
+        "634": {
+            "input": "i 'll stay with the stage versions , however , which bite cleaner , and deeper .",
+            "output": "negative"
+        },
+        "635": {
+            "input": "there are n't too many films that can be as simultaneously funny , offbeat and heartwarming -lrb- without a thick shmear of the goo , at least -rrb- , but `` elling '' manages to do all three quite well , making it one of the year 's most enjoyable releases .",
+            "output": "very positive"
+        },
+        "636": {
+            "input": "rob schneider , dana carvey and sarah michelle gellar in the philadelphia story ?",
+            "output": "neutral"
+        },
+        "637": {
+            "input": "with a confrontational stance , todd solondz takes aim on political correctness and suburban families .",
+            "output": "neutral"
+        },
+        "638": {
+            "input": "shallow , noisy and pretentious .",
+            "output": "very negative"
+        },
+        "639": {
+            "input": "the story plays out slowly , but the characters are intriguing and realistic .",
+            "output": "positive"
+        },
+        "640": {
+            "input": "you wo n't have any trouble getting kids to eat up these veggies .",
+            "output": "positive"
+        },
+        "641": {
+            "input": "... a rich and intelligent film that uses its pulpy core conceit to probe questions of attraction and interdependence and how the heart accomodates practical needs .",
+            "output": "very positive"
+        },
+        "642": {
+            "input": "a thoughtful movie , a movie that is concerned with souls and risk and schemes and the consequences of one 's actions .",
+            "output": "very positive"
+        },
+        "643": {
+            "input": "in his latest effort , storytelling , solondz has finally made a movie that is n't just offensive -- it also happens to be good .",
+            "output": "positive"
+        },
+        "644": {
+            "input": "tykwer 's surface flash is n't just a poor fit with kieslowski 's lyrical pessimism ; it completely contradicts everything kieslowski 's work aspired to , including the condition of art .",
+            "output": "very negative"
+        },
+        "645": {
+            "input": "it 's in the action scenes that things fall apart .",
+            "output": "negative"
+        },
+        "646": {
+            "input": "it 's a good film , but it falls short of its aspiration to be a true ` epic ' .",
+            "output": "neutral"
+        },
+        "647": {
+            "input": "offers a clear-eyed chronicle of a female friendship that is more complex and honest than anything represented in a hollywood film .",
+            "output": "very positive"
+        },
+        "648": {
+            "input": "literary purists may not be pleased , but as far as mainstream matinee-style entertainment goes , it does a bang-up job of pleasing the crowds .",
+            "output": "very positive"
+        },
+        "649": {
+            "input": "mctiernan 's remake may be lighter on its feet -- the sober-minded original was as graceful as a tap-dancing rhino -- but it is just as boring and as obvious .",
+            "output": "negative"
+        },
+        "650": {
+            "input": "an exercise in cynicism every bit as ugly as the shabby digital photography and muddy sound .",
+            "output": "very negative"
+        },
+        "651": {
+            "input": "contrived pastiche of caper clich\u00e9s .",
+            "output": "negative"
+        },
+        "652": {
+            "input": "mostly , shafer and co-writer gregory hinton lack a strong-minded viewpoint , or a sense of humor .",
+            "output": "negative"
+        },
+        "653": {
+            "input": "notwithstanding my problem with the movie 's final half hour , i 'm going to recommend secretary , based on the wonderful acting clinic put on by spader and gyllenhaal , and also the unique way shainberg goes about telling what at heart is a sweet little girl -",
+            "output": "positive"
+        },
+        "654": {
+            "input": "and educational !",
+            "output": "positive"
+        },
+        "655": {
+            "input": "often demented in a good way , but it is an uneven film for the most part .",
+            "output": "negative"
+        },
+        "656": {
+            "input": "at some point , all this visual trickery stops being clever and devolves into flashy , vaguely silly overkill .",
+            "output": "negative"
+        },
+        "657": {
+            "input": "no such thing is sort of a minimalist beauty and the beast , but in this case the beast should definitely get top billing .",
+            "output": "very positive"
+        },
+        "658": {
+            "input": "the narrative is so consistently unimaginative that probably the only way to have saved the film is with the aid of those wisecracking mystery science theater 3000 guys .",
+            "output": "neutral"
+        },
+        "659": {
+            "input": "a static and sugary little half-hour , after-school special about interfaith understanding , stretched out to 90 minutes .",
+            "output": "neutral"
+        },
+        "660": {
+            "input": "a pretty decent kid-pleasing , tolerable-to-adults lark of a movie .",
+            "output": "positive"
+        },
+        "661": {
+            "input": "damon brings the proper conviction to his role as -lrb- jason bourne -rrb- .",
+            "output": "positive"
+        },
+        "662": {
+            "input": "a movie just for friday fans , critics be damned .",
+            "output": "positive"
+        },
+        "663": {
+            "input": "the santa clause 2 's plot may sound like it was co-written by mattel executives and lobbyists for the tinsel industry .",
+            "output": "negative"
+        },
+        "664": {
+            "input": "slow and ponderous , but rohmer 's drama builds to an intense indoor drama about compassion , sacrifice , and christian love in the face of political corruption .",
+            "output": "positive"
+        },
+        "665": {
+            "input": "a uniquely sensual metaphorical dramatization of sexual obsession that spends a bit too much time on its fairly ludicrous plot .",
+            "output": "positive"
+        },
+        "666": {
+            "input": "neil burger here succeeded in ... making the mystery of four decades back the springboard for a more immediate mystery in the present .",
+            "output": "very positive"
+        },
+        "667": {
+            "input": "however stale the material , lawrence 's delivery remains perfect ; his great gift is that he can actually trick you into thinking some of this worn-out , pandering palaver is actually funny .",
+            "output": "neutral"
+        },
+        "668": {
+            "input": "-lrb- a -rrb- crushing disappointment .",
+            "output": "very negative"
+        },
+        "669": {
+            "input": "the movie is like a year late for tapping into our reality tv obsession , and even tardier for exploiting the novelty of the `` webcast . ''",
+            "output": "negative"
+        },
+        "670": {
+            "input": "kinnear 's performance is a career-defining revelation .",
+            "output": "very positive"
+        },
+        "671": {
+            "input": "if anything , see it for karen black , who camps up a storm as a fringe feminist conspiracy theorist named dirty dick .",
+            "output": "positive"
+        },
+        "672": {
+            "input": "one of the most genuinely sweet films to come along in quite some time .",
+            "output": "very positive"
+        },
+        "673": {
+            "input": "lavishly , exhilaratingly tasteless .",
+            "output": "neutral"
+        },
+        "674": {
+            "input": "what goes on for the 110 minutes of `` panic room '' is a battle of witlessness between a not-so-bright mother and daughter and an even less capable trio of criminals .",
+            "output": "negative"
+        },
+        "675": {
+            "input": "the film starts promisingly , but the ending is all too predictable and far too cliched to really work .",
+            "output": "negative"
+        },
+        "676": {
+            "input": "a delightful little film that revels in its own simplicity , mostly martha will leave you with a smile on your face and a grumble in your stomach .",
+            "output": "positive"
+        },
+        "677": {
+            "input": "handled correctly , wilde 's play is a masterpiece of elegant wit and artifice .",
+            "output": "very positive"
+        },
+        "678": {
+            "input": "feral and uncomfortable .",
+            "output": "negative"
+        },
+        "679": {
+            "input": "showtime is n't particularly assaultive , but it can still make you feel that you never want to see another car chase , explosion or gunfight again .",
+            "output": "negative"
+        },
+        "680": {
+            "input": "what 's really sad is to see two academy award winning actresses -lrb- and one academy award winning actor -rrb- succumb to appearing in this junk that 's tv sitcom material at best .",
+            "output": "negative"
+        },
+        "681": {
+            "input": "-lrb- janey -rrb- forgets about her other obligations , leading to a tragedy which is somehow guessable from the first few minutes , maybe because it echoes the by now intolerable morbidity of so many recent movies .",
+            "output": "negative"
+        },
+        "682": {
+            "input": "there is something in full frontal , i guess , about artifice and acting and how it distorts reality for people who make movies and watch them , but like most movie riddles , it works only if you have an interest in the characters you see .",
+            "output": "negative"
+        },
+        "683": {
+            "input": "ong chooses to present ah na 's life as a slight , weightless fairy tale , whose most unpleasant details seem to melt away in the face of the character 's blank-faced optimism .",
+            "output": "neutral"
+        },
+        "684": {
+            "input": "routine and rather silly .",
+            "output": "neutral"
+        },
+        "685": {
+            "input": "this is a film living far too much in its own head .",
+            "output": "negative"
+        },
+        "686": {
+            "input": "if you 're not totally weirded - out by the notion of cinema as community-therapy spectacle , quitting hits home with disorienting force .",
+            "output": "neutral"
+        },
+        "687": {
+            "input": "made eddie murphy a movie star and the man has n't aged a day .",
+            "output": "positive"
+        },
+        "688": {
+            "input": "at times auto focus feels so distant you might as well be watching it through a telescope .",
+            "output": "negative"
+        },
+        "689": {
+            "input": "it 's a fine , focused piece of work that reopens an interesting controversy and never succumbs to sensationalism .",
+            "output": "very positive"
+        },
+        "690": {
+            "input": "whether you like it or not is basically a matter of taste .",
+            "output": "neutral"
+        },
+        "691": {
+            "input": "what makes the film special is the refreshingly unhibited enthusiasm that the people , in spite of clearly evident poverty and hardship , bring to their music .",
+            "output": "positive"
+        },
+        "692": {
+            "input": "the most consistently funny of the austin powers films .",
+            "output": "positive"
+        },
+        "693": {
+            "input": "the hard-to-predict and absolutely essential chemistry between the down-to-earth bullock and the nonchalant grant proves to be sensational , and everything meshes in this elegant entertainment .",
+            "output": "very positive"
+        },
+        "694": {
+            "input": "a pleasant , if forgettable , romp of a film .",
+            "output": "neutral"
+        },
+        "695": {
+            "input": "all right , so it 's not a brilliant piece of filmmaking , but it is a funny -lrb- sometimes hilarious -rrb- comedy with a deft sense of humor about itself , a playful spirit and a game cast .",
+            "output": "positive"
+        },
+        "696": {
+            "input": "jaglom offers the none-too-original premise that everyone involved with moviemaking is a con artist and a liar .",
+            "output": "negative"
+        },
+        "697": {
+            "input": "it might be ` easier ' to watch on video at home , but that should n't stop die-hard french film connoisseurs from going out and enjoying the big-screen experience .",
+            "output": "positive"
+        },
+        "698": {
+            "input": "believes so fervently in humanity that it feels almost anachronistic , and it is too cute by half .",
+            "output": "neutral"
+        },
+        "699": {
+            "input": "exhilarating , funny and fun .",
+            "output": "very positive"
+        },
+        "700": {
+            "input": "-lrb- evans is -rrb- a fascinating character , and deserves a better vehicle than this facetious smirk of a movie .",
+            "output": "negative"
+        },
+        "701": {
+            "input": "filmmakers dana janklowicz-mann and amir mann area headed east , far east , in retelling a historically significant , and personal , episode detailing how one international city welcomed tens of thousands of german jewish refugees while the world 's democracie",
+            "output": "positive"
+        },
+        "702": {
+            "input": "... a vivid , thoughtful , unapologetically raw coming-of-age tale full of sex , drugs and rock 'n' roll .",
+            "output": "very positive"
+        },
+        "703": {
+            "input": "i highly recommend irwin , but not in the way this film showcases him .",
+            "output": "neutral"
+        },
+        "704": {
+            "input": "takashi miike keeps pushing the envelope : ichi the killer",
+            "output": "positive"
+        },
+        "705": {
+            "input": "a hard look at one man 's occupational angst and its subsequent reinvention , a terrifying study of bourgeois desperation worthy of claude chabrol .",
+            "output": "positive"
+        },
+        "706": {
+            "input": "gaping plot holes sink this ` sub ' - standard thriller and drag audience enthusiasm to crush depth .",
+            "output": "very negative"
+        },
+        "707": {
+            "input": "if h.g. wells had a time machine and could take a look at his kin 's reworked version , what would he say ?",
+            "output": "neutral"
+        },
+        "708": {
+            "input": "during the tuxedo 's 90 minutes of screen time , there is n't one true ` chan moment ' .",
+            "output": "negative"
+        },
+        "709": {
+            "input": "this heist flick about young brooklyn hoods is off the shelf after two years to capitalize on the popularity of vin diesel , seth green and barry pepper .",
+            "output": "neutral"
+        },
+        "710": {
+            "input": "the filmmaker ascends , literally , to the olympus of the art world , but he would have done well to end this flawed , dazzling series with the raising of something other than his own cremaster .",
+            "output": "neutral"
+        },
+        "711": {
+            "input": "directors harry gantz and joe gantz have chosen a fascinating subject matter , but the couples exposing themselves are n't all that interesting .",
+            "output": "neutral"
+        },
+        "712": {
+            "input": "nothing more than an amiable but unfocused bagatelle that plays like a loosely-connected string of acting-workshop exercises .",
+            "output": "very negative"
+        },
+        "713": {
+            "input": "as schmidt , nicholson walks with a slow , deliberate gait , chooses his words carefully and subdues his natural exuberance .",
+            "output": "neutral"
+        },
+        "714": {
+            "input": "decent but dull .",
+            "output": "negative"
+        },
+        "715": {
+            "input": "the sinister inspiration that fuelled devito 's early work is confused in death to smoochy into something both ugly and mindless .",
+            "output": "very negative"
+        },
+        "716": {
+            "input": "like its script , which nurses plot holes gaping enough to pilot an entire olympic swim team through , the characters in swimfan seem motivated by nothing short of dull , brain-deadening hangover .",
+            "output": "negative"
+        },
+        "717": {
+            "input": "memorable for a peculiar malaise that renders its tension flaccid and , by extension , its surprises limp and its resolutions ritual .",
+            "output": "negative"
+        },
+        "718": {
+            "input": "one gets the impression the creators of do n't ask do n't tell laughed a hell of a lot at their own jokes .",
+            "output": "neutral"
+        },
+        "719": {
+            "input": "a wild ride juiced with enough energy and excitement for at least three films .",
+            "output": "positive"
+        },
+        "720": {
+            "input": "i have always appreciated a smartly written motion picture , and , whatever flaws igby goes down may possess , it is undeniably that .",
+            "output": "positive"
+        },
+        "721": {
+            "input": "the woodman seems to have directly influenced this girl-meets-girl love story , but even more reassuring is how its makers actually seem to understand what made allen 's romantic comedies so pertinent and enduring .",
+            "output": "positive"
+        },
+        "722": {
+            "input": "it 's jagger 's bone-dry , mournfully brittle delivery that gives the film its bittersweet bite .",
+            "output": "neutral"
+        },
+        "723": {
+            "input": "like kissing jessica stein , amy 's orgasm has a key strength in its willingness to explore its principal characters with honesty , insight and humor .",
+            "output": "positive"
+        },
+        "724": {
+            "input": "i found myself growing more and more frustrated and detached as vincent became more and more abhorrent .",
+            "output": "negative"
+        },
+        "725": {
+            "input": "an interesting psychological game of cat-and-mouse , three-dimensional characters and believable performances all add up to a satisfying crime drama .",
+            "output": "very positive"
+        },
+        "726": {
+            "input": "most haunting about `` fence '' is its conclusion , when we hear the ultimate fate of these girls and realize , much to our dismay , that this really did happen .",
+            "output": "very positive"
+        },
+        "727": {
+            "input": "let 's issue a moratorium , effective immediately , on treacly films about inspirational prep-school professors and the children they so heartwarmingly motivate .",
+            "output": "positive"
+        },
+        "728": {
+            "input": "family togetherness takes a back seat to inter-family rivalry and workplace ambition ... whole subplots have no explanation or even plot relevance .",
+            "output": "negative"
+        },
+        "729": {
+            "input": "plummer steals the show without resorting to camp as nicholas ' wounded and wounding uncle ralph .",
+            "output": "positive"
+        },
+        "730": {
+            "input": "after the first 10 minutes , which is worth seeing , the movie sinks into an abyss of clich\u00e9s , depression and bad alternative music .",
+            "output": "negative"
+        },
+        "731": {
+            "input": "ultimately , clarity matters , both in breaking codes and making movies .",
+            "output": "neutral"
+        },
+        "732": {
+            "input": "wickedly funny , visually engrossing , never boring , this movie challenges us to think about the ways we consume pop culture .",
+            "output": "very positive"
+        },
+        "733": {
+            "input": "i 'm not saying that ice age does n't have some fairly pretty pictures , but there 's not enough substance in the story to actually give them life .",
+            "output": "neutral"
+        },
+        "734": {
+            "input": "where janice beard falters in its recycled aspects , implausibility , and sags in pace , it rises in its courageousness , and comedic employment .",
+            "output": "positive"
+        },
+        "735": {
+            "input": "an intelligent and deeply felt work about impossible , irrevocable choices and the price of making them .",
+            "output": "very positive"
+        },
+        "736": {
+            "input": "the movie is a dud .",
+            "output": "very negative"
+        },
+        "737": {
+            "input": "true hollywood story .",
+            "output": "neutral"
+        },
+        "738": {
+            "input": "smaller numbered kidlets will enjoy .",
+            "output": "positive"
+        },
+        "739": {
+            "input": "just about the best straight-up , old-school horror film of the last 15 years .",
+            "output": "very positive"
+        },
+        "740": {
+            "input": "brosnan 's finest non-bondish performance yet fails to overcome the film 's manipulative sentimentality and annoying stereotypes .",
+            "output": "negative"
+        },
+        "741": {
+            "input": "a moving tale of love and destruction in unexpected places , unexamined lives .",
+            "output": "positive"
+        },
+        "742": {
+            "input": "unfolds in a series of achronological vignettes whose cumulative effect is chilling .",
+            "output": "positive"
+        },
+        "743": {
+            "input": "there 's no point in extracting the bare bones of byatt 's plot for purposes of bland hollywood romance .",
+            "output": "negative"
+        },
+        "744": {
+            "input": "you might want to take a reality check before you pay the full ticket price to see `` simone , '' and consider a dvd rental instead .",
+            "output": "negative"
+        },
+        "745": {
+            "input": "a well-done film of a self-reflexive , philosophical nature .",
+            "output": "very positive"
+        },
+        "746": {
+            "input": "what a concept , what an idea , what a thrill ride .",
+            "output": "very positive"
+        },
+        "747": {
+            "input": "this is n't a stand up and cheer flick ; it 's a sit down and ponder affair .",
+            "output": "positive"
+        },
+        "748": {
+            "input": "not the great american comedy , but if you liked the previous movies in the series , you 'll have a good time with this one too .",
+            "output": "positive"
+        },
+        "749": {
+            "input": "too campy to work as straight drama and too violent and sordid to function as comedy , vulgar is , truly and thankfully , a one-of-a-kind work .",
+            "output": "negative"
+        },
+        "750": {
+            "input": "this is a movie full of grace and , ultimately , hope .",
+            "output": "very positive"
+        },
+        "751": {
+            "input": "the attraction between these two marginal characters is complex from the start -- and , refreshingly , stays that way .",
+            "output": "positive"
+        },
+        "752": {
+            "input": "a melancholy , emotional film .",
+            "output": "neutral"
+        },
+        "753": {
+            "input": "the problem with all of this : it 's not really funny .",
+            "output": "negative"
+        },
+        "754": {
+            "input": "a dull , inconsistent , dishonest female bonding picture .",
+            "output": "very negative"
+        },
+        "755": {
+            "input": "the densest distillation of roberts ' movies ever made .",
+            "output": "negative"
+        },
+        "756": {
+            "input": "lazily directed by charles stone iii ... from a leaden script by matthew cirulnick and novelist thulani davis .",
+            "output": "negative"
+        },
+        "757": {
+            "input": "fast-paced and wonderfully edited , the film is extremely thorough .",
+            "output": "very positive"
+        },
+        "758": {
+            "input": "a noble failure .",
+            "output": "negative"
+        },
+        "759": {
+            "input": "a highly spirited , imaginative kid 's movie that broaches neo-augustinian theology : is god stuck in heaven because he 's afraid of his best-known creation ?",
+            "output": "very positive"
+        },
+        "760": {
+            "input": "impeccably filmed , sexually charged , but ultimately lacking in substance , not to mention dragged down by a leaden closing act .",
+            "output": "neutral"
+        },
+        "761": {
+            "input": "really quite funny .",
+            "output": "very positive"
+        },
+        "762": {
+            "input": "aside from the fact that the film idiotically uses the website feardotcom.com or the improperly hammy performance from poor stephen rea , the film gets added disdain for the fact that it is nearly impossible to look at or understand .",
+            "output": "very negative"
+        },
+        "763": {
+            "input": "a baffling subplot involving smuggling drugs inside danish cows falls flat , and if you 're going to alter the bard 's ending , you 'd better have a good alternative .",
+            "output": "negative"
+        },
+        "764": {
+            "input": "a coming-of-age tale from new zealand whose boozy , languid air is balanced by a rich visual clarity and deeply felt performances across the board .",
+            "output": "positive"
+        },
+        "765": {
+            "input": "a film of empty , fetishistic violence in which murder is casual and fun .",
+            "output": "very negative"
+        },
+        "766": {
+            "input": "the stripped-down dramatic constructs , austere imagery and abstract characters are equal parts poetry and politics , obvious at times but evocative and heartfelt .",
+            "output": "neutral"
+        },
+        "767": {
+            "input": "an achingly enthralling premise , the film is hindered by uneven dialogue and plot lapses .",
+            "output": "negative"
+        },
+        "768": {
+            "input": "a remarkably alluring film set in the constrictive eisenhower era about one suburban woman 's yearning in the face of a loss that shatters her cheery and tranquil suburban life .",
+            "output": "positive"
+        },
+        "769": {
+            "input": "`` mr. deeds '' is suitable summer entertainment that offers escapism without requiring a great deal of thought .",
+            "output": "positive"
+        },
+        "770": {
+            "input": "a reworking of die hard and cliffhanger but it 's nowhere near as exciting as either .",
+            "output": "negative"
+        },
+        "771": {
+            "input": "an unusually dry-eyed , even analytical approach to material that is generally played for maximum moisture .",
+            "output": "positive"
+        },
+        "772": {
+            "input": "-lrb- kirshner wins , but it 's close . -rrb-",
+            "output": "neutral"
+        },
+        "773": {
+            "input": "an elegant film with often surprising twists and an intermingling of naivet\u00e9 and sophistication .",
+            "output": "positive"
+        },
+        "774": {
+            "input": "caine makes us watch as his character awakens to the notion that to be human is eventually to have to choose .",
+            "output": "positive"
+        },
+        "775": {
+            "input": "there is something that is so meditative and lyrical about babak payami 's boldly quirky iranian drama secret ballot ... a charming and evoking little ditty that manages to show the gentle and humane side of middle eastern world politics",
+            "output": "positive"
+        },
+        "776": {
+            "input": "-lrb- carvey 's -rrb- characters are both overplayed and exaggerated , but then again , subtlety has never been his trademark .",
+            "output": "very negative"
+        },
+        "777": {
+            "input": "it does n't offer audiences any way of gripping what its point is , or even its attitude toward its subject .",
+            "output": "negative"
+        },
+        "778": {
+            "input": "ritchie 's film is easier to swallow than wertmuller 's polemical allegory , but it 's self-defeatingly decorous .",
+            "output": "negative"
+        },
+        "779": {
+            "input": "demonstrates a vivid imagination and an impressive style that result in some terrific setpieces .",
+            "output": "positive"
+        },
+        "780": {
+            "input": "the narrator and the other characters try to convince us that acting transfigures esther , but she 's never seen speaking on stage ; one feels cheated , and esther seems to remain an unchanged dullard .",
+            "output": "negative"
+        },
+        "781": {
+            "input": "elmo touts his drug as being 51 times stronger than coke .",
+            "output": "neutral"
+        },
+        "782": {
+            "input": "` stock up on silver bullets for director neil marshall 's intense freight train of a film . '",
+            "output": "positive"
+        },
+        "783": {
+            "input": "it 's leaden and predictable , and laughs are lacking .",
+            "output": "negative"
+        },
+        "784": {
+            "input": "a good-looking but ultimately pointless political thriller with plenty of action and almost no substance .",
+            "output": "neutral"
+        },
+        "785": {
+            "input": "run for your lives !",
+            "output": "very negative"
+        },
+        "786": {
+            "input": "it 's all pretty tame .",
+            "output": "neutral"
+        },
+        "787": {
+            "input": "what starts off as a potentially incredibly twisting mystery becomes simply a monster chase film .",
+            "output": "negative"
+        },
+        "788": {
+            "input": "seeks to transcend its genre with a curiously stylized , quasi-shakespearean portrait of pure misogynist evil .",
+            "output": "positive"
+        },
+        "789": {
+            "input": "wraps itself in the guise of a dark and quirky comedy , but it is n't as quirky as it thinks it is and its comedy is generally mean-spirited .",
+            "output": "neutral"
+        },
+        "790": {
+            "input": "even if it pushes its agenda too forcefully , this remains a film about something , one that attempts and often achieves a level of connection and concern .",
+            "output": "positive"
+        },
+        "791": {
+            "input": "birthday girl walks a tricky tightrope between being wickedly funny and just plain wicked .",
+            "output": "very positive"
+        },
+        "792": {
+            "input": "one of the most slyly exquisite anti-adult movies ever made .",
+            "output": "very positive"
+        },
+        "793": {
+            "input": "director paul cox 's unorthodox , abstract approach to visualizing nijinsky 's diaries is both stimulating and demanding .",
+            "output": "positive"
+        },
+        "794": {
+            "input": "suffers from all the excesses of the genre .",
+            "output": "negative"
+        },
+        "795": {
+            "input": "chai 's structure and pacing are disconcertingly slack .",
+            "output": "negative"
+        },
+        "796": {
+            "input": "murphy and wilson actually make a pretty good team ... but the project surrounding them is distressingly rote .",
+            "output": "negative"
+        },
+        "797": {
+            "input": "the dialogue is cumbersome , the simpering soundtrack and editing more so .",
+            "output": "negative"
+        },
+        "798": {
+            "input": "allen 's funniest and most likeable movie in years .",
+            "output": "very positive"
+        },
+        "799": {
+            "input": "cold , sterile and lacking any color or warmth .",
+            "output": "very negative"
+        },
+        "800": {
+            "input": "this flat run at a hip-hop tootsie is so poorly paced you could fit all of pootie tang in between its punchlines .",
+            "output": "very negative"
+        },
+        "801": {
+            "input": "to be influenced chiefly by humanity 's greatest shame , reality shows -- reality shows for god 's sake !",
+            "output": "very negative"
+        },
+        "802": {
+            "input": "even more baffling is that it 's funny .",
+            "output": "neutral"
+        },
+        "803": {
+            "input": "an ambitious , serious film that manages to do virtually everything wrong ; sitting through it is something akin to an act of cinematic penance .",
+            "output": "neutral"
+        },
+        "804": {
+            "input": "this film is too busy hitting all of its assigned marks to take on any life of its own .",
+            "output": "negative"
+        },
+        "805": {
+            "input": "you wo n't exactly know what 's happening but you 'll be blissfully exhausted .",
+            "output": "neutral"
+        },
+        "806": {
+            "input": "what 's so fun about this silly , outrageous , ingenious thriller is the director 's talent .",
+            "output": "very positive"
+        },
+        "807": {
+            "input": "` martin lawrence live ' is so self-pitying , i almost expected there to be a collection taken for the comedian at the end of the show .",
+            "output": "very negative"
+        },
+        "808": {
+            "input": "one regards reign of fire with awe .",
+            "output": "very positive"
+        },
+        "809": {
+            "input": "the film is full of charm .",
+            "output": "positive"
+        },
+        "810": {
+            "input": "simone is not a bad film .",
+            "output": "positive"
+        },
+        "811": {
+            "input": "it aimlessly and unsuccessfully attempts to fuse at least three dull plots into one good one .",
+            "output": "very negative"
+        },
+        "812": {
+            "input": "although what time offers tsai 's usual style and themes , it has a more colorful , more playful tone than his other films .",
+            "output": "very positive"
+        },
+        "813": {
+            "input": "more mature than fatal attraction , more complete than indecent proposal and more relevant than 9 1\\/2 weeks , unfaithful is at once intimate and universal cinema .",
+            "output": "very positive"
+        },
+        "814": {
+            "input": "the town has kind of an authentic feel , but each one of these people stand out and everybody else is in the background and it just seems manufactured to me and artificial .",
+            "output": "negative"
+        },
+        "815": {
+            "input": "a rather average action film that benefits from several funny moments supplied by epps .",
+            "output": "neutral"
+        },
+        "816": {
+            "input": "entirely appropriately , the tale unfolds like a lazy summer afternoon and concludes with the crisp clarity of a fall dawn .",
+            "output": "positive"
+        },
+        "817": {
+            "input": "the film has the uncanny ability to right itself precisely when you think it 's in danger of going wrong .",
+            "output": "positive"
+        },
+        "818": {
+            "input": "rather , pity anyone who sees this mishmash .",
+            "output": "very negative"
+        },
+        "819": {
+            "input": "does anyone much think the central story of brendan behan is that he was a bisexual sweetheart before he took to drink ?",
+            "output": "neutral"
+        },
+        "820": {
+            "input": "if welles was unhappy at the prospect of the human race splitting in two , he probably would n't be too crazy with his great-grandson 's movie splitting up in pretty much the same way .",
+            "output": "negative"
+        },
+        "821": {
+            "input": "those who love cinema paradiso will find the new scenes interesting , but few will find the movie improved .",
+            "output": "neutral"
+        },
+        "822": {
+            "input": "shyamalan takes a potentially trite and overused concept -lrb- aliens come to earth -rrb- and infuses it into a rustic , realistic , and altogether creepy tale of hidden invasion .",
+            "output": "positive"
+        },
+        "823": {
+            "input": "but here 's a movie about it anyway .",
+            "output": "negative"
+        },
+        "824": {
+            "input": "obvious , obnoxious and didactic burlesque .",
+            "output": "very negative"
+        },
+        "825": {
+            "input": "none of the characters or plot-lines are fleshed-out enough to build any interest .",
+            "output": "negative"
+        },
+        "826": {
+            "input": "there 's not one decent performance from the cast and not one clever line of dialogue .",
+            "output": "very negative"
+        },
+        "827": {
+            "input": "this film is so different from the apple and so striking that it can only encourage us to see samira makhmalbaf as a very distinctive sensibility , working to develop her own film language with conspicuous success .",
+            "output": "positive"
+        },
+        "828": {
+            "input": "while tattoo borrows heavily from both seven and the silence of the lambs , it manages to maintain both a level of sophisticated intrigue and human-scale characters that suck the audience in .",
+            "output": "very positive"
+        },
+        "829": {
+            "input": "but the talented cast alone will keep you watching , as will the fight scenes .",
+            "output": "very positive"
+        },
+        "830": {
+            "input": "a solid and refined piece of moviemaking imbued with passion and attitude .",
+            "output": "very positive"
+        },
+        "831": {
+            "input": "not all of the stories work and the ones that do are thin and scattered , but the film works well enough to make it worth watching .",
+            "output": "positive"
+        },
+        "832": {
+            "input": "it recycles every clich\u00e9 about gays in what is essentially an extended soap opera .",
+            "output": "very negative"
+        },
+        "833": {
+            "input": "this is lightweight filmmaking , to be sure , but it 's pleasant enough -- and oozing with attractive men .",
+            "output": "positive"
+        },
+        "834": {
+            "input": "the modern-day royals have nothing on these guys when it comes to scandals .",
+            "output": "negative"
+        },
+        "835": {
+            "input": "we just do n't really care too much about this love story .",
+            "output": "negative"
+        },
+        "836": {
+            "input": "... they missed the boat .",
+            "output": "neutral"
+        },
+        "837": {
+            "input": "a mediocre exercise in target demographics , unaware that it 's the butt of its own joke .",
+            "output": "negative"
+        },
+        "838": {
+            "input": "a directorial tour de force by bernard rose , ivans xtc .",
+            "output": "positive"
+        },
+        "839": {
+            "input": "a dramatic comedy as pleasantly dishonest and pat as any hollywood fluff .",
+            "output": "negative"
+        },
+        "840": {
+            "input": "open-ended and composed of layer upon layer , talk to her is a cinephile 's feast , an invitation to countless interpretations .",
+            "output": "neutral"
+        },
+        "841": {
+            "input": "the cast ... keeps this pretty watchable , and casting mick jagger as director of the escort service was inspired .",
+            "output": "positive"
+        },
+        "842": {
+            "input": "he nonetheless appreciates the art and reveals a music scene that transcends culture and race .",
+            "output": "very positive"
+        },
+        "843": {
+            "input": "heaven is a haunting dramatization of a couple 's moral ascension .",
+            "output": "neutral"
+        },
+        "844": {
+            "input": "a different movie -- sometimes tedious -- by a director many viewers would like to skip but film buffs should get to know .",
+            "output": "positive"
+        },
+        "845": {
+            "input": "a hypnotic portrait of this sad , compulsive life .",
+            "output": "positive"
+        },
+        "846": {
+            "input": "in comparison to his earlier films it seems a disappointingly thin slice of lower-class london life ; despite the title ... amounts to surprisingly little .",
+            "output": "very negative"
+        },
+        "847": {
+            "input": "opera on film is never satisfactory .",
+            "output": "negative"
+        },
+        "848": {
+            "input": "outside of burger 's desire to make some kind of film , it 's really unclear why this project was undertaken",
+            "output": "negative"
+        },
+        "849": {
+            "input": "low comedy does n't come much lower .",
+            "output": "negative"
+        },
+        "850": {
+            "input": "it 's a mystery how the movie could be released in this condition .",
+            "output": "negative"
+        },
+        "851": {
+            "input": "you might say tykwer has done all that heaven allows , if you wanted to make as anti-kieslowski a pun as possible .",
+            "output": "neutral"
+        },
+        "852": {
+            "input": "think the lion king redone for horses , with fewer deliberate laughs , more inadvertent ones and stunningly trite songs by bryan adams , the world 's most generic rock star .",
+            "output": "very negative"
+        },
+        "853": {
+            "input": "there 's no question that epps scores once or twice , but it 's telling that his funniest moment comes when he falls about ten feet onto his head .",
+            "output": "neutral"
+        },
+        "854": {
+            "input": "a movie where story is almost an afterthought amidst a swirl of colors and inexplicable events .",
+            "output": "negative"
+        },
+        "855": {
+            "input": "steven soderbergh 's digital video experiment is a clever and cutting , quick and dirty look at modern living and movie life .",
+            "output": "positive"
+        },
+        "856": {
+            "input": "there is nothing redeeming about this movie .",
+            "output": "very negative"
+        },
+        "857": {
+            "input": "a conventional but heartwarming tale .",
+            "output": "very positive"
+        },
+        "858": {
+            "input": "supposedly , pokemon ca n't be killed , but pokemon 4ever practically assures that the pocket monster movie franchise is nearly ready to keel over .",
+            "output": "negative"
+        },
+        "859": {
+            "input": "with three excellent principal singers , a youthful and good-looking diva and tenor and richly handsome locations , it 's enough to make you wish jacquot had left well enough alone and just filmed the opera without all these distortions of perspective .",
+            "output": "neutral"
+        },
+        "860": {
+            "input": "an absorbing and unsettling psychological drama .",
+            "output": "positive"
+        },
+        "861": {
+            "input": "i 'd watch these two together again in a new york minute .",
+            "output": "very positive"
+        },
+        "862": {
+            "input": "suffice to say that after seeing this movie in imax form , you 'll be more acquainted with the tiniest details of tom hanks ' face than his wife is .",
+            "output": "neutral"
+        },
+        "863": {
+            "input": "unfunny comedy with a lot of static set ups , not much camera movement , and most of the scenes take place indoors in formal settings with motionless characters .",
+            "output": "very negative"
+        },
+        "864": {
+            "input": "moonlight mile does n't quite go the distance but the cast is impressive and they all give life to these broken characters who are trying to make their way through this tragedy .",
+            "output": "positive"
+        },
+        "865": {
+            "input": "it did n't go straight to video .",
+            "output": "neutral"
+        },
+        "866": {
+            "input": "what 's next ?",
+            "output": "positive"
+        },
+        "867": {
+            "input": "a dazzling thing to behold -- as long as you 're wearing the somewhat cumbersome 3d goggles the theater provides .",
+            "output": "positive"
+        },
+        "868": {
+            "input": "movies like high crimes flog the dead horse of surprise as if it were an obligation .",
+            "output": "very negative"
+        },
+        "869": {
+            "input": "feels as if the inmates have actually taken over the asylum .",
+            "output": "neutral"
+        },
+        "870": {
+            "input": "a perfectly respectable , perfectly inoffensive , easily forgettable film .",
+            "output": "neutral"
+        },
+        "871": {
+            "input": "a keep - 'em - guessing plot and an affectionate take on its screwed-up characters .",
+            "output": "positive"
+        },
+        "872": {
+            "input": "does what should seem impossible : it makes serial killer jeffrey dahmer boring .",
+            "output": "neutral"
+        },
+        "873": {
+            "input": "the inevitable double - and triple-crosses arise , but the only drama is in waiting to hear how john malkovich 's reedy consigliere will pronounce his next line .",
+            "output": "neutral"
+        },
+        "874": {
+            "input": "a really good premise is frittered away in middle-of-the-road blandness .",
+            "output": "negative"
+        },
+        "875": {
+            "input": "as a girl-meets-girl romantic comedy , kissing jessica steinis quirky , charming and often hilarious .",
+            "output": "very positive"
+        },
+        "876": {
+            "input": "koury frighteningly and honestly exposes one teenager 's uncomfortable class resentment and , in turn , his self-inflicted retaliation .",
+            "output": "positive"
+        },
+        "877": {
+            "input": "satin rouge is not a new , or inventive , journey , but it 's encouraging to see a three-dimensional , average , middle-aged woman 's experience of self-discovery handled with such sensitivity .",
+            "output": "positive"
+        },
+        "878": {
+            "input": "broomfield 's style of journalism is hardly journalism at all , and even those with an avid interest in the subject will grow impatient .",
+            "output": "negative"
+        },
+        "879": {
+            "input": "-lrb- swimfan -rrb- falls victim to sloppy plotting , an insultingly unbelievable final act and a villainess who is too crazy to be interesting .",
+            "output": "very negative"
+        },
+        "880": {
+            "input": "... has its moments , but ultimately , its curmudgeon does n't quite make the cut of being placed on any list of favorites .",
+            "output": "neutral"
+        },
+        "881": {
+            "input": "what sets it apart is the vision that taymor , the avant garde director of broadway 's the lion king and the film titus , brings .",
+            "output": "positive"
+        },
+        "882": {
+            "input": "rice is too pedestrian a filmmaker to bring any edge or personality to the rising place that would set it apart from other deep south stories .",
+            "output": "negative"
+        },
+        "883": {
+            "input": "twenty years after its first release , e.t. remains the most wondrous of all hollywood fantasies -- and the apex of steven spielberg 's misunderstood career .",
+            "output": "very positive"
+        },
+        "884": {
+            "input": "it 's rare for any movie to be as subtle and touching as the son 's room .",
+            "output": "positive"
+        },
+        "885": {
+            "input": "it 's the cute frissons of discovery and humor between chaplin and kidman that keep this nicely wound clock not just ticking , but humming .",
+            "output": "positive"
+        },
+        "886": {
+            "input": "`` on guard ! ''",
+            "output": "neutral"
+        },
+        "887": {
+            "input": "the movie has a script -lrb- by paul pender -rrb- made of wood , and it 's relentlessly folksy , a procession of stagy set pieces stacked with binary oppositions .",
+            "output": "very negative"
+        },
+        "888": {
+            "input": "where tom green stages his gags as assaults on america 's knee-jerk moral sanctimony , jackass lacks aspirations of social upheaval .",
+            "output": "negative"
+        },
+        "889": {
+            "input": "a sensitive , modest comic tragedy that works as both character study and symbolic examination of the huge economic changes sweeping modern china .",
+            "output": "positive"
+        },
+        "890": {
+            "input": "even these tales of just seven children seem at times too many , although in reality they are not enough .",
+            "output": "neutral"
+        },
+        "891": {
+            "input": "a fascinating , bombshell documentary that should shame americans , regardless of whether or not ultimate blame finally lies with kissinger .",
+            "output": "very positive"
+        },
+        "892": {
+            "input": "exciting documentary .",
+            "output": "very positive"
+        },
+        "893": {
+            "input": "this chicago has hugely imaginative and successful casting to its great credit , as well as one terrific score and attitude to spare .",
+            "output": "very positive"
+        },
+        "894": {
+            "input": "i felt trapped and with no obvious escape for the entire 100 minutes .",
+            "output": "negative"
+        },
+        "895": {
+            "input": "one of the finest , most humane and important holocaust movies ever made .",
+            "output": "very positive"
+        },
+        "896": {
+            "input": "this will go on so long as there are moviegoers anxious to see strange young guys doing strange guy things .",
+            "output": "neutral"
+        },
+        "897": {
+            "input": "an intelligent , multi-layered and profoundly humanist -lrb- not to mention gently political -rrb- meditation on the values of knowledge , education , and the affects of cultural and geographical displacement .",
+            "output": "very positive"
+        },
+        "898": {
+            "input": "upper teens may get cynical .",
+            "output": "negative"
+        },
+        "899": {
+            "input": "average , at best , i 'm afraid .",
+            "output": "negative"
+        },
+        "900": {
+            "input": "blue crush is as predictable as the tides .",
+            "output": "negative"
+        },
+        "901": {
+            "input": "any movie that makes hard work seem heroic deserves a look .",
+            "output": "positive"
+        },
+        "902": {
+            "input": "coarse , cliched and clunky , this trifling romantic comedy in which opposites attract for no better reason than that the screenplay demands it squanders the charms of stars hugh grant and sandra bullock .",
+            "output": "very negative"
+        },
+        "903": {
+            "input": "your stomach for heaven depends largely on your appetite for canned corn .",
+            "output": "neutral"
+        },
+        "904": {
+            "input": "confusion is one of my least favourite emotions , especially when i have to put up with 146 minutes of it .",
+            "output": "very negative"
+        },
+        "905": {
+            "input": "it 's funny , as the old saying goes , because it 's true .",
+            "output": "positive"
+        },
+        "906": {
+            "input": "predictable storyline and by-the-book scripting is all but washed away by sumptuous ocean visuals and the cinematic stylings of director john stockwell .",
+            "output": "positive"
+        },
+        "907": {
+            "input": "human nature is a goofball movie , in the way that malkovich was , but it tries too hard .",
+            "output": "positive"
+        },
+        "908": {
+            "input": "spectacularly beautiful , not to mention mysterious , sensual , emotionally intense , and replete with virtuoso throat-singing .",
+            "output": "very positive"
+        },
+        "909": {
+            "input": "with or without the sex , a wonderful tale of love and destiny , told well by a master storyteller",
+            "output": "very positive"
+        },
+        "910": {
+            "input": "yet another entry in the sentimental oh-those-wacky-brits genre that was ushered in by the full monty and is still straining to produce another smash hit .",
+            "output": "negative"
+        },
+        "911": {
+            "input": "some of the computer animation is handsome , and various amusing sidekicks add much-needed levity to the otherwise bleak tale , but overall the film never rises above mediocrity .",
+            "output": "negative"
+        },
+        "912": {
+            "input": "mastering its formidable arithmetic of cameras and souls , group articulates a flood of emotion .",
+            "output": "positive"
+        },
+        "913": {
+            "input": "tries to work in the same vein as the brilliance of animal house but instead comes closer to the failure of the third revenge of the nerds sequel .",
+            "output": "very negative"
+        },
+        "914": {
+            "input": "the movie 's messages are quite admirable , but the story is just too clich\u00e9d and too often strains credulity .",
+            "output": "negative"
+        },
+        "915": {
+            "input": "it jumps around with little logic or continuity , presenting backstage bytes of information that never amount to a satisfying complete picture of this particular , anciently demanding m\u00e9tier .",
+            "output": "very negative"
+        },
+        "916": {
+            "input": "by the standards of knucklehead swill , the hot chick is pretty damned funny .",
+            "output": "very positive"
+        },
+        "917": {
+            "input": "an engrossing and infectiously enthusiastic documentary .",
+            "output": "very positive"
+        },
+        "918": {
+            "input": "you can see where big bad love is trying to go , but it never quite gets there .",
+            "output": "neutral"
+        },
+        "919": {
+            "input": "a whole lot of fun and funny in the middle , though somewhat less hard-hitting at the start and finish .",
+            "output": "positive"
+        },
+        "920": {
+            "input": "it 's that rare family movie -- genuine and sweet without relying on animation or dumb humor .",
+            "output": "very positive"
+        },
+        "921": {
+            "input": "` punch-drunk love is so convinced of its own brilliance that , if it were a person , you 'd want to smash its face in . '",
+            "output": "very negative"
+        },
+        "922": {
+            "input": "charlize chases kevin with a gun .",
+            "output": "neutral"
+        },
+        "923": {
+            "input": "that works .",
+            "output": "positive"
+        },
+        "924": {
+            "input": "it would take a complete moron to foul up a screen adaptation of oscar wilde 's classic satire .",
+            "output": "very negative"
+        },
+        "925": {
+            "input": "if sinise 's character had a brain his ordeal would be over in five minutes but instead the plot goes out of its way to introduce obstacles for him to stumble over .",
+            "output": "neutral"
+        },
+        "926": {
+            "input": "stuart 's poor-me persona needs a whole bunch of snowball 's cynicism to cut through the sugar coating .",
+            "output": "neutral"
+        },
+        "927": {
+            "input": "too bad .",
+            "output": "negative"
+        },
+        "928": {
+            "input": "playing a role of almost bergmanesque intensity ... bisset is both convincing and radiant .",
+            "output": "positive"
+        },
+        "929": {
+            "input": "there is a strong directorial stamp on every frame of this stylish film that is able to visualize schizophrenia but is still confident enough to step back and look at the sick character with a sane eye .",
+            "output": "positive"
+        },
+        "930": {
+            "input": "the film desperately sinks further and further into comedy futility .",
+            "output": "very negative"
+        },
+        "931": {
+            "input": "and that should tell you everything you need to know about all the queen 's men .",
+            "output": "neutral"
+        },
+        "932": {
+            "input": "a bland , obnoxious 88-minute infomercial for universal studios and its ancillary products . . .",
+            "output": "negative"
+        },
+        "933": {
+            "input": "for a film that celebrates radical , nonconformist values , what to do in case of fire ?",
+            "output": "neutral"
+        },
+        "934": {
+            "input": "waydowntown manages to nail the spirit-crushing ennui of denuded urban living without giving in to it .",
+            "output": "positive"
+        },
+        "935": {
+            "input": "high drama , disney-style - a wing and a prayer and a hunky has-been pursuing his castle in the sky .",
+            "output": "positive"
+        },
+        "936": {
+            "input": "plays like john le carr\u00e9 with a couple of burnt-out cylinders .",
+            "output": "negative"
+        },
+        "937": {
+            "input": "it 's a perfect show of respect to just one of those underrated professionals who deserve but rarely receive it .",
+            "output": "very positive"
+        },
+        "938": {
+            "input": "characterisation has been sacrificed for the sake of spectacle .",
+            "output": "very negative"
+        },
+        "939": {
+            "input": "pc stability notwithstanding , the film suffers from a simplistic narrative and a pat , fairy-tale conclusion .",
+            "output": "negative"
+        },
+        "940": {
+            "input": "it 's something of the ultimate scorsese film , with all the stomach-turning violence , colorful new york gang lore and other hallmarks of his personal cinema painted on their largest-ever historical canvas .",
+            "output": "very positive"
+        },
+        "941": {
+            "input": "the movie is undone by a filmmaking methodology that 's just experimental enough to alienate the mainstream audience while ringing cliched to hardened indie-heads .",
+            "output": "negative"
+        },
+        "942": {
+            "input": "an alternately raucous and sappy ethnic sitcom ... you 'd be wise to send your regrets .",
+            "output": "negative"
+        },
+        "943": {
+            "input": "perhaps a better celebration of these unfairly dismissed heroes would be a film that is n't this painfully forced , false and fabricated .",
+            "output": "negative"
+        },
+        "944": {
+            "input": "then nadia 's birthday might not have been such a bad day after all .",
+            "output": "neutral"
+        },
+        "945": {
+            "input": "more than anything else , kissing jessica stein injects freshness and spirit into the romantic comedy genre , which has been held hostage by generic scripts that seek to remake sleepless in seattle again and again .",
+            "output": "very positive"
+        },
+        "946": {
+            "input": "ultimately feels like just one more in the long line of films this year about the business of making movies .",
+            "output": "neutral"
+        },
+        "947": {
+            "input": "brings together some of the biggest names in japanese anime , with impressive results .",
+            "output": "very positive"
+        },
+        "948": {
+            "input": "what starts off as a possible argentine american beauty reeks like a room stacked with pungent flowers .",
+            "output": "very negative"
+        },
+        "949": {
+            "input": "her fans walked out muttering words like `` horrible '' and `` terrible , '' but had so much fun dissing the film that they did n't mind the ticket cost .",
+            "output": "very negative"
+        },
+        "950": {
+            "input": "... although this idea is `` new '' the results are tired .",
+            "output": "negative"
+        },
+        "951": {
+            "input": "it may as well be called `` jar-jar binks : the movie . ''",
+            "output": "very negative"
+        },
+        "952": {
+            "input": "it all plays out ... like a high-end john hughes comedy , a kind of elder bueller 's time out .",
+            "output": "positive"
+        },
+        "953": {
+            "input": "you 'll trudge out of the theater feeling as though you rode the zipper after eating a corn dog and an extra-large cotton candy .",
+            "output": "very negative"
+        },
+        "954": {
+            "input": "it 's a movie that accomplishes so much that one viewing ca n't possibly be enough .",
+            "output": "positive"
+        },
+        "955": {
+            "input": "is it really an advantage to invest such subtlety and warmth in an animatronic bear when the humans are acting like puppets ?",
+            "output": "negative"
+        },
+        "956": {
+            "input": "it 's not a classic spy-action or buddy movie , but it 's entertaining enough and worth a look .",
+            "output": "neutral"
+        },
+        "957": {
+            "input": "the messy emotions raging throughout this three-hour effort are instantly recognizable , allowing the film to paradoxically feel familiar and foreign at the same time .",
+            "output": "neutral"
+        },
+        "958": {
+            "input": "serving sara should be served an eviction notice at every theater stuck with it .",
+            "output": "negative"
+        },
+        "959": {
+            "input": "i hope the movie is widely seen and debated with appropriate ferocity and thoughtfulness .",
+            "output": "very positive"
+        },
+        "960": {
+            "input": "k-19 : the widowmaker is a great yarn .",
+            "output": "positive"
+        },
+        "961": {
+            "input": "better effects , better acting and a hilarious kenneth branagh .",
+            "output": "very positive"
+        },
+        "962": {
+            "input": "` the war of the roses , ' trailer-trash style .",
+            "output": "very negative"
+        },
+        "963": {
+            "input": "this would-be ` james bond for the extreme generation ' pic is one big , dumb action movie .",
+            "output": "very negative"
+        },
+        "964": {
+            "input": "the screenplay comes across , rather unintentionally , as hip-hop scooby-doo .",
+            "output": "neutral"
+        },
+        "965": {
+            "input": "labute 's careful handling makes the material seem genuine rather than pandering .",
+            "output": "very positive"
+        },
+        "966": {
+            "input": "while the film is not entirely successful , it still manages to string together enough charming moments to work .",
+            "output": "positive"
+        },
+        "967": {
+            "input": "-lrb- a -rrb- painfully flat gross-out comedy ...",
+            "output": "negative"
+        },
+        "968": {
+            "input": "wait for pay per view or rental but do n't dismiss barbershop out of hand .",
+            "output": "neutral"
+        },
+        "969": {
+            "input": "a truly wonderful tale combined with stunning animation .",
+            "output": "very positive"
+        },
+        "970": {
+            "input": "they cheapen the overall effect .",
+            "output": "negative"
+        },
+        "971": {
+            "input": "the trick when watching godard is to catch the pitch of his poetics , savor the pleasure of his sounds and images , and ponder the historical , philosophical , and ethical issues that intersect with them .",
+            "output": "positive"
+        },
+        "972": {
+            "input": "a decidedly mixed bag .",
+            "output": "neutral"
+        },
+        "973": {
+            "input": "i prefer soderbergh 's concentration on his two lovers over tarkovsky 's mostly male , mostly patriarchal debating societies .",
+            "output": "neutral"
+        },
+        "974": {
+            "input": "glazed with a tawdry b-movie scum .",
+            "output": "very negative"
+        },
+        "975": {
+            "input": "it 's mildly interesting to ponder the peculiar american style of justice that plays out here , but it 's so muddled and derivative that few will bother thinking it all through .",
+            "output": "negative"
+        },
+        "976": {
+            "input": "so original in its base concept that you can not help but get caught up .",
+            "output": "very positive"
+        },
+        "977": {
+            "input": "igby goes down is one of those movies .",
+            "output": "neutral"
+        },
+        "978": {
+            "input": "by turns pretentious , fascinating , ludicrous , provocative and vainglorious .",
+            "output": "positive"
+        },
+        "979": {
+            "input": "as if drop dead gorgeous was n't enough , this equally derisive clunker is fixated on the spectacle of small-town competition .",
+            "output": "negative"
+        },
+        "980": {
+            "input": "talk to her is not the perfect movie many have made it out to be , but it 's still quite worth seeing .",
+            "output": "positive"
+        },
+        "981": {
+            "input": "it 's a satisfying summer blockbuster and worth a look .",
+            "output": "positive"
+        },
+        "982": {
+            "input": "many insightful moments .",
+            "output": "positive"
+        },
+        "983": {
+            "input": "though the film is well-intentioned , one could rent the original and get the same love story and parable .",
+            "output": "positive"
+        },
+        "984": {
+            "input": "as tricky and satisfying as any of david mamet 's airless cinematic shell games .",
+            "output": "positive"
+        },
+        "985": {
+            "input": "the film is so packed with subplots involving the various silbersteins that it feels more like the pilot episode of a tv series than a feature film .",
+            "output": "negative"
+        },
+        "986": {
+            "input": "deliberately and skillfully uses ambiguity to suggest possibilities which imbue the theme with added depth and resonance .",
+            "output": "positive"
+        },
+        "987": {
+            "input": "that ` alabama ' manages to be pleasant in spite of its predictability and occasional slowness is due primarily to the perkiness of witherspoon -lrb- who is always a joy to watch , even when her material is not first-rate -rrb- ...",
+            "output": "positive"
+        },
+        "988": {
+            "input": "although mainstream american movies tend to exploit the familiar , every once in a while a film arrives from the margin that gives viewers a chance to learn , to grow , to travel .",
+            "output": "positive"
+        },
+        "989": {
+            "input": "the footage of the rappers at play and the prison interview with suge knight are just two of the elements that will grab you .",
+            "output": "positive"
+        },
+        "990": {
+            "input": "the adventure does n't contain half the excitement of balto , or quarter the fun of toy story 2 .",
+            "output": "negative"
+        },
+        "991": {
+            "input": "alas , it 's the man that makes the clothes .",
+            "output": "positive"
+        },
+        "992": {
+            "input": "this version of h.g. wells ' time machine was directed by h.g. wells ' great-grandson .",
+            "output": "neutral"
+        },
+        "993": {
+            "input": "a sentimental mess that never rings true .",
+            "output": "very negative"
+        },
+        "994": {
+            "input": "imagine o. henry 's the gift of the magi relocated to the scuzzy underbelly of nyc 's drug scene .",
+            "output": "very negative"
+        },
+        "995": {
+            "input": "it has no affect on the kurds , but it wore me down .",
+            "output": "negative"
+        },
+        "996": {
+            "input": "cut through the layers of soap-opera emotion and you find a scathing portrayal of a powerful entity strangling the life out of the people who want to believe in it the most .",
+            "output": "positive"
+        },
+        "997": {
+            "input": "after an uncertain start , murder hits and generally sustains a higher plateau with bullock 's memorable first interrogation of gosling .",
+            "output": "positive"
+        },
+        "998": {
+            "input": "the touch is generally light enough and the performances , for the most part , credible .",
+            "output": "positive"
+        },
+        "999": {
+            "input": "it 's hard to say who might enjoy this , are there tolstoy groupies out there ?",
+            "output": "negative"
+        },
+        "1000": {
+            "input": "some body will take you places you have n't been , and also places you have .",
+            "output": "positive"
+        }
+    }
+}

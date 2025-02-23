@@ -1,0 +1,807 @@
+{
+    "metadata": {
+        "num_examples": 200
+    },
+    "examples": {
+        "1": {
+            "input": "Sentence 1: Claire had advanced to the third round of the 76th annual Scripps Howard National Spelling Bee .. Sentence 2: One by one they strolled to the microphone , all 251 youngsters in the 76th Scripps Howard National Spelling Bee .",
+            "output": "not equivalent"
+        },
+        "2": {
+            "input": "Sentence 1: Drax faced a financial crisis late last year after it lost its most lucrative sales contract , held with insolvent utility TXU Europe .. Sentence 2: Drax \u2019 s troubles began late last year when it lost its most lucrative sales contract , with the insolvent utility TXU Europe .",
+            "output": "equivalent"
+        },
+        "3": {
+            "input": "Sentence 1: It was not immediately known how many people were on flight UTA 141 , which could carry 141 passengers and crew .. Sentence 2: It was still not known exactly how many people were on the plane , which could carry 141 passengers and crew .",
+            "output": "equivalent"
+        },
+        "4": {
+            "input": "Sentence 1: Judge Craig Doran said it wasn 't his role to determine if Hovan was \" an evil man \" but maintained that \" he has committed an evil act . \". Sentence 2: Judge Craig Doran said he couldn 't determine if Hovan was \" an evil man \" but said he \" has committed an evil act . \"",
+            "output": "equivalent"
+        },
+        "5": {
+            "input": "Sentence 1: The company said it would issue revised guidance for the full fiscal year next month when it releases its Q2 results .. Sentence 2: The company said it would renew its guidance for 2003 when it announces its second quarter results in mid-July .",
+            "output": "equivalent"
+        },
+        "6": {
+            "input": "Sentence 1: Only one of the five buildings in the Baghdad compound of the United Nations Development Program escaped being burned , the UN said on its Web site .. Sentence 2: Only one of the five buildings in the compound in Baghdad run by the UN Development Program , escaped being burned , the UN said on its Web site .",
+            "output": "equivalent"
+        },
+        "7": {
+            "input": "Sentence 1: The additional contribution brings total U.S. food aid to North Korea this year to 100,000 tonnes .. Sentence 2: The donation of 60,000 tons brings the total of U.S. contributions for the year to 100,000 .",
+            "output": "equivalent"
+        },
+        "8": {
+            "input": "Sentence 1: Witnesses said they believed the man planned to crash the Launceston-bound Qantas flight 1737 , which was carrying 47 passengers and six crew .. Sentence 2: Witnesses believe he wanted to crash Flight 1737 , which had 47 passengers and six crew .",
+            "output": "equivalent"
+        },
+        "9": {
+            "input": "Sentence 1: Terri Schiavo , 39 , is expected to die sometime in the next two weeks in the Tampa-area hospice where she has spent the past several years .. Sentence 2: Terri Schiavo , 39 , underwent the procedure at the Tampa Bay area hospice where she has been living for several years , said her father , Bob Schindler .",
+            "output": "not equivalent"
+        },
+        "10": {
+            "input": "Sentence 1: But Virgin wants to operate Concorde on routes to New York , Barbados and Dubai .. Sentence 2: Branson said that his preference would be to operate a fully commercial service on routes to New York , Barbados and Dubai .",
+            "output": "equivalent"
+        },
+        "11": {
+            "input": "Sentence 1: The Hartford shares rose $ 2.88 , or 6.6 percent , to close Monday at $ 46.50 on the New York Stock Exchange .. Sentence 2: Shares of Hartford rose $ 2.88 to $ 46.50 in New York Stock Exchange composite trading .",
+            "output": "not equivalent"
+        },
+        "12": {
+            "input": "Sentence 1: Bob Richter , a spokesman for House Speaker Tom Craddick , had no comment about the ruling .. Sentence 2: Bob Richter , spokesman for Craddick , R-Midland , said the speaker had not seen the ruling and could not comment .",
+            "output": "not equivalent"
+        },
+        "13": {
+            "input": "Sentence 1: Prosecutors allege that Nichols and co-conspirator Timothy McVeigh worked together to prepare a bomb that destroyed the Alfred P. Murrah Federal Building .. Sentence 2: Prosecutors allege that Nichols and coconspirator Timothy McVeigh worked together to prepare a 4,000-pound fuel-and-fertilizer bomb that destroyed the Murrah building .",
+            "output": "equivalent"
+        },
+        "14": {
+            "input": "Sentence 1: Tom Kraynak , manager of operations and resources for the Canton , Ohio-based East Central Area Reliability Council , said that scenario is one among many that investigators are considering .. Sentence 2: Tom Kraynak , manager of operations and resources for the Canton , Ohio-based East Central Area Reliability Council , said investigators are considering the scenario .",
+            "output": "equivalent"
+        },
+        "15": {
+            "input": "Sentence 1: The broader Standard & Poor 's 500 Index .SPX gave up 11.91 points , or 1.19 percent , at 986.60 .. Sentence 2: The technology-laced Nasdaq Composite Index was down 25.36 points , or 1.53 percent , at 1,628.26 .",
+            "output": "not equivalent"
+        },
+        "16": {
+            "input": "Sentence 1: In an unusual move , the U.S. Patent and Trademark Office is reconsidering a patent affecting Internet pages that critics contend could disrupt millions of Web sites .. Sentence 2: In an unusual move that critics contend could disrupt millions of Web sites , the U.S. Patent and Trademark Office is reconsidering a patent affecting Internet pages .",
+            "output": "equivalent"
+        },
+        "17": {
+            "input": "Sentence 1: Spansion products are to be available from both AMD and Fujitsu , AMD said .. Sentence 2: Spansion Flash memory solutions are available worldwide from AMD and Fujitsu .",
+            "output": "equivalent"
+        },
+        "18": {
+            "input": "Sentence 1: Terri Schiavo , 39 , underwent the procedure at the Tampa Bay area hospice where she has been living for several years , said her father , Bob Schindler .. Sentence 2: The tube was removed Wednesday from Terri Schiavo , 39 , at the Tampa Bay-area hospice where she has lived for several years .",
+            "output": "equivalent"
+        },
+        "19": {
+            "input": "Sentence 1: Donations stemming from the Sept . 11 attacks helped push up contributions to human service organizations and large branches of the United Way by 15 percent and 28.6 percent , respectively .. Sentence 2: Donations stemming from the Sept . 11 attacks helped push up contributions to human service organizations by 15 percent and to large branches of the United Way by 28.6 percent .",
+            "output": "equivalent"
+        },
+        "20": {
+            "input": "Sentence 1: Glover spoke at a news conference that included about 20 relatives of the victims .. Sentence 2: About 20 family members of the victims were invited to the news conference .",
+            "output": "not equivalent"
+        },
+        "21": {
+            "input": "Sentence 1: The Neighbours star and singer spent yesterday resting at her family home in Sydney and will have more tests today .. Sentence 2: Goodrem spent yesterday resting in her family home in Sydney and will have more tests today to determine her exact treatment .",
+            "output": "not equivalent"
+        },
+        "22": {
+            "input": "Sentence 1: He added that those \" are not solely American principles , nor are they exclusively Western . \". Sentence 2: \" These are not solely American principles nor are they exclusively Western , \" Rumsfeld said .",
+            "output": "equivalent"
+        },
+        "23": {
+            "input": "Sentence 1: \" It is bad for Symbian , \" said Per Lindberg , analyst at Dresdner Kleinwort Wasserstein .. Sentence 2: \" Motorola has displayed clear disloyalty \" to Symbian , said Per Lindberg , an analyst at Dresdner Kleinwort Wasserstein in London .",
+            "output": "not equivalent"
+        },
+        "24": {
+            "input": "Sentence 1: Wal-Mart has said it plans to open at least 40 Supercenters in the state in the coming years ; analysts expect four or more to be in San Diego County .. Sentence 2: At least 40 of the outlets will be in California , and analysts expect four or more to be in San Diego County .",
+            "output": "not equivalent"
+        },
+        "25": {
+            "input": "Sentence 1: The 3 rd Armored Cavalry Regiment is 5,200 strong and the largest combat unit at Fort Carson .. Sentence 2: Broomhead , 34 , was assigned to the 2nd Squadron , 3rd Armored Cavalry Regiment .",
+            "output": "not equivalent"
+        },
+        "26": {
+            "input": "Sentence 1: Peterson , a former fertilizer salesman , is charged with murder in the deaths of his 27-year-old wife and the baby boy she was carrying .. Sentence 2: Peterson , 31 , is now charged with murder in the deaths of his 27-year-old wife and their unborn son .",
+            "output": "equivalent"
+        },
+        "27": {
+            "input": "Sentence 1: The Dow Jones industrial average ended the day down 10.89 at 9,837.94 , after advancing 111.04 Wednesday .. Sentence 2: The Dow Jones industrial average fell 10.89 points , or 0.11 percent , to 9,837.94 .",
+            "output": "not equivalent"
+        },
+        "28": {
+            "input": "Sentence 1: Their contract will expire at 12 : 01 a.m. Wednesday instead of 12 : 01 a.m. Sunday , said Rian Wathen , organizing director for United Food and Commercial Workers Local 700 .. Sentence 2: \" It has outraged the membership , \" said Rian Wathen , organizing director of United Food and Commercial Workers Local 700 .",
+            "output": "not equivalent"
+        },
+        "29": {
+            "input": "Sentence 1: Unable to find a home for him , a judge told mental health authorities they needed to find supervised housing and treatment for DeVries somewhere in California .. Sentence 2: The judge had told the state Department of Mental Health to find supervised housing and treatment for DeVries somewhere in California .",
+            "output": "equivalent"
+        },
+        "30": {
+            "input": "Sentence 1: Dr Mark McClean , Jonathan 's family doctor , said if the drug had been administered earlier Jonathan would have retained more of his brain functions .. Sentence 2: Dr Mark McClean , the family 's GP , said had the drug been administered to Jonathan earlier , he would have retained more of his brain function .",
+            "output": "equivalent"
+        },
+        "31": {
+            "input": "Sentence 1: McCabe said he was considered a witness , not a suspect .. Sentence 2: \" He is not considered a suspect , \" McCabe said .",
+            "output": "not equivalent"
+        },
+        "32": {
+            "input": "Sentence 1: \" There is no need for one deadline for all to create the ASEAN Economic Community , \" Thaksin said .. Sentence 2: Thus , he said , there did not have to one deadline to create the economic community .",
+            "output": "equivalent"
+        },
+        "33": {
+            "input": "Sentence 1: The market remains pinned in a narrow range after a powerful rally drove the broad Standard & Poor 's 500 index .SPX up more than 20 percent since mid-March .. Sentence 2: The market remains pinned in a narrow range after a powerful rally pushed the broad S & P 500 index up more than 20 percent since mid-March .",
+            "output": "equivalent"
+        },
+        "34": {
+            "input": "Sentence 1: That is evident from their failure , three times in a row , to get a big enough turnout to elect a president .. Sentence 2: Three times in a row , they failed to get a big _ enough turnout to elect a president .",
+            "output": "equivalent"
+        },
+        "35": {
+            "input": "Sentence 1: The civilian unemployment rate improved marginally last month -- slipping to 6.1 percent -- even as companies slashed payrolls by 93,000 .. Sentence 2: The civilian unemployment rate improved marginally last month _ sliding down to 6.1 percent _ as companies slashed payrolls by 93,000 amid continuing mixed signals about the nation 's economic health .",
+            "output": "not equivalent"
+        },
+        "36": {
+            "input": "Sentence 1: Prosecutors said PW Marketing violated the state 's 1998 anti-spam law by sending unsolicited e-mail without a toll-free number for recipients to call to stop additional mailings .. Sentence 2: Prosecutors said PW Marketing violated the 1998 anti-spam law because these unsolicited e-mails were sent without a free call number for recipients to phone to stop additional mailings .",
+            "output": "equivalent"
+        },
+        "37": {
+            "input": "Sentence 1: Mr. Rowland attended a party in South Windsor for the families of Connecticut National Guard soldiers called to active duty .. Sentence 2: Rowland was making an appearance at a holiday party for families of Connecticut National Guard soldiers assigned to duty in Iraq and Afghanistan .",
+            "output": "equivalent"
+        },
+        "38": {
+            "input": "Sentence 1: Carlson on Tuesday said he would not recuse himself from the case .. Sentence 2: Service officials said Carlson refused to recuse himself from the case .",
+            "output": "equivalent"
+        },
+        "39": {
+            "input": "Sentence 1: Based on a separate survey of households , the unemployment rate fell in August to 6.1 percent from 6.2 percent .. Sentence 2: Labor Department analysts discounted a slight improvement in the national unemployment rate , which fell in August to 6.1 percent from 6.2 percent .",
+            "output": "not equivalent"
+        },
+        "40": {
+            "input": "Sentence 1: In the United States , heart attacks kill about 460,000 year , in Canada about 80,000 .. Sentence 2: In the United States , heart attacks kill about 460,000 yearly , according to the National Institutes of Health .",
+            "output": "not equivalent"
+        },
+        "41": {
+            "input": "Sentence 1: After the two-hour meeting on May 14 , publisher Arthur O. Sulzberger Jr . , executive editor Howell Raines and managing editor Gerald Boyd pledged quick remedies to staff grievances .. Sentence 2: The committee will make recommendations to Publisher Arthur Sulzberger , Executive Editor Howell Raines and Managing Editor Gerald Boyd .",
+            "output": "not equivalent"
+        },
+        "42": {
+            "input": "Sentence 1: I was surprised it turned out me talking and the president just listening .. Sentence 2: \" I was surprised it turned out me talking and the president just listening . . . It was mostly a monologue . \"",
+            "output": "equivalent"
+        },
+        "43": {
+            "input": "Sentence 1: In that position , Elias will report to Joe Tucci , president and CEO of EMC .. Sentence 2: As executive vice president of new ventures , Elias will report to Joe Tucci , EMC 's president and chief executive .",
+            "output": "equivalent"
+        },
+        "44": {
+            "input": "Sentence 1: The company emphasized that McDonald 's USA does not import any raw beef or hamburger patties from Canada for McDonald 's use in the United States .. Sentence 2: McDonald 's said in a statement that it does not import any raw beef or hamburger patties from Canada for use in the United States .",
+            "output": "equivalent"
+        },
+        "45": {
+            "input": "Sentence 1: While dioxin levels in the environment were up last year , they have dropped by 75 percent since the 1970s , said Caswell .. Sentence 2: The Institute said dioxin levels in the environment have fallen by as much as 76 percent since the 1970s .",
+            "output": "not equivalent"
+        },
+        "46": {
+            "input": "Sentence 1: Magnarelli said Racicot hated the Iraqi regime and looked forward to using his long years of training in the war .. Sentence 2: His wife said he was \" 100 percent behind George Bush \" and looked forward to using his years of training in the war .",
+            "output": "not equivalent"
+        },
+        "47": {
+            "input": "Sentence 1: Sony claimed that the reader 's capacitance sensing technology cannot be fooled by paper copies and does not require cleaning .. Sentence 2: Its capacitance sensing technology electronically reads a fingerprint ; Sony says it can 't be fooled by paper copies and doesn 't require cleaning .",
+            "output": "not equivalent"
+        },
+        "48": {
+            "input": "Sentence 1: \" This child was literally neglected to death , \" Armstrong County District Attorney Scott Andreassi said .. Sentence 2: Armstrong County District Attorney Scott Andreassi said the many family photos in the home did not include Kristen .",
+            "output": "not equivalent"
+        },
+        "49": {
+            "input": "Sentence 1: Chirac , who can pardon a law-breaker , refused Humbert 's request last year but kept in close touch with the family .. Sentence 2: Chirac , who has the authority to pardon law-breakers , refused Humbert 's request to be allowed to die last year but kept in close touch with the family .",
+            "output": "equivalent"
+        },
+        "50": {
+            "input": "Sentence 1: Morrill 's wife , Ellie , sobbed and hugged Bondeson 's sister-in-law during the service .. Sentence 2: At the service Morrill 's widow , Ellie , sobbed and hugged Bondeson 's sister-in-law as people consoled her .",
+            "output": "not equivalent"
+        },
+        "51": {
+            "input": "Sentence 1: But Ms Ward said the headroom under its financial covenants was \" tight \" and that there could be another downgrade if Southcorp breached any of its banking covenants .. Sentence 2: But Ms Ward said the headroom under its financial covenants was \" tight \" and that there could be a rating downgrade if Southcorp did breach any banking covenants .",
+            "output": "equivalent"
+        },
+        "52": {
+            "input": "Sentence 1: The seizure took place at 4 a.m. on March 18 , just hours before the first American air assault .. Sentence 2: The time was about 4 a.m. on March 18 , just hours before the first pinpoint missiles rained down on the capital .",
+            "output": "not equivalent"
+        },
+        "53": {
+            "input": "Sentence 1: The Justice Department Aug. 19 gave pre-clearance for the Oct. 7 date for the election to recall Gov. Gray Davis , saying it would not affect minority voting rights .. Sentence 2: The Justice Department on Aug. 19 sanctioned the Oct. 7 date for recall election , saying it would not affect voting rights .",
+            "output": "equivalent"
+        },
+        "54": {
+            "input": "Sentence 1: The U.S. Supreme Court will hear arguments on Wednesday on whether companies can be sued under the Americans with Disabilities Act for refusing to rehire rehabilitated drug users .. Sentence 2: The high court will hear arguments today on whether companies can be sued under the ADA for refusing to rehire rehabilitated drug users .",
+            "output": "equivalent"
+        },
+        "55": {
+            "input": "Sentence 1: The announcement , which economists said was not a surprise , may be bittersweet for the millions of Americans without jobs .. Sentence 2: Economists said the announcement was not a surprise , and politicians said it offered little comfort to the millions of Americans without jobs .",
+            "output": "equivalent"
+        },
+        "56": {
+            "input": "Sentence 1: Thus far , Stewart 's company appears ready to stand behind her .. Sentence 2: For now , the company 's management appears to be standing behind Stewart .",
+            "output": "equivalent"
+        },
+        "57": {
+            "input": "Sentence 1: About two hours later , his body , wrapped in a blanket , was found dumped a few blocks away .. Sentence 2: Then his body was dumped a few blocks away , found in a driveway on Argyle Road .",
+            "output": "not equivalent"
+        },
+        "58": {
+            "input": "Sentence 1: Hester said Sanmina was the best fit among several purchase offers the company received from electronics manufacturers and computer makers .. Sentence 2: Hester said Sanmina 's offer was the best among several Newisys received from electronics manufacturers and computer makers .",
+            "output": "equivalent"
+        },
+        "59": {
+            "input": "Sentence 1: For the second year in a row , rises in hospital costs accounted for much of the inflation , accounting for 51 percent of the overall cost increase .. Sentence 2: For the second year in a row , rises in hospital costs dominated the increase , accounting for 51 percent of the overall cost spiral .",
+            "output": "equivalent"
+        },
+        "60": {
+            "input": "Sentence 1: Federal Agriculture Minister Warren Truss said the Government still did not know the real reason the sheep were rejected at the Saudi port of Jeddah on August 21 .. Sentence 2: He said the Government still did not know the real reason the original Saudi buyer pulled out on August 21 .",
+            "output": "equivalent"
+        },
+        "61": {
+            "input": "Sentence 1: Today , analysts say , UN members can no longer ignore the shifts since the September 11 2001 attacks .. Sentence 2: On Wednesday , analysts say , UN members can no longer ignore the shifts since the attacks in the US of September 11 2001 .",
+            "output": "equivalent"
+        },
+        "62": {
+            "input": "Sentence 1: Robert Liscouski , the Assistant Secretary of Homeland Security for Infrastructure Protection , will oversee NCSD .. Sentence 2: NCSD 's chief will be Robert Liscouski , the assistant secretary of Homeland Security for Infrastructure Protection .",
+            "output": "equivalent"
+        },
+        "63": {
+            "input": "Sentence 1: The delegates said raising and distributing funds has been complicated by the U.S. crackdown on jihadi charitable foundations , bank accounts of terror-related organizations and money transfers .. Sentence 2: Bin Laden \u2019 s men pointed out that raising and distributing funds has been complicated by the U.S. crackdown on jihadi charitable foundations , bank accounts of terror-related organizations and money transfers .",
+            "output": "equivalent"
+        },
+        "64": {
+            "input": "Sentence 1: Cooley said he expects Muhammad will similarly be called as a witness at a pretrial hearing for Malvo .. Sentence 2: Lee Boyd Malvo will be called as a witness Wednesday in a pretrial hearing for fellow sniper suspect John Allen Muhammad .",
+            "output": "not equivalent"
+        },
+        "65": {
+            "input": "Sentence 1: Rumsfeld , who has been feuding for two years with Army leadership , passed over nine active-duty four-star generals .. Sentence 2: Rumsfeld has been feuding for a long time with Army leadership , and he passed over nine active-duty four-star generals .",
+            "output": "equivalent"
+        },
+        "66": {
+            "input": "Sentence 1: Worldwide , more than 50 million people have seen \" Les Miz , \" with gross receipts of $ 1.8 billion .. Sentence 2: Worldwide , Les Mis\u00e9rables has been seen by over 50 million people , with a total gross of over $ 2 billion .",
+            "output": "equivalent"
+        },
+        "67": {
+            "input": "Sentence 1: No dates have been set for the civil or the criminal trial .. Sentence 2: No dates have been set for the criminal or civil cases , but Shanley has pleaded not guilty .",
+            "output": "not equivalent"
+        },
+        "68": {
+            "input": "Sentence 1: After 18 months , Nissen found that Lipitor stopped plaque buildup in the patients ' arteries .. Sentence 2: After 18 months , the atorvastatin patients had no change in the plaque in their arteries .",
+            "output": "not equivalent"
+        },
+        "69": {
+            "input": "Sentence 1: The jury verdict , reached Wednesday after less than four hours of deliberation , followed a 2 week trial , during which Waagner represented himself .. Sentence 2: The quick conviction followed a 2 1 / 2 week trial , during which the Venango County man represented himself .",
+            "output": "equivalent"
+        },
+        "70": {
+            "input": "Sentence 1: The Guru microcontroller serves four functions : hardware monitoring , overclocking management , BIOS ( Basic Input Output System ) update and a troubleshooting-assistance feature called Black Box .. Sentence 2: The \u00b5Guru microcontroller serves four functions : hardware monitoring , overclocking management , BIOS update and a troubleshooting-assistance feature called Black Box .",
+            "output": "equivalent"
+        },
+        "71": {
+            "input": "Sentence 1: The Centers for Medicare and Medicaid Services , the federal agency that runs Medicare , last year began a similar effort for nursing homes .. Sentence 2: The Centers for Medicare and Medicaid launched a similar consumer tool for nursing homes last year .",
+            "output": "equivalent"
+        },
+        "72": {
+            "input": "Sentence 1: Wal-Mart said it would check all of its million-plus domestic workers to ensure they were legally employed .. Sentence 2: It has also said it would review all of its domestic employees more than 1 million to ensure they have legal status .",
+            "output": "equivalent"
+        },
+        "73": {
+            "input": "Sentence 1: However , Lapidus expects foreign brands ' sales to be up 4 percent , driven by strong truck sales at Honda Motor Co .. Sentence 2: Lapidus expects Ford to be down 5 percent , Chrysler down 10 percent and foreign brands up 4 percent driven by strong truck sales at Honda .",
+            "output": "not equivalent"
+        },
+        "74": {
+            "input": "Sentence 1: Zulifquar Ali , a worshipper slightly wounded by shrapnel , said the assailants first targeted the mosque 's security guards .. Sentence 2: Witness Zulfiqar Ali , who was slightly wounded by shrapnel , said the attackers had focused on the mosque 's guards .",
+            "output": "equivalent"
+        },
+        "75": {
+            "input": "Sentence 1: At least 27 US troops have been killed in hostile fire since Bush 's statement .. Sentence 2: At least 26 American troops have been killed in hostile fire since major combat was officially declared over on May 1 .",
+            "output": "equivalent"
+        },
+        "76": {
+            "input": "Sentence 1: This integrates with Rational PurifyPlus and allows developers to work in supported versions of Java , Visual C # and Visual Basic .NET.. Sentence 2: IBM said the Rational products were also integrated with Rational PurifyPlus , which allows developers to work in Java , Visual C # and VisualBasic .Net.",
+            "output": "equivalent"
+        },
+        "77": {
+            "input": "Sentence 1: The driver , Eugene Rogers , helped to remove children from the bus , Wood said .. Sentence 2: At the accident scene , the driver was \" covered in blood \" but helped to remove children , Wood said .",
+            "output": "not equivalent"
+        },
+        "78": {
+            "input": "Sentence 1: \" Biotech products , if anything , may be safer than conventional products because of all the testing , \" Fraley said , adding that 18 countries have adopted biotechnology .. Sentence 2: \" Biotech products , if anything , may be safer than conventional products because of all the testing , \" said Robert Fraley , Monsanto 's executive vice president .",
+            "output": "not equivalent"
+        },
+        "79": {
+            "input": "Sentence 1: Friday , Stanford ( 47-15 ) blanked the Gamecocks 8-0 .. Sentence 2: Stanford ( 46-15 ) has a team full of such players this season .",
+            "output": "not equivalent"
+        },
+        "80": {
+            "input": "Sentence 1: The U.N. troops are in Congo to protect U.N. installations and personnel , and they can only fire in self defense and have been unable to stem the violence .. Sentence 2: The troops - whose mandate is to protect U.N. installations and personnel - can only fire in self-defense and have been unable to stem the violence .",
+            "output": "equivalent"
+        },
+        "81": {
+            "input": "Sentence 1: The decision to issue new guidance has been prompted by intelligence passed to Britain by the FBI in a secret briefing in late July .. Sentence 2: Scotland Yard 's decision to issue new guidance has been prompted by new intelligence passed to Britain by the FBI in late July .",
+            "output": "equivalent"
+        },
+        "82": {
+            "input": "Sentence 1: \" More than 70,000 men and women from bases in Southern California were deployed in Iraq .. Sentence 2: In all , more than 70,000 troops based in Southern California were deployed to Iraq .",
+            "output": "equivalent"
+        },
+        "83": {
+            "input": "Sentence 1: Mr Russell , 46 , a coal miner from Brisbane , said : \" They are obviously hurting , so we are basically going over there to help them . \". Sentence 2: \" They are obviously hurting so we are basically going over there to help them , \" Russell , 46 , said .",
+            "output": "equivalent"
+        },
+        "84": {
+            "input": "Sentence 1: The patch also fixes a vulnerability that results because IE does not implement an appropriate block on a file download dialog box .. Sentence 2: The second vulnerability is a result of IE not implementing a block on a file download dialog box .",
+            "output": "not equivalent"
+        },
+        "85": {
+            "input": "Sentence 1: \" There were more people surrounding the clubhouse than the Unabomber 's house up in the hills , \" Baker said .. Sentence 2: \" There are more people surrounding the clubhouse than surrounded the Unabomber 's home in the hills .",
+            "output": "equivalent"
+        },
+        "86": {
+            "input": "Sentence 1: The program will grow to include ports in Dubai , Turkey and Malaysia , among others .. Sentence 2: The program will be expanded to include areas of the Middle East such as Dubai , Turkey and Malaysia , Mr. Ridge said .",
+            "output": "equivalent"
+        },
+        "87": {
+            "input": "Sentence 1: PeopleSoft also said its board had officially rejected Oracle 's offer .. Sentence 2: Thursday morning , PeopleSoft 's board rejected the Oracle takeover offer .",
+            "output": "equivalent"
+        },
+        "88": {
+            "input": "Sentence 1: The charges allege that he was part of the conspiracy to kill and kidnap persons in a foreign country .. Sentence 2: The government now charges that Sattar conspired with Rahman to kill and kidnap individuals in foreign countries .",
+            "output": "equivalent"
+        },
+        "89": {
+            "input": "Sentence 1: Xerox itself paid a $ 10 million fine last year to settle similar SEC charges .. Sentence 2: Xerox itself previously paid a $ 10-million penalty to settle the SEC accusations .",
+            "output": "equivalent"
+        },
+        "90": {
+            "input": "Sentence 1: The blasts killed two people and injured more than 150 others .. Sentence 2: The Atlanta Olympic Games attack killed one woman and injured more than 100 other people .",
+            "output": "not equivalent"
+        },
+        "91": {
+            "input": "Sentence 1: Dealers said the dollar also drew some downside support as Japanese investors are expected to keep snapping up foreign bonds amid the yen 's rise against the dollar .. Sentence 2: Dealers said the dollar also drew some downside support as Japanese investors are expected to keep snapping up foreign bonds amid ever-falling domestic interest rates .",
+            "output": "equivalent"
+        },
+        "92": {
+            "input": "Sentence 1: The New York Democrat and former first lady has said she will not run for the White House in 2004 , but has not ruled out a race in later years .. Sentence 2: The former first lady has said she will not run for the White House in 2004 but has not ruled out a race later on .",
+            "output": "equivalent"
+        },
+        "93": {
+            "input": "Sentence 1: In the clash with police , Lt. Mothana Ali said about 1,000 demonstrators had gone to the station demanding jobs .. Sentence 2: In Baghdad , police Lieut . Mothana Ali said about 1,000 demonstrators arrived at the station demanding jobs .",
+            "output": "equivalent"
+        },
+        "94": {
+            "input": "Sentence 1: Officials are also meeting with the International Organization for Epizootics ( OIE ) , which establishes animal-health standards for the world .. Sentence 2: Canadian officials were also expected to meet yesterday with the International Organization for Epizootics ( OIE ) , which establishes animal-health standards for the world .",
+            "output": "equivalent"
+        },
+        "95": {
+            "input": "Sentence 1: The Calgary woman , who is in her twenties , donated blood on Aug. 7 .. Sentence 2: The woman -- who has no symptoms of illness -- donated blood Aug. 7 .",
+            "output": "not equivalent"
+        },
+        "96": {
+            "input": "Sentence 1: But with the PM due to leave tomorrow afternoon for personal reasons there was a risk he might not be present when the final decision was made .. Sentence 2: But with the Prime Minister due to leave tomorrow , a day early , he may not be present when the final decision is made .",
+            "output": "equivalent"
+        },
+        "97": {
+            "input": "Sentence 1: News that oil producers were lowering their output starting in November exacerbated a sell-off that was already under way on Wall Street .. Sentence 2: News that the Organization of Petroleum Exporting Countries was lowering output starting in November exacerbated a stock sell-off already under way yesterday .",
+            "output": "equivalent"
+        },
+        "98": {
+            "input": "Sentence 1: GE stock closed Friday at $ 30.65 a share , down about 42 cents , on the New York Stock Exchange .. Sentence 2: GE 's shares closed at $ 30.65 on Friday on the New York Stock Exchange .",
+            "output": "not equivalent"
+        },
+        "99": {
+            "input": "Sentence 1: But I would rather be talking about high standards than low standards . \". Sentence 2: \" I would rather be talking about positive numbers rather than negative .",
+            "output": "equivalent"
+        },
+        "100": {
+            "input": "Sentence 1: In the 2002 study , the margin of error ranged from 1.8 to 4.4 percentage points .. Sentence 2: It has a margin of error of plus or minus three to four percentage points .",
+            "output": "equivalent"
+        },
+        "101": {
+            "input": "Sentence 1: The top rate will go to 4.45 percent for all residents with taxable incomes above $ 500,000 .. Sentence 2: For residents with incomes above $ 500,000 , the income-tax rate will increase to 4.45 percent .",
+            "output": "equivalent"
+        },
+        "102": {
+            "input": "Sentence 1: A year or two later , 259 , or 10 per cent , of the youths reported that they had started to smoke , or had taken just a few puffs .. Sentence 2: Within two years , 259 , or 10 percent , of the youths reported they had started to smoke or had at least taken a few puffs .",
+            "output": "equivalent"
+        },
+        "103": {
+            "input": "Sentence 1: President Bush raised a record-breaking $ 49.5 million for his re-election campaign over the last three months , with contributions from 262,000 Americans , the president 's campaign chairman said Tuesday .. Sentence 2: President Bush has raised $ 83.9 million since beginning his re-election campaign in May , and has $ 70 million of that left to spend , his campaign said Tuesday .",
+            "output": "not equivalent"
+        },
+        "104": {
+            "input": "Sentence 1: Corixa shares rose 54 cents to $ 7.74 yesterday on the Nasdaq Stock Market .. Sentence 2: Shares of Corixa rose 54 cents , or about 8 percent , to close at $ 7.74 .",
+            "output": "not equivalent"
+        },
+        "105": {
+            "input": "Sentence 1: White , who had suffered kidney failure from years of high blood pressure , died at Cedars-Sinai Medical Center around 9 : 30 a.m. , said manager Ned Shankman .. Sentence 2: White , who had kidney failure from years of high blood pressure , had been undergoing dialysis and had been hospitalized since a September stroke .",
+            "output": "not equivalent"
+        },
+        "106": {
+            "input": "Sentence 1: Amazon.com shipped out more than a million copies of the new book , making Saturday the largest distribution day of a single item in e-commerce history .. Sentence 2: Amazon.com shipped more than a million copies by Saturday afternoon , making Saturday the largest distribution day of a single item in e-commerce history .",
+            "output": "equivalent"
+        },
+        "107": {
+            "input": "Sentence 1: He tried to fight off officers and was taken to a hospital after a police dog bit him but was later released .. Sentence 2: Cruz tried to fight off officers and was hospitalized after a police dog bit him , Sgt. Steve Dixon said .",
+            "output": "not equivalent"
+        },
+        "108": {
+            "input": "Sentence 1: Twenty-eight people were believed to have been spending Christmas Day with the caretaker of the St Sophia 's camp , when the mudslide smashed into two cabins .. Sentence 2: Twenty-seven people were believed to have been spending Christmas Day with the caretaker of Saint Sophia Camp , a Greek Orthodox facility , when the mudslide roared through .",
+            "output": "equivalent"
+        },
+        "109": {
+            "input": "Sentence 1: Parson was charged with intentionally causing and attempting to cause damage to protected computers .. Sentence 2: Parson is charged with one count of intentionally causing damage to a protected computer .",
+            "output": "equivalent"
+        },
+        "110": {
+            "input": "Sentence 1: That would be a potential setback to Chief Executive Phil Condit 's strategy of bolstering defense-related sales during a slump in jetliner deliveries .. Sentence 2: The inquiry may hinder Chief Executive Phil Condit 's strategy of bolstering defense-related sales during a slump in jetliner deliveries .",
+            "output": "equivalent"
+        },
+        "111": {
+            "input": "Sentence 1: They will help draft a plan to attack obesity that Kraft will implement over three to four years .. Sentence 2: The team will help draft a plan by the end of the year to attack obesity .",
+            "output": "not equivalent"
+        },
+        "112": {
+            "input": "Sentence 1: \" It is probably not the easiest time to come in and take over the shuttle program , but then again , I look forward to the challenge , \" he said .. Sentence 2: \" It 's probably not the easiest time to come in and take over the shuttle program , but I look forward to the challenge , \" Parsons told reporters at NASA headquarters .",
+            "output": "equivalent"
+        },
+        "113": {
+            "input": "Sentence 1: It will be followed in November by a third movie , \" The Matrix Revolutions . \". Sentence 2: The film is the second of a trilogy , which will wrap up in November with \" The Matrix Revolutions . \"",
+            "output": "equivalent"
+        },
+        "114": {
+            "input": "Sentence 1: Costa 's semifinal opponent is Spaniard Juan Carlos Ferrero , whom he beat in last year 's final .. Sentence 2: Costa will play Juan Carlos Ferrero next in a rematch of last year 's final .",
+            "output": "not equivalent"
+        },
+        "115": {
+            "input": "Sentence 1: Chad Kolton , emergency management spokesman with the Department of Homeland Security , said the government is open to new technologies and methods to communicate more quickly and efficiently .. Sentence 2: Chad Kolton , emergency management spokesman with the Department of Homeland Security , said the government is open to new ways to communicate .",
+            "output": "equivalent"
+        },
+        "116": {
+            "input": "Sentence 1: One , Capt. Doug McDonald , remained hospitalized in critical condition on Thursday .. Sentence 2: Her 20-year-old sister , Allyson , was severely burned and remained hospitalized in critical condition .",
+            "output": "not equivalent"
+        },
+        "117": {
+            "input": "Sentence 1: Massachusetts regulators and the Securities and Exchange Commission on Tuesday pressed securities fraud charges against Putnam Investments and two of its former portfolio managers for alleged improper mutual fund trading .. Sentence 2: State and federal securities regulators filed civil charges against Putnam Investments and two portfolio managers in the ever-expanding mutual fund trading scandal .",
+            "output": "equivalent"
+        },
+        "118": {
+            "input": "Sentence 1: One way or another , Harry Potter And The Order Of The Phoenix will be in your hands by Saturday .. Sentence 2: Just about everything about \" Harry Potter and the Order of the Phoenix \" will set records .",
+            "output": "not equivalent"
+        },
+        "119": {
+            "input": "Sentence 1: \" Overwhelmingly the Windows brand really resonated with them . \". Sentence 2: \" Windows was the part of the experience that really resonated with people . \"",
+            "output": "equivalent"
+        },
+        "120": {
+            "input": "Sentence 1: The reports helped overcome investor jitters after the euro briefly hit an all-time high against the dollar Tuesday .. Sentence 2: Stocks slipped at the open after the euro hit record highs against the dollar .",
+            "output": "not equivalent"
+        },
+        "121": {
+            "input": "Sentence 1: He replaces Ron Dittemore , who announced his resignation in April .. Sentence 2: Dittemore announced his plans to resign on April 23 .",
+            "output": "not equivalent"
+        },
+        "122": {
+            "input": "Sentence 1: The first products are likely to be dongles costing between US $ 100 and US $ 150 that will establish connections between consumer electronics devices and PCs .. Sentence 2: The first products will likely be dongles costing $ 100 to $ 150 that will establish connections between consumer electronics devices and PCs .",
+            "output": "equivalent"
+        },
+        "123": {
+            "input": "Sentence 1: As Samudra sat down to hear the indictment , he looked over to his nine lawyers and shouted ``God is Great ' ' three times .. Sentence 2: As he sat down to hear the indictment , Samudra looked over to his nine lawyers and shouted \" Takbir ! \" , or \" Proclaim ! \" , a religious rallying cry .",
+            "output": "equivalent"
+        },
+        "124": {
+            "input": "Sentence 1: Last month Intel raised its revenue guidance for the quarter to between $ 7.6 billion and $ 7.8 billion .. Sentence 2: At the end of the second quarter , Intel initially predicted sales of between $ 6.9 billion and $ 7.5 billion .",
+            "output": "equivalent"
+        },
+        "125": {
+            "input": "Sentence 1: He is blocking them until the Air Force assigns four additional C-130 cargo planes to Gowen Field , an Idaho Air National Guard base in Boise .. Sentence 2: He is holding them up until the Air Force agrees to assign four additional C-130 cargo planes to the Idaho Air National Guard .",
+            "output": "equivalent"
+        },
+        "126": {
+            "input": "Sentence 1: The men were remanded in custody and are due to appear again before court on July 8 .. Sentence 2: They were remanded in custody and will appear in court again on July 8 .",
+            "output": "equivalent"
+        },
+        "127": {
+            "input": "Sentence 1: But Chauncey Billups demonstrated he 's also capable of big games , scoring 77 points over the final two games against the Magic .. Sentence 2: Billups scored 77 points in the final two games of the first-round series against the Magic .",
+            "output": "not equivalent"
+        },
+        "128": {
+            "input": "Sentence 1: United issued a statement saying it will \" work professionally and cooperatively with all its unions . \". Sentence 2: Senior vice president Sara Fields said the airline \" will work professionally and cooperatively with all our unions . \"",
+            "output": "equivalent"
+        },
+        "129": {
+            "input": "Sentence 1: But late Thursday night , the campaign issued a statement saying there would be no news conference and no big announcement .. Sentence 2: But late yesterday , the campaign and the state Democratic Party said there would be no news conference .",
+            "output": "not equivalent"
+        },
+        "130": {
+            "input": "Sentence 1: The legal ruling follows three days of intense speculation Hewlett-Packard Co. may be bidding for the company .. Sentence 2: The legal ruling follows three days of wild volatility in RIM 's stock over speculation that PC giant Hewlett-Packard Co. may be bidding for the company .",
+            "output": "equivalent"
+        },
+        "131": {
+            "input": "Sentence 1: Some of the computers also are used to send spam e-mail messages to drum up traffic to the sites .. Sentence 2: Some are also used to send spam e-mail messages to boost traffic to the sites .",
+            "output": "equivalent"
+        },
+        "132": {
+            "input": "Sentence 1: Leon Williams ' body was found inside his third-floor apartment at 196 Bay St. , in Tompkinsville .. Sentence 2: The dead man , Leon Williams , was found in his third-floor apartment .",
+            "output": "equivalent"
+        },
+        "133": {
+            "input": "Sentence 1: The broad Standard & Poor 's 500 < .SPX > eased 0.37 of a point , or 0.03 percent , at 1,121 .. Sentence 2: The Standard & Poor 's 500 Index < .SPX > slipped 0.26 point , or 0.02 percent , to 1,121.96 .",
+            "output": "equivalent"
+        },
+        "134": {
+            "input": "Sentence 1: Ex-KGB agent Putin added that the Beatles were considered ' propaganda of an alien ideology ' .. Sentence 2: In Soviet times the Beatles ' music \" was considered propaganda of an alien ideology .",
+            "output": "equivalent"
+        },
+        "135": {
+            "input": "Sentence 1: North American markets grabbed early gains Monday morning , as earnings season begins to slow and economic indicators take the spotlight .. Sentence 2: North American futures pointed to a strong start to the first trading session of the week Monday , as earnings season slows and economic indicators take the spotlight .",
+            "output": "equivalent"
+        },
+        "136": {
+            "input": "Sentence 1: The worm attacks Windows computers via a hole in the operating system , an issue Microsoft on July 16 had warned about .. Sentence 2: The worm attacks Windows computers via a hole in the operating system , which Microsoft warned of 16 July .",
+            "output": "equivalent"
+        },
+        "137": {
+            "input": "Sentence 1: Cortisol levels in the saliva of day care children were highest and rose most steeply in those judged by day care center personnel to be the shyest .. Sentence 2: Cortisol levels in the saliva of day-care children were highest and rose most steeply in those whom day-care centre staffed judged to be the shyest .",
+            "output": "equivalent"
+        },
+        "138": {
+            "input": "Sentence 1: Another $ 100-million in savings will come from management layoffs and pay cuts .. Sentence 2: The airline expects to save another $ 100-million a year through management layoffs and pay cuts .",
+            "output": "equivalent"
+        },
+        "139": {
+            "input": "Sentence 1: GE stock closed at $ 30.65 a share , down about 42 cents , on the New York Stock Exchange .. Sentence 2: GE 's shares closed at $ 30.65 on Friday on the New York Stock Exchange .",
+            "output": "not equivalent"
+        },
+        "140": {
+            "input": "Sentence 1: U.S. corporate bond yield spreads tightened in spotty trading on Friday as Wall Street labored to get back on its feet after the largest power outage ever in North America .. Sentence 2: U.S. stocks rose slightly on feather-light volume on Friday , as Wall Street regrouped after the biggest-ever power outage in North America .",
+            "output": "equivalent"
+        },
+        "141": {
+            "input": "Sentence 1: Franklin County Judge-Executive Teresa Barton said a firefighter was struck by lightning and was taken to the Frankfort Regional Medical Center .. Sentence 2: A county firefighter , was struck by lightning and was in stable condition at Frankfort Regional Medical Center .",
+            "output": "not equivalent"
+        },
+        "142": {
+            "input": "Sentence 1: Gibson said last month in a press statement that \" neither I nor my film are anti-Semitic .. Sentence 2: Gibson said in a June statement that he and his film are not anti-Semitic .",
+            "output": "equivalent"
+        },
+        "143": {
+            "input": "Sentence 1: He said he has begun a court action to seize Beacon Hill 's assets and has frozen more than $ 13 million Beacon Hill had when it closed .. Sentence 2: He said he has initiated a forfeiture action in court and frozen more than $ 13 million Beacon Hill had when it closed .",
+            "output": "equivalent"
+        },
+        "144": {
+            "input": "Sentence 1: In midafternoon trading , the Nasdaq composite index was up 8.34 , or 0.5 percent , to 1,790.47 .. Sentence 2: The Nasdaq Composite Index .IXIC dipped 8.59 points , or 0.48 percent , to 1,773.54 .",
+            "output": "not equivalent"
+        },
+        "145": {
+            "input": "Sentence 1: Mr. Kerkorian tried unsuccessfully to take over Chrysler in 1995 , but did win representation on its board .. Sentence 2: Kerkorian and Tracinda had also tried to take over Chrysler in 1995 .",
+            "output": "not equivalent"
+        },
+        "146": {
+            "input": "Sentence 1: But plaque volume increased by 2.7 percent in pravastatin patients .. Sentence 2: The volume of plaque in Pravachol patients ' arteries rose by 3 % .",
+            "output": "equivalent"
+        },
+        "147": {
+            "input": "Sentence 1: With these assets , Funny Cide has a solid chance to become the first Triple Crown winner since Affirmed in 1978 .. Sentence 2: Funny Cide is looking to become horse racing 's first Triple Crown winner in a generation .",
+            "output": "not equivalent"
+        },
+        "148": {
+            "input": "Sentence 1: Kansas Department of Health and Environment records show there were 88 abortions performed on girls age 14 and younger last year .. Sentence 2: Statistics from the Kansas Department of Health and Environment show that 11,844 abortions were performed in the state last year .",
+            "output": "not equivalent"
+        },
+        "149": {
+            "input": "Sentence 1: Nelson , 27 , is being retried on civil-rights charges stemming from the disturbance which led to Rosenbaum 's death .. Sentence 2: Nelson , 27 , is being retried on civil rights charges stemming from the disturbance that led to Rosenbaum 's death .",
+            "output": "equivalent"
+        },
+        "150": {
+            "input": "Sentence 1: \" I stand 100 percent by it , and I think our intelligence services gave us the correct information at the time . \". Sentence 2: I stand 100 percent by it , and I think that our intelligence services gave us the correct intelligence and information at the time , \" Blair said .",
+            "output": "equivalent"
+        },
+        "151": {
+            "input": "Sentence 1: The WHO experts didn 't say how many cases in Hebei were in rural areas .. Sentence 2: Hebei has reported 191 cases and eight deaths , though the WHO experts did not say how many were in rural areas .",
+            "output": "not equivalent"
+        },
+        "152": {
+            "input": "Sentence 1: Toll , Australia 's second-largest transport company , last week offered NZ75 a share for Tranz Rail .. Sentence 2: Toll last week offered to buy the company for NZ75c a share , or $ NZ158 million .",
+            "output": "equivalent"
+        },
+        "153": {
+            "input": "Sentence 1: A man arrested for allegedly threatening to shoot and kill a city councilman from Queens was ordered held on $ 100,000 bail during an early morning court appearance Saturday .. Sentence 2: The Queens man arrested for allegedly threatening to shoot City Councilman Hiram Monserrate was held on $ 100,000 bail Saturday , a spokesman for the Queens district attorney said .",
+            "output": "equivalent"
+        },
+        "154": {
+            "input": "Sentence 1: Waiting crowds filling the streets on both sides overwhelmed the peacekeepers soon after daylight , sweeping past the barbed wire barricades .. Sentence 2: But waiting crowds filling the streets rushed the bridges soon after daylight , overrunning razor-wire barricades .",
+            "output": "equivalent"
+        },
+        "155": {
+            "input": "Sentence 1: The euro was at 1.5281 versus the Swiss franc EURCHF = , up 0.2 percent on the session , after hitting its highest since mid-2001 around 1.5292 earlier in the session .. Sentence 2: The euro was steady versus the Swiss franc after hitting its highest since mid-2001 of 1.5261 earlier in the session .",
+            "output": "not equivalent"
+        },
+        "156": {
+            "input": "Sentence 1: Three such vigilante-style attacks forced the hacker organizer , who identified himself only as \" Eleonora [ 67 ] , \" to extend the contest until 7 p.m. EST Sunday .. Sentence 2: Three such vigilante-style attacks forced the hacker organiser , who identified himself only as \" Eleonora67 ] , \" to extend the contest until 8am ( AEST ) today .",
+            "output": "equivalent"
+        },
+        "157": {
+            "input": "Sentence 1: Lay had contended that turning over the documents would violate his Fifth Amendment right against self-incrimination .. Sentence 2: Lay had refused to turn over the papers , asserting his Fifth Amendment right against self-incrimination .",
+            "output": "equivalent"
+        },
+        "158": {
+            "input": "Sentence 1: According to the Merchant Marine Ministry , the 37-year-old ship is registered to Alpha Shipping Inc. based in the Pacific Ocean nation of Marshall Islands .. Sentence 2: The Baltic Sky is a 37-year-old ship registered to Alpha Shipping Inc. based in the Pacific Ocean nation of Marshall Islands .",
+            "output": "equivalent"
+        },
+        "159": {
+            "input": "Sentence 1: He is charged in three bombings in Atlanta including a blast at the 1996 Olympics and one in Alabama .. Sentence 2: He is charged in three bombings in Atlanta - including a blast at the 1996 Olympics - along with the bombing in Alabama .",
+            "output": "equivalent"
+        },
+        "160": {
+            "input": "Sentence 1: Vivace was founded in 1999 and has raised over $ 118 million in three rounds of venture financing .. Sentence 2: During difficult times for technology venture capital , Vivace raised over $ 118 million in three rounds of venture financing .",
+            "output": "not equivalent"
+        },
+        "161": {
+            "input": "Sentence 1: \" It was never our intention to sell the product , \" said Health Minister Anne McClellan , a skeptic of medical marijuana use .. Sentence 2: \" It was never the intention of us to sell product , \" federal Health Minister Anne McLellan said yesterday in Edmonton .",
+            "output": "equivalent"
+        },
+        "162": {
+            "input": "Sentence 1: Chiron already has nearly 20 percent acceptances from PowderJect 's shareholders .. Sentence 2: Chiron has acceptances from holders of nearly 20 percent of PowderJect shares .",
+            "output": "equivalent"
+        },
+        "163": {
+            "input": "Sentence 1: Estonia 's place in the European mainstream and safeguard its independence regained in 1991 .. Sentence 2: Estonia was forcibly incorporated in the Soviet Union in 1940 and regained its independence only in 1991 .",
+            "output": "not equivalent"
+        },
+        "164": {
+            "input": "Sentence 1: Singapore Prime Minister Goh Chok Tong says China plays an important role in the integration of Asia , including managing the stresses and strains both within and between countries .. Sentence 2: HAINAN PROVINCE , China : Singapore Prime Minister Goh Chok Tong said China plays an important role in the integration of Asia .",
+            "output": "not equivalent"
+        },
+        "165": {
+            "input": "Sentence 1: SPOT products run a Microsoft operating system and the company 's DirectBand radio technology developed with SCA Data Systems .. Sentence 2: The DirectBand network was developed with the assistance of SCA Data Systems .",
+            "output": "not equivalent"
+        },
+        "166": {
+            "input": "Sentence 1: In fiction : Edward P. Jones ( \" The Known World \" ) and Scott Spencer ( \" A Ship Made of Paper \" ) .. Sentence 2: The fifth nominee for fiction is Scott Spencer , for A Ship Made of Paper .",
+            "output": "not equivalent"
+        },
+        "167": {
+            "input": "Sentence 1: At community colleges , tuition will jump to $ 2,800 from $ 2,500 .. Sentence 2: Community college students will see their tuition rise by $ 300 to $ 2,800 or 12 percent .",
+            "output": "equivalent"
+        },
+        "168": {
+            "input": "Sentence 1: Ninety-five percent of international cargo to the United States is carried by ship .. Sentence 2: Ships carry 95 percent of international cargo to the United States .",
+            "output": "equivalent"
+        },
+        "169": {
+            "input": "Sentence 1: One of the FBI \u2019 s key operatives , who had a falling out with the bureau , provided an account of the operation at a friend \u2019 s closed immigration court proceeding .. Sentence 2: One of the FBI 's key operatives , who has had a falling-out with the bureau , provided an account of the operation at a friend 's closed immigration court proceeding .",
+            "output": "equivalent"
+        },
+        "170": {
+            "input": "Sentence 1: He made a point of saying during Tuesdays debate that the Confederate flag was a racist symbol .. Sentence 2: Though Dean made a point of saying during the debate that the Confederate flag is a racist symbol .",
+            "output": "equivalent"
+        },
+        "171": {
+            "input": "Sentence 1: The European Commission , the EU 's antitrust enforcer , is expected to issue its decision next spring \u2014 unless a settlement is reached .. Sentence 2: The European Commission is expected to issue its decision in the case next spring \u2014 unless a settlement is reached .",
+            "output": "equivalent"
+        },
+        "172": {
+            "input": "Sentence 1: Sales for the quarter beat expectations , rising 37 percent year-on-year to 1.76 billion euros .. Sentence 2: Sales rose 37 per cent year-on-year to 1.76bn , beating expectations .",
+            "output": "equivalent"
+        },
+        "173": {
+            "input": "Sentence 1: Shattered Glass , \" starring Hayden Christensen as Stephen Glass , debuted well with $ 80,000 in eight theaters .. Sentence 2: \" Shattered Glass \" _ starring Hayden Christensen as Stephen Glass , The New Republic journalist fired for fabricating stories _ debuted well with $ 80,000 in eight theaters .",
+            "output": "not equivalent"
+        },
+        "174": {
+            "input": "Sentence 1: Secretary of State Colin Powell designated the Chechen leader believed responsible for last year 's hostage standoff in a Moscow theater as a threat to U.S. security Friday .. Sentence 2: U.S. Secretary of State Colin Powell on Friday designated Chechen rebel leader Shamil Basayev a threat to the security of the United States and to U.S. citizens .",
+            "output": "equivalent"
+        },
+        "175": {
+            "input": "Sentence 1: Christina 's aunt , Shelley Riling , said the defense 's claims were preposterous .. Sentence 2: Christina 's aunt , Shelley Riling , said she will address the court .",
+            "output": "not equivalent"
+        },
+        "176": {
+            "input": "Sentence 1: November 17 's last victim was British defence attache Stephen Saunders , who was shot on an Athens road in June 2000 .. Sentence 2: November 17 's last victim was British defense attache Stephen Saunders , who was shot and killed at point-blank range on a busy Athens road in June 2000 .",
+            "output": "equivalent"
+        },
+        "177": {
+            "input": "Sentence 1: The two are not related , but have referred to each other as father and son .. Sentence 2: He 's not related to Malvo , but the two have referred to each other as father and son .",
+            "output": "equivalent"
+        },
+        "178": {
+            "input": "Sentence 1: \" We will work with the board to ensure a smooth transition . \". Sentence 2: He said federal regulators would work with the corporation to ensure a \" smooth transition . \"",
+            "output": "equivalent"
+        },
+        "179": {
+            "input": "Sentence 1: It 's happened five times in the last 11 years : A disaster puts this Southwestern town in the headlines during the summer tourist season .. Sentence 2: It 's happened five times in the last decade : A disaster puts this tourist town in the headlines during summer , its busiest season .",
+            "output": "equivalent"
+        },
+        "180": {
+            "input": "Sentence 1: Iran has until the end of the month to satisfy the agency it has no plans for nuclear weapons .. Sentence 2: The Iranians have until the end of the month to answer all the agency 's questions about their past nuclear activities .",
+            "output": "not equivalent"
+        },
+        "181": {
+            "input": "Sentence 1: We firmly believe we have an absolute right to use the common word ' spike ' as the name of our network . \". Sentence 2: We firmly believe that we have an absolute right to use the common word ' spike ' to name our network .",
+            "output": "equivalent"
+        },
+        "182": {
+            "input": "Sentence 1: The United States finally relented during President Bush 's visit to Africa earlier this month .. Sentence 2: During President Bush 's trip to Africa earlier this month , however , Washington said it would support the increase .",
+            "output": "not equivalent"
+        },
+        "183": {
+            "input": "Sentence 1: The show 's closure affected third-quarter earnings per share by a penny .. Sentence 2: The company said this impacted earnings by a penny a share .",
+            "output": "equivalent"
+        },
+        "184": {
+            "input": "Sentence 1: Consumers who said jobs are difficult to find jumped from 29.4 to 32.6 , while those claiming work was plentiful slipped from 13 to 12.6 .. Sentence 2: Consumers who said jobs are difficult to find jumped to 32.6 from 29.4 , while those saying work was plentiful slipped to 12.6 from 13 in April .",
+            "output": "equivalent"
+        },
+        "185": {
+            "input": "Sentence 1: The opposition would resort to rolling mass action \" at strategic times of our choice and without warning to the dictatorship , \" he said .. Sentence 2: \" From now onwards we will embark on rolling mass action at strategic times of our choice and without any warning to the dictatorship , \" he said .",
+            "output": "equivalent"
+        },
+        "186": {
+            "input": "Sentence 1: Cindy Yeast , a 50-year-old Washington-area publicist , says she began taking supplements two years ago in part to avoid mild dementia that affects her elderly parents .. Sentence 2: She started taking supplements two years ago - partly to stave off mild dementia that affects her elderly parents .",
+            "output": "equivalent"
+        },
+        "187": {
+            "input": "Sentence 1: The player 's eyes were bloodshot and a blood-alcohol test produced a reading of 0.18 - well above Tennessee 's level of presumed intoxication of 0.10 , the report said .. Sentence 2: He failed a field sobriety test and a blood-alcohol test produced a reading of 0.18 \u2013 well above Tennessee 's level of presumed intoxication of 0.10 , the report said .",
+            "output": "equivalent"
+        },
+        "188": {
+            "input": "Sentence 1: Peterson , 31 , is now charged with murder in the deaths of his 27-year-old wife and their unborn son .. Sentence 2: Peterson , 31 , is charged with two counts of first-degree murder in the slayings of his wife , Laci , and their unborn son , Conner .",
+            "output": "equivalent"
+        },
+        "189": {
+            "input": "Sentence 1: The Dow Jones industrial average < .DJI > added 28 points , or 0.27 percent , at 10,557 , hitting its highest level in 21 months .. Sentence 2: The Dow Jones industrial average < .DJI > rose 49 points , or 0.47 percent , to 10,578 .",
+            "output": "not equivalent"
+        },
+        "190": {
+            "input": "Sentence 1: They note that after several weeks of rallies on upbeat earnings , investors are looking for stronger evidence of a recovery before sending stocks higher .. Sentence 2: After several weeks of market rallies on upbeat earnings , many investors are looking for more concrete signs of an economic recovery .",
+            "output": "equivalent"
+        },
+        "191": {
+            "input": "Sentence 1: Her father , Florin Cioaba , the king of Transylvania 's Gypsies , had her brought back and she was married against her will .. Sentence 2: Her father , Roma King Florin Cioaba , had her brought back and she was promptly married against her will .",
+            "output": "equivalent"
+        },
+        "192": {
+            "input": "Sentence 1: But MTA officials appropriated the money to the 2003 and 2004 budgets without notifying riders or even the MTA board members considering the 50-cent hike , Hevesi found .. Sentence 2: MTA officials appropriated the surplus money to later years ' budgets without notifying riders or the MTA board members when the 50-cent hike was being considered , he said .",
+            "output": "equivalent"
+        },
+        "193": {
+            "input": "Sentence 1: The association said 28.2 million DVDs were rented in the week that ended June 15 , compared with 27.3 million VHS cassettes .. Sentence 2: The Video Software Dealers Association said 28.2 million DVDs were rented out last week , compared to 27.3 million VHS cassettes .",
+            "output": "equivalent"
+        },
+        "194": {
+            "input": "Sentence 1: All patients developed some or all of the symptoms of E. coli food poisoning : bloody diarrhea , vomiting , abdominal cramping and nausea .. Sentence 2: Symptoms of the E. coli infection include bloody diarrhea , nausea , vomiting and abdominal cramping .",
+            "output": "not equivalent"
+        },
+        "195": {
+            "input": "Sentence 1: A pro-independence radical , Miodrag Zivkovic , of the Liberal Alliance , came in second with 31 percent of the vote .. Sentence 2: Miodrag Zivkovic , of the Liberal Alliance of Montenegro , won 31 percent of the vote while the independent Dragan Hajdukovic got four percent .",
+            "output": "not equivalent"
+        },
+        "196": {
+            "input": "Sentence 1: Shares of Salix have rocketed 64 percent since Axcan made its first offer on April 10 .. Sentence 2: Since the initial takeover offer , Salix shares have risen about 35 percent .",
+            "output": "equivalent"
+        },
+        "197": {
+            "input": "Sentence 1: Chief financial officer Andy Bryant has said that hike had a greater affect volume than officials expected .. Sentence 2: Bryant has said that hike had a greater effect on demand than officials expected .",
+            "output": "equivalent"
+        },
+        "198": {
+            "input": "Sentence 1: \" Close co-operation between our law enforcement agencies , close co-operation between our intelligence services lie at the heart of the ongoing fight against terrorism . \". Sentence 2: Close cooperation between regional law enforcement agencies and intelligence services was at the heart of the fight against terrorism , he said .",
+            "output": "equivalent"
+        },
+        "199": {
+            "input": "Sentence 1: The study , published Monday in the journal Molecular Brain Research , is likely to also apply to humans , its authors said .. Sentence 2: The study , conducted on the brains of developing mice , was being published today in the journal Molecular Brain Research .",
+            "output": "not equivalent"
+        },
+        "200": {
+            "input": "Sentence 1: \" Instead of pursuing the most imminent and real threats - international terrorists , \" Graham said , \" this Bush administration chose to settle old scores . \". Sentence 2: \" Instead of pursuing the most imminent and real threats - international terrorists - this Bush administration has chosen to settle old scores , \" Graham said .",
+            "output": "equivalent"
+        }
+    }
+}

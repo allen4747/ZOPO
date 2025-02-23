@@ -1,0 +1,807 @@
+{
+    "metadata": {
+        "num_examples": 200
+    },
+    "examples": {
+        "1": {
+            "input": "when the mercenaries catch up , sam , jake and the rest of their entourage find themselves in the clutches of the blood thirsty gallo .",
+            "output": "objective"
+        },
+        "2": {
+            "input": "slim , the thinking head hatched a plan for their final retirement : five consecutive burglars , in five days , involving 20 million dollars .",
+            "output": "objective"
+        },
+        "3": {
+            "input": "as his clients become more frantic and demanding , ray begins to unravel , questioning the morality of his profession .",
+            "output": "objective"
+        },
+        "4": {
+            "input": "a boring , pretentious muddle that uses a sensational , real-life 19th-century crime as a metaphor for -- well , i 'm not exactly sure what -- and has all the dramatic weight of a raindrop .",
+            "output": "subjective"
+        },
+        "5": {
+            "input": "it tells a hard-hitting story of some of the people 's lives which are affected by letters delivered by `` the lady in red `` night mail train from london to scotland .",
+            "output": "objective"
+        },
+        "6": {
+            "input": "but violet , matt 's wife is a complicating factor !",
+            "output": "objective"
+        },
+        "7": {
+            "input": "eleven year old david wiseman is mad about cricket but no good at it .",
+            "output": "objective"
+        },
+        "8": {
+            "input": "mehta expertly fashions a fascinating hybrid that is sure to delight audiences with its good-natured and well-timed humor , and its unabashed refusal to take itself seriously .",
+            "output": "subjective"
+        },
+        "9": {
+            "input": "on scene is a famous greek actress , marina , who is to play the main role , a character based on the life of lilly , a woman from athens who played an outstanding role in the resistance , but later arrested by the bureau of security police , a notorious torture center .",
+            "output": "objective"
+        },
+        "10": {
+            "input": "poets is essentially a travelogue of the british isles , juxtaposed with an anthology of classical and contemporary verse , macro-cosmic in scope , microcosmic in its singular intensity .",
+            "output": "objective"
+        },
+        "11": {
+            "input": "mark spends his days at the paddy wagon , tending bar and hanging out with his childhood friend , otis .",
+            "output": "objective"
+        },
+        "12": {
+            "input": "he 's made a mistake and he 's trying to pay for it but he does n't know if there is enough money in the world .",
+            "output": "objective"
+        },
+        "13": {
+            "input": "i admired it , particularly that unexpected downer of an ending .",
+            "output": "subjective"
+        },
+        "14": {
+            "input": "the script has less spice than a rat burger and the rock 's fighting skills are more in line with steven seagal .",
+            "output": "subjective"
+        },
+        "15": {
+            "input": "just an average comedic dateflick but not a waste of time .",
+            "output": "subjective"
+        },
+        "16": {
+            "input": ". . . only bond can save us from the latest eccentric , super-wealthy megalomaniac bent on world domination and destruction .",
+            "output": "subjective"
+        },
+        "17": {
+            "input": "they both end up experiencing more excitement than mickey could ever conjure in orlando , when they meet up with bad guys and a legendary creature .",
+            "output": "objective"
+        },
+        "18": {
+            "input": "things go from bad to worse for the drummer when it comes to his attention that he is being hunted down for execution as a deserter .",
+            "output": "objective"
+        },
+        "19": {
+            "input": "evokes a palpable sense of disconnection , made all the more poignant by the incessant use of cell phones .",
+            "output": "subjective"
+        },
+        "20": {
+            "input": "the perfect vehicle for berling and bouquet , and both are superb .",
+            "output": "subjective"
+        },
+        "21": {
+            "input": "there 's something with potential here , but the movie decides , like lavinia , to go the conservative route .",
+            "output": "subjective"
+        },
+        "22": {
+            "input": "mst3k gone kung fooey , kung pow ! makes you chuckle for a bit , but leaves you hungry an hour later .",
+            "output": "subjective"
+        },
+        "23": {
+            "input": "based very loosely on robert ludlum 's novel , the bourne identity is the story of a man whose wounded body is discovered by fisherman who nurse him back to health .",
+            "output": "objective"
+        },
+        "24": {
+            "input": "you 've already seen city by the sea under a variety of titles , but it 's worth yet another visit .",
+            "output": "subjective"
+        },
+        "25": {
+            "input": "palm springs ' white party is the backdrop for this documentary on the fast-paced world of gay circuit parties .",
+            "output": "objective"
+        },
+        "26": {
+            "input": "the movie is for fans who ca n't stop loving anime , and the fanatical excess built into it .",
+            "output": "subjective"
+        },
+        "27": {
+            "input": "needless to say , both carlos and mickey are burning to get out of the heights .",
+            "output": "objective"
+        },
+        "28": {
+            "input": "what is 100 % missing here is a script of even the most elemental literacy , an inkling of genuine wit , and anything resembling acting .",
+            "output": "subjective"
+        },
+        "29": {
+            "input": "it 's the best film of the year so far , the benchmark against which all other best picture contenders should be measured .",
+            "output": "subjective"
+        },
+        "30": {
+            "input": "relieved of the action-stalling expository responsibility that dogs so many movies based on superhero comics , blade 2 goes straight for the jugular .",
+            "output": "subjective"
+        },
+        "31": {
+            "input": "as this is happening , a rogue jedi named count dooku leads separatists on geonosis to rebel against the senate .",
+            "output": "objective"
+        },
+        "32": {
+            "input": "jonah loves his job , until the day comes when he has to deliver a message to the people of nineveh .",
+            "output": "objective"
+        },
+        "33": {
+            "input": "payami is to be applauded for taking biting potshots at such volatile issues as iran 's outmoded electoral process and women 's status as second-class citizens .",
+            "output": "subjective"
+        },
+        "34": {
+            "input": "it 's a great deal of sizzle and very little steak . but what spectacular sizzle it is ! . . . in this incarnation its fizz is infectious .",
+            "output": "subjective"
+        },
+        "35": {
+            "input": "if ocean 's eleven was a high-priced banquet of popular guys toasting one another 's hard-earned coolness in a pointless caper , full frontal is the after-party .",
+            "output": "subjective"
+        },
+        "36": {
+            "input": "this is historical filmmaking without the balm of right-thinking ideology , either liberal or conservative . mr . scorsese 's bravery and integrity in advancing this vision can hardly be underestimated .",
+            "output": "subjective"
+        },
+        "37": {
+            "input": "it passes through a broad cross-section of iranian society , stopping with a pickpocket , a pomegranate seller , an abortionist , an estate sale , a beggar , a college student , a wedding reception , some musicians , smuggling rings , and some new year 's revelers .",
+            "output": "objective"
+        },
+        "38": {
+            "input": "a realistically terrifying movie that puts another notch in the belt of the long list of renegade-cop tales .",
+            "output": "subjective"
+        },
+        "39": {
+            "input": "while t & # 252 ; rlich rediscovers his roots ( and his affection for heidi ) , josch finds out that evil entrepreneur tronald dump plans to blow the mountain to smithereens in order to erect a plastic mountain with a ski resort where you never can get hurt .",
+            "output": "objective"
+        },
+        "40": {
+            "input": "thank goodness writer-director michael kalesniko found someone as verbally nimble as kenneth branagh to keep the whole enterprise afloat . he manages , but just barely .",
+            "output": "subjective"
+        },
+        "41": {
+            "input": "a zombie movie in every sense of the word -- mindless , lifeless , meandering , loud , painful , obnoxious .",
+            "output": "subjective"
+        },
+        "42": {
+            "input": "rachael is called to travel home by ex-boyfriend rafe , to a small bleak island in the north sea that she ran away from some 5 years ago to find her wayward mother .",
+            "output": "objective"
+        },
+        "43": {
+            "input": "there is a genius to ( this ) experimental and utterly surreal historical epic that has nothing to do with the fact that it was shot in one uninterrupted , mind-boggling take . . .",
+            "output": "subjective"
+        },
+        "44": {
+            "input": "rosetta projects seduction scenes from movie clips onto ruby , which absorbs as she sleeps .",
+            "output": "objective"
+        },
+        "45": {
+            "input": "davey thinks he 's gotten off easy until he meets whitey duvall , the eccentric , elf-like head referee .",
+            "output": "objective"
+        },
+        "46": {
+            "input": "it 's jenny 's wedding day - not a good day to realize you 're not in love with the groom !",
+            "output": "objective"
+        },
+        "47": {
+            "input": "after a couple of near-successes , they go for broke by planning an elaborate kidnapping scheme that ca n't miss .",
+            "output": "objective"
+        },
+        "48": {
+            "input": "this is cool , slick stuff , ready to quench the thirst of an audience that misses the summer blockbusters .",
+            "output": "subjective"
+        },
+        "49": {
+            "input": "the first half is a hilariously on-target send-up of `` barbarella `` -style flicks and the larger-than-life egos that propelled them , the second half is a ponderously self-absorbed meditation on the angst of a budding artiste .",
+            "output": "subjective"
+        },
+        "50": {
+            "input": "limps along on a squirm-inducing fish-out-of-water formula that goes nowhere and goes there very , very slowly .",
+            "output": "subjective"
+        },
+        "51": {
+            "input": "instead of making his own style , director marcus adams just copies from various sources M-^V good sources , bad mixture",
+            "output": "subjective"
+        },
+        "52": {
+            "input": "you could easily mistake it for a sketchy work-in-progress that was inexplicably rushed to the megaplexes before its time .",
+            "output": "subjective"
+        },
+        "53": {
+            "input": "a waste of fearless purity in the acting craft .",
+            "output": "subjective"
+        },
+        "54": {
+            "input": "puzzled , he turns for help from a private cyber detective .",
+            "output": "objective"
+        },
+        "55": {
+            "input": "the story is set during the american revolution in the late 1700 's , when america fought for it 's independence from britain .",
+            "output": "objective"
+        },
+        "56": {
+            "input": "a succinct , intelligent and scintillating slice of cultural history .",
+            "output": "subjective"
+        },
+        "57": {
+            "input": "enjoy it for what it is ; you can hate yourself later .",
+            "output": "subjective"
+        },
+        "58": {
+            "input": "there 's more scatological action in 8 crazy nights than a proctologist is apt to encounter in an entire career .",
+            "output": "subjective"
+        },
+        "59": {
+            "input": "for his first attempt at film noir , spielberg presents a fascinating but flawed look at the near future .",
+            "output": "subjective"
+        },
+        "60": {
+            "input": "halloween : resurrection is surprisingly effective , especially the opening sequence featuring the showdown between laurie and michael .",
+            "output": "subjective"
+        },
+        "61": {
+            "input": "filled with hatred she seduced louie , her classmate who had a crush on her , to get back at him - and as a favor she would go to bed with him .",
+            "output": "objective"
+        },
+        "62": {
+            "input": "a story full of surprises , defined by the use of interesting camera utilization and visual motifs .",
+            "output": "subjective"
+        },
+        "63": {
+            "input": "she spends her days catering to edgar 's whims and fighting off lame advances from his taciturn partner in crime , flowers ( arie verveen ) .",
+            "output": "objective"
+        },
+        "64": {
+            "input": "take care of my cat offers a refreshingly different slice of asian cinema .",
+            "output": "subjective"
+        },
+        "65": {
+            "input": "based upon sherman alexie 's book of poetry of the same name .",
+            "output": "objective"
+        },
+        "66": {
+            "input": "sam marks his last day in the battleground of public education by getting saddled with the detention class after hours , playing warden to a pack of rebellious students , the worst troublemakers in school .",
+            "output": "objective"
+        },
+        "67": {
+            "input": "the essential problem in orange county is that , having created an unusually vivid set of characters worthy of its strong cast , the film flounders when it comes to giving them something to do .",
+            "output": "subjective"
+        },
+        "68": {
+            "input": "eric byler 's nuanced pic avoids easy sentiments and explanations . . .",
+            "output": "subjective"
+        },
+        "69": {
+            "input": "shaken , shae goes to check on her young daughter , sophie .",
+            "output": "objective"
+        },
+        "70": {
+            "input": "this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms .",
+            "output": "subjective"
+        },
+        "71": {
+            "input": "looking for a good story she also meets a welfare official , thomas , who also thinks that the foundation should be looked into .",
+            "output": "objective"
+        },
+        "72": {
+            "input": "this rough trade punch-and-judy act did n't play well then and it plays worse now .",
+            "output": "subjective"
+        },
+        "73": {
+            "input": "a decided lack of spontaneity in its execution and a dearth of real poignancy in its epiphanies .",
+            "output": "subjective"
+        },
+        "74": {
+            "input": "told in scattered fashion , the movie only intermittently lives up to the stories and faces and music of the men who are its subject .",
+            "output": "subjective"
+        },
+        "75": {
+            "input": "the ingenuity that parker displays in freshening the play is almost in a class with that of wilde himself .",
+            "output": "subjective"
+        },
+        "76": {
+            "input": "worth a look by those on both sides of the issues , if only for the perspective it offers , one the public rarely sees .",
+            "output": "subjective"
+        },
+        "77": {
+            "input": "the brass want to close out the case , nick and henry stay on it , and bits of evidence point them to an auto body shop .",
+            "output": "objective"
+        },
+        "78": {
+            "input": "real problems arise when he awakes to discover that his right hand is missing .",
+            "output": "objective"
+        },
+        "79": {
+            "input": "more sophisticated and literate than such pictures usually are . . . an amusing little catch .",
+            "output": "subjective"
+        },
+        "80": {
+            "input": "in a last ditch effort to stop memnon from taking over the world , the leaders of the remaining free tribes hire the assassin mathayus to kill the sorceress .",
+            "output": "objective"
+        },
+        "81": {
+            "input": "neither the funniest film that eddie murphy nor robert de niro has ever made , showtime is nevertheless efficiently amusing for a good while . before it collapses into exactly the kind of buddy cop comedy it set out to lampoon , anyway .",
+            "output": "subjective"
+        },
+        "82": {
+            "input": "was it too much to ask to have one tank blow up one dragon ? what the hell ? !",
+            "output": "subjective"
+        },
+        "83": {
+            "input": "apparent heir to the philadelphia paradiso mafia family , frank paradiso , finds himself confronted with tough choices after an assassination attempt on his father , don antonio paradiso ( played by robert costanzo ) .",
+            "output": "objective"
+        },
+        "84": {
+            "input": "`` the quiet american `` begins in saigon in 1952 . that 's its first sign of trouble .",
+            "output": "subjective"
+        },
+        "85": {
+            "input": "zack takes his cue and the magic show starts but who wants to watch ?",
+            "output": "objective"
+        },
+        "86": {
+            "input": "the film has a childlike quality about it . but the feelings evoked in the film are lukewarm and quick to pass .",
+            "output": "subjective"
+        },
+        "87": {
+            "input": "the story follows them and the people they encounter on their way to their destination .",
+            "output": "objective"
+        },
+        "88": {
+            "input": "entirely suspenseful , extremely well-paced and ultimately . . . dare i say , entertaining !",
+            "output": "subjective"
+        },
+        "89": {
+            "input": "the old man marries her after a short period of acquaintance .",
+            "output": "objective"
+        },
+        "90": {
+            "input": "four friends journey dow life 's paths to find out whether god or society has the right to decide the good or the evil .",
+            "output": "objective"
+        },
+        "91": {
+            "input": "i 'm convinced i could keep a family of five blind , crippled , amish people alive in this situation better than these british soldiers do at keeping themselves kicking .",
+            "output": "subjective"
+        },
+        "92": {
+            "input": "kilabot is now off to save sienna and to avenge kamandag 's death .",
+            "output": "objective"
+        },
+        "93": {
+            "input": "este M-i apenas mais um ( longo ) episM-sdio do programa da mtv . a M-znica diferenM-ga M-i que , desta vez , a paramount teve o mau gosto de exibi-lo nos cinemas .",
+            "output": "subjective"
+        },
+        "94": {
+            "input": "ron launius ( josh lucas ) , billy deverell ( tim blake nelson ) , barbara richardson ( natasha gregson wagner ) and joy miller ( janeane garofalo ) were brutally murdered , and ron 's wife susan ( christina applegate ) was left in critical condition .",
+            "output": "objective"
+        },
+        "95": {
+            "input": "biker cary ford is framed by and old rival and biker gang leader for the murder of another gang member who happens to be the brother of trey ( ice cube ) , leader of the most feared biker gang in the country .",
+            "output": "objective"
+        },
+        "96": {
+            "input": "for its seriousness , high literary aspirations and stunning acting , the film can only be applauded .",
+            "output": "subjective"
+        },
+        "97": {
+            "input": "in unraveling this mystery , everyone involved is pushed to the limits of human understanding .",
+            "output": "objective"
+        },
+        "98": {
+            "input": "except for paymer as the boss who ultimately expresses empathy for bartleby 's pain , the performances are so stylized as to be drained of human emotion .",
+            "output": "subjective"
+        },
+        "99": {
+            "input": "showtime 's starry cast could be both an asset and a detriment . those who trek to the 'plex predisposed to like it probably will enjoy themselves . but ticket-buyers with great expectations will wind up as glum as mr . de niro .",
+            "output": "subjective"
+        },
+        "100": {
+            "input": "the school administration calls in the acting sheriff to conduct `` a delicate and discrete investigation `` - a whitewash .",
+            "output": "objective"
+        },
+        "101": {
+            "input": "he accidentally discovers that the chinese mafia , the tong , is using his newly discovered ancient chinese artifacts to hide and smuggle narcotics across the border .",
+            "output": "objective"
+        },
+        "102": {
+            "input": "thousands of refugees of jewish origin crowded into shelters in vienna and bratislava in the hope of embarking in the few boats available to escape , down the danube and out to palestine , from the nazi fury .",
+            "output": "objective"
+        },
+        "103": {
+            "input": "when the flames of jealousy are fanned by an oddball drifter ( walken ) who imposes himself into the situation , tim 's life careens wildly out of control . . .",
+            "output": "objective"
+        },
+        "104": {
+            "input": "for daredevil justice is blind -- and for the guilty , there 's hell to pay .",
+            "output": "objective"
+        },
+        "105": {
+            "input": "it is the height of the festive holiday season and merry shoppers have begun their yearly pilgrimages to their local malls .",
+            "output": "objective"
+        },
+        "106": {
+            "input": "meanwhile , a clothing store employee ( rachel leigh cook ) has plans for revenge against a local millionaire ( john cleese ) .",
+            "output": "objective"
+        },
+        "107": {
+            "input": "when jonathan jordan gets divorced he 's thrust back into the world of being a single mormon - a world who 's ultimate goal is eternal marriage .",
+            "output": "objective"
+        },
+        "108": {
+            "input": "the charms of the lead performances allow us to forget most of the film 's problems .",
+            "output": "subjective"
+        },
+        "109": {
+            "input": "i loved looking at this movie . i just did n't care as much for the story .",
+            "output": "subjective"
+        },
+        "110": {
+            "input": "finally , the purity of arvasu and nittilai 's love brings salvation to the land .",
+            "output": "objective"
+        },
+        "111": {
+            "input": "her dream fades away - until she discovers that the money was hidden in the heel .",
+            "output": "objective"
+        },
+        "112": {
+            "input": "during the war between iran and iraq , a group of iranian kurd musicians set off on an almost impossible mission .",
+            "output": "objective"
+        },
+        "113": {
+            "input": "jose is a street performer having an extended dry spell with women .",
+            "output": "objective"
+        },
+        "114": {
+            "input": "none of the characters or plot-lines are fleshed-out enough to build any interest .",
+            "output": "subjective"
+        },
+        "115": {
+            "input": "locations include niger , finland , micronesia , australia , china , siberia or greenland .",
+            "output": "objective"
+        },
+        "116": {
+            "input": "filmmakers who can deftly change moods are treasures and even marvels . so , too , is this comedy about mild culture clashing in today 's new delhi .",
+            "output": "subjective"
+        },
+        "117": {
+            "input": "rounding out the romantic possibilities is bobby , the bartender who flirts with beth .",
+            "output": "objective"
+        },
+        "118": {
+            "input": "there is a real subject here , and it is handled with intelligence and care .",
+            "output": "subjective"
+        },
+        "119": {
+            "input": "deeply-rendered , distinctly three-dimensional performances . . . make `` altar boys `` very engaging even though the story is never quite compelling enough to draw you in on its own .",
+            "output": "subjective"
+        },
+        "120": {
+            "input": "what 's needed so badly but what is virtually absent here is either a saving dark humor or the feel of poetic tragedy .",
+            "output": "subjective"
+        },
+        "121": {
+            "input": "today marks a special anniversary for the couple and they set out to celebrate the way they have before , with an old fashion picnic .",
+            "output": "objective"
+        },
+        "122": {
+            "input": "this is a startling film that gives you a fascinating , albeit depressing view of iranian rural life close to the iraqi border .",
+            "output": "subjective"
+        },
+        "123": {
+            "input": "though it lacks the utter authority of a genre gem , there 's a certain robustness to this engaging mix of love and bloodletting .",
+            "output": "subjective"
+        },
+        "124": {
+            "input": "pretty much sucks , but has a funny moment or two .",
+            "output": "subjective"
+        },
+        "125": {
+            "input": "the story is derived from the myth of yavakri , which is a part of the great indian epic , the mahabharata .",
+            "output": "objective"
+        },
+        "126": {
+            "input": "to help things out , lena hires boey , an expert on babies , to join the team .",
+            "output": "objective"
+        },
+        "127": {
+            "input": "`` juwanna mann ? `` no thanks . wewannour money back , actually .",
+            "output": "subjective"
+        },
+        "128": {
+            "input": "roxie killed her lover when he walked out on her , and velma killed her husband and sister , who were having an affair .",
+            "output": "objective"
+        },
+        "129": {
+            "input": "a zany comedy where as pop is dying he is pushing his remaining son to fulfill his last request ; to marry and carry on the family name .",
+            "output": "objective"
+        },
+        "130": {
+            "input": "a tense , capably-made film that 's exciting and realistic enough to satisfy filmgoers who 've had their fill of hollywood 's usual ultra-unrealistic blockbuster fare .",
+            "output": "subjective"
+        },
+        "131": {
+            "input": "when the lover and child catch up to the angel and the girl , too much time has passed . . .",
+            "output": "objective"
+        },
+        "132": {
+            "input": "each story on its own could have been expanded and worked into a compelling single feature , but in its current incarnation , storytelling never quite gets over its rather lopsided conception .",
+            "output": "subjective"
+        },
+        "133": {
+            "input": "she , among others excentricities , talks to a small rock , gertrude , like if she was alive .",
+            "output": "objective"
+        },
+        "134": {
+            "input": "lucy is a theater student at the city university .",
+            "output": "objective"
+        },
+        "135": {
+            "input": "resident evil is what comes from taking john carpenter 's ghosts of mars and eliminating the beheadings . in other words , about as bad a film you 're likely to see all year .",
+            "output": "subjective"
+        },
+        "136": {
+            "input": "but when de niro finds out the woman has been targeted for murder , he and his agoraphobic roommate are forced to leave the apartment ( after six years ) to save her life .",
+            "output": "objective"
+        },
+        "137": {
+            "input": "this is peter 's story ; an 18 year old boy who takes a journey through a conservative southern all-male university in order to discover himself .",
+            "output": "objective"
+        },
+        "138": {
+            "input": "circuit queens wo n't learn a thing , they 'll be too busy cursing the film 's strategically placed white sheets .",
+            "output": "subjective"
+        },
+        "139": {
+            "input": "a stylish cast and some clever scripting solutions help chicago make the transition from stage to screen with considerable appeal intact .",
+            "output": "subjective"
+        },
+        "140": {
+            "input": "he has already written the script but does not have the means of financing his project .",
+            "output": "objective"
+        },
+        "141": {
+            "input": "josh is about to turn 30 ; he 's mentally retarded , and likes to play at being a vampire .",
+            "output": "objective"
+        },
+        "142": {
+            "input": "lucy tries to forget about tracy , and continue her friendship with dante , leaving the affair behind , but to no avail when she discovers she is pregnant .",
+            "output": "objective"
+        },
+        "143": {
+            "input": "the final result makes for adequate entertainment , i suppose , but anyone who has seen chicago on stage will leave the theater feeling they 've watched nothing but a pale imitation of the real deal .",
+            "output": "subjective"
+        },
+        "144": {
+            "input": "sonia has a crush on akash and she decides to 'buy ' his love via a financial agreement that states that on marrying sonia , her father gulshan will help finance the hospital project .",
+            "output": "objective"
+        },
+        "145": {
+            "input": "the first crusade to free the holy land has ended .",
+            "output": "objective"
+        },
+        "146": {
+            "input": "klaus is an actor and lives a life between attack and escape from love and desperation .",
+            "output": "objective"
+        },
+        "147": {
+            "input": "this backfires when katie innocently reagles her school with her inside knowledge of carnal pleasures .",
+            "output": "objective"
+        },
+        "148": {
+            "input": "some elements of it really blow the big one , but other parts are decent .",
+            "output": "subjective"
+        },
+        "149": {
+            "input": "when her aunt sends her a pair of shoes instead of the money to start up the restaurant , she angrily sells the useless gift for spare change .",
+            "output": "objective"
+        },
+        "150": {
+            "input": "paul must try to prove to everyone that this time he is in love rather than in lust .",
+            "output": "objective"
+        },
+        "151": {
+            "input": "she frequently offers her hospitality to a 16-year-old prostitute , gr & # 233 ; goire , a young man who became her friend .",
+            "output": "objective"
+        },
+        "152": {
+            "input": "a winning crowd-pleaser with more than enough juice to crossover with fans of all stripes , regardless of whether they even know anything about soccer or not .",
+            "output": "subjective"
+        },
+        "153": {
+            "input": "the tuxedo miscalculates badly by forcing the star to play second fiddle to the dull effects that allow the suit to come to life .",
+            "output": "subjective"
+        },
+        "154": {
+            "input": "never really funny and falling just short of exciting , bad company is just ok for an action flick .",
+            "output": "subjective"
+        },
+        "155": {
+            "input": "it is marta 's simple video that proves to be the most compelling , triggering a series of events that effects all five students and forces them to re-evaluate their own belief in the power of motion pictures .",
+            "output": "objective"
+        },
+        "156": {
+            "input": "left in the care of erica and his doctor ( reeves ) , a love triangle starts to take shape .",
+            "output": "objective"
+        },
+        "157": {
+            "input": "highbrow self-appointed guardians of culture need not apply , but those who loved cool as ice have at last found a worthy follow-up .",
+            "output": "subjective"
+        },
+        "158": {
+            "input": "for all the wit and hoopla , festival in cannes offers rare insight into the structure of relationships .",
+            "output": "subjective"
+        },
+        "159": {
+            "input": "he is visited by a house-elf named dobby and warned not to go back to hogwarts .",
+            "output": "objective"
+        },
+        "160": {
+            "input": "it somehow managed to make its way past my crappola radar and find a small place in my heart",
+            "output": "subjective"
+        },
+        "161": {
+            "input": "this is an exercise not in biography but in hero worship .",
+            "output": "subjective"
+        },
+        "162": {
+            "input": "now with the help of the trixter arpid , tribal leader balthazar and an unexpected ally , it 's up to mathayus to fufill his destiny and become the great scorpion king .",
+            "output": "objective"
+        },
+        "163": {
+            "input": "harland williams is so funny in drag he should consider permanent sex-reassignment .",
+            "output": "subjective"
+        },
+        "164": {
+            "input": "she 's desperately on the prowl for a man , but since she 's more mouse than cat , she get 's herself into scrape after scrape in her screwball pursuit of love .",
+            "output": "objective"
+        },
+        "165": {
+            "input": "in her desperation she decides to live forever inside the holo-deck .",
+            "output": "objective"
+        },
+        "166": {
+            "input": "a steadfast critic of united states foreign policy for decades , in the aftermath of the terrorist attacks of september 11th , his profile took a quantum leap as he provided much-needed analysis and historical perspective to concerned citizens throughout the world .",
+            "output": "objective"
+        },
+        "167": {
+            "input": "the moral is not too original , but the offbeat characters certainly are .",
+            "output": "subjective"
+        },
+        "168": {
+            "input": "unlike their sons , eddie and sean are immigrants , or children of immigrants , who have made peace with their unfulfilled dreams .",
+            "output": "objective"
+        },
+        "169": {
+            "input": "the hunky pizza guy , the mad scotsman and a parade of firemen all become invited guests - men almost out numbering the women .",
+            "output": "objective"
+        },
+        "170": {
+            "input": "elisabeth m & # 225 ; rton 's film relates , restages and remembers the tragic story of spielrein 's life as gleaned from a box of her papers discovered in 1977 in the cellar of geneva 's former institute of psychology .",
+            "output": "objective"
+        },
+        "171": {
+            "input": "chicago 's newspapers love the nitty-gritty and velma is at the top of the headlines .",
+            "output": "objective"
+        },
+        "172": {
+            "input": "the pied piper production penned by christian otjen concerns a 36-year-old man ( brad hunt ) who returns to his hometown to confront the harsh reality of his father 's suicide .",
+            "output": "objective"
+        },
+        "173": {
+            "input": "lives hang in the balance as they scramble to unravel the mystery and protect the student body from their own hatred and fear .",
+            "output": "objective"
+        },
+        "174": {
+            "input": "the balkans provide the obstacle course for the love of a good woman .",
+            "output": "subjective"
+        },
+        "175": {
+            "input": "despite the rise in tensions , things appear to be going well until one of the women is found dead in the hot tub .",
+            "output": "objective"
+        },
+        "176": {
+            "input": "borrows a bit from the classics `` wait until dark `` and `` extremities `` . . . but in terms of its style , the movie is in a class by itself .",
+            "output": "subjective"
+        },
+        "177": {
+            "input": "from its nauseating spinning credits sequence to a very talented but underutilized supporting cast , bartleby squanders as much as it gives out .",
+            "output": "subjective"
+        },
+        "178": {
+            "input": "in a revealing and often hilarious portrait , mary dispenses homespun wisdom while divulging family secrets and rivalries .",
+            "output": "objective"
+        },
+        "179": {
+            "input": "with no other leads , claire warily sets out with miles towards tiburon , a secret community outside the city that may be the last hold-out against the drug . . .",
+            "output": "objective"
+        },
+        "180": {
+            "input": "miller comes at film with bracing intelligence and a vision both painterly and literary .",
+            "output": "subjective"
+        },
+        "181": {
+            "input": "they embark upon a strange and enlightening journey through war torn bosnia .",
+            "output": "objective"
+        },
+        "182": {
+            "input": "i ca n't imagine adaptation having much mainstream appeal , but , for those who look for something genuinely off-the-wall in a motion picture , this will unquestionably strike a nerve .",
+            "output": "subjective"
+        },
+        "183": {
+            "input": "these divisions of play into gender roles cause the girls to start talking as if they were sociologists and psychologists discussing learned behaviors .",
+            "output": "objective"
+        },
+        "184": {
+            "input": "the exploitative , clumsily staged violence overshadows everything , including most of the actors .",
+            "output": "subjective"
+        },
+        "185": {
+            "input": "`` so you do n't mind that you missed woodstock ? `` he asks a reluctant eric .",
+            "output": "objective"
+        },
+        "186": {
+            "input": "going from worst to first , the team makes it to state , and jim is forced to live up to his end of the deal .",
+            "output": "objective"
+        },
+        "187": {
+            "input": "but micke suggests one thing that is a definite babe-magnet : taking a dog out for walks .",
+            "output": "objective"
+        },
+        "188": {
+            "input": "she 's not disappointed - oliver turns out to be a nightmare .",
+            "output": "objective"
+        },
+        "189": {
+            "input": "as a movie , it never seems fresh and vital . it never plays as dramatic even when dramatic things happen to people . it labours as storytelling .",
+            "output": "subjective"
+        },
+        "190": {
+            "input": "a different and emotionally reserved type of survival story -- a film less about refracting all of world war ii through the specific conditions of one man , and more about that man lost in its midst .",
+            "output": "subjective"
+        },
+        "191": {
+            "input": "anna must make a decision about honoring her father 's wishes to go to italy and learn about her heritage , while her three friends each search for the perfect relationship . . .",
+            "output": "objective"
+        },
+        "192": {
+            "input": "with his new job at the tire store beginning tomorrow , he has one last night to reverie before starting what his wife , jolynn , calls their `` new life . ``",
+            "output": "objective"
+        },
+        "193": {
+            "input": "18 years ago joe ( travolta ) had a chance to make his dream come true of directing his first movie in hollywood .",
+            "output": "objective"
+        },
+        "194": {
+            "input": "his darkly comic trip -- shared by a deviant cast of characters , including his terminally bored , part-time lover sookie , his godfater 's trophy mistress rachel , and smack-dealing performance artists russel -- veers from bizarre to tragic in igby 's ultimately noble attempt to keep himself from `` going down . `` igby goes down is a personal tale about a 17 year old misfit boy who copes with his mother 's cancer and his father 's insanity by pursuing relationships with older women .",
+            "output": "objective"
+        },
+        "195": {
+            "input": "jacki ( gina gershon ) , sexy punk rocker and lead singer of the all-girl band clamdandy , is at a crossroads .",
+            "output": "objective"
+        },
+        "196": {
+            "input": "it follows the basic plot trajectory of nearly every schwarzenegger film : someone crosses arnie . arnie blows things up .",
+            "output": "subjective"
+        },
+        "197": {
+            "input": "ray misses a chance to see his brother paul before he dies of cancer .",
+            "output": "objective"
+        },
+        "198": {
+            "input": "will taco chick and salsa girl assist superfag in defeating this evil menace ?",
+            "output": "objective"
+        },
+        "199": {
+            "input": "but all efforts are suddenly frustrated once again , when choi takes his own life .",
+            "output": "objective"
+        },
+        "200": {
+            "input": "even when crush departs from the 4w formula . . . it feels like a glossy rehash .",
+            "output": "subjective"
+        }
+    }
+}
