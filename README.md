@@ -29,8 +29,8 @@ bash experiments/gen_gpt.sh
 python generate_emb.py
 ```
 
-3. Prompt Optimization using ZOPO
+3. Prompt Optimization using ZOPO-SAM
 ```
 # Set 'query_dir' to run exp on different settings
-bash experiments/run.sh
+bash experiments/run_zoposam.sh
 ```
