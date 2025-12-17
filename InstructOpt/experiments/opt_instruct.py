@@ -18,7 +18,7 @@ import datetime
 from misc import set_all_seed, TASKS, tkwargs, N_INIT, N_QUERIES, Logger
 from args import parse_args
 
-from optimization import ZOPO
+from optimization_sam import ZOPO
 import os
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
